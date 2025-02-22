@@ -1,0 +1,15 @@
+The project, developed by students Abhay Kapatia, Sanidhya Soni, and Omendra Singh Tomar, focuses on creating a Microservice-Based Software as a Service (SaaS) application aimed at enhancing unified communication within academic campuses. The students are pursuing a Bachelor of Technology (B.Tech) degree in Computer Science Engineering (CSE) with a specialization in Cloud Computing and Virtualization Technology.
+
+### Key Features of the Application:
+- **Unified Communication Tools**: The application includes instant messaging for real-time communication, file sharing, and collaborative document editing, enabling users to work together seamlessly from different locations and devices.
+- **Microservices Architecture**: The application is structured using a microservices architecture, which allows for independent development, deployment, and scaling of various services. Each service is dedicated to specific functionalities such as user login, signup, and main page operations.
+- **Scalability and Flexibility**: Designed to adapt to the evolving needs of campus environments, the application can easily integrate with existing campus systems like learning management and student information systems, ensuring a smooth user experience.
+
+### Objectives:
+The primary goal of the project is to provide an efficient communication and collaboration platform for students, faculty, and staff, thereby enhancing productivity and engagement within academic institutions. The application addresses the challenges posed by a growing and dispersed user base, facilitating real-time collaboration and information sharing.
+
+### Conclusion:
+This microservice-based SaaS application represents a modern solution to communication and collaboration issues faced by educational institutions, ultimately contributing to improved outcomes for both students and the institution as a whole.
+
+### Additional Information:
+The project can be accessed and downloaded from the following GitHub repository: [Minor Project 2](https://github.com/sanidhya-soni/Minor-Project-2.git).

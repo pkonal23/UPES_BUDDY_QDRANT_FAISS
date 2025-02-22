@@ -1,0 +1,48 @@
+**Arun Singh Bhadwal**
+
+**Position:** Assistant Professor
+
+**Affiliation:** School of Computer Science, University of Petroleum and Energy Studies (UPES)
+
+**Contact Information:** aruns.bhadwal@ddn.upes.ac.in
+
+**Summary:**
+
+Arun Singh Bhadwal is an Assistant Professor at University of Petroleum and Energy Studies (UPES), pursuing research in drug molecule design using data-assisted techniques from deep learning. Arun Singh Bhadwal has developed an innovative approach to molecular representation, addressing challenges in SMILES representation, and has devised a solution to address the problem of posterior collapse in variational autoencoders.
+
+**Research Interests:**
+
+- Drug Design
+- Recurrent Neural Network
+- Variational Autoencoder
+- Conditional VAE
+- Bayesian Optimization
+
+**Teaching Philosophy:**
+
+Arun Singh Bhadwal's teaching emphasizes creating a supportive learning environment. Arun Singh Bhadwal incorporates "flipped classroom" elements, assigning pre-reading materials with quizzes. In-class discussions focus on practical applications with real data and situations, fostering experiential learning and critical thinking.
+
+**Courses Taught:**
+
+- Compiler Design
+- Operating System
+- Database Management System
+
+**Scholarly Activities:**
+
+Arun Singh Bhadwal has published extensively in national and international journals and conference proceedings in the areas of computer vision and machine learning. Notable publications include:
+
+**Journal Publications (SCI/SCIE):**
+
+- Arun Singh Bhadwal, Kamal Kumar, and Neeraj Kumar. "GenSMILES: An enhanced validity conscious representation for inverse design of molecules." Knowledge-Based Systems 268 (2023): 110429. SCI, Impact Factor: 8.16
+- Arun Singh Bhadwal, Kamal Kumar, and Neeraj Kumar. ”GMG-NCDVAE: Guided de novo Molecule Generation using NLP Techniques and Constrained Diverse Variational Autoencoder.” ACM Transactions on Asian and Low-Resource Language Information Processing, 2023. SCI, Impact Factor: 2.18
+
+**Conference Publications:**
+
+- Arun Singh Bhadwal, and Kamal Kumar. "Direct De Novo Molecule Generation Using Probabilistic Diverse Variational Autoencoder." Computer Vision and Machine Intelligence: Proceedings of CVMI 2022. Singapore: Springer Nature Singapore, 2023. 13-22.
+- Arun Singh Bhadwal, and Kamal Kumar. "GVA: Gated Variational Autoencoder for de novo molecule generation." 2022 IEEE 9th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON). IEEE, 2022.
+
+**Prior Experience:**
+
+- Doctor of Philosophy degree from National Institute of Technology Uttarakhand
+- Lecturer at the University of Jammu for three years

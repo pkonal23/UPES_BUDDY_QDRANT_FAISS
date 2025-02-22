@@ -1,0 +1,11 @@
+Dr. Avishek Majumdar is an Assistant Professor at the School of Computer Science, with a diverse academic and research background that integrates Nano Science and Technology (M.Tech. from Jadavpur University) and Electronics and Communication Engineering (B.Tech. from West Bengal University of Technology Kolkata). He holds a Ph.D. in Computer Science from the Indian Statistical Institute, Kolkata, and his research interests include Cryptology, Network Security, Blockchain Technology, and the design and analysis of cryptographic protocols.
+
+His work experience includes a recent position as a Research Associate at IIIT Delhi in the Department of Computer Science from January to July 2023, where he contributed to various research initiatives. Previously, he was a Computer Trainee at ISI Kolkata from January to June 2014, which provided him with practical experience in computational methodologies.
+
+Dr. Majumdar has received accolades for his research performance, including a Junior Research Fellowship at ISI Kolkata and recognition for outstanding results in the Graduate Aptitude Test in Engineering (GATE) in Electronics and Communication, where he achieved top ranks in two consecutive years (2013, 2014).
+
+His teaching philosophy emphasizes fostering curiosity and encouraging engaging discussions among students, aiming to create an environment that challenges assumptions and promotes independent, critical thinking. He strives to instill a passion for lifelong learning and empower students to apply their knowledge in real-world situations.
+
+Dr. Majumdar teaches courses related to Searchable Encryption (for data protection in cloud storage), Computer Organization and Architecture, and has explored industry use cases utilizing Blockchain technology and broadcast encryption.
+
+For further inquiries, Dr. Avishek Majumdar can be contacted via email at avishek.majumder@ddn.upes.ac.in.

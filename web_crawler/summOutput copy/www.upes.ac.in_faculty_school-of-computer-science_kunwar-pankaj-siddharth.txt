@@ -1,0 +1,16 @@
+Kunwar Siddharth is an accomplished academic and researcher in the fields of Computer Vision, Artificial Intelligence (AI), and Machine Learning. He has a rich background that includes extensive experience in academia, the IT industry, and research laboratories. His primary research interests focus on computer vision and deep learning, particularly in developing and optimizing Convolutional Neural Network (CNN) models.
+
+In his professional journey, Kunwar has held significant positions:
+- As a **Data Scientist at Sortit AI**, he led projects that involved the development of CNN models aimed at analyzing floor plans and estimating costs.
+- In his role as a **Computer Researcher at Delarue**, he worked on holography projects that employed optics and image processing techniques to enhance digital image quality.
+- At **SketchBytes**, he was instrumental in developing CNN models for medical image analysis. His work included applications in disease detection, identifying bone fractures, and segmenting body regions. He also led initiatives in face detection and biometric authentication, contributing to advancements in healthcare diagnostics and security systems.
+
+In addition to his research, Kunwar Siddharth is an **Assistant Professor** at the School of Computer Science, where he teaches a range of courses including:
+- Design and Analysis of Algorithms
+- Artificial Intelligence and Machine Learning for Healthcare
+- Business Analytics for Industries and Functional Areas
+- Social, Web, and Mobile Analytics
+
+His teaching philosophy emphasizes fostering curiosity, critical thinking, and lifelong learning among students. He adopts an inclusive, student-centric approach that encourages learners to connect theoretical concepts with practical applications through hands-on projects and real-world problem-solving. As a mentor, he provides personalized guidance to support students' academic and career development, aiming to cultivate innovative thinkers and future leaders in Computer Science and related interdisciplinary domains.
+
+For further inquiries, Kunwar Siddharth can be contacted via email at **kunwarpankaj.siddharth@ddn.upes.ac.in**. His areas of expertise include Image Processing, Deep Learning, Machine Learning, Data Science, and AI.

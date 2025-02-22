@@ -1,0 +1,23 @@
+Research Interests
+Home
+Work Experience
+Awards and Grants
+pragya.katyayan@ddn.upes.ac.in
+Close
+Dr. Pragya Katyayan
+School of Computer Science
+Dr. Pragya has received JRF/SRF fellowships while working for govt. sponsored projects from 2021-2024. She has delivered several invited talks and workshops on machine learning, quantum computing and natural language processing. She has also participated in international hackathons and summer schools during her doctoral research.
+Faculty
+Scholarly Activities
+Natural Language Processing, Information Retrieval, Artificial Intelligence, Machine Learning, Quantum Computing, Quantum Machine Learning, Quantum NLP, Quantum Algorithms.
+Learning is a life-long process, and it should be a way of life. Dr. Pragya believes in giving her students a real-life exposure of the topics she teaches in her class. She not only prepares her students for the tough competitive world, but also encourages them to be observant and self-driven. She uses real life examples and case-studies that bring clarity about all the relevant aspects of any topic while teaching.
+Courses Taught
+Eligibility Criteria
+Dr. Pragya did her PhD in Computer Science with specialization in Natural Language Processing, Machine learning and Quantum Computing from Banasthali Vidyapith, Rajasthan. Her research experience revolves around developing robust solutions to NLP challenges such as Question Answering and Machine Translation and development of linguistic resources for Indian languages. She is also an IBM Quantum certified Quantum Developer and IBM Qiskit Advocate. She has received several accolades for Quantum Excellence from IBM Quantum from 2020-2024. She has worked as mentor with IBM Quantum on several Summer Schools and Hackathons. She also has experience of developing and managing government (DST/MeitY, GoI) sponsored projects. Dr. Pragya has published over 30 research publications in various Journals/Books/Magazines and International Conferences of repute and has 5 registered software copyrights with Govt. of India and 1 software patent granted by Australian Government. Apart from PhD (CS), she has a Master of Science in Computer Science, MBA in Finance and Marketing and a Bachelor of Science with honours in Computer Science.
+Dr. Pragya has over 6 years of full-time research experience in NLP and Quantum Computing. While pursuing her PhD (2018-24), she worked on different GoI sponsored projects at the Speech and Language Processing Lab, Centre for Artificial Intelligence, Banasthali Vidyapith. One of the projects she has worked for are Development of English to Bharati Braille Machine Assisted Translation system (SERB-CRG, DST) where she single-handedly developed significant parts of the project involving 11 Indian Languages (Hindi, Marathi, Assamese, Bengali, Odia, Gujarati, Punjabi, Malayalam, Kannada, Tamil, Telugu) (March 2021-24). Apart from this, she also managed and provided technical and financial consultation services for MeitY sponsored consortium-based project named- English to Indian Languages (and vice-versa) Machine Translation System for 6 Indian languages (Hindi, Marathi, Odia, Gujarati, Tamil, Kannada) under the National Language Translation Mission (NLTM)- Bhashini. She has also provided consultation services to Microsoft, Hyderabad for the development of Cortana (Windows Virtual Digital Assistant) from 2015-16. She has 10+ years of coding experience using Python programming language.
+Profile Summary
+Dr. Pragya is an IBM Qiskit Advocate (2021-till date) and an IBM Quantum certified Quantum Developer (2021-till date). She has received Certificate of Quantum Excellence from IBM Quantum every year from 2020 to 2024.
+Assistant Professor
+Contact
+Elements of AI-ML, Linux programming, Python Programming, Natural Language Processing, Information Retrieval, Quantum Computing, Data Structures.
+Teaching Philosophy

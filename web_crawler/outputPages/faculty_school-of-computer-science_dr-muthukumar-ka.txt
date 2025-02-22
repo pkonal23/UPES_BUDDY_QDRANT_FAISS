@@ -1,0 +1,23 @@
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Dr. Muthukumar has achieved the prestigious MEXT scholarship from the Embassy of Japan, renowned as one of the world's most competitive awards. Adding to his laurels, he also earned the ICM English Session Award at the IEICE General Conference in Japan. In addition to these remarkable international achievements, he has been honored with several scholarships by the Government of India. Dr. Muthukumar's exceptional accolades are a testament to his outstanding dedication and remarkable contributions, marking him as a distinguished scholar on both national and global platforms.
+Close
+Dr. Muthukumar's journey to prominence began with his role as an AI engineer at MOTIV Research Co. in Japan, where he delved into the realms of LiDAR and stereo camera technologies, imprinting his expertise on cutting-edge advancements. Prior to this, his research acumen flourished as a researcher in the Othsuki Laboratory at Keio University, focusing on the innovative domain of infrared imaging. His exceptional analytical skills were honed during his tenure as an analyst at ANZ Bangalore, highlighting his versatility and adaptability across diverse domains. These multifaceted experiences have not only enriched his knowledge but also imbued him with a holistic perspective, further accentuating his contributions to the ever-evolving landscape of AI-driven healthcare.
+School of Computer Science
+Faculty
+Scholarly Activities
+Dr. Muthukumar's teaching philosophy centers on creating a dynamic and interactive learning environment where students are active participants in their educational journey. Fostering critical thinking, creativity, and practical application of knowledge, he engages students in collaborative discussions, real-world problem-solving, and hands-on experiences to ignite their curiosity. Adapting his approach to diverse learning styles, Dr. Muthukumar nurtures a supportive atmosphere for open dialogue and growth. His goal is to equip students, not only with academic excellence, but also with life skills essential for personal and professional development. Through his guidance, students are inspired to become lifelong learners and confident contributors to society.
+Dr. Muthukumar is a distinguished academician and researcher in Artificial Intelligence (AI) healthcare, leaving an indelible mark in this evolving field. His exceptional contributions have earned him the prestigious MEXT scholarship from the Japanese government. Central to his pioneering work is the exploration of infrared imaging applications in healthcare. Dr. Muthukumar's insights have harnessed AI and infrared imaging, reshaping diagnostics and therapy.
+Courses Taught
+Eligibility Criteria
+muthukumar@ddn.upes.ac.in
+Profile Summary
+Assistant Professor
+Infrared Imaging I AI Healthcare I Computer Vision I Accessibility Computing I Building Monitoring I Medical Imaging
+Dr. Muthukumar effectively instructs the course "AI for Everyone," introducing AI concepts to diverse branches of knowledge. Moreover, he imparts knowledge through the course "Applied Data Science," emphasizing an intuitive understanding. Additionally, he guides students in the realms of automation and Linux development, ensuring their grasp of these vital domains. Through his adept teaching, Dr. Muthukumar fosters comprehensive learning and provides students with valuable skills that resonate across disciplines.
+Dr. Muthukumar Ka
+Contact
+Dr. Muthukumar actively engaged in diverse workshops, including the "Accessibility Computing Workshop" at Pondicherry University, advocating inclusive technology. He further enriched his expertise in cloud computing through the "OpenStack Implementation Workshop" by C-DAC Bangalore and honed his skills in "Cloud Computing and Digital Forensics" at BITS Pilani. Proficiency in JavaFX and Netbeans was acquired via Sun Microsystems, while a "Microcontroller-based Robotics Workshop" at NIT-Trichy enhanced practical engineering. Dr. Muthukumar's leadership roles encompassed the National Service Scheme (NSS), active participation in Spirit-Ed for community empowerment, and significant contributions to NITTFEST’10 and Pragyan’12, showcasing his organizational and societal dedication.
+Teaching Philosophy

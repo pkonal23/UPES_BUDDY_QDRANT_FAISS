@@ -1,0 +1,12 @@
+Copyright on creating
+Faculty Achievements
+Copyright Registration Number: SW-15781/2022
+Dr. Kaushik Ghosh - Achievement
+Home
+The current traffic control system in the metro urban areas of India are wasteful because of randomness in the rush hour pattern for the duration of the day. The traffic signal clocks make some fixed time period to switch traffic between various directions. The endeavour is made arrangements for making a density based traffic control where the traffic sign will change accordingly on recognizing the blockage at any convergence. Traffic stop up is a major issue in numerous regions over the world and along these lines the opportunity has arrived to move dynamically manual mode or digital mode to a motorized structure with dynamic capacities. Present day traffic framework is fixed timing based system which may be inefficient if one way is operational than the other ones.
+Dr. Kaushik Ghosh
+“A SOLUTION FOR TRAFFIC CONTROL BASED UPON TRAFFIC DENSITY”
+Close
+To tackle this issue, the team has created a simulation framework using Proteus. In cases of heightened traffic on a particular side of the intersection, there arises a demand for an extended duration of the green traffic signal compared to the standard allotted time. As a solution, a dynamic approach is presented where the duration of red and green lights is adjusted based on the volume of traffic present on the surrounding roads. This approach seeks to optimize the flow of traffic and enhance the overall efficiency of the intersection.
+School of Computer Science
+Eligibility Criteria

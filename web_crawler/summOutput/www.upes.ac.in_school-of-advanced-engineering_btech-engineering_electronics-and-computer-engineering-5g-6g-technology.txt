@@ -1,0 +1,28 @@
+The B.Tech. program in Electronics & Computer Engineering with a specialization in 5G & 6G Technology at UPES School of Advanced Engineering is designed to provide students with a comprehensive understanding of advanced communication technologies. This program combines theoretical knowledge with practical skills, preparing students to tackle the challenges of implementing 5G and upcoming 6G technologies.
+
+### Program Overview:
+- **Core Subjects**: The curriculum covers essential topics such as Microprocessors and Microcontrollers, Data Structures, Digital System Design, Basic Electrical and Electronics, EM Waves and Antennas, Signals and Systems, VLSI Design, and more. 
+- **Specialization Courses**: Students will engage in specialized courses focusing on Cellular & Mobile Communication, Mobile and Web Application Development, Vehicular Communication, and Digital Signal Processing.
+- **Hands-On Experience**: The program emphasizes practical learning through labs, workshops, industrial visits, and internships, ensuring students gain real-world exposure.
+
+### Eligibility Criteria:
+- Candidates must have a minimum of 50% marks in Classes X and XII, with at least 50% in Physics, Chemistry, and Mathematics in Class XII.
+- Admission is based on performance in entrance exams such as UPESEAT, JEE, SAT, or CUET.
+
+### Career Opportunities:
+Graduates of this program can look forward to numerous job opportunities in various sectors, including:
+- 5G and 6G Technology Specialists
+- Wireless Network Engineers
+- IoT System Architects
+- Communication Technology Consultants
+
+Key industry players such as Ericsson, Samsung, Jio, Airtel, and Qualcomm are actively seeking professionals with expertise in these areas. The program also prepares graduates for advanced studies in wireless communication.
+
+### Contact Information:
+For more information about the program, prospective students can reach out via the following methods:
+- **Phone**: +91 [Contact Number]
+- **Email**: [Email Address]
+- **Website**: [UPES School of Advanced Engineering Website]
+
+### Conclusion:
+The B.Tech. program in Electronics & Computer Engineering with a focus on 5G & 6G Technology positions graduates at the forefront of innovation in telecommunications, contributing to the development of smart cities, autonomous vehicles, and enhanced global connectivity. This program is tailored to meet the future demands of the tech industry, ensuring that students are well-equipped to lead in a hyper-connected world.

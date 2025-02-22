@@ -1,0 +1,41 @@
+0.73 %
+10.29 %
+06.700
+https://sw-ke.facebook.com/UPESddnuk/posts/say-goodbye-to-train-stoppage-due-to-faults-in-electrical-lines-an-esteemed-memb/10158163458587002/
+https://blog.upes.ac.in/upes-faculty-devender-saini-work-adopted-by-southern-railways/
+Home
+0.00 %
+), have proposed a new model and algorithm to find faults in electric traction lines. The conventional algorithm shows the fault location within a radius of 0.5 – 6 km, which takes human personnel up to 5 hours to locate the faults precisely, and it only takes 15-20 min to clear the fault. Whereas the proposed algorithm shows the fault location within the 200-meter radius and nearly eliminates the time by human personnel to locate the fault precisely. The proposed algorithm is helpful in calculating the fault distance even without the help of the software-controlled module of the Distance Protection Relay (DPR). It is practically implemented on a trial basis, in parallel with the existing system of fault location of DPR, by making a chart for the impedances for every 100-meter length of electrical traction line for a feeding sector of 35 km length (Eraniel and Balaramapuram), in the Traction Power Control Room at Trivandrum Division of Indian Railway organization for manually calculating the Distance of earth fault occurred. The developed algorithm has demonstrated extreme reliability over existing algorithms, showing comparative results below.
+Close
+, along with his co-investigator (
+19
+Initially, the algorithm was implemented on a trial basis along with the existing method in 2018, but later it became an integral part in 2019. The findings of this work have been published in IEEE Transactions on transportation electrification, IEEE Access, and IETE Journal of Research after validating the results. For this finding, Dr. Saini and Dr. Nair are sincerely grateful to the Southern Railway administration for granting permission to conduct a research study on the security of the essential service network of railways;
+16.27 %
+Percentagevariation from actual
+Dr. Devendra Saini, Electrical
+The long halt of trains due to a fault on the electric traction line for Indian railways & DMRC metro services obviously can cause enormous setbacks to the country's GDP. To mitigate this,
+Dr. Devendra Saini
+16.500
+27.200
+30
+1.42 %
+Eligibility Criteria
+Faculty Achievements
+21.200
+Dr.Ravi Kumaran Nair C, Director, RDSO, Lucknow, Indian Railways
+Actual Distance of fault, in km
+Fault distance indicated by the existing system,in km
+School of Advanced Engineering
+25
+1.22 %
+27.400
+16.56 %
+16.300
+04.48 %
+Percentage variation from actual, when new algorithm is used
+Fault distance calculated using new algorithm, in km
+Dr. Devendra Saini - Achievement
+Dr. Devender Kumar Saini
+21.500
+Successful Implementation of Dr. Devendra Saini's Proposed Fault Identification Algorithm by Indian Railways
+07

@@ -1,0 +1,39 @@
+The Master of Computer Applications (MCA) program with a specialization in Cybersecurity and Digital Forensics at UPES School of Computer Science offers a comprehensive education tailored to meet the growing demands of the technology sector. This program is designed to equip students with essential skills to thrive in technology-driven business environments, focusing on real-world applications and industry trends.
+
+### Program Structure:
+- **Semesters Overview**:
+  - **Semester 1**: Core subjects such as Problem Solving, Java Programming, and Data Structures & Algorithms.
+  - **Semester 2**: Advanced topics including Web Technologies and Cyber Security & Digital Forensics.
+  - **Semester 3**: Focus on Software Engineering & Agile Practices, along with domain-specific projects.
+  - **Semester 4**: Includes a major project and an industrial internship to provide hands-on experience.
+
+### Curriculum Highlights:
+- The curriculum is continually updated based on insights from industry experts and academic leaders, ensuring relevance to current cybersecurity challenges.
+- Students are trained in a range of topics, including Digital Forensics, Cloud Computing, Object-Oriented Analysis and Design, and Cybersecurity principles.
+- Emphasis on practical projects and internships helps students gain real-world experience and enhances their employability.
+
+### Career Opportunities:
+Graduates of this program can pursue diverse roles in various industries, including:
+- **Cloud Security Architect**: Designing security frameworks for cloud infrastructures.
+- **Cybersecurity Consultant**: Advising organizations on risk mitigation.
+- **Cloud Compliance Specialist**: Ensuring adherence to regulations.
+- **Cloud Security Engineer**: Implementing security measures in cloud environments.
+- **Educator/Trainer**: Teaching cybersecurity principles to future professionals.
+
+### Placement Statistics:
+The program boasts impressive placement statistics, with an average CTC of ₹4.92 LPA and a highest package of ₹11.2 LPA. Graduates have been successfully recruited by renowned companies such as Accenture, Capgemini, Cognizant, and IBM, reflecting the program's effectiveness in preparing students for the job market.
+
+### Eligibility Criteria:
+To enroll in the MCA program, candidates must meet the following requirements:
+- Minimum of 50% in 10th and 12th grades.
+- 50% aggregate marks in BCA, B.Sc. (Computer Science), B.Sc. (Information Technology), or any graduation with Computer Science/IT as a subject for three years, or equivalent qualifications.
+
+### Admission Process:
+Potential students are selected based on their performance in a personal interview, ensuring that only candidates who meet the program's standards are admitted.
+
+### Contact Information:
+For more details, interested candidates can fill out an enquiry form or reach out via:
+- **Phone**: +91 [insert number]
+- **Email**: [insert email address]
+
+This MCA program not only prepares students for immediate employment but also instills a deep understanding of ethical, legal, and social implications in the fields of Cybersecurity and Digital Forensics, making graduates well-rounded professionals ready to tackle the challenges of the digital age.

@@ -1,0 +1,9 @@
+The project, titled "Phone Book Directory Using TRIE Data Structure," was developed by a group of B.Tech. CSE students specializing in Cloud Computing and Virtualization from the batch of 2020-2024, comprising Vikash Kumar, Arihant Vardhan, Arpita Kumari, and Tanushpreet Kaur. The project aimed to enhance the efficiency of data storage and retrieval by utilizing the TRIE Data Structure, which allows for quick access to data based on individual characters or numbers, in contrast to traditional whole-key searches.
+
+The TRIE Data Structure was chosen for its speed advantages in sorting names within the contact list. It is structured like a tree and extends to include value members and pointers to child nodes, thereby facilitating efficient organization and access to contact information. The Phone Book System, a web application developed as part of this project, centralizes contact management, allowing users to easily save, search, and view contact details in one place. 
+
+The application is designed to meet typical user requirements for a phone directory, enabling functionalities such as adding new contacts, searching for specific entries, and viewing existing records, ensuring that the phone book remains current and user-friendly. The project emphasizes the importance of efficient data retrieval and organization, making it a significant advancement over traditional physical contact storage methods.
+
+For further details, the project can be accessed on GitHub at the following link: [https://github.com/ar885/Telephone-Directory](https://github.com/ar885/Telephone-Directory). 
+
+The project is associated with the School of Computer Science and was guided by Anjali Nayar, who served as the mentor for the team.

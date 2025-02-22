@@ -1,0 +1,40 @@
+The **B.Tech. Computer Science & Engineering (Full Stack Development)** program, offered by the **UPES School of Computer Science** in collaboration with **Xebia** since 2022, is designed to equip students with a comprehensive skill set essential for success in the rapidly evolving field of Full Stack Development. This four-year curriculum emphasizes both front-end and back-end development while integrating advanced artificial intelligence technologies.
+
+### Program Overview
+- **Curriculum Structure**: The program spans eight semesters, covering a wide array of subjects, including foundational courses in computer science, programming, web development, AI fundamentals, natural language processing, deep learning, and cloud computing. Students will engage in hands-on projects and gain industry exposure to ensure they are prepared for real-world challenges.
+- **Key Subjects**: 
+  - Data Structures and Algorithms
+  - Object-Oriented Programming
+  - Python Programming
+  - Artificial Intelligence and Machine Learning
+  - Cloud Computing
+  - Frontend Development (React, Angular)
+  - Backend Development (Node.js, Java)
+  - Database Management Systems
+
+### Career Prospects
+Graduates of this program will possess unique qualifications that blend full-stack development skills with AI expertise, opening doors to various career paths such as:
+- AI Software Engineer
+- Machine Learning Engineer
+- Full Stack Developer with AI Integration
+- AI Product Manager
+- Data Scientist
+
+The program is poised to meet the growing demand for developers who can seamlessly integrate AI technologies into applications, enhancing user experiences and operational efficiencies.
+
+### Admission Criteria
+To be eligible for admission, candidates must meet the following requirements:
+- Minimum of 50% marks in Class X and XII
+- A minimum of 50% in Physics, Chemistry, and Mathematics (PCM) in Class XII
+- Selection will be based on performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET.
+
+### Application Process
+- **Last Date to Apply**: February 25, 2025
+- Interested candidates can apply through the official UPES website or contact the admissions office for further information.
+
+### Contact Information
+For inquiries, students can reach out via the following:
+- **Phone**: +91 [Contact Number]
+- **Email**: [Email Address]
+
+This program emphasizes practical learning and industry connections, ensuring that graduates are well-prepared for the demands of the technology sector and capable of innovating within the realm of AI and software development.

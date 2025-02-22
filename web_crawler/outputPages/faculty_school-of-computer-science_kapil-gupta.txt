@@ -1,0 +1,50 @@
+Registration Committee Member: International Conference on Advances in Engineering Research and Applications (ICAERA-2016).
+Research Interests
+IEEE Conference on Information and Communication Technology (CICT)-2022
+IEEE JBHI
+Awarded an Elite NPTEL online certificate for “Teaching & Learning in General Programs: TALG”.
+Qualified GATE exam in 2011 with Gate Score 378.
+Dr. Kapil Gupta, a holder of a Ph.D., currently serves as an Assistant Professor (Senior Scale) at the School of Computer Science, UPES, Dehradun. After obtaining his Ph.D., he worked as a Senior Research Fellow & Post-doctoral fellow at the Indian Knowledge System Lab, International Institute of Information Technology, Bangalore, Karnataka, India. From 2013 to 2020, he worked as an Assistant Professor at the Oriental College of Technology, Bhopal, India. He obtained his Doctorate in 2023 from PDPM - Indian Institute of Information Technology, Design & Manufacturing, Jabalpur. In 2013, he completed his M. Tech. Degree from the School of Nano Technology at UTD RGPV in Bhopal, India. In 2011, he received his B.E. degree with Honors from the Oriental Institute of Science and Technology in Bhopal, India.
+Paper entitled, “Discrimination of Normal and Abnormal Knee Joint VAG Signals Using EMD”, is selected as the best paper award in ICCWC 2022, NIT Surathkal.
+My teaching strategy is based on the creation of a student-cantered learning environment that prioritizes real-world applications, stimulates collaboration, and incorporates ideas from my research endeavours. In the School of Computer Science, I am committed to adapting the educational experience to each student's unique needs and learning styles. I hope to build a sense of ownership and responsibility for their academic journey by fostering a dynamic classroom where active participation and self-directed learning are rewarded. I stress real-world applicability through hands-on projects, case studies, and industry-relevant examples to bridge theory and practice. Students must not only understand theoretical principles but also apply them in real-world circumstances, equipping them for the difficulties of the growing computer science field. I hold the conviction that fostering a supportive classroom community that promotes collaborative effort, open dialogue, and an appreciation for a wide range of viewpoints is essential. This collaborative atmosphere fosters the interpersonal skills that are essential for success in a technologically advanced society, which extends beyond the classroom. I incorporate the most recent developments into my teaching as an active researcher in the following areas: Time-Frequency Analysis, Artificial Intelligence, Machine Learning, Heart-Machine Interface, Brain-Computer Interface, and Data Analysis for Signal & Image Processing Applications in Biomedicine. This methodology enables pupils to investigate state-of-the-art technologies, thereby motivating them to pursue independent research passions and make significant contributions to the perpetually developing domain of computer science. My ultimate objective is to furnish students with the requisite knowledge, abilities, and perspective to achieve academic excellence and generate significant contributions to the respective discipline.
+Home
+Work Experience
+Awards and Grants
+Digital Electronics
+Artificial Intelligence Review (AIRE)
+Awarded an Elite NPTEL online certificate for “Effective engineering teaching in practice”.
+Close
+School of Computer Science
+IEEE Transactions on Cybernetics
+Paper entitled, “Optimized meditative EEG channel estimation for efficient impact study of mindfulness for sustainable health”, is selected as the best paper presenter award in EASCT 2023, RVITM, Bengaluru.
+Faculty
+Post-Doctoral Fellow, IKS, Lab, International Institute of Information Technology, Bangalore, Karnataka, India (Aug 2023–Oct 2023)
+Ph.D. Research Scholar, Indian Institute of Information Technology, Design and Manufacturing Jabalpur, M.P., India (July 2020–March 2023)
+Scholarly Activities
+Analog & Digital Comm.
+Asia-Pacific Signal and Information Processing Association (APSIPA ASC 2022)
+Courses Taught
+Eligibility Criteria
+Dr. Kapil Gupta
+The 3rd International Conference on Computer, Big Data and Artificial Intelligence (ICCBDAI 2022)
+Assistant Professor - Senior Scale
+Technical Program Committee Member: 29th International Conference on Neural Information Processing (ICONIP 2022), IIT Indore, India.
+IEEE Signal Processing Letters
+He has 7+ years of teaching and 3+ years research experience.
+Senior Research Fellow, IKS, Lab, International Institute of Information Technology, Bangalore, Karnataka, India (April 2023–July 2023)
+The Seventh International Conference on Energy Engineering and Environmental Protection
+Profile Summary
+Recipient of Government of India scholarship during the Ph.D. program (August-2020 to March-2023).
+Computer System & Organization
+kapil.gupta@ddn.upes.ac.in
+Basic Electronics
+Signal & System
+Signal & Image Processing Applications in Biomedical, Time-Frequency analysis, Artificial Intelligence, Machine learning, Heart Machine Interface, Brain-Computer Interface, Data Analysis.
+Contact
+Assistant Professor at Oriental College of Technology, Bhopal, M.P., India (July 2013 – June 2020)
+Recipient of Government of India scholarship during M. Tech. program (July-2011 to June 2013).
+Python
+Neural Network
+Referee Service:
+Teaching Philosophy
+IEEE Sensors Journal

@@ -1,0 +1,23 @@
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Dr Kumar is the recipient of Ignaz Kogler Senior Research Fellowship-Germany.
+Close
+School of Computer Science
+Faculty
+He has 10 years of teaching experience. Prior to UPES, Dr. Ankit Kumar was associated with KIET, Ghaziabad.
+Scholarly Activities
+Courses Taught
+Dr Ankit Kumar
+ankit.kumar@ddn.upes.ac.in
+Eligibility Criteria
+Dr Kumar has mentored various B.Tech, and M.Tech research projects and helped in motivating students to pursue research work. He has published 10+ papers in reputed international journals and conference proceedings. He is one of the active reviewers of the International Journal of Speech Technology (Springer), Telecommunication Systems (Springer), Inderscience, and IGI journals. He has been invited to serve on the various technical program committee and conduct various ASR workshops at the institute level.
+Profile Summary
+Assistant Professor
+Dr Kumar has a great passion for teaching. He believes that teaching is a process of mutual learning; and this is especially so in a research environment where we explore the limits of knowledge. Research exclusive of teaching is likely to be far less fruitful – this is true of undergraduate teaching as well as graduate teaching. At the undergraduate level, He would like to teach courses with an emphasis on Project-based Learning (PBL). These would help the students with hands-on experience, with a physical realization of abstract concepts learned in class. Also, such projects would foster a healthy model of working in groups and mutual learning. Further, I would encourage short write-ups and presentations to help the students develop their communication skills. With the objective of open dialogues, critical thinking, and research collaborations, he is always available for young and needy minds.
+Contact
+Dr. Ankit Kumar has acquired B.Tech (CSE) from UPTU, Lucknow, M.Tech (Computer Engineering), Ph.D. (Computer Engineering) from National Institute of Technology, Kurukshetra. His current area of research is Automatic Speech Recognition (ASR), Speaker Recognition, and Machine Translation. In his research, he focused on designing, building, and evaluating Monolingual ASR systems, Multilingual ASR systems, semi-supervised, and transfer learning techniques in different languages. His Ph.D. research was focused on the ASR system for low-resource languages. He has published 10+ papers in reputed international journals and conference proceedings. He is one of the active reviewers of International Journal of Speech Technology (Springer), Telecommunication Systems (Springer), Inderscience, and IGI journals. He has been invited to serve on the various technical program committee and conduct various ASR workshops at the institute level.
+Speech Recognition I Natural Language Processing I Machine Learning I Conversational AI | Deep Learning
+Data Structures | Design and Analysis of Algorithms | Machine Learning | Operating System | Software Engineering | Artificial Intelligence
+Teaching Philosophy

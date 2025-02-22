@@ -1,0 +1,40 @@
+**Chandra Mani Sharma**  
+**Position:** Assistant Professor - Senior Scale  
+**Affiliation:** School of Computer Science  
+**Contact:** cmsharma@ddn.upes.ac.in  
+
+**Research Interests:**  
+- Mental healthcare informatics  
+- Explainable AI  
+- NeuroPsych Design  
+- Distributed Systems & Operating Systems  
+
+**Professional Background:**  
+Mr. Sharma has over a decade of experience in academia, research, and entrepreneurship. He has been actively involved in the development of multimodal and explainable AI solutions tailored for resource-constrained environments. His professional journey includes significant roles such as:  
+- Serving as an AI Subject Matter Expert (SME) and speaker on All India Radio, where he contributed to two programs broadcast nationwide.  
+- Holding positions as Senior Research Fellow (SRF) and Junior Research Fellow (JRF) at IIT Delhi, where he also taught a course on Design Thinking and Innovation.  
+- Mentoring startups, including Abonics India Pvt. Ltd.  
+
+**Education and Fellowships:**  
+- MHRD Fellowship (2009-2011)  
+
+**Teaching Experience:**  
+Mr. Sharma has taught various subjects, including:  
+- Design Thinking and User-Centered Design  
+- Data Structures and Algorithms  
+- Software Engineering  
+- Applied Data Science and Machine Learning  
+- Advanced Data Analytics  
+
+His teaching philosophy emphasizes a student-centered approach, where he views learning as a collaborative process with students as co-learners. He aims to provide engaging, hands-on experiences that encourage innovative thinking.
+
+**Awards and Recognition:**  
+- Teaching Excellence Award (2013) from the Institute of Technology and Science.  
+
+**Scholarly Contributions:**  
+Mr. Sharma is a prolific inventor with several patented technologies and has authored approximately two dozen publications in SCIE/Scopus indexed journals, including books, conference papers, and journal articles. He has participated in numerous knowledge exchange and skill development initiatives at prestigious institutions, such as IIT Delhi and Imperial College London, and has organized various hackathons, conferences, and faculty development programs.
+
+**Conferences:**  
+In 2023, Mr. Sharma received an RSTA grant from IIT Delhi to attend the OneHealth conference in Spain and the COSHIP conference in Indonesia, highlighting his commitment to staying at the forefront of research and innovation in his field. 
+
+Overall, Mr. Sharma's diverse expertise and dedication to education and research contribute significantly to the fields of computer science and artificial intelligence, particularly in the context of mental healthcare and resource-constrained environments.

@@ -1,0 +1,55 @@
+**Bachelor of Computer Application (BCA) - INTERNET OF THINGS**
+
+**About the Program:**
+
+The Bachelor of Computer Application (BCA) program in Internet of Things (IoT) offered by UPES School of Computer Science is a pioneering course that was initiated at University of Petroleum and Energy Studies. The curriculum of this program has been meticulously designed by a collaboration of industry experts and renowned academics. Each semester of the program is structured to ensure that students grasp both the foundational concepts and real-world challenges through immersive case studies.
+
+**Curriculum:**
+
+The BCA program in IoT offered by UPES School of Computer Science encompasses eight semesters. The comprehensive curriculum covers various aspects of IoT, including:
+
+* **Semester 1:** Linux Lab, Programming in C, Programming in C Lab, Web Technologies, Web Technologies Lab, Problem Solving, Living Conversation, Basic Mathematics I, Environmental Sustainability and Climate Change - I
+* **Semester 2:** Data Structures and algorithms, Data Structures and algorithms Lab, Databases, Databases Lab, Python programming, Python programming Lab, Critical Thinking and Writing, Basic Mathematics II, Environmental Sustainability and Climate Change - II
+* **Semester 3:** Advanced Databases, Advanced Databases Lab, Advanced Web Technologies, Advanced Web Technologies Lab, Elements of AIML, Elements of AIML Lab, Exploratory-1, Design Thinking, Applied Statistics and Probability
+* **Semester 4:** Data communication and Networks, Object Oriented Programming, Object Oriented Programming Lab, Operating Systems, Software Engineering, Exploratory-2, PE-1, PE-1 Lab
+* **Semester 5:** Mobile Application Development, Mobile Application Development Lab, Exploratory-3, Start your startup, PE-2, PE-2 Lab, Project-1, Summer Internship
+* **Semester 6:** Cyber Security, Exploratory-4, Leadership and Teamwork, PE-3, PE-3 Lab, Project-2
+* **Semester 7:** DevOps, Exploratory-5, PE-4, PE-4 Lab, PE-5, PE-5 Lab, Project-3
+* **Semester 8:** Industry 4.0, Project-4, Seminar
+
+**Program Highlights:**
+
+* Developed in collaboration with industry experts, the program's curriculum is meticulously designed to meet the demands of the evolving IoT landscape. It ensures students gain a solid foundation in IoT technologies and applications.
+* Right from the start, students delve into IoT applications, with a strong emphasis on understanding the underlying concepts of physics, electronics, and networking. This foundational knowledge forms the basis for advanced IoT studies.
+* Instead of just theoretical knowledge, the program centers on practical integration. Students actively engage in hardware integration, working with sensors like Arduino and Raspberry Pi. This hands-on approach fosters a deep understanding of both hardware and software aspects.
+* The BCA in IoT program offers specialized subjects that cover essential IoT aspects. Topics include Introduction to IoT, sensor programming, protocol comprehension, wireless sensor networking, and IoT security. These subjects provide students with a holistic understanding of IoT technologies.
+* By blending theoretical concepts and practical skills, the program equips students with a well-rounded skill set required to excel in the dynamic IoT field. Graduates are prepared to contribute effectively to the design, development, and implementation of IoT solutions.
+* With a focus on real-world applications and hands-on experience, the program ensures that students are well-prepared for the challenges of the IoT industry. Graduates are poised to tackle IoT-related roles and innovations with confidence and competence.
+
+**Future Scope / Industry Trends:**
+
+The UPES School of Computer Science offers a BCA in IoT program that taps into the boundless potential of IoT across various industries. This program delves into the transformative impact of IoT, driven by AI and ML technologies. It emphasizes automation, where smart systems and devices are harnessed to enhance productivity and efficiency. Examples like self-driving cars and predictive maintenance highlight the program's innovation focus. The integration of AI and ML with IoT is also reshaping healthcare, revolutionizing diagnostics and treatment planning through AI-driven analysis of vast patient data. The IoT field, with its synergy with AI and ML, is driving real-time decision-making and productivity across smart homes, cities, and industries. The program emphasizes the crucial ethical dimension of IoT advancement, addressing privacy and transparency concerns. In summary, UPES's BCA in IoT program equips students to thrive in this dynamic landscape, leveraging the power of IoT, AI, and ML for holistic technological transformation while fostering responsible and ethical development.
+
+**Career Opportunities:**
+
+Upon completing the BCA in IoT from UPES School of Computer Science, graduates are presented with a plethora of captivating and rewarding career opportunities in the realm of IoT. As the technology continues to advance and revolutionize various sectors, the demand for skilled IoT experts is burgeoning. With their expertise in statistics, programming, and machine learning techniques, IoT engineers find promising prospects across diverse industries. They harness their skills to analyze extensive data, formulate predictive models, and design algorithms to tackle complex challenges in fields spanning healthcare, finance, fleet management, inventory control, smart cities, and intelligent power grids. In essence, the vast array of IoT job roles empowers individuals to contribute to cutting-edge electronic innovations and make substantial contributions across multiple sectors. Those equipped with the requisite knowledge and proficiencies stand to thrive in this dynamic landscape, given the escalating requirement for competence in smart devices.
+
+**Placements:**
+
+The BCA program in IoT at UPES School of Computer Science boasts impressive placement results. With an average annual salary of 4.36 Lakhs Per Annum (LPA), graduates of this program have secured a promising start to their careers. The highest offered package of 7.5 LPA showcases the program's potential to attract lucrative opportunities. Diverse companies spanning various sectors have participated in the recruitment process, such as Advanced Network Management, Expand my Business, Hike education, Instant Procurement Services Private Limited (ProcMart), LTIMindtree, Posist Technologies, Academor, Leadsquared, LEARNING ROUTES PVT LTD, Lifeworks, Phronesis Partners, and Sunfox Technologies. This range of placements signifies the program's effectiveness in preparing students for roles across industries and establishing a strong foundation for their professional journey.
+
+**Eligibility:**
+
+Interested students must meet the following minimum eligibility criteria to pursue a Bachelor of Computer Application (BCA) in Internet of Things: 50% marks in class X and XII with Mathematics / Computer Science / Information Technology as one of the major Subject in Class XII.
+
+**Selection Criteria:**
+
+The selection criteria for individuals who wish to enroll in the BCA program with a specialization in IoT at UPES is determined by their performance in Personal Interview.
+
+**Contact Information:**
+
+For further inquiries, please contact:
+
+UPES School of Computer Science
+Email: [email protected]
+Phone: +91-135-2553777

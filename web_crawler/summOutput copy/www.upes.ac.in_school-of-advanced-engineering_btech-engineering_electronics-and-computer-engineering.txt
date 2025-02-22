@@ -1,0 +1,18 @@
+The B.Tech. in Electronics & Computer Engineering program at UPES School of Advanced Engineering is designed to equip students with a comprehensive skill set that combines electronics, computer science, and communication engineering. The curriculum spans from 2025 to 2029 and includes a variety of subjects across eight semesters, such as Data Structures, Microprocessors, Digital System Design, and specialized courses in areas like Mobile and Web Application Development, Analog Electronics, and VLSI Design. 
+
+**Key Features of the Program:**
+- **Curriculum Structure:** 
+  - **Semesters 1-8:** Courses cover fundamental topics like Chemistry, Physics, Engineering Mathematics, and advanced subjects including Machine Learning, Embedded Systems, and Communication Systems.
+  - **Specializations:** Students can choose from various specializations to tailor their education to specific industry needs, including AI & ML applications, telecommunications, and embedded systems.
+  - **Practical Experience:** The program emphasizes hands-on learning through labs, industrial visits, and internships, ensuring students gain practical experience in electronics hardware and IT development.
+
+- **Career Prospects:** The program boasts a 100% placement record, with graduates securing roles in semiconductor design, telecommunications, software development, and more. The highest salary packages have seen significant increases, reaching up to 21.17 LPA in 2021-22, with an average package growth from 5 LPA in 2020-21 to 6.30 LPA in 2022-23. Approximately 30% of students receive multiple job offers, indicating strong industry demand for graduates.
+
+- **Eligibility Criteria:** Candidates must have a minimum of 50% marks in Classes X and XII, with at least 50% in Physics, Chemistry, and Mathematics in Class XII. Selection is based on performance in exams such as UPESEAT, JEE, Board Merit, SAT, or CUET.
+
+- **Application Details:** Interested candidates can apply until February 25, 2025. For detailed information on the curriculum, fee structure, and specializations, prospective students are encouraged to reach out for further assistance.
+
+**Contact Information:** 
+For more information about the program and to inquire further, interested individuals are encouraged to contact the UPES School of Advanced Engineering directly.
+
+Overall, the B.Tech. in Electronics & Computer Engineering at UPES is structured to provide a robust education that aligns with the evolving demands of the technology industry, fostering both theoretical knowledge and practical skills essential for a successful career.

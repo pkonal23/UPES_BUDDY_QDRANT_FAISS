@@ -1,0 +1,26 @@
+The B.Tech program in Electronics & Computer Engineering with a specialization in Artificial Intelligence (AI) and Machine Learning (ML) at UPES School of Advanced Engineering is designed to prepare graduates for the demands of the Industry 4.0 landscape. The program emphasizes the integration of AI and ML applications, equipping students with the necessary skills to address complex engineering challenges in various sectors such as robotics, healthcare, finance, and more.
+
+**Program Highlights:**
+- The curriculum covers essential topics including data structures, digital system design, and communication skills, alongside specialized courses in AI and ML.
+- Students engage in hands-on projects, enhancing their practical experience and problem-solving capabilities in real-world scenarios.
+- The program also includes opportunities for industrial visits, internships, and workshops, further bridging the gap between theoretical knowledge and practical application.
+
+**Eligibility Criteria:**
+- Candidates must have a minimum of 50% marks in Classes X and XII, with at least 50% in Physics, Chemistry, and Mathematics in Class XII.
+- Admission is based on performance in UPESEAT, JEE, Board Merit, SAT, or CUET.
+
+**Career Opportunities:**
+Graduates will be well-prepared for various roles such as:
+- AI and ML Engineers
+- Software Engineers focusing on AI applications
+- Data Scientists
+- Research Scientists
+- Entrepreneurs in the tech startup space
+
+**Industry Engagement:**
+The program boasts a strong placement record with renowned companies like Microsoft, Intel, IBM, and Apple actively seeking UPES graduates for their expertise in AI and ML. The strategic focus on industry trends ensures that graduates are equipped to thrive in a rapidly evolving technological landscape.
+
+**Contact Information:**
+For more details or inquiries, prospective students can reach out via the contact form provided on the UPES website.
+
+Overall, the B.Tech in Electronics & Computer Engineering (AI & ML Applications) offers a comprehensive education that aligns with current industry trends and prepares students for a future in technology-driven sectors.

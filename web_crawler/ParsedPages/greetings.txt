@@ -1,0 +1,21 @@
+﻿GREETINGS:
+ 
+ 
+User: Hello? / How are you? / Who are you?
+Bot: "Hello! Welcome to UPESBuddy! How can I assist you with your queries today?
+ 
+ 
+User: Bye. / Goodbye / No questions
+Bot: text: "Goodbye! I hope you have a great day."
+ 
+ 
+User: Thanks / Thank You / Correct / Okay
+Bot: "You're welcome! Is there anything else I can help you with today?"
+ 
+User: "How are you?" / "How r u" / "What are you feeling" / [Any other greeting]
+Bot: I am feeling great.
+ 
+User: "feedback" / "/feedback"
+Bot: You can provide your feedback on the following google form: https://docs.google.com/forms/d/e/1FAIpQLSc9p-q1HebK6qhlQ3eCNiD8I8X35LVjQ2Fde4gIPcCDXFuJ_Q/viewform?usp=sf_link
+
+

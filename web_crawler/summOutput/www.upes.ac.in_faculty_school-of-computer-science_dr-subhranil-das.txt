@@ -1,0 +1,13 @@
+Dr. Subhranil Das is an Assistant Professor at the University of Petroleum and Energy Studies (UPES), specializing in Artificial Intelligence (AI), Robotics, and Medical Image Processing. Prior to his tenure at UPES, he served as an Assistant Professor at MIT World Peace University in the School of Business and previously held a similar position at Vidya Vihar Institute of Technology in Purnea, Bihar, from 2011 to 2015. He also brings two years of industrial experience as an Electrical System Designer at Bharat Consultants.
+
+Dr. Das has been recognized for his research contributions, being nominated for the Best Researcher Award in the Global Awards on Artificial Intelligence and Robotics in 2022, as well as the International Research Awards on Welding Technology in the same year. His research interests encompass a wide array of AI applications, including optimization techniques, deep learning for autonomous vehicles, big data analytics, predictive modeling, natural language processing, reinforcement learning, and computer vision, highlighting the extensive influence of AI across various domains.
+
+In his teaching role, Dr. Das emphasizes creating a collaborative and engaging learning environment that encourages critical thinking and practical application of theoretical knowledge. He advocates for hands-on experience in robotics and medical image processing to connect classroom theories with real-world applications. His teaching philosophy focuses on inspiring curiosity and innovation among students, guiding them towards interdisciplinary approaches and enhancing their problem-solving skills. He aims to empower students to become independent thinkers and future leaders in the AI field.
+
+Dr. Das teaches a variety of courses, including:
+
+- **Artificial Intelligence and Machine Learning**: Foundational and advanced concepts in data-driven decision-making.
+- **Digital Image Processing and Computer Graphics**: Focus on visual computing and image analysis.
+- **Digital Forensics**: Techniques for investigating digital evidence, preparing students for cybersecurity challenges.
+
+For further inquiries or contact, Dr. Subhranil Das can be reached at **subhranil.das@ddn.upes.ac.in**.

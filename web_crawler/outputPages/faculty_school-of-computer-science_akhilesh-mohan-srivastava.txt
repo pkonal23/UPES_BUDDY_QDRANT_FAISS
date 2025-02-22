@@ -1,0 +1,30 @@
+Data Structures
+Operating Systems
+Dr. Akhilesh Mohan Srivastava completed his Ph.D. degree from the Department of Computer Science & Engineering, Indian Institute of Technology Indore (IIT Indore), India. He received his Master of Technology (M.Tech) degree in Computer Science & Engineering from Dr. A.P.J. Abdul Kalam Technical University, India. He has published many papers in SCI-indexed journals and national and international conferences. He has also authored three books entitled complier design, Programming in C++ and Object Oriented Programming using C++.
+Artificial Intelligence
+Research Interests
+Home
+Work Experience
+Close
+His research interest includes image processing, computer vision, pattern recognition, 2D and 3D face recognition, deep learning, and biometric security.
+School of Computer Science
+Faculty
+Computer Vision
+He has more than 8 years of teaching experience in various organizations and 4 years of industry experience. He also worked on the research project (Development of an Efficient Ear Biometric System and Investigation of Age Invariant Nature of Human Ear (Feb 2016 - July 2017) funded by the Science and Engineering Board (SERB) of the Department of Science & Technology (DST), Govt. of India, under grant no: SB/FTP/ETA-0074/2014 and implemented by the Dept. of CSE, IIT Indore.
+Data Communications and Networking
+Scholarly Activities
+am.srivastava@ddn.upes.ac.in
+Courses Taught
+Eligibility Criteria
+Deep Learning
+He believes that every student has the potential to learn, but that proper direction and support are essential for better comprehension. In the classroom, he adopts the methodology that is based upon learning by doing method. In general, he begins the lecture by sharing insights from past sessions, so that everyone feels linked to the current topic. He gives his students a place and opportunity to put questions, and he uses real-life examples and scenarios to clear their worries. Students are evaluated based on their learnings, which are then followed by assignments, quizzes, examinations, and sometimes surprise tests.
+Design and Analysis of Algorithms
+Profile Summary
+Compiler Design
+Dr. Akhilesh Mohan Srivastava has made significant research contributions in the field of biometric recognition using 3D face and 3D ears data, with a remarkable publication record. He has published 6 research papers in SCI journals, 3 books, and 6 papers in reputed international conferences. His research interest includes Biometrics, Machine Learning, Deep Learning, Pattern Recognition, Computer Vision, Image Processing, and 3D Point Cloud Processing.  Dr. Srivastava has proposed 3D data augmentation techniques and fusion of 3D deep learning architectures that are useful for the classification and recognition of 3D data. He also has experience in the collection of 3D data, its preprocessing and how to develop a 3D dataset along with applications in various research fields.
+His areas of research interest are biometrics, pattern recognition, computer vision, image processing, and machine learning. Biometric Recognition in 2D and 3D using Deep Learning for various modalities is one of his study interests.
+Contact
+Parallel Algorithms
+Assistant Professor (Selection Grade)
+Akhilesh Mohan Srivastava
+Teaching Philosophy

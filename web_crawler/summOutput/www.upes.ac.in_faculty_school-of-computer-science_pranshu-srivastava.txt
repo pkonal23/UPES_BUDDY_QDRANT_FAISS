@@ -1,0 +1,9 @@
+Pranshu Srivastava is a proficient professional in the fields of data analytics and software development, holding the position of Assistant Professor at the School of Computer Science. He possesses a robust foundation in computer science, enriched by hands-on experience in data analytics, machine learning, and backend development. His skill set includes the design and implementation of SQL queries for data extraction, transformation, and loading (ETL) from various sources into a centralized database, which has significantly enhanced data retrieval efficiency.
+
+In his research, Pranshu employs Python for data analysis, scripting, and visualization, utilizing libraries such as Pandas and NumPy. He has developed interactive data dashboards and reports using Qlik Sense, aimed at fostering data-driven decision-making processes. Furthermore, he is adept at managing and analyzing extensive datasets with Excel, where he performs calculations and generates visual reports.
+
+Pranshu is recognized for his contributions as a Teaching Assistant at BITS Pilani and has received a Certification of Author Presentation for his work presented at IEEE COMPSAC 2022. His teaching philosophy is centered on a practical, industry-oriented approach that equips students with essential skills for success in product and service-based companies. He emphasizes core subjects including data structures and algorithms, database management systems (DBMS), operating systems, computer networks, computer organization and architecture, programming, and SQL querying.
+
+Pranshu's programming proficiency extends to C/C++, and he has a strong command of database management systems, particularly SQL. His commitment to continuous learning and innovation drives his dynamic approach to problem-solving and project execution.
+
+For further inquiries, Pranshu can be contacted via email at pranshu.srivastava@ddn.upes.ac.in.

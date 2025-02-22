@@ -1,0 +1,16 @@
+Kushmandini Gupta & Tulika Baranwal
+Download the Application:
+A major highlight of the project was its scalability and flexibility. Leveraging Docker containers, the system's deployment allowed for seamless scalability as the company expands. New containers can be effortlessly incorporated or removed to accommodate changing demands, ensuring optimal performance even with evolving requirements. Ultimately, the project successfully embraced microservices architecture to create an advanced inventory management system with improved accuracy, efficiency, and adaptability.
+Kushmandini Gupta & Tulika Baranwal, a group of students pursuing the degree of B.Tech. CSE with the specialization in Cloud Computing and Virtualization Technology completed the project of developing a Inventory Management System using Microservices.
+Improved visibility emerged as a key benefit, as the system provided a comprehensive overview of inventory operations, including stock levels, order statuses, and supplier delivery times. This enabled informed decision-making for inventory-related matters. Furthermore, the system streamlined operations by automating manual processes, thereby enhancing efficiency, and minimizing the need for manual intervention.
+To address these issues, the project team adopted a microservices architecture, characterized by a collection of small, independent, and loosely connected services. This architectural style, in contrast to monolithic systems, offers enhanced flexibility and resilience.
+Home
+Inventory Management System using Microservices
+The project’s objective is to fulfil the need for a centralized and automated solution that can effectively manage inventory operations, reduce manual errors, improve accuracy, and provide increased visibility into inventory operations.
+https://github.com/kushmandinigupta/Minor-2
+Student Project
+School of Computer Science
+Close
+Eligibility Criteria
+Traditional software systems have long relied on monolithic architecture, where development, deployment, and execution occur within a single block. While this approach offers advantages, such as ease of development and deployment, its challenges are evident. Dependencies between functionalities make the entire system susceptible to failure if any part malfunctions. Moreover, it lacks scalability and adaptability to new technologies, hindering system growth.
+The project aimed to design an inventory management system, particularly catering to small businesses, using the Spring Boot framework, and deploying it within Docker containers. The core objective of the system was efficient inventory management. It facilitated real-time tracking of inventory levels, inbound and outbound stock, and order management, effectively preventing overstocking and stock shortages. The system prioritized accuracy by reducing manual errors and maintaining separate databases for different services, promoting data consistency.

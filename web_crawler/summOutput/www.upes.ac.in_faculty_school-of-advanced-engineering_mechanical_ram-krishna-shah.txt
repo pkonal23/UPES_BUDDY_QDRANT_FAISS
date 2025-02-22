@@ -1,0 +1,32 @@
+**Dr. Ram Krishna Shah - Profile Summary**
+
+**Research and Academic Background:**
+Dr. Ram Krishna Shah is an Assistant Professor at the School of Advanced Engineering, UPES. He holds a Ph.D. in Fluid and Thermal Science from IIT Kanpur, where he developed expertise in both experimental and computational studies in fluid and thermal science. His research is focused on innovative thermal management techniques, particularly in high heat flux management, with applications in power electronics and electric vehicles (EVs). Dr. Ram has published extensively in reputable international journals and conferences and has previously worked as a Design Engineer at a start-up collaboration between IISc Bangalore and Suryagen Renewable Energy. He also served as a Project Associate at IIT Kanpur, contributing to the creation of cost-effective off-grid cooling solutions for remote areas.
+
+**Research Interests:**
+Dr. Ram's research interests are diverse, encompassing:
+- Active and passive thermal management systems
+- Renewable and sustainable energy engineering
+- Multiphase flow, microfluidics, colloids, and interfacial science
+He emphasizes the development of passive cooling methods, such as heat pipes, for managing high heat flux scenarios. Additionally, he investigates atmospheric water harvesting and off-grid cooling solutions tailored for arid and remote locations.
+
+**Teaching Philosophy:**
+Dr. Ram adopts a teaching philosophy that integrates theoretical knowledge with practical learning experiences. He encourages a "learning by doing" approach, motivating students through real-life applications of the subject matter. His teaching methods promote independent thinking and aim to provide students with an in-depth understanding of concepts that can be applied across various contexts. He also emphasizes the importance of acquiring relevant software skills, particularly in Computational Fluid Dynamics (CFD), to enhance students' employability in their future careers.
+
+**Courses Taught:**
+Dr. Ram Krishna teaches core and elective courses in the Mechanical and Aerospace streams, covering both introductory and advanced subjects such as:
+- Fluid Mechanics
+- Heat Transfer
+- Multiphase Flows
+
+**Awards and Recognition:**
+During his academic journey, Dr. Ram has received several accolades:
+- Merit cum Means (MCM) scholarship during his undergraduate studies at IIITDM Kancheepuram.
+- Scored among the top 2% in the national JEE Mains examination in 2007.
+- Graduate Research Fellowship at IIT Kanpur for his doctoral studies.
+- Best Paper Award at the IHMTC - 2017 conference by the Indian Society for Heat and Mass Transfer for one of his conference papers.
+
+**Contact Information:**
+For inquiries, Dr. Ram can be reached via email at: **ramk.sha@ddn.upes.ac.in**
+
+This summary reflects Dr. Ram Krishna Shah's academic qualifications, research contributions, teaching philosophy, and contact details, providing a comprehensive overview of his professional profile.

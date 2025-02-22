@@ -1,0 +1,33 @@
+Manish Kumar Giri is an accomplished academic and researcher with extensive experience in multidisciplinary teams focusing on areas such as wireless communication, signal processing, artificial intelligence, biomedical signal processing, and computer vision. He has contributed to the academic community through his research, which has been published in reputable peer-reviewed SCI-indexed journals and presented at international conferences. Additionally, Manish is an active member of the IEEE and the Signal Processing Society.
+
+### Education and Scholarships
+Manish received his Master of Engineering (M.E.) and Bachelor of Engineering (B.E.) degrees from Government Engineering College, Ujjain, and SSCET Junwani Bhilai, respectively. He was awarded the MHRD scholarship for his M.E. in 2013 and for his Ph.D. in 2018, and he also holds a UGC-NET fellowship for assistant professorship.
+
+### Research Interests
+His research interests encompass a wide range of topics, including:
+- Cooperative spectrum sensing
+- Resource optimization
+- Security aspects of cognitive radio
+- Internet of Things (IoT)
+- Application of machine learning techniques in wireless communication
+
+### Teaching Philosophy
+Manish’s teaching philosophy aims to create an inclusive and interactive learning environment. He emphasizes the importance of empowering students through critical thinking, creativity, and practical knowledge application. By integrating theoretical concepts with real-world examples, he seeks to inspire curiosity and a passion for learning. He values open communication and active engagement, encouraging diverse perspectives and collaboration among students. His ultimate goal is to equip students with the necessary tools to succeed academically and excel in their future careers.
+
+### Work Experience
+Prior to his current role at UPES, Manish was a full-time Ph.D. research scholar at the National Institute of Technology Raipur, where he assisted in delivering lectures, tutorials, and laboratory sessions. He also worked at the Prestige Institute of Engineering Management and Research in Indore, within the Department of Electronics and Communication Engineering.
+
+### Courses Taught
+Manish teaches a variety of subjects, including:
+- Internet of Things
+- Machine Learning
+- Deep Learning
+- Wireless Communication
+- Analog and Digital Communication
+- Computer Networks
+- Data Communication
+
+### Contact Information
+For further inquiries, Manish can be reached via email at: **manishk.giri@ddn.upes.ac.in**. 
+
+This comprehensive profile highlights Manish Kumar Giri's academic background, teaching philosophy, research interests, and professional experiences, reflecting his commitment to education and innovation in technology.

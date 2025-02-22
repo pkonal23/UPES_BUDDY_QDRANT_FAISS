@@ -1,0 +1,47 @@
+**Dr. Prateek Gupta - Profile Summary**
+
+**Contact Information:**
+- Email: p.gupta@ddn.upes.ac.in
+
+**Academic Background:**
+- **B.Tech** in Computer Science and Engineering from Uttar Pradesh Technical University, Lucknow, India (2008)
+- **M.Tech** in Computer Science and Engineering from the National Institute of Technology, Hamirpur, India (2011)
+- **Ph.D.** from Dr. B R Ambedkar National Institute of Technology, Jalandhar, India (2019)
+
+**Current Position:**
+- Assistant Professor at the School of Computer Science, University of Petroleum and Energy Studies (UPES)
+
+**Work Experience:**
+- Prior to his current role, Dr. Gupta was a research scholar at the Department of Computer Science and Technology, NIT Jalandhar.
+- He has over 11 years of teaching and research experience.
+
+**Research Interests:**
+- Dr. Gupta's research focuses on:
+  - Bio-inspired optimization algorithms
+  - Wireless communications
+  - Sensor networks
+  - Machine learning
+  - Fuzzy systems
+- He has published multiple research articles in SCI/Scopus-indexed journals and has presented at national and international conferences.
+- His research contributions have led to the granting of two patents and the publication of two additional patents.
+
+**Courses Taught:**
+- Data Structures
+- Design and Analysis of Algorithms
+- Theory of Computation
+- Compiler Design
+- Computer Networks
+
+**Teaching Philosophy:**
+- Dr. Gupta emphasizes the importance of a solid foundation in technical knowledge for engineering students, focusing on understanding fundamental principles, theories, and their practical applications.
+- He aims to create an engaging and interactive learning environment that fosters curiosity, critical reasoning, and active participation.
+- His teaching methods include lectures, demonstrations, hands-on experiments, and case studies, all designed to empower students with a robust conceptual framework for their engineering careers.
+
+**Awards and Grants:**
+- Awarded the Uttarakhand-SET for Lectureship in 2012.
+- Received MHRD scholarships for both M.Tech and Ph.D. studies.
+
+**Mentorship:**
+- Dr. Gupta actively mentors various projects at different academic levels, with some projects submitted for patent registration under his guidance.
+
+This comprehensive profile highlights Dr. Gupta's qualifications, teaching philosophy, research interests, and contributions to academia.

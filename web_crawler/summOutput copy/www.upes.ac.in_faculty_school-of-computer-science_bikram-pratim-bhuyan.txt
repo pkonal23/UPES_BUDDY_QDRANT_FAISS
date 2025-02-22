@@ -1,0 +1,28 @@
+**Profile Summary of Bikram Pratim Bhuyan**
+
+Bikram Pratim Bhuyan is an Assistant Professor (Senior Scale) at the University of Petroleum and Energy Studies (UPES) in Dehradun, India, with a strong academic background and extensive teaching experience in computer science. He graduated with an M.Tech in Information Technology, specializing in Computer Science, from Tezpur University, Assam, India, in 2016. His postgraduate studies focused on Formal Concept Analysis and Knowledge Representation and Reasoning under the guidance of esteemed professors. He is currently pursuing his PhD research at Paris-Saclay University, concentrating on Neuro-Symbolic Artificial Intelligence, supervised by Prof. Amar Randane-Cherif.
+
+**Research Interests**
+Bikram's research interests lie at the intersection of traditional symbolic AI and neural approaches, particularly in Neuro-Symbolic Artificial Intelligence. He is also fascinated by Knowledge Graphs, which facilitate the representation and interlinking of information. His academic pursuits include Knowledge Representation and Reasoning, aiming to model and infer complex knowledge structures, along with a strong focus on Machine Learning and its transformative applications.
+
+**Teaching Experience**
+Bikram has taught a diverse range of undergraduate courses in computer science, including foundational topics such as Algorithms and Data Structures, Discrete Mathematics, Operating Systems, and Database Management. He also covers advanced subjects in AI and robotics, guiding students through courses in Artificial Intelligence, Intelligent Systems and Robotics, and Machine Learning. He emphasizes programming skills, particularly in Python and C, ensuring that students are well-equipped for academic and industry challenges.
+
+**Teaching Philosophy**
+Bikram believes in nurturing independent thinkers and encourages students to explore problems from multiple perspectives. He fosters a culture of curiosity and exploration, aiming to inspire students to discover, question, and innovate beyond traditional learning.
+
+**Awards and Recognition**
+Bikram has received several accolades, including the Anundoram Borooah Award for the highest state marks in Mathematics during 2005-2007, a GATE scholarship from MHRD India, and multiple Best Paper Awards. He qualified for the NET in June 2018 and has twice achieved GATE qualification. Most recently, he was honored with the France Doctoral Scholarship from Paris-Saclay-ADI in October 2022.
+
+**Professional Affiliations**
+Bikram has been a proud member of the Association for Computing Machinery (ACM) since 2017. He is also a Neo4j Certified Professional and a Plural Sight Elite Instructor. His involvement in the academic community includes serving on steering and technical committees for international conferences and acting as a reviewer for prestigious journals and conferences like AAAI and NeurIPS.
+
+**Work Experience**
+With over 10 years of cumulative experience in both industry and academia, Bikram has held positions as an Assistant Professor at Kaziranga University and the Asian Institute of Management and Technology. His industry experience includes roles as an Engineering Consultant at ECIL Rapiscan Ltd. and an IT Engineer at Integrated Systems and Services, contributing to significant government projects.
+
+**Contact Information**
+- Email: bpbhuyan@ddn.upes.ac.in
+- Google Scholar: [Bikram Pratim Bhuyan's Google Scholar Profile](https://scholar.google.com/citations?user=7u7hw1cAAAAJ)
+- ORCID: [Bikram Pratim Bhuyan's ORCID Profile](https://orcid.org/0000-0001-5373-8912)
+
+Bikram Pratim Bhuyan is dedicated to advancing knowledge in computer science and inspiring the next generation of innovators through his teaching and research endeavors.

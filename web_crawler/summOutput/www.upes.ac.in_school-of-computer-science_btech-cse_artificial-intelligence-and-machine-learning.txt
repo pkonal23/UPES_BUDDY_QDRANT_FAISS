@@ -1,0 +1,34 @@
+The content outlines a comprehensive educational program for students interested in pursuing a Bachelor of Technology (B.Tech) in Artificial Intelligence and Machine Learning (AIML) at the University of Petroleum and Energy Studies (UPES). This program is designed to equip students with a robust foundation in AI and ML, emphasizing practical applications through projects and internships.
+
+### Key Highlights of the Program:
+1. **Program Structure**:
+   - The curriculum includes a total of eight semesters, featuring specialized courses such as Natural Language Processing, Deep Learning, and Data Structures.
+   - Students will engage in four projects (two minor and two major) and complete a three-month industry internship.
+   - The program incorporates labs for hands-on experience in programming (Python, C), data communication, and machine learning applications.
+
+2. **Eligibility Criteria**:
+   - Applicants must have a minimum of 50% marks in Class X and XII, with at least 50% in Physics, Chemistry, and Mathematics (PCM) in Class XII.
+   - Admission is based on performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET.
+
+3. **Career Opportunities**:
+   - Graduates can pursue various roles such as AI Engineer, Data Scientist, Machine Learning Engineer, Robotics Scientist, and Business Intelligence Developer.
+   - The program boasts a promising average CTC of Rs. 10.25 lakhs per annum, with the potential for a maximum CTC of Rs. 40 lakhs per annum.
+   - Notable companies recruiting graduates include Accenture, Infosys, Samsung R&D, and PwC.
+
+4. **Industry Trends**:
+   - The demand for AI engineers has doubled in recent years, with projections indicating up to 2.3 million job opportunities in AI by 2020.
+   - The program is in collaboration with IBM, ensuring that students are trained in line with industry standards.
+
+5. **Research and Innovation**:
+   - Students are encouraged to engage in research, with opportunities to work on significant national and international projects.
+   - The program supports students in filing patents and launching startups, exemplified by successful alumni like Mr. Nikunj Bansal.
+
+6. **Contact Information**:
+   - For further details, students can reach out via the provided contact form, where they need to fill in their first name, last name, mobile number, and email address.
+
+### Conclusion:
+The B.Tech program in Artificial Intelligence and Machine Learning at UPES is a forward-thinking initiative that prepares students for a rapidly evolving industry. With a strong emphasis on practical experience and research, graduates are well-positioned to excel in various high-demand roles within the field of AI. The program's collaboration with industry leaders further enhances its relevance and effectiveness in preparing students for successful careers. 
+
+**Last Date to Apply**: February 25, 2025. 
+
+This summary encapsulates the essential details of the AIML program, providing prospective students with a clear understanding of what to expect and how to prepare for a career in this dynamic field.

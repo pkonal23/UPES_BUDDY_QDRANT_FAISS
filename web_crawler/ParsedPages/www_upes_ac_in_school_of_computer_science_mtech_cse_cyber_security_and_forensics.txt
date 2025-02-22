@@ -1,0 +1,38 @@
+**University of Petroleum and Energy Studies (UPES) School of Computer Science's Master of Technology (M.Tech) in Computer Science & Engineering Cybersecurity & Forensics Program**
+
+**Program Overview**
+
+Designed to equip students with a comprehensive understanding of cybersecurity and digital forensics, University of Petroleum and Energy Studies (UPES) School of Computer Science's M.Tech in Computer Science & Engineering (Cybersecurity & Forensics) program offers a curriculum encompassing topics such as network security, encryption, ethical hacking, cyber legislation, incident response, and digital forensics. Through practical projects, lab activities, and workshops, students gain hands-on experience applying theoretical concepts to real-world scenarios.
+
+**Program Highlights**
+
+* Industry-standard tools training in Wireshark, Nmap, Metasploit, Snort, OpenVAS, EnCase, FTK Imager, Autopsy, and Volatility.
+* Emphasis on quality research and publication in reputable journals.
+
+**Future Scope and Industry Trends**
+
+With the rapid expansion of the cybersecurity industry and a predicted market value of $270 billion by 2026, the M.Tech in Computer Science & Engineering (Cybersecurity & Forensics) program offers promising career prospects. Industry trends include the integration of artificial intelligence and machine learning, the need for secure cloud infrastructure, the proliferation of IoT devices, and the rise of mobile devices.
+
+**Career Opportunities**
+
+Graduates are equipped to assume roles such as Security Analysts, Engineers, Network Security Administrators, Cybersecurity Consultants, Incident Responders, and Digital Forensics Investigators. The program's focus on industry trends and practical skills prepares students for real-world challenges and a dynamic cybersecurity landscape.
+
+**Placements**
+
+The M.Tech in Computer Science & Engineering (Cybersecurity & Forensics) program boasts impressive placement results, with an average annual package of 8.40 LPA and the highest package reaching 12 LPA. Renowned companies like DataM Intelligence, 4market Research LLP, Navikenz, Philips India Limited, Schneider Electric, Stryker India Pvt. Ltd., and Synopsys have actively recruited graduates from this program.
+
+**Eligibility and Selection Criteria**
+
+* Minimum 60% marks at Higher and Senior Secondary level (X and XII).
+* B. Tech/ BE (IT/(Hons.) Computer Science and Engineering), MCA, M.Sc. (Physics/Math's/Statistics) with minimum 60% marks.
+* Selection based on performance in Personal Interview.
+
+**Enquiry Form**
+
+For further information, contact the University of Petroleum and Energy Studies (UPES) School of Computer Science through the enquiry form provided on their official website:
+
+* [Contact Us](https://www.upes.ac.in/contact-us)
+
+**Curriculum**
+
+Detailed information on the curriculum, including course credits, is available [here](https://www.upes.ac.in/me-computer-science-and-engineering-cybersecurity-and-forensics-2).

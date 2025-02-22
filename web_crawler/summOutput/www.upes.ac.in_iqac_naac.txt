@@ -1,0 +1,17 @@
+The National Assessment and Accreditation Council (NAAC) is responsible for assessing and accrediting Higher Educational Institutions (HEIs) in India, including colleges and universities. The primary goal of NAAC is to evaluate the "Quality Status" of these institutions by examining various criteria that reflect their performance in educational processes and outcomes. 
+
+The assessment covers several key areas, including:
+
+- **Curriculum Coverage**: Evaluation of the academic programs offered.
+- **Teaching-Learning Processes**: Assessment of the methodologies and effectiveness of teaching.
+- **Faculty**: Review of faculty qualifications and contributions.
+- **Research**: Examination of research output and impact.
+- **Infrastructure**: Analysis of physical and technological resources available.
+- **Learning Resources**: Evaluation of libraries, laboratories, and other educational materials.
+- **Organization and Governance**: Review of institutional management and governance structures.
+- **Financial Well-Being**: Assessment of financial health and resource allocation.
+- **Student Services**: Evaluation of support services provided to students.
+
+To participate in the accreditation process, institutions must meet specific eligibility criteria and submit a Self Study Report (SSR) along with an Annual Quality Assurance Quality Report (AQAR). 
+
+For more detailed guidance or inquiries, institutions may need to refer to the official NAAC website or contact the council directly.

@@ -1,0 +1,40 @@
+**Dr. Awadhesh K. Pandey**
+
+**Profile**
+
+Dr. Awadhesh K. Pandey, an Assistant Professor at the School of Business, University of Petroleum and Energy Studies (UPES) Dehradun, holds a Ph.D. in Statistics from the Indian Institute of Technology (Indian School of Mines) IIT (ISM), Dhanbad, awarded in 2021. His research focuses on population parameter estimation in presence and absence of missing sample survey observations under various sampling schemes.
+
+**Experience**
+
+Prior to joining UPES Dehradun, Dr. Awadhesh K. Pandey held positions as Assistant Professor of Statistics at the School of Physical Sciences, DIT University Dehradun, and Research Coordinator at DIT University, Dehradun. Dr. Pandey also served as Project Fellow for DST-sponsored projects at DST-CIMS, Banaras Hindu University (BHU) Varanasi, and Indian Institute of Technology (Indian School of Mines) IIT (ISM), Dhanbad.
+
+**Research**
+
+Dr. Awadhesh K. Pandey's research interests encompass Computational Statistics, Survey Sampling, Biostatistics, and Statistical Inference. Dr. Pandey has published extensively in reputed international journals and presented at conferences, earning constructive criticism and valuable feedback that have fueled his growth in computational statistics.
+
+**Teaching**
+
+Dr. Awadhesh K. Pandey's teaching philosophy centers around creating an engaging and supportive learning environment where students can develop a deep understanding of statistical concepts and their applications. Dr. Pandey employs diverse teaching methods to cater to various learning styles, providing individualized support and fostering critical thinking and lifelong learning.
+
+**Courses**
+
+Dr. Awadhesh K. Pandey teaches courses such as Business Statistics, Operations Research, Quantitative Techniques, Research Methodology and Report Writing, Mathematical Statistics, Business Research Methods, Probability and Statistics, Statistical Inference, Sampling Theory, and Design of Experiments. These courses are fundamental for undergraduate and postgraduate students, as well as for research students seeking a strong foundation in statistics and its business applications.
+
+**Awards and Grants**
+
+Dr. Awadhesh K. Pandey has received financial support from the Government of India during his PhD program. Dr. Pandey is a member of the Society of Applied Mathematics, Indian Institute of Technology (Indian School of Mines) IIT (ISM), Dhanbad, and has been awarded IIT (ISM) Junior Research Fellowship and Senior Research Fellowship for his PhD degree.
+
+**Scholarly Activities**
+
+Dr. Awadhesh K. Pandey has published numerous research papers, including:
+
+1. Jaiswal, A. K., Singh, G. N., and Pandey, A. K. (2022). Improved procedures for mean estimation under non-response. Alexandria Engineering Journal, 61(12), 12813-12828. (Indexed in SCIE, Q1 Category/Web of Science)
+2. Pandey, A. K., Singh, G. N., Bhattacharyya, D., Ali, A. Q., Al-Thubaiti, S., and Yakout, H. A. (2021). Some Classes of Logarithmic-Type Imputation Techniques for Handling Missing Data. Computational Intelligence and Neuroscience, 2021, ISSN: 1687-5273 (Online), DOI: https://doi.org/ 1155/2021/8593261. (Indexed in SCIE, Q1 Category/Web of Science)
+3. Pandey, A. K., Usman, M., and Singh, G. N. (2021). Optimality of ratio and regression type estimators using dual of auxiliary variable under nonresponse. Alexandria Engineering Journal, 60(5), 4461-4471. (Indexed in SCIE, Q1 Category/Web of Science)
+4. Pandey, A. K., Singh, G. N., Sayed-Ahmed, N., and Abu-Zinadah, H. (2021). Improved estimators for mean estimation in presence of missing information. Alexandria Engineering Journal, 60(6), 5977-5990. (Indexed in SCIE, Q1 Category/Web of Science)
+5. Singh, G. N., Jaiswal, A. K., and Pandey, A. K. (2021). Improved imputation methods for missing data in two-occasion successive sampling. Communications in Statistics-Theory and Methods, 1-20. (Indexed in SCI-E, Q3 Category/Web of Science)
+6. Singh, G. N., Pandey, A. K., and Khetan, M. (2020). Generalized Estimation Procedure in Two-Occasion Rotation Patterns. Proceedings of the National Academy of Sciences, India Section A: Physical Sciences, 1-9. (SCIE, Q3 indexed, WoS)
+
+**Contact Information**
+
+awadheshk.pandey@ddn.upes.ac.in

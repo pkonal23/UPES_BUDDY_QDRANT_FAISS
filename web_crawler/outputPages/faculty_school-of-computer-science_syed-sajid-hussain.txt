@@ -1,0 +1,21 @@
+Before joining UPES, Prof. Syed was at the MAILAB South Korea, held a computer vision engineer role and later on as team-lead position in the same company. He also worked for Indian council of Medical Research (ICMR) as Research fellow (PhD).
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Prof Syed’s teaching philosophy is grounded in the understanding that it is his responsibility to create a climate that supports and encourages student learning. He has incorporated some elements of “flipping the classroom” into his classes such as pre-reading assignments, in which students read assigned sections of the textbook and/or other resources prior to coming to class where they complete a short quiz. Quiz material is not repeated in class but instead is used as the foundation for in-class assignments that involve students working with real data and situations. Using authentic problems helps students move from novice to expert thinking.
+Prof. Syed teaches the elective on Pattern recognition and Anomaly detection, Deep Learning, and NLP. Data structures, Image processing, Machine learning with python are some of his core subjects.
+Close
+School of Computer Science
+Faculty
+Courses Taught
+Eligibility Criteria
+Computer Vision I Medical Imaging I Deep Learning I Brain Tumors I Congenital Heart Defects
+Prof. Syed received the best Coder award while working at MAILAB, South Korea.
+Profile Summary
+Syed Sajid Hussain
+Assistant Professor
+Syed Sajid Hussain is expert in Computer vision and Deep learning with special focus on Biomedical Imaging like MRI, USG, Echocardiography. Using the state-of-art techniques and deep learning-based models trained on Image and video datasets he has published numerous papers in this domain. His research is focused on Brain tumours including both primary and secondary tumours. He has developed software-based products that aid as a tool for radiologists in detecting, segmenting, and classifying the brain tumors.
+syed.hussain@ddn.upes.ac.in
+Contact
+Teaching Philosophy

@@ -1,0 +1,49 @@
+The B.Sc. Computer Science program with a specialization in Cyber Security & Forensics at UPES School of Computer Science is designed to equip students with a comprehensive understanding of cyber threats and the practical skills necessary to combat them. The curriculum is meticulously structured to bridge theoretical concepts with real-world applications, ensuring graduates are well-prepared to navigate the complexities of the cyber security landscape.
+
+### Program Overview:
+- **Curriculum Focus**: The program covers essential domains such as:
+  - Network Security
+  - Ethical Hacking
+  - Digital Forensics
+  - Cryptography
+  - Cyber Security Management
+- **Hands-On Experience**: Students will engage in practical exercises, including:
+  - Penetration Testing
+  - System and Application Programming
+  - Cyber Security Labs
+  - Digital Forensic Procedures
+
+### Structure:
+- **Semesters**: The program spans multiple semesters, each focusing on various aspects of computer science and cyber security, including:
+  - Semester 1: Data Structures and Algorithms Lab, Programming in C Lab
+  - Semester 2: OOPs using C++ Lab, Network Security
+  - Semester 3: Cloud Security, Statistics
+  - Semester 4: Elements of AIML Lab, Critical Thinking and Writing
+  - Semester 5: Cyber Security & Forensics, Project Work
+  - Semester 6: Digital Forensics, Cyber Security Lab
+  - Semester 7 & 8: Advanced topics and projects focused on real-world applications
+
+### Career Opportunities:
+Graduates can pursue various roles, including:
+- Security Architect
+- Cyber Security Analyst
+- Threat Intelligence Analyst
+- Network Security Engineer
+- Information Security Consultant
+- Software Development and Data Analysis roles
+
+### Future Scope:
+With the increasing reliance on technology, the demand for skilled professionals in cyber security and digital forensics is expected to rise significantly. The program prepares students to tackle evolving cyber threats and contribute to safeguarding digital infrastructure.
+
+### Admission Criteria:
+- **Eligibility**: Candidates must have 50% marks in Class X and XII, with Mathematics or Computer Science as a major subject in Class XII.
+- **Selection Process**: Admission is based on performance in a Personal Interview or CUET.
+
+### Contact Information:
+For more details or inquiries, prospective students can reach out via the following:
+- **Phone**: +91 [insert phone number]
+- **Email**: [insert email address]
+- **Application Deadline**: February 28, 2025
+
+### Conclusion:
+The B.Sc. in Computer Science with a specialization in Cyber Security & Forensics from UPES School of Computer Science offers a robust educational foundation and practical training to prepare graduates for successful careers in the rapidly evolving field of cyber security. The program emphasizes the importance of continuous learning and adapting to new technologies, ensuring that graduates remain at the forefront of the industry.

@@ -1,0 +1,45 @@
+Dr. Ashish Mishra is an accomplished academic and researcher specializing in the fields of mechanics and materials, particularly focusing on developing lightweight and effective solutions for ballistic armor and structures. His research employs both experimental and numerical methods, and he has a substantial body of work, including numerous publications in international journals and presentations at prestigious international conferences.
+
+### Academic Background
+- **Ph.D. in Aerospace Structures** - 2018, IIT Madras
+- **M.S. in Aerospace Engineering** - 2014, IIT Madras
+- **B.E. in Aeronautical Engineering** - 2011, Aeronautical Society of India
+
+### Research Interests
+Dr. Mishra's research interests encompass:
+- Composite materials
+- Impact loading on structures
+- Computational solid mechanics
+- Material characterization
+- Reliability
+He aims to integrate material science with mechanics to create lightweight solutions for applications such as ballistic armor and space shields.
+
+### Teaching Experience
+Dr. Mishra teaches various courses related to mechanics and materials, including:
+- Aerospace Structures
+- Finite Element Method
+- Mechanics of Materials
+- Composite Materials
+- Aircraft Materials
+- Engineering Mechanics
+
+His teaching philosophy emphasizes fostering critical thinking, problem-solving skills, and a comprehensive understanding of complex concepts by relating them to real-world engineering scenarios.
+
+### Scholarly Activities
+In addition to teaching, Dr. Mishra is actively engaged in scholarly activities:
+- He supervises several Ph.D. scholars at UPES.
+- He serves as the editor for the journal 'Advances in Materials' and reviews articles for various reputable international journals.
+- He has developed an online tool to enhance the teaching of lab practicals and organized a workshop on technical writing using LaTeX.
+- Dr. Mishra was part of the organizing committee for the National Space Convention-2023.
+
+### Achievements
+Dr. Mishra and his team achieved notable recognition by winning the Defence India Start-up Challenge, a Government of India initiative. They also secured the second runner-up position in the SAE Aerothon competition. His academic contributions have been recognized with a research grant of Rs. 3 lakhs from UPES, and he has received a post-doctoral fellowship from IIT Madras. He holds a lifetime membership in the Aeronautical Society of India, and his students have received accolades, including best thesis awards in aerospace engineering.
+
+### Previous Experience
+Before his tenure at UPES, Dr. Mishra was an institute post-doctoral fellow at IIT Madras and completed a one-year traineeship at the DRDO-Centre of Airborne System in Bengaluru.
+
+### Contact Information
+For inquiries, Dr. Ashish Mishra can be reached at:
+- **Email:** ashish.mishra@ddn.upes.ac.in
+
+This summary reflects Dr. Mishra's extensive expertise and contributions to the fields of aerospace engineering and materials science, highlighting his commitment to education, research, and professional development in these areas.

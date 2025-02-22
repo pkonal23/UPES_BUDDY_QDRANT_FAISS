@@ -1,0 +1,30 @@
+**Profile Summary of Prof. M. Gopal**
+
+Prof. M. Gopal is a distinguished academic with an extensive career spanning nearly five decades, primarily at prestigious institutions including IIT Delhi, IIT Bombay, BITS Pilani, MNIT Jaipur, Shiv Nadar University, Universiti Teknologi Malaysia, and City University London. He is currently a Distinguished Professor at the School of Computer Science at UPES Dehradun and serves as an Adjunct Professor at BITS Pilani.
+
+**Academic Contributions and Leadership:**
+- Prof. Gopal was the Founding Director of the School of Engineering at Shiv Nadar University, where he significantly contributed to curriculum design and the establishment of academic infrastructure.
+- He initiated the creation of the ‘AI Centre’ at UPES, focusing on innovative courses and integrating AI into the curriculum and research, aiming to position the university as a leader in AI education and research for the 21st century.
+
+**Awards and Recognition:**
+- He received The National Systems Gold Medal, the highest accolade from the Systems Society of India.
+- His expertise is sought by both government and private sectors for evaluating research grant proposals.
+
+**Research and Publications:**
+- Prof. Gopal is a prolific author in the fields of Control Systems, Machine Learning, and Deep Learning, with his books widely used as core texts in various Indian universities and internationally in the USA, Australia, Singapore, and Taiwan.
+- He has produced a highly popular video course, “Lecture Series in Control Engineering,” through NPTEL, which has been utilized by over a million learners globally.
+- He has authored/co-authored over 150 research papers published in high-impact journals and supervised 16 doctoral projects, with a focus on Machine Learning.
+
+**Teaching Philosophy:**
+Prof. Gopal emphasizes a student-centered teaching approach, incorporating real-world data and scenarios into class discussions and projects. He adapts course content to keep pace with technological advancements, ensuring students receive relevant and future-ready education.
+
+**Current Research Interests:**
+- Deep Learning and Deep Reinforcement Learning
+- AI and Robotic Process Automation
+- Applications of AI in Renewable Energy, Environmental Sustainability, and Climate Change Mitigation
+- AI in Medicine and Healthcare Solutions
+
+**Contact Information:**
+- Email: madan.gopal@ddn.upes.ac.in
+
+Prof. Gopal's commitment to education and research continues to influence many students and professionals in the field of computer science and engineering.

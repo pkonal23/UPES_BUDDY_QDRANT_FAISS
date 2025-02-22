@@ -1,0 +1,35 @@
+Dr. Shreya Banerjee is currently an Assistant Professor (Senior Scale) at the University of Petroleum and Energy Studies (UPES) in Dehradun, India, having assumed the position in October 2023. She has a robust academic background with a focus on quantum computing, quantum algorithms, and the study of quantum systems and their applications in cutting-edge technologies.
+
+**Educational Background and Research Experience:**
+Dr. Banerjee completed her doctoral studies exploring the geometry of qudit entangled states, where she developed a novel approach to quantify multiparty distributive entanglement. Her postdoctoral research was conducted at the Institute quantique, University of Sherbrooke, Canada, from November 2021 to September 2023, in collaboration with Ericsson. Throughout her research career, she has gained over two years of experience in both academia and industry.
+
+**Research Interests:**
+Her primary research interests include:
+- Quantum algorithms
+- Open quantum systems
+- Quantum metrology
+- Quantum non-local correlations
+- Quantum machine learning
+
+Dr. Banerjee has also been involved in developing protocols and algorithms using quantum and semi-quantum tools, and she has experience implementing quantum algorithms with various platforms such as Quimb, IBM Quantum, Qiskit, and OpenQASM. Additionally, she is proficient in numerical computation using tools like GNU-Octave, MATLAB, and Mathematica.
+
+**Conferences and Presentations:**
+Dr. Banerjee has actively participated in several conferences, including:
+- IEEE Quantum Week 2021 (QCE-21)
+- Asia Pacific Conference and Workshop on Quantum Information Science, IISER Kolkata (2018)
+- National Conference on Quantum Information and Computations, IIT Jodhpur (2019)
+- Faculty Development Programs on Quantum Computing at IIIT Dharwad and TCET Mumbai (2021)
+- Summer School on Quantum Information and Quantum Technology, IISER Kolkata (2021)
+
+**Teaching Philosophy:**
+Dr. Banerjee's teaching philosophy emphasizes fostering curiosity, critical thinking, and a passion for lifelong learning. She aims to create a supportive educational environment that encourages students to explore, question, and grow.
+
+**Awards and Fellowships:**
+- Vidyasagar Bhawan Fellowship (2011)
+- Inspire Fellowship (2011)
+- MITACS Accelerated Postdoctoral Fellowship (2022)
+
+**Contact Information:**
+For academic inquiries, Dr. Shreya Banerjee can be reached at her email: shreya.banerjee@ddn.upes.ac.in.
+
+In summary, Dr. Shreya Banerjee is a dedicated researcher and educator in the field of quantum computing, with a strong commitment to advancing knowledge and teaching in this innovative area.

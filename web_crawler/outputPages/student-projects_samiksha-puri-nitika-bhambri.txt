@@ -1,0 +1,18 @@
+Enable attaining high physicochemical stability due to the formation of cohesive protein structure.
+Samiksha Puri, Nitika Bhambri & Vatsal Singh, students pursuing the degree of BSc. in Microbiology from the batch of 2020-23 completed the project involved using microbial transglutaminase to enhance the texture and quality of Indian sweets, other food products, and other applications to the food industry. Briefly, we attempted to:
+Assistant Professor (SG)
+Eligibility Criteria
+Produce better-quality cost-effective food products.
+Combining MTGase with several non-conventional food processing technologies could improve the gelation process, physicochemical and textural quality, and consumer demand for protein-based food products. This review aims to investigate the potential use of MTGase in the food sector for some Indian sweets. To improve the recombinant expression system of MTGase, researchers used promoter engineering, gene codon optimization, signal peptide fusion, constitutive expression, random and rotational mutagenesis, and other techniques. The combination of MTGase with these modern processing techniques and their impact on the functioning of protein gels is also addressed.
+Microbial transglutaminase (MTGase) is a transferase enzyme that modifies the functional characteristics of proteins in food systems. Polymerizations, which result in changes in the molecule's hydrophobicity, are the principal mechanisms of action. Gelation, emulsification, foaming, viscosity, and water-holding capacity are all affected by MTGase, and all depend on protein solubility. Many efforts have been made in recent years to improve activity by isolating strains, optimizing culture conditions, and optimizing fermentation procedures. Furthermore, many studies have shifted their focus from traditional optimization to genetic engineering to develop a highly efficient MTGase expression system with desired properties such as thermostability, activity, and yield using genetic manipulation of strains such as E. coli, Bacillus subtilis, and Pichia pastoris over the last decade.
+Apply MTGase to dairy products to improve their nutritional and technological aspects through intramolecular cross-linking.
+Home
+School of Health Sciences and Technology
+Mentor
+Dr. Smriti Arora
+Make the products cost-effective by decreasing the fat and stabilizing content.
+Close
+Application of transglutaminase to Indian sweets and products
+Student Projects
+Allow precise control of chemical composition and molecular weight and its production.
+Samiksha Puri and Nitika Bhambri

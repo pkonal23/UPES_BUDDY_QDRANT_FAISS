@@ -1,0 +1,44 @@
+**UPES School of Advanced Engineering** offers the **Bachelor of Technology in Electrical Engineering (Microelectronics)** program, designed to impart specialized knowledge and skills in microelectronics, with a focus on next-generation integrated circuit fabrication chip technology.
+
+**Program Details**
+
+The curriculum meets the evolving demands of the electronics industry, emphasizing low-power chip design and high-performance computing. Students delve into fast switching and low memory consumption devices, enabling them to grasp the complexities of designing efficient and cutting-edge microelectronic components. The program lays strong emphasis on ASIC (Application-Specific Integrated Circuit) and CMOS (Complementary Metal-Oxide-Semiconductor) manufacturing methodologies, providing students with a platform to optimize chip design, simulation, and synthesis, preparing them to develop industry-ready chips.
+
+**Program Highlights**
+
+* Explore Very Large-Scale Integration (VLSI) technologies, designing complex integrated circuits for various applications.
+* Gain hands-on experience in designing and implementing digital systems using Field-Programmable Gate Arrays (FPGAs) for rapid prototyping and customization.
+* Understand Integrated Circuits (ICs) fabrication processes and the role of packaging in ensuring microelectronic device reliability and functionality.
+* Delve into the world of nanotechnology, studying cutting-edge devices and applications operating at the nanoscale level.
+* Master integrating multiple components, such as processors, memory, and peripherals, into a single chip, paving the way for efficient and compact electronic systems.
+* Develop a comprehensive skillset and industry readiness through practical training, projects, and exposure to microelectronics advancements.
+
+**Future Scope and Industry Trends**
+
+The program boasts a highly promising future scope, with an expected exponential growth in the chip fabrication market in India. Top companies like Samsung, Intel, ST Microelectronics, AMD, Qualcomm, Texas Instruments, and NXP Semiconductors will be the major recruiters in this field. Graduates with a strong foundation in microelectronics can explore opportunities in embedded systems and pursue higher studies for further expertise.
+
+**Career Opportunities**
+
+Graduates of the program are well-equipped for a wide range of careers in semiconductor manufacturing, integrated circuit design, telecommunications, consumer electronics, and embedded systems development. They can pursue rewarding roles as microelectronics engineers, ASIC design engineers, semiconductor process engineers, hardware engineers, and research scientists. They can find employment in cutting-edge technology companies, research institutions, telecommunications firms, and government agencies, driving advancements in microelectronics and shaping the future of electronics technology.
+
+**Placements**
+
+The program provides exceptional placement opportunities for its graduates. The university's strong industry connections and dedicated placement cell ensure that students are well-prepared for the job market. Through internships, workshops, and industry visits, students gain valuable practical exposure, enhancing their employability. Companies from various sectors, including semiconductor, electronics, and telecommunications, actively recruit **UPES School of Advanced Engineering** graduates due to their specialized skills and knowledge in microelectronics. With a high placement record and competitive salary packages, the program equips students to thrive in the dynamic and fast-growing field of microelectronics.
+
+**Eligibility**
+
+Interested students must meet the minimum eligibility criteria:
+
+* Minimum 50% marks in Classes X and XII with 50% in PCM (Physics/Chemistry and Mathematics) in Class XII.
+
+**Selection Criteria**
+
+**UPES School of Advanced Engineering** selects students based on their performance in UPESEAT / JEE / Board Merit / SAT/ CUET.
+
+**Contact Information**
+
+For further information, please contact the **UPES School of Advanced Engineering:**
+
+**Email:** admissions@upes.ac.in
+**Phone:** +91 9910042910
+**Website:** https://www.upes.ac.in/engineering/academics/b-tech-electrical-engineering-microelectronics

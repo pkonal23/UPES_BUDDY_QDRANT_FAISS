@@ -1,0 +1,20 @@
+Dr. Mohammad Ahsan is currently serving as an Assistant Professor in the Informatics Cluster at the School of Computer Science, University of Petroleum and Energy Studies (UPES). Prior to his tenure at UPES, he was a faculty member in the Computer Science and Engineering Department at the National Institute of Technology (NIT) in Hamirpur, Himachal Pradesh, and at NIT Andhra Pradesh.
+
+His academic qualifications include a Ph.D. obtained in 2021 from the National Institute of Technology Hamirpur, with a focus on Social Media Mining, Machine Learning, Deep Learning, Natural Language Processing, Information Diffusion Analysis in online social networks, and Healthcare. Dr. Ahsan has a strong academic background, having qualified the Graduate Aptitude Test in Engineering (GATE) in the years 2012, 2013, and 2021, as well as the University Grants Commission - National Eligibility Test (UGC-NET) in 2015 and 2017.
+
+Dr. Ahsan teaches a variety of courses, including:
+- Data Science
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Data Mining
+- Advanced Computer Architecture
+- Computer Programming
+- Design and Analysis of Algorithms
+- Data Structures
+
+He is actively involved in supervising students in areas such as social media mining, machine learning, natural language processing, autonomous vehicles, and healthcare. Dr. Ahsan has contributed significantly to scholarly activities, having published and presented numerous research papers at international conferences and in international journals.
+
+His teaching philosophy emphasizes student-centered learning, practical application, and conceptual understanding while fostering ethical and social responsibility among students. Dr. Ahsan aims to cultivate not only competent professionals but also responsible global citizens through his educational approach.
+
+For further inquiries, Dr. Mohammad Ahsan can be contacted via email at md.ahsan@ddn.upes.ac.in.

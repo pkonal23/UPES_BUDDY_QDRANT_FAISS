@@ -1,0 +1,21 @@
+Research Interests
+Home
+Work Experience
+Close
+School of Computer Science
+Dr. Pankaj Kundan Dadure
+Linux OS and Shell Programming, C programming, NLP, Cyber Security and Ethics
+Faculty
+Scholarly Activities
+Natural Language Processing, Mathematical Information Retrieval, Visual Question Answering, and Gender Bias in AI-NLP Applications.
+Pankaj Dadure joined UPES in August 2022 as an Assistant Professor in the School of Computer Science.
+Courses Taught
+Eligibility Criteria
+Profile Summary
+Pankaj Dadure is a skilled researcher specializing in Natural Language Processing, Mathematical Information Retrieval, and Visual Question Answering. He has a Ph.D. from the National Institute of Technology Silchar and an M. Tech from the National Institute of Technology Arunachal Pradesh. Pankaj's work focuses on improving how computers understand human language and retrieve information. He has published several papers in respected conferences and journals. Pankaj is passionate about collaborating with others and advancing computer science in these exciting areas.
+pankajk.dadure@ddn.upes.ac.in
+Assistant Professor
+Pankaj Dadure believes in a supportive and engaging teaching approach. He focuses on practical knowledge and critical thinking. Pankaj encourages hands-on learning, real-life examples, and active participation. He nurtures curiosity, collaboration, and effective communication to help students grasp complex concepts and develop a lasting interest in computer science.
+Contact
+Teaching Philosophy
+Pankaj Dadure specializes in Artificial Intelligence, particularly Natural Language Processing (NLP). His scholarly activities revolve around applying NLP techniques in Mathematical Information Retrieval, Image Caption Generation, Text Summarization, and Machine Translation. Notably, he designs formula embedding techniques to enhance mathematical content retrieval. His research includes generating accurate image descriptions in low-resource languages, developing automatic text summarization techniques, and improving translation quality for languages like Khasi, Manipuri, and Assamese. Pankaj's contributions aim to bridge language barriers and improve accessibility in various domains through innovative NLP approaches. Moreover, he won the Lip-Sync Challenge-2021 by IIT Madras and CDAC Mumbai, was a finalist at Toycathon-2021 and Manthan 2021 organized by the Government of India, and received the Best Poster Award at the Student Research Convention - Anveshan 2.0. These accolades showcase his expertise and contributions in the field of Artificial Intelligence and NLP.

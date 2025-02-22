@@ -1,0 +1,31 @@
+Choosing between a B.Sc. Honours degree and a B.Sc. degree is an important decision for students interested in science and technology. The Bachelor of Technology (B. Tech.) in Computer Science and Engineering (CSE) is highlighted as a promising pathway for aspiring tech professionals, especially given the increasing demand for skilled engineers in the tech industry. 
+
+### Key Highlights of B. Tech. CSE:
+
+1. **High Demand for Computer Science Professionals**: The tech industry is experiencing rapid growth, with a projected job growth rate of 13% for computer and information technology occupations from 2022 to 2032, according to the Bureau of Labor Statistics.
+
+2. **Versatile Skill Set**: The B. Tech. CSE program equips students with essential skills in programming, database management, computer networks, software engineering, and emerging fields like artificial intelligence (AI) and machine learning (ML).
+
+3. **Career Opportunities**: Graduates can pursue various roles, including:
+   - **Software Developer**: Design and maintain software applications.
+   - **Data Analyst**: Interpret complex data to aid decision-making.
+   - **Cybersecurity Analyst**: Protect organizations from cyber threats.
+   - **AI Engineer**: Develop intelligent systems and algorithms.
+   - **Image Processing Engineer**: Work in industries such as healthcare and agriculture.
+
+4. **High Earning Potential**: Graduates command competitive salaries, reflecting the high demand for professionals in the field.
+
+5. **Adaptability and Problem-Solving Skills**: The curriculum fosters strong analytical thinking and problem-solving abilities, essential for troubleshooting and developing innovative solutions.
+
+6. **Advanced Studies**: Graduates can pursue further education, such as a Master’s or Ph.D. in various specializations within computer science and engineering.
+
+### Notable Achievements and Events:
+- UPES students and faculty were finalists in Toycathon 2021, showcasing their innovative gaming ideas to Prime Minister Narendra Modi.
+- UPES has earmarked ₹50 crore for an AI Center of Excellence to promote cutting-edge research and innovation.
+
+### Additional Information:
+- **Duration**: The B. Tech. CSE program typically spans four years, divided into eight semesters.
+- **Prerequisites**: A strong foundation in mathematics and science is generally required for enrollment.
+- **Contact for Admissions**: Students interested in applying for the B. Tech. CSE program can apply online or contact the admissions office for further information.
+
+This comprehensive overview illustrates that pursuing a B. Tech. in Computer Science and Engineering can lead to a rewarding and dynamic career in the tech industry, with a robust curriculum designed to prepare students for the challenges and opportunities in the field.

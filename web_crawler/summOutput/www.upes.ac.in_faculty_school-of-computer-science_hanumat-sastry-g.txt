@@ -1,0 +1,38 @@
+**Profile Summary of Prof. Hanumat Sastry G**
+
+**Research Interests and Academic Background:**
+Prof. Hanumat Sastry G has been a faculty member at the University of Petroleum and Energy Studies (UPES) since 2011, following his tenure as an assistant professor at JNIT College in Hyderabad and Dravidian University in Kuppam. His academic leadership is evidenced through various roles including Head of Department, Assistant Dean-Academics, and Associate Dean Research. Prof. Sastry adopts a “learning by doing” and project-based approach in his teaching, focusing on enhancing student outcomes by nurturing their inherent skills.
+
+**Work Experience and Contributions:**
+Prof. Sastry is deeply engaged in the field of artificial intelligence, particularly in optimization algorithms. His research includes:
+- Search optimization for large repositories utilizing semantic web and machine learning.
+- Real-time data processing through deep learning algorithms.
+- Optimized routing for vehicular networks via swarm intelligence.
+- Efficient broadcasting for vehicular networks using machine learning techniques.
+
+His research findings have been published in reputable journals and conferences. He has supervised five Ph.D. scholars, with two currently under his guidance.
+
+**Teaching and Curriculum Development:**
+Prof. Sastry teaches a range of core and specialized courses in computer science at the undergraduate, postgraduate, and Ph.D. levels. His areas of expertise include:
+- Algorithms
+- Databases
+- Machine Learning
+- Formal Languages and Automata Theory
+- Operating Systems
+- Software Engineering
+- Service-Oriented Architecture
+- Artificial Intelligence
+- Research Methodology
+
+He is recognized for his contributions to developing industry-aligned curricula, acknowledged by IBM-ICE, and has been awarded a Ph.D. research fellowship at Dravidian University. 
+
+**Academic and Research Activities:**
+Prof. Sastry's involvement in academic activities extends to serving as a reviewer for various prestigious journals and conferences, organizing special issues, and editing books. He has successfully conducted multiple funded faculty development programs and chaired the well-regarded international conference NGCT2017 in 2017.
+
+**Accreditation and Industry Collaboration:**
+He possesses extensive experience in accreditation processes, including QS, NAAC, NBA, and ABET. Prof. Sastry has successfully cultivated strategic partnerships with industry stakeholders, enhancing collaborative research projects, internships, and knowledge transfer, thereby enriching academic programs and providing practical opportunities for students.
+
+**Contact Information:**
+For inquiries, Prof. Hanumat Sastry can be reached at: **hsastry@ddn.upes.ac.in**. 
+
+In summary, Prof. Sastry is a dedicated academician with a strong commitment to teaching, research, and curriculum development in the field of computer science, particularly in artificial intelligence and optimization algorithms. His contributions have significantly impacted both academic and industry standards.

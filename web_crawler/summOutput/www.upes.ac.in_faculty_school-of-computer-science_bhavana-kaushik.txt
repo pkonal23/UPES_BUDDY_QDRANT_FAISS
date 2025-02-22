@@ -1,0 +1,57 @@
+**Profile Summary of Bhavana Kaushik**
+
+**Contact Information:**
+- Email: bkaushik@ddn.upes.ac.in
+
+**Current Position:**
+- Assistant Professor at the School of Computer Science, UPES
+
+**Academic Qualifications:**
+- **B.Tech (Hons)** in Computer Science, graduated as an academic topper in 2013
+- **M.Tech** in Computer Science, awarded a Silver Medal for outstanding performance in 2015
+- Currently pursuing a **PhD** in Image Processing and Computer Vision
+
+**Certifications:**
+- IRCA-certified Information Security Management System Lead Auditor (ISO 27001:2013)
+
+**Research Interests:**
+- Image Processing
+- Computer Vision
+- Biomedical Image Processing
+- Sustainable Business Models
+- Sustainable Computing
+
+**Work Experience:**
+- **Systems Engineer** at Infosys Ltd (2016-2017), where she received corporate training in Python programming and Mainframe Technology. Responsibilities included maintaining Mainframe Applications and converting IDMS to RDBMS for clients.
+
+**Leadership Roles:**
+- Chairperson of the IEEE Women in Engineering (WIE) GLA Affinity Student Group
+- Council Member of WICCI Uttarakhand IPR Council
+
+**Scholarly Activities:**
+- Extensive research contributions, including journal articles and book chapters. Key research areas include:
+  - Context-based tracking for similar and deformable objects
+  - Solar flare classification methods
+  - Surveillance techniques near the Indian Line of Actual Control (LAC) using remote sensing
+  - Automated identification of COVID-19 and pneumonia from chest X-ray scans
+  - Forensics in medical imaging and challenges in AI with human-computer interaction
+- Presented research at international conferences, including a paper on classifying erythemato-squamous skin diseases using conventional machine learning methods
+- Holder of five design patents in India
+
+**Teaching Philosophy:**
+- Emphasizes creating a supportive and engaging learning environment. Utilizes group activities and authentic problems to foster interactivity. Assigns preparatory materials prior to classes and maintains leaderboards to motivate students.
+
+**Courses Taught:**
+- Database Management Systems with SQL & PL/SQL
+- Software Engineering and Project Management
+- Python Programming
+
+**Awards and Grants:**
+- Silver Medal for M.Tech academic performance
+- Academic topper in B.Tech
+
+**Technical Skills:**
+- Proficient in C, C++, Python, and distributed computing frameworks
+- Experienced in IT infrastructure management frameworks
+
+Bhavana Kaushik’s comprehensive background in both academia and industry, combined with her leadership roles and significant research contributions, positions her as a notable figure in the field of computer science, particularly in data science, machine learning, and image processing.

@@ -1,0 +1,11 @@
+The project, titled "Phone Book Directory Using TRIE Data Structure," was developed by a group of B.Tech. CSE students—Vikash Kumar, Arihant Vardhan, Arpita Kumari, and Tanushpreet Kaur—from the batch of 2020-24. The project focuses on the significance of data structures, particularly the TRIE Data Structure, in optimizing storage and data retrieval for contact management.
+
+The TRIE Data Structure was selected for its ability to enhance the efficiency of searching and sorting names in a contact list. Unlike traditional methods that require searching through entire keys, the TRIE allows for retrieval based on individual characters or numbers, making it a superior choice for handling contact information. This structure is tree-based and includes value members and pointers to child nodes, which contributes to its speed advantages.
+
+The Phone Book System, a web application developed as part of this project, serves as a centralized platform for managing crucial contact information. It features functionalities that allow users to easily save contacts, perform name-based searches, and view comprehensive information about each contact. The application was designed with user requirements in mind, enabling actions such as adding, searching, and viewing existing records, ensuring that the phone book directory remains current and functional.
+
+The project aims to replace traditional physical contact books with a digital solution, addressing the inefficiencies of retrieving information from paper records. By centralizing contact details within the Phone Book System, users can manage their contacts more effectively and conveniently.
+
+For more information, the project is available on GitHub at the following link: [Phone Book Directory](https://github.com/ar885/Telephone-Directory). 
+
+This project was completed under the guidance of the School of Computer Science and showcases an innovative approach to contact management using advanced data structures.

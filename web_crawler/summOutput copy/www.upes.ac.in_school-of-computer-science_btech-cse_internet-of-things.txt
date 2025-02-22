@@ -1,0 +1,31 @@
+The B.Tech program in Computer Science & Engineering with a specialization in Internet of Things (IoT) at UPES School of Computer Science offers a comprehensive and dynamic education designed to equip students with essential knowledge and skills for the rapidly evolving IoT landscape. The curriculum covers foundational concepts to advanced applications, including IoT security, cloud platforms, programming, and sensor technologies. 
+
+### Program Structure and Curriculum
+The program spans eight semesters, with a diverse range of courses such as:
+- **Semester 1**: Critical Thinking and Writing, Data Structures and Algorithms Lab, Embedded Programming, Mathematics – I, and more.
+- **Semester 2**: Programming in C, Digital Electronics, and Communication Protocols Lab.
+- **Semester 3**: Physics for Computer Engineers, Microcontrollers Lab, and Problem Solving.
+- **Semester 4**: Internet of Things, Data Analytics for IoT Lab, and Python Programming Lab.
+- **Semester 5**: Data Analytics for IoT, Embedded Programming Lab, and Microcontrollers Lab.
+- **Semester 6**: Artificial Intelligence and Machine Learning, and Climate Change courses.
+- **Semester 7**: Advanced Engineering Mathematics, Leadership and Teamwork, and Capstone Projects.
+- **Semester 8**: Minor Projects and further specialization courses.
+
+### Practical Engagement
+Students engage in practical projects through thesis or capstone projects, where they gain hands-on experience in embedded coding, sensor deployment, data analysis, and IoT applications. The program emphasizes real-world projects and industry collaborations, preparing graduates for various roles in sectors like healthcare, manufacturing, agriculture, and smart cities.
+
+### Eligibility and Admission Process
+To be eligible for the program, applicants must have a minimum of 50% marks in Class X and XII, along with 50% in Physics, Chemistry, and Mathematics in Class XII. Admission is based on performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET. The last date to apply is February 25, 2025.
+
+### Career Opportunities
+Graduates are well-prepared for roles such as IoT Solution Architect, Embedded Systems Engineer, Data Analyst, and IoT Software Developer. The program boasts impressive placements, with an average annual package of 11.46 LPA and a highest package reaching 26.41 LPA. Notable recruiters include Accenture, Amazon India Limited, Barclays, and Capgemini.
+
+### Industry Trends and Future Scope
+The IoT sector is anticipated to grow significantly due to advancements in 5G and edge computing, enhancing device capabilities and security. The integration of AI and machine learning into IoT applications is expected to drive innovation further. Graduates will have opportunities in smart cities initiatives, R&D centers, and IoT-focused startups, positioning them to contribute to the digital transformation across various industries.
+
+### Contact Information
+For more information, prospective students can reach out via the following:
+- **Phone Number**: +91 [Contact number not fully provided]
+- **Email Address**: [Email address not fully provided]
+
+This comprehensive program at UPES School of Computer Science not only provides a robust educational foundation but also fosters personal and professional growth through mentorship, practical training, and industry engagement, preparing students for a successful career in the IoT domain.

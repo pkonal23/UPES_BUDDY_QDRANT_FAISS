@@ -1,0 +1,29 @@
+Research Interests
+IEEE membership in IEEE Engineering in Medicine and Biology Society and IEEE Signal Processing Society.
+Home
+Work Experience
+Awards and Grants
+Close
+School of Computer Science
+Digital Signal Processing, Image Processing, Machine Learning algorithms, Deep Learning Applications, Microprocessor and Interfaces, Operating System.
+Faculty
+Scholarly Activities
+Awarded with elite NPTEL online certificate for Biomedical Signal Processing.
+Dr. Shresth Gupta
+Program coordinator for organizing the training program on” Recent Trends in VLSI Design Using Microwind 3.8 EDA tool held at CSVTU on April 9, 2019, under TEQIP-III.
+Courses Taught
+Eligibility Criteria
+Before joining UPES, he has served as an assistant professor at University Teaching Department (UTD) of Chhattisgarh Swami Vivekanand Technical University, Bhilai (Chhattisgarh) in the department of Microelectronics and VLSI in 2019. Prior to this he served as a lecturer (2015-2019) and nodal officer at Government Polytechnic Ambikapur, Chhattisgarh where he contributed to the departments of ECE and CSE.
+Committee Member for organizing a Three-day workshop on Design and Simulation Approach for next Generation VLSI held at Research hub, CSVTU, Bhilai, India
+Recipient of Government of India scholarship during the Ph.D. program (July-2019 to May-2023).
+Profile Summary
+Assistant Professor
+Awarded for outstanding technical consulting service for a startup working on wearable technology as a part of social innovation immersion program, sparsh fellowship at HTIC, IIT Madras Research Park.
+Shresth Gupta is a distinguished professional in the field of Biomedical Signal Processing and Machine Learning, with a robust academic background and notable contributions to both research and industry. Having completed his postdoctoral fellowship at the University of Surrey, United Kingdom in the Department of Mathematics and Data Science, funded by UKRI Impact Acceleration Accounts (IAAs), Shresth holds a PhD from IIIT Naya Raipur in Biomedical Signal Processing and Machine Learning, awarded in November 2023. His educational journey includes an M-Tech and BE from Chhattisgarh Swami Vivekanand Technical University, Bhilai, in 2015 and 2011, respectively. Shresth's expertise extends to serving as a technical consultant for a startup under sparsh fellowship in IIT Madras research park specializing in wearable devices for health monitoring, where he guided interns in development projects. His research prowess is evident through numerous publications in esteemed peer-reviewed journals, including IEEE Transactions, and presentations at top-tier international conferences in Hong Kong and Scotland. Shresth has secured a granted patent in his domain and has contributed chapters to various books. Shresth's research interests encompass Biomedical Signal Processing, Machine Learning for healthcare applications, deep learning, and feature engineering. His comprehensive skill set and dedication to advancing healthcare technologies make him an asset in both academic and industrial settings.
+Biomedical Signal Processing I Machine Learning I Deep Learning I Feature Engineering I Data Analysis
+Contact
+Shresth Gupta's teaching philosophy is rooted in fostering a dynamic and engaging learning environment that empowers students to grasp complex concepts effectively. Central to his approach is the use of analogies and demonstrations, which serve as powerful tools for elucidating abstract ideas and making them relatable to real-world scenarios. Shresth firmly believes in the importance of community-based learning, where students collaborate within groups to undertake projects and exchange their diverse skill sets. By creating such an ecosystem, students not only enhance their understanding of the subject matter but also cultivate essential teamwork and communication skills. Moreover, Shresth is committed to inspiring students to actively participate in research activities relevant to their fields of study. Encouraging students to delve deeper into research not only broadens their knowledge base but also instils a deeper appreciation for the subject matter. Through these principles, Shresth aims to empower students to become critical thinkers, problem solvers, and lifelong learners in their academic and professional journeys.
+Awarded with the certification of National Institute of Technical Teachers Training, Bhopal.
+shresth.gupta@ddn.upes.ac.in
+Member of Technical Program Committee (TPC) in IEEE International Conference on Technology, Research and Innovation for Betterment of Society (TRIBES-2021).
+Teaching Philosophy

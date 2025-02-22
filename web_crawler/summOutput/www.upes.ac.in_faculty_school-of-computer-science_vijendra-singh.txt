@@ -1,0 +1,44 @@
+**Profile Summary of Prof. Vijendra Singh**
+
+**Current Position:**
+Prof. Vijendra Singh is a distinguished professor in the School of Computer Science at the University of Petroleum and Energy Studies (UPES), located in Dehradun, Uttarakhand, India. 
+
+**Academic Background:**
+He holds a Ph.D. in Engineering and an M. Tech in Computer Science and Engineering from the Birla Institute of Technology, Mesra, India. 
+
+**Professional Experience:**
+Prof. Vijendra has over 20 years of extensive experience in research, teaching, and the IT industry. Before his tenure at UPES, he served as a Partner at Machlearn Systems and as an Associate Professor at NorthCap University, where he oversaw research activities and Ph.D. program administration. His career also includes positions at Mody University and Asian CERC Information Technology Ltd in Bangalore.
+
+**Teaching and Courses:**
+He is actively involved in teaching various courses and labs focusing on artificial intelligence and machine learning. His teaching repertoire includes advanced topics such as:
+- **Pre Ph.D. Courses:** Big Data, Natural Language Processing, Machine Learning
+- **M.Tech Level:** Big Data Analytics, Spatial-Temporal Data Analytics, Foundations of Data Science, Soft Computing, Advanced Computer Networks, Advanced Computer Architecture, Parallel Computing
+- **B.Tech Level:** Data Mining and Warehousing, Operating Systems, Computer Networks, Network Programming, Statistics in Data Science, Computer Architecture, Hadoop, Big Data, Data Structures and Algorithms (DSA), Design and Analysis of Algorithms (DAA), Advanced Database Management Systems (ADBMS), Database Management Systems (DBMS), Artificial Intelligence, Big Data Search
+
+**Research Interests:**
+Prof. Vijendra’s research primarily focuses on data mining, medical imaging, data science, natural language processing, machine learning, and deep learning. He has authored 100 scientific papers published in high-impact factor SCI and SCOPUS journals. His research contributions include guiding three Ph.D. students and overseeing nine M.Tech dissertations.
+
+**International Collaborations:**
+He has led multidisciplinary teams in international collaborative projects with institutions such as the University of Dayton (USA), Universidad International de La Rioja (Spain), São Paulo State University (Brazil), and Providence University (Taiwan). His role as Organizing Chair for major international conferences includes:
+- ICMLDE 2022 in Dehradun, India
+- ICCIDS 2019 and 2018 in Delhi-NCR, India
+
+Additionally, he has organized workshops in collaboration with IBM Research Lab, conducted workshops at VIT Vellore, and led Faculty Development Programs (FDP) at Jaypee University of Information Technology.
+
+**Editorial Roles:**
+Prof. Vijendra has served in significant editorial capacities, including:
+- Editor in Chief for *Procedia Computer Science* (Volumes 132-218)
+- Associate Editor for *BMC Medical Informatics and Decision Making* and *BMC Digital Health*
+- Editorial Board Member for *IJIDS* (Inderscience, UK)
+
+**Grants and Funding:**
+He has received funding for various projects, including a grant from SERB (Department of Science and Technology, Government of India) and international travel support from Providence University for a Summer Immersion Programme in Taiwan.
+
+**Contact Information:**
+For inquiries, Prof. Vijendra can be reached via email at vijendra.singh@ddn.upes.ac.in.
+
+**Teaching Philosophy:**
+Prof. Vijendra emphasizes the importance of engaging students in a hands-on learning experience, encouraging them to explore their interests while providing structured guidance through tests and programming assignments to solidify their understanding of computer algorithms in practical applications. 
+
+**Conclusion:**
+Prof. Vijendra Singh's comprehensive background in academia, research, and industry, combined with his commitment to teaching and international collaboration, marks him as a prominent figure in the field of computer science, particularly in machine learning and data science.

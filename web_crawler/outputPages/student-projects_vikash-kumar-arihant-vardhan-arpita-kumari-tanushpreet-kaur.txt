@@ -1,0 +1,18 @@
+Download the Application:
+Vikash Kumar, Arihant Vardhan, Arpita Kumari & Tanushpreet Kaur, a group of students pursuing the degree of B.Tech. CSE with the specialization in Cloud Computing and Virtualization from the batch of 2020-24 completed the project by the implementation of Phone Book Directory Using TRIE Data Structure.
+The impact of storage and data structure on efficient data retrieval was duly recognized. Various implementations were explored to effectively store and process data according to the specific application's needs. Given the significance of keys in data searches, the TRIE Data Structure was chosen. Unlike traditional whole-key searches, the TRIE Data Structure enabled storage and retrieval based on individual characters or numbers constituting a key.
+Anjali Nayar
+To optimize the sorting of names in the contact list, the project utilized the TRIE Data Structure due to its speed advantages. This structure is rooted in the concept of a tree, with the TRIE Data Structure being an extension that includes a value member and pointers to node children. Overall, the Phone Book System offered an efficient, organized, and accessible solution for managing contact information.
+The Phone Book System is a web application that simplifies contact management by providing a centralized platform for storing and accessing crucial contact information. With features such as easy contact saving, name-based search, and comprehensive information viewing, users can effortlessly manage their contacts in one place. The system utilizes the efficient TRIE Data Structure to enhance data retrieval and sorting, ensuring quick and accurate access to contact names.
+Considering the typical requirements of users for a phone directory book, the system was meticulously designed. It facilitated actions such as adding, searching, and viewing existing records in the phone book directory to ensure its up-to-date functionality. Users could conveniently search for specific terms and retrieve entries matching their search criteria.
+Eligibility Criteria
+Assistant Professor (Selection Grade)
+Home
+Mentor
+https://github.com/ar885/Telephone-Directory
+Vikash Kumar, Arihant Vardhan, Arpita Kumari, Tanushpreet Kaur
+Close
+Student Project
+School of Computer Science
+The project involved the development of a user-friendly web application called the Phone Book System. Traditionally, storing essential contact information relied on physical books and papers, making retrieval cumbersome in case of loss. The team introduced an innovative solution that centralized contact details within a digital application. This application offered easy access to contacts, simplifying the process of saving, searching, and viewing contact information.
+Implementation of Phone Book Directory Using TRIE Data Structure

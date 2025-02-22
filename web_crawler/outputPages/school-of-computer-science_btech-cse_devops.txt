@@ -1,0 +1,183 @@
+Living Conversation
+Operating Systems
+Future Scope / Industry Trends
+Semester 4
+Statistics and Data
++91
+L
+B.Tech.
+First Name
+Learn to streamline operations with infrastructure automation using tools like Puppet and Ansible, ensuring efficient management and configuration of systems.
+PE-2 Lab
+5
+MC Simulation
+Critical Thinking and Writing
+Course Details
+Semester 1
+Data Structures and algorithms Lab
+Python programming Lab
+Object Oriented Programming
+Credit
+Program details
+DevOps Fundamentals and SCM LAB
+Eligibility
+Data communication and Networks Lab
+Course Type
+from UPES School of Computer Science holds promising growth and innovation prospects as businesses increasingly value integrating security seamlessly into software development. In this evolving landscape, DevOps will adapt to secure emerging technologies like cloud-native environments, containers, and microservices. Automation will persist as a foundation, promptly identifying and addressing vulnerabilities. Collaborative synergy among development, security, and operations will strengthen, nurturing a comprehensive security approach. Machine learning and AI will elevate threat detection and predictive analytics. Regulatory demands will drive DevOps alignment with industry standards. Immutable infrastructure and security practices as code will fortify application resilience. Ultimately, this program not only shapes software development's future but also ensures enduring security in the digital realm.
+PE-1 Lab
+I accept
+Please Select Condition
+DevSecOps: Integrating security
+Please enter email address
+Contact Us
+25
+2
+Semester 5
+*
+Programming in C Lab
+PE-1
+Explore container concepts through Docker, allowing the creation, distribution, and deployment of applications across various environments consistently.
+8
+for detailed Fee Structure.
+PE-3
+Summer Internship
+Call Me
+Problem Solving
+B.Tech. Computer Science & Engineering
+23
+Semester 3
+School Tour
+Physics for Computer Engineers
+Embrace cloud platforms like AWS, Azure, Google Cloud, and OpenStack to understand how to leverage cloud services for building, deploying, and managing applications in diverse environments.
+21
+Fee Structure
+Data Structures and algorithms
+Close
+24
+program at UPES School of Computer Science relies on the performance of individual candidates in UPESEAT / JEE Mains / Board Merit / SAT/ CUET.
+The future of
+Placements
+program at UPES School of Computer Science has shown impressive placement results. The average annual salary (CTC) for graduates is 8.72 LPA, with the highest placement reaching 16.63 LPA. The program boasts a strong list of top recruiters, including Accenture, Adenza, Barclays, CGI, Cognizant Technology Solutions, DXC Technology, Informatica, Oracle India Pvt Ltd, and more. Other prominent recruiters encompass BITS & BYTE, Capgemini Technology Services India Limited, Cradle Point, EXL Digital, Go Digit, LTI- L&T InfoTech, Optum Global Solutions India Pvt. Ltd., and ZS Associates. This placement success reflects the program's commitment to providing students with diverse and rewarding career opportunities in the field of DevOps and computer science.
+Formal Languages and
+Database Management Systems
+Please enter first name
+Linux Lab
+PE-4 Lab
+terms & conditions
+Mobile Number
+4
+program gain proficiency in using essential tools such as Git, Bitbucket, and SVN for source code control, and Jenkins, Bamboo, and VSTS for continuous integration, fostering effective collaborative development.
+Acquire skills in deploying applications seamlessly using automation and orchestration tools like Jenkins, VSTS, and Octopus Deploy, reducing deployment complexities.
+Discrete Mathematical Structures
+Artificial Intelligence and Machine
+Semester 6
+Climate Change - I
+Analysis
+Select Course
+P
+Lab
+Linear Algebra
+Program Elective 24 Credits
+Semester 2
+Suggested videos
+Design and Analysis of Algorithms
+DevOps
+CICD Pipeline and Security Lab
+CICD Pipeline and Security
+DevSecOps: Integrating Security in
+Mathematics – I
+22
+18
+Please Select Course Type
+Exploratory-2
+PE-3 Lab
+into DevOps practices
+Selection Criteria
+Research Methodology in CS
+T
+Software Engineering
+3
+Automata Theory
+Exploratory-5
+Academics
+Selection for admission to the
+Programming in C
+Digital Electronics
+program with a specialization in DevOps offered by UPES School of Computer Science is a forward-looking and innovative educational endeavor. By amalgamating essential computer science and engineering concepts with in-depth DevOps expertise, the program empowers students to become adept professionals who can thrive in the dynamic landscape of technology, security, and operations.
+Design and Analysis of Algorithms Lab
+How To Apply
+Object Oriented Analysis and Design
+1
+B.Tech Computer Science and Engineering- DevOps
+Enquiry Form
+Exploratory-1
+Start your Startup
+: Minimum 50% Marks in Class X and XII. Along with 50 % in PCM (Physics/Chemistry and Mathematics) in Class XII.
+Please enter mobile number
+Probability, Entropy, and
+-- None --
+--None--
+,
+Environmental Sustainability and
+PE-5
+program ensures our curriculum aligns with industrial demands. Graduates are equipped to excel in both fundamental Computer Science and Engineering domains, alongside specialized DevOps skills. This versatility enables seamless integration into top industry players such as SAP, Oracle, IBM, WatchGuard Technologies, McAfee, Amazon, Boeing, Microsoft, Google, and more. Our alumni have found success in various esteemed companies like Micro Focus, Cognizant, Cloud Thing, VMware, Deloitte, Hewlett Packard, Capgemini, ITC Infortech, Dell EMC, Adobe, Genpact, and Walmart Labs, showcasing the comprehensive opportunities our program offers.
+Computer Science & Engineering
+Students of the
+Climate Change - II
+Compiler Design
+program offered by UPES School of Computer Science, in collaboration with Xebia, is a cutting-edge academic initiative introduced in 2017. This specialized program is designed to equip students with comprehensive knowledge and skills in the field of DevOps, ensuring their readiness to excel in the ever-evolving tech industry.
+Exploratory-3
+PE-4
+A distinctive feature of the program is the involvement of dedicated expert faculty members who specialize in DevOps. Their expertise ensures that students receive up-to-date and industry-relevant knowledge. Moreover, the collaboration with Xebia, a notable name in the tech sector, brings invaluable insights from industry experts who train the faculty on the latest tools and technologies in DevOps. This collaborative effort ensures that students are well-prepared to address real-world challenges and leverage emerging trends in the domain. In conclusion, the
+B.Tech. CSE
+Please enter last name
+Develop expertise in orchestration techniques using Kubernetes and Swarm, facilitating efficient management of containerized applications at scale.
+Program Highlights
+Minor Project
+Semester 8
+Python programming
+Data communication and Networks
+Career Opportunities
+Container Orchestration and Security
+Curriculum
+The
+Home
+School of Computer Science
+PE-5 Lab
+Last Date to Apply: February 25, 2025
+Email Address
+DevOps Fundamentals and SCM
+TOTAL
+Admission Process
+Practices Lab
+Learning Lab
+B.Tech. in Computer Science & Engineering (DevOps)
+Apply now
+B.Tech. Computer Science & Engineering (DevOps)
+Advanced Engineering
+Exploratory-4
+Leadership and Teamwork
+Semester 7
+Please select Course
+Eligibility Criteria
+Capstone Project - Phase-1
+Interested students must meet the following minimum eligibility criteria for
+Further Information
+Cryptography and Network
+Design Thinking
+Computer organization and Architecture
+PE-2
+Click here
+Object Oriented Programming Lab
+IT Ethical Practices
+Advanced Engineering Mathematics – II
+Database Management Systems Lab
+The curriculum is meticulously crafted to provide students with a strong foundation in computer science and engineering. It covers fundamental concepts such as algorithms, data structures, and object-oriented programming, complemented by in-depth exploration of databases and software engineering design methodologies. The program uniquely integrates development and operation principles, unraveling the complexities of DevOps through specialized courses. These encompass key areas including source code control, continuous integration and continuous deployment (CI/CD), containerization, orchestration, CICD pipeline security, and code vulnerability analysis.
+Learning
+Course
+At UPES School of Computer Science, our
+Security
+0
+Last Name
+System Provisioning and Monitoring
+Capstone Project - Phase-2

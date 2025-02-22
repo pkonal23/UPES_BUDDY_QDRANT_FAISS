@@ -1,0 +1,8 @@
+The "Sitemap Student Project" outlines the structure of a website dedicated to a student project. The main sections include:
+
+- **Home**: The landing page of the website.
+- **Close**: An option to close the sitemap view.
+- **Sitemap**: A detailed layout of the website's content and navigation.
+- **Eligibility Criteria**: A section that likely outlines the requirements for participation in the student project.
+
+No specific contact details or additional information are provided in the content.

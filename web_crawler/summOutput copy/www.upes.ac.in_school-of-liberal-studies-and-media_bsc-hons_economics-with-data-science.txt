@@ -1,0 +1,36 @@
+The Economics with Data Science program at UPES emphasizes a quantitative and empirically-based approach, enabling students to apply theoretical knowledge to real-world situations. The curriculum is structured across eight semesters, offering a blend of core and elective courses designed to enhance analytical skills and practical experience.
+
+**Program Structure:**
+- **Semester 1:** Core courses include Principles of Economics, Probability and Statistics I, and an Exploratory Course. Students with a non-mathematics background must complete a Remedial Mathematics module.
+- **Semester 2:** Courses include Linear Algebra, Macroeconomics I, and an Exploratory Course.
+- **Semester 3:** Focus on Data Analysis in Python, Statistics II, and an Exploratory Course.
+- **Semester 4:** Courses like Data Science Elective II and Economics Elective I.
+- **Semester 5:** Introduction to Machine Learning, Econometrics I, and an Internship.
+- **Semester 6:** Research Seminar, Exploratory Course VIII, and Data Structures and Algorithms.
+- **Semester 7:** Courses include Calculus II, Probability and Statistics II, and Exploratory Course III.
+- **Semester 8:** Final electives including Economics Elective IV and a Dissertation.
+
+**Eligibility Criteria:**
+- Minimum 50% in 10th and 12th grades is required for admission to the B.Sc. (Hons.) Economics with Data Science program.
+- Preference for students who have studied Mathematics or Economics in their 12th grade.
+
+**Career Opportunities:**
+Graduates can pursue various roles such as:
+- Data Analyst/Scientist
+- Market Research Analyst
+- Research Analyst
+- Policy Analyst at think tanks and consulting firms
+- Industry Analyst
+- Opportunities in academics, public services, and NGOs.
+
+**Unique Features:**
+- The program promotes transdisciplinary learning, allowing students to engage with peers from diverse fields such as Engineering, Law, Management, and Health Sciences.
+- Faculty members come from prestigious institutions, providing students with access to cutting-edge research and innovative practices.
+- The curriculum includes hands-on experiences through internships, fellowships, and research seminars, fostering critical thinking and analytical skills.
+
+**Contact Information:**
+For further inquiries, prospective students can reach out via the provided contact details:
+- Phone: +91 [number not specified]
+- Email: [email address not specified]
+
+This program is designed to prepare students for the challenges of a data-driven world, equipping them with the necessary skills to make informed policy decisions and drive meaningful change in various sectors.

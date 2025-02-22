@@ -1,0 +1,31 @@
+The UPES School of Computer Science offers a comprehensive B.Tech program in Computer Science & Engineering with a specialization in Data Science. This program is meticulously designed to equip students with essential skills and knowledge to excel in the rapidly evolving field of data science. The curriculum emphasizes the identification of patterns in data and the extraction of meaningful insights through various statistical techniques. 
+
+### Program Structure:
+- **Core Training**: The program includes rigorous training in data extraction, wrangling, and pre-processing, which are crucial steps before data analysis. 
+- **Specialization**: Students can specialize in specific subjects or skills within data science, developing expertise in areas such as advanced analytics and artificial intelligence (AI).
+- **Hands-on Experience**: The program features state-of-the-art computer labs equipped with high-end systems and software, providing practical exposure to technologies like Hadoop, Spark, and AI-driven tools.
+
+### Curriculum Highlights:
+- **Key Courses**: The curriculum covers a range of subjects including Data Structures, Machine Learning, Deep Learning, Data Visualization, and Statistical Analysis.
+- **Capstone Projects**: Students undertake capstone projects, guided by experienced mentors, allowing them to tackle real-world data challenges and apply their theoretical knowledge practically.
+- **Industry Relevance**: The program has a strong focus on industry trends, ensuring graduates are prepared for roles in diverse sectors such as finance, healthcare, e-commerce, and technology.
+
+### Placement Opportunities:
+- **Career Prospects**: Graduates of the program have a remarkable track record, with an average campus placement package of 8.7 LPA and a highest package of 26.41 LPA. 
+- **Top Recruiters**: Notable companies hiring graduates include Google, Microsoft, Amazon, IBM, Deloitte, Accenture, JPMorgan Chase, and more, indicating the program's strong industry connections.
+
+### Admission Criteria:
+- **Eligibility**: Candidates must have a minimum of 50% marks in Class X and XII, and at least 50% in Physics, Chemistry, and Mathematics in Class XII.
+- **Selection Process**: Admissions are based on performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET.
+
+### Important Dates:
+- **Last Date to Apply**: February 25, 2025.
+
+### Contact Information:
+- For further inquiries or to apply, interested students can reach out via the official UPES website or contact the admissions office directly.
+
+### Additional Opportunities:
+- **Scholarships**: UPES offers scholarships based on academic excellence, sports achievements, and socio-economic background.
+- **International Exposure**: Students can benefit from partnerships with international universities through exchange programs, study tours, and conferences.
+
+Overall, the B.Tech program in Computer Science & Engineering (Data Science) at UPES prepares students to become proficient data scientists, ready to navigate the complexities of data analysis and AI in a variety of professional settings.

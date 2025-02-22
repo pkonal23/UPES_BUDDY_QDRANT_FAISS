@@ -1,0 +1,61 @@
+**Dr. Shiladitya Bhattacharjee - Profile Summary**
+
+Dr. Shiladitya Bhattacharjee is an Assistant Professor (SG) in the Informatics cluster at the School of Computer Science, UPES, Dehradun, where he has been since June 2022. He has accumulated over 7.6 years of teaching and research experience across various esteemed institutions, including:
+
+- **UPES (Dehradun, Uttarakhand, India)**
+- **SRM Institute of Science and Technology (Chennai, India)**
+- **Universiti Teknologi PETRONAS (Perak, Malaysia)**
+- **Lincoln University College (Selangor, Malaysia)**
+- **Shahdara Group of Institutions (Rajasthan, India)**
+
+His research experience includes collaborations with significant organizations such as Hitachi (Japan), PETRONAS (Malaysia), and Kyutech (Japan).
+
+**Research Interests and Goals**
+
+Dr. Bhattacharjee's primary research interests lie in:
+
+- Big Data Security
+- Cloud Computing and Cloud Security
+- Parallel Processing with GPU (Graphics Processing Unit)
+
+He focuses on the challenges and security aspects of Big Data transmission and Cloud Computing. His main objective is to develop integrated tools and algorithms to address security issues and improve processing capabilities. He aims to expand his research into machine learning, deep learning, and AI-related fields.
+
+**Teaching Experience**
+
+Dr. Bhattacharjee enjoys teaching various undergraduate courses in the Computer Science and Engineering (CSE) curriculum. His areas of expertise include:
+
+- Network Security
+- Big Data Analyses
+- Advanced Networking
+- System Programming and Administration
+- Operating Systems
+- Microprocessors
+- Digital Electronics
+- Computer Architecture
+- Object-Oriented Programming
+- Programming Languages (C, C++, Java)
+
+He emphasizes the importance of effective teaching, which he believes is influenced by student motivation and teacher preparedness. He strives to create an engaging and inspiring classroom environment.
+
+**Awards and Recognition**
+
+Dr. Bhattacharjee has received several accolades, including:
+
+- **GOLD Medal for Best Research** from SRM Institute of Science and Technology in 2021.
+- **Professional Technologist (P. Tech)** title from the Malaysian Board of Technologists (MBOT).
+- He has also qualified in GATE 2007 with an All-India Rank of 530.
+
+**Publications and Grants**
+
+He has over 25 publications in reputed journals, conferences, and edited books, along with 23 intellectual properties filed as copyrights/patents. His research has generated significant revenue, securing RM 4,58,970 through various grants related to Cloud Computing, Big Data Security, and seismic data processing.
+
+**Future Research Plans**
+
+Dr. Bhattacharjee aims to leverage GPU processing for efficient big data analysis while ensuring data integrity and confidentiality. He plans to incorporate Hadoop, HBase, and Hive for effective data distribution and retrieval, along with predictive analysis through machine learning, particularly in the oil, gas, and turbine sectors. He is actively seeking governmental and non-governmental funding for his research initiatives.
+
+**Contact Information**
+
+For inquiries, Dr. Shiladitya Bhattacharjee can be reached at:
+- **Email:** shiladitya.bhattacharjee@ddn.upes.ac.in
+
+This comprehensive profile highlights Dr. Bhattacharjee’s academic journey, research interests, teaching philosophy, and future aspirations in the field of computer science and engineering.

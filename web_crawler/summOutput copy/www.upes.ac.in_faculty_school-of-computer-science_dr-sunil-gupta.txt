@@ -1,0 +1,13 @@
+Dr. Sunil Gupta is a seasoned academic with over 19 years of experience in computer science and engineering, focusing on teaching, research, and industry applications. He has held various academic positions at institutions such as BML Munjal University, Delhi Technical Campus, IP University, Northern India Engineering College, IIMT, Baddi University of Emerging Science, IFTM University, and currently serves as a professor at the University of Petroleum and Energy Studies (UPES).
+
+His research interests are extensive and include secure connections between entities, cloud security, wireless sensor security, telemedical healthcare, data management and security, and various aspects of network management and protocols. Dr. Gupta has a particular focus on resource management in wireless networks and has contributed significantly to the field through his scholarly activities.
+
+Dr. Gupta has delivered expert lectures at notable events, such as the online Faculty Development Program (FDP) at NITTTR, Chandigarh, on "Nanotechnology Enabled Wireless Communication and Internet of Things," which took place from April 25 to April 29, 2022. He has also been a resource person at the All India Faculty Development Program (AIFDP2k21) on Emerging Trends in Online Education, where he lectured on IT Security.
+
+His teaching philosophy emphasizes the importance of practical experience, encouraging students to apply theoretical knowledge through discussions, examples from daily life, and connections to current affairs. He is dedicated to creating an engaging classroom environment that fosters independent learning and creativity.
+
+Dr. Gupta has received accolades for his work, including a Certificate of Merit for his paper "Authentication Framework Against Malicious Attack in Mobile Wireless Sensor Networks" presented at the 2017 IAENG International Conference on Communication Systems and Applications. He has authored five textbooks and over 100 academic publications, along with holding more than 10 patents. His scholarly interests encompass security, cloud computing, big data, sensor technology, wireless networks, and healthcare.
+
+He is affiliated with several professional organizations, including the International Association of Engineers, IEEE Society, Computer Society of India, Computer Science Teacher Association, International Association of Computer Science and Information Technology, and the Internet Society (ISOC).
+
+For further inquiries or collaboration, Dr. Gupta can be contacted via email at **s.gupta@ddn.upes.ac.in**.

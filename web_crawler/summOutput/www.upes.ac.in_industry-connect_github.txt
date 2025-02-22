@@ -1,0 +1,19 @@
+GitHub India Private Limited is a prominent software development platform that connects a diverse community of professionals, including data scientists, app developers, researchers, teachers, and government technocrats. With over 50 million users, 3 million organizations, and more than 100 million code repositories, GitHub plays a crucial role in meeting developer needs and enhancing software security globally.
+
+In collaboration with the University of Petroleum and Energy Studies (UPES), GitHub India aims to enhance entrepreneurship and employability among the next generation of software developers enrolled in various courses at UPES. This partnership, formalized through a Memorandum of Understanding (MoU), will focus on collaborative software development, coding practices, and the reuse of software code, while providing access to professional and enterprise-grade platforms.
+
+Key initiatives under this partnership include:
+
+1. **GitHub Classroom**: A platform for students to create assignments, collaborate with teaching assistants, and manage coursework through a centralized dashboard that also facilitates automatic grading.
+
+2. **Challenges and Hackathons**: Regularly organized events focused on relevant themes and problem areas to engage students and teachers in practical coding experiences.
+
+3. **Mentorship Programs**: Providing access to global experts who will mentor teachers and students on coding and open-source software development trends and practices.
+
+4. **GitHub Campus Program**: UPES will receive a complimentary package that includes technical tools, faculty training, and support for developing technical student communities on campus.
+
+5. **GitHub Student Developer Pack**: This initiative offers students free access to over 100 industry-leading software development tools.
+
+6. **Access to GitHub Enterprise**: Every department within UPES will have free access to both GitHub Enterprise Server and GitHub Enterprise Cloud as part of the GitHub Campus Program.
+
+These efforts aim to support start-ups and foster entrepreneurship development initiatives within the educational framework, ultimately preparing students for successful careers in technology.

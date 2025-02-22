@@ -1,0 +1,26 @@
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Close
+School of Computer Science
+Dr. Rautela's teaching philosophy is grounded in the belief that education should be an engaging and transformative experience. She strives to create an interactive learning environment that encourages students to explore concepts practically and develop problem-solving skills. By integrating theoretical knowledge with practical, hands-on applications, she aims to prepare students for successful careers in industry and academia.
+Throughout her academic career, Dr. Rautela has taught a variety of courses, including Computer Vision, Digital Signal Processing, Machine Learning, Digital Electronics, Python Programming, and Electronics and Communication Fundamentals.
+Dr. Rautela currently serves as an Assistant Professor at the School of Computer Science, UPES, where she is actively involved in cutting-edge research in computer vision and AI. Her role encompasses both teaching and mentoring students, as well as spearheading advanced research projects that address real-world challenges.
+Faculty
+Scholarly Activities
+Dr. Kamakshi Rautela is an accomplished AI engineer and academic professional specializing in healthcare, computer vision, and AI-based anomaly detection. With extensive research and teaching experience in electronics, communication, and computer science, she has consistently demonstrated a passion for advancing technology and nurturing future professionals. Backed by a strong academic foundation and multiple high-impact publications, she is recognized for her contributions to medical imaging, signal processing, and computer vision, particularly in the development of innovative learning models for healthcare. Dr. Rautela completed her Ph.D. from Delhi Technological University in the area of Medical Image Processing, where her work was recognized with the Commendable Research Excellence Award.
+Dr. Rautela is an active contributor to the academic community. She serves as a reviewer for prominent journals such as "Computer in Biology and Medicine" by Elsevier and "Scientific Reports" by Springer.
+Courses Taught
+Her extensive publication record includes articles in high-impact journals like "Archives of Computational Methods in Engineering," "International Journal of Imaging Systems and Technology," and "Biocybernetics and Biomedical Engineering." Dr. Rautela has presented her work at numerous international conferences, contributing significantly to the field of AI, medical imaging, and healthcare technologies.
+Eligibility Criteria
+She holds a patent on the "Design of Ultrasonic Pattern Generator and Vibrator for Root Canaling Process in Endodontics," reflecting her innovation in medical device technology.
+Previously, Dr. Rautela worked as an AI Engineer at CIRUS Defence Pvt. Ltd., where she led the development of real-time anomaly detection systems using sophisticated AI models for defense applications. Her contributions significantly enhanced the robustness of military-grade systems by employing advanced computer vision techniques. Her journey in research began at Delhi Technological University, where she served as a Research Scholar, conducting groundbreaking studies in medical imaging and computer vision. During this time, she worked on projects that employed AI to tackle complex problems in healthcare, leading to significant advancements in early cancer detection technologies.
+kamakshi.rautela@ddn.upes.ac.in
+Dr. Kamakshi Rautela
+Dr. Rautela's excellence in research has been recognized through several prestigious awards and grants. She received an International Travel Grant for presenting her research at an international conference and was awarded a fellowship by Delhi Technological University for her Ph.D. work. Her contributions to research have also earned her the Commendable Research Excellence Award in both 2023 and 2024, highlighting her dedication to advancing the field of AI and healthcare.
+Profile Summary
+Assistant Professor
+Contact
+Dr. Rautela's research interests lie at the intersection of healthcare and artificial intelligence, with a particular focus on medical imaging, signal processing, AI-based anomaly detection, and computer vision techniques. She is passionate about leveraging deep learning models to address critical challenges in healthcare, such as early detection of breast cancer and other medical conditions. Her work also extends to signal and image processing, exploring innovative solutions that contribute to the advancement of medical diagnostics and anomaly detection in various environments.
+Teaching Philosophy

@@ -1,0 +1,300 @@
+﻿LOCATION:
+ 
+ 
+ 
+User: "how to reach SRE" / "how to reach UPES sre" / "where is sre" / "location of sre in university"
+Bot: You can reach SRE with the help of Google Maps by just clicking at:
+\
+Bidholi - https://maps.app.goo.gl/m4yzAa9rxqGXxyTH7
+\
+Kandoli - https://maps.app.goo.gl/bW1eKaYUJCVMrj4dA
+ 
+ 
+User: "how to reach runway" / "how to reach UPES runway" / "where is runway" / "location of runway in university"
+Bot: You can reach to Runway with the help of Google Maps by just clicking at https://maps.app.goo.gl/MWYbDfxHdENhG2Cj7
+ 
+ 
+User: "how to reach maingate" / "how to reach UPES Main Gate" / "where is maingate" / "location of maingate in university"
+Bot: You can reach to Main Gate with the help of Google Maps by just clicking at https://maps.app.goo.gl/jBDMRKxZkE6sp9Nq6
+ 
+ 
+User: "how to reach registrar office" / "how to reach UPES registrar" / "where is registrar" / "location of registrar in university"
+Bot: You can reach to Registrar Office with the help of Google Maps by just clicking at https://maps.app.goo.gl/9ub8EdPfvzoCXFHPA
+ 
+ 
+User: "how to reach chancellor office" / "how to reach UPES chancellor" / "where is chancellor office" / "location of chancellor office in university"
+Bot: You can reach to Chancellor Office with the help of Google Maps by just clicking at https://maps.app.goo.gl/DJjX8Z8MvEN9rtmbA
+ 
+ 
+User: "how to reach vice chancellor office" / "how to reach UPES vice chancellor" / "where is vc office" / "location of vice chancellor office in university"
+Bot: You can reach to Vice Chancellor Office with the help of Google Maps by just clicking at https://maps.app.goo.gl/DJjX8Z8MvEN9rtmbA
+ 
+ 
+User: "how to reach UPES apo" / "where is apo office" / "location of apo office in university" / "location of apo in campus"
+Bot: You can reach APO with the help of Google Maps by just clicking at https://maps.app.goo.gl/kMnF4qMaq5N4MfTNA
+ 
+ 
+User: "how to reach lost and found" / "where is lost and found" / "location of lost and found in university" / "location of lost and found in campus"
+Bot: You can reach to Lost and Found with the help of Google Maps by just clicking at https://maps.app.goo.gl/zh6GiWgaLuMS8QL16
+ 
+ 
+User: "how to reach salon" / "where is salon" / "location of salon in university" / "location of salon in campus"
+Bot: You can reach to Salon with the help of Google Maps by just clicking at https://maps.app.goo.gl/BzxQiMR83veBks3q7
+ 
+ 
+User: "how to reach stationary" / "where is stationary" / "location of stationary in university" / "location of stationary in campus"
+Bot: You can reach to Stationary with the help of Google Maps by just clicking at https://maps.app.goo.gl/BzxQiMR83veBks3q7
+ 
+ 
+User: "how to reach placement office" / "where is placement office" / "location of placement office in university" / "location of placement office in campus"
+Bot: You can reach Placement Office with the help of Google Maps by just clicking at:
+\
+Bidholi - https://maps.app.goo.gl/xcBc7DwHDDTQJrXYA
+\
+Kandoli - https://maps.app.goo.gl/HTjLXNZy4Ttu3uox6
+ 
+ 
+User: "how to reach containers" / "where is container" / "location of container in university" / "location of container in campus"
+Bot: You can reach to Containers with the help of Google Map by just clicking at https://maps.app.goo.gl/DDqxgfmZvHP9ZSVF6
+ 
+ 
+User: "how to reach hubble trust" / "where is hubble trust" / "location of hubble trust in university" / "location of hubble trust in campus"
+Bot: You can reach to Hubble Trust Meeting Room with the help of Google Maps by just clicking at https://maps.app.goo.gl/8dGhrkPvCByDg1786
+ 
+ 
+User: "What's the way to get to block 1?" / "Can you guide me to block 1?" / "Directions to block 1, please." / "How do I find my way to block 1?"
+Bot: You can reach Block 1 with the help of Google Maps by just clicking at https://maps.app.goo.gl/YKAkASTeThYTCnBv6
+ 
+ 
+User: "What's the way to get to block 2?" / "Can you guide me to block 2?" / "Directions to block 2, please." / "How do I find my way to block 2?"
+Bot: You can reach Block 2 with the help of Google Maps by just clicking at https://maps.app.goo.gl/Ce9edyE5y9cEEMJH6
+ 
+ 
+User: "What's the way to get to block 3?" / "Can you guide me to block 3?" / "Directions to block 3, please." / "How do I find my way to block 3?"
+Bot: You can reach Block 3 with the help of Google Maps by just clicking at https://maps.app.goo.gl/uFFa1ZVBDXUmyHYYA
+ 
+ 
+User: "What's the way to get to block 4?" / "Can you guide me to block 4?" / "Directions to block 4, please." / "How do I find my way to block 4?"
+Bot: You can reach Block 4 with the help of Google Maps by just clicking at https://maps.app.goo.gl/iq81L14wQ92vHBV7A
+ 
+ 
+User: "block one" / "first block" / "1st block"
+Bot: You can reach Block 1 with the help of Google Maps by just clicking at https://maps.app.goo.gl/YKAkASTeThYTCnBv6
+ 
+ 
+User: "block two" / "second block" / "2nd block"
+Bot: You can reach Block 2 with the help of Google Maps by just clicking at https://maps.app.goo.gl/Ce9edyE5y9cEEMJH6
+ 
+ 
+User: "block three" / "third block" / "3rd block"
+Bot: You can reach Block 3 with the help of Google Maps by just clicking at https://maps.app.goo.gl/uFFa1ZVBDXUmyHYYA
+ 
+ 
+User: "block four" / "fourth block" / "4th block"
+Bot: You can reach Block 4 with the help of Google Maps by just clicking at https://maps.app.goo.gl/iq81L14wQ92vHBV7A
+ 
+ 
+User: "block five" / "fifth block" / "5th block"
+Bot: You can reach Block 5 with the help of Google Maps by just clicking at https://maps.app.goo.gl/GpY7dirqo8vXrM8B8
+ 
+ 
+User: "block six" / "sixth block" / "6th block"
+Bot: You can reach Block 6 with the help of Google Maps by just clicking at https://maps.app.goo.gl/jF4nzkrQmUqQVLBP8
+ 
+ 
+User: "block seven" / "seventh block" / "7th block"
+Bot: You can reach Block 7 with the help of Google Maps by just clicking at https://maps.app.goo.gl/Xk1yBdv7iK2vFYjs7
+ 
+ 
+User: "block eight" / "eighth block" / "8th block" / "Where is the school of design"
+Bot: You can reach Block 8 with the help of Google Maps by just clicking at https://maps.app.goo.gl/rjd2NAAR9YUsWsa36
+ 
+ 
+User: "block nine" / "ninth block" / "9th block" / "Where is the school of computer science"
+Bot: You can reach Block 9 with the help of Google Maps by just clicking at https://maps.app.goo.gl/jNPm9xFLPCFRbKBT7
+ 
+ 
+User: "block ten" / "tenth block" / "10th block"
+Bot: You can reach Block 10 with the help of Google Maps by just clicking at https://maps.app.goo.gl/3oeeNSNs9V8Kp9wCA
+ 
+ 
+User: "block eleven" / "eleventh block" / "11th block"
+Bot: You can reach Block 11 with the help of Google Maps by just clicking at https://maps.app.goo.gl/CgEmvYyp7HK49W6q9
+ 
+ 
+User: How to reach lab block / where i can find lab block / location of lab block / where is lab block
+Bot: You can reach Lab Block with the help of Google Maps by just clicking at https://maps.app.goo.gl/8VR6AgbTrvtDdi2R6
+ 
+ 
+User: What's the way to get to Gandhi Chowk? / Can you guide me to Gandhi Chowk? / Directions to Gandhi Chowk, please. / How do I find my way to Gandhi Chowk?
+Bot: You can reach Gandhi Chowk with the help of Google Maps by just clicking at https://maps.app.goo.gl/tKNa62X5ZJGJV5u19
+ 
+ 
+User: What's the way to get to Old Amphi? / Can you guide me to Old Amphi? / Directions to Old Amphi, please. / How do I find my way to Old Amphi?
+Bot: You can reach Old Amphitheatre with the help of Google Maps by just clicking at https://maps.app.goo.gl/fXimUJXPSqsZUoQ28
+ 
+ 
+User: What's the way to get to New Amphi? / Can you guide me to New Amphi? / Directions to New Amphi, please. / How do I find my way to New Amphi?
+Bot: You can reach New Amphitheatre with the help of Google Maps by just clicking at https://maps.app.goo.gl/q41TGCfUoogBiEA18
+ 
+ 
+User: How to Vivekanand Auditorium / Where is Vivekanad Auditorium / Where is Vivekanand Auditorium / Where is Vivekananda Auditorium
+Bot: You can reach Vivekananda Auditorium with the help of Google Maps by just clicking at https://maps.app.goo.gl/C8Gx33eegTFQsduz7
+ 
+ 
+User: How to reach Enrollment Office / Where is Enrollment Office / where i can find Enrollment Office / Location of Enrollment Office
+Bot: You can reach Placement Office with the help of Google Maps by just clicking at:
+\ \nBidholi - https://maps.app.goo.gl/CgEmvYyp7HK49W6q9
+\ \nKandoli - https://maps.app.goo.gl/bW1eKaYUJCVMrj4dA
+ 
+ 
+User: How to Frisco / Where is Frisco / where i can find Frisco / Location of Frisco
+Bot: You can reach Frisco with the help of Google Maps by just clicking at https://maps.app.goo.gl/4BmWivjmV2M6BUgK6
+ 
+ 
+User: How to reach Barons / Where is Barons / where i can find Barons / Location of Barons
+Bot: You can reach Barons with the help of Google Maps by just clicking at https://maps.app.goo.gl/DtxbkFQ5fvuqeYBKA
+ 
+ 
+User: What's the way to get to Tulips / guide me to Tulips / How to reach Tulips / Location of Tulips
+Bot: You can reach Tulips with the help of Google Maps by just clicking at https://maps.app.goo.gl/Nemjgnt9sNV562ms8
+ 
+ 
+User: How to reach chai garam / How to reach chai / where i can find chai garam / Location of chai garam / Chai Garam
+Bot: You can reach Chai Garam with the help of Google Maps by just clicking at https://maps.app.goo.gl/XHwDVnhJfzXWAXx5A
+ 
+ 
+User: IT Tower / How to reach IT Block / How to reach IT tower / where i can find IT Tower / IT Block / Location of IT Block / Location of IT Tower
+Bot: You can reach IT Tower with the help of Google Maps by just clicking at https://maps.app.goo.gl/RPvBkPTwAgUG4SMMA
+ 
+ 
+ 
+User: transport office location / where is transport office / how to reach transport office / where to get bus pass / where to contact for bus query
+Bot: You can reach the Reception with the help of Google Maps by just clicking at https://maps.app.goo.gl/VeHVp3PEh26EmKGW7
+ 
+ 
+User: How to reach IT department / where I can find IT department / location of IT department / where is IT department / it department / How to reach IT department / where I can find IT department / location of IT department / where is IT department / Where is IT section in UPES / it section / it office / Tell me something about IT department / Where Is IT helpdesk / it helpdesk
+Bot: You can reach IT Department with the help of Google Maps by just clicking at https://maps.app.goo.gl/AuKCTxaW7mbZ6bb19
+ 
+ 
+User: How to reach CAD lab / where I can find CAD lab / location of CAD lab / where is CAD lab / CAD lab / Cad Laboratory / How to reach CAD Laboratory / where I can find CAD Laboratory / location of CAD Laboratory / where is CAD Laboratory
+Bot: You can reach CAD Lab with the help of Google Maps by just clicking at https://maps.app.goo.gl/F2zX8ZdsrVYTrSYE8
+ 
+ 
+User: how to reach sob / where is school of business / location of SOB in university / location of School of business in campus / direct me to SOB / help me to reach school of business / SOB location / school of business location on google map
+Bot: You can reach the School Of Business with the help of Google Maps by just clicking at https://maps.app.goo.gl/TWkpMycaXkeopSSRA
+ 
+ 
+User: how to reach admin department / where is admin dept / location of Admin dept in university / location of admin dept in campus / direct me to admin dept / help me to reach admin dept / administrative dept location / admin dept location on google map
+Bot: You can reach Admin Department (Kandoli) with the help of Google Maps by just clicking at https://maps.app.goo.gl/qwZ4PHJQQKmYcbFW9
+ 
+ 
+User: how to reach school of modern media / where is school of modern media / location of school of modern media in university / location of school of modern media in campus / direct me to school of modern media / help me to reach school of modern media / school of modern media location / school of modern media location on google map
+Bot: You can reach the School of Modern Media with the help of Google Maps by just clicking at https://maps.app.goo.gl/9i5NJ9wH7YRTAjbn9
+ 
+ 
+User: how to reach moot court / where is mood court / location of moot court in university / location of moot court in campus / direct me to moot court / help me to reach moot court / moot court location / moot court location on google map
+Bot: You can reach Moot Court with the help of Google Maps by just clicking at https://maps.app.goo.gl/q5DQf77jFvkKhSmu6
+ 
+ 
+ 
+ 
+User: gym / gym pass / where is gym / how to reach gym / gym location / location gym / way to gym / how to get gym pass / gym timings
+Bot: You can reach the Gym with the help of Google Maps by just clicking at:
+\ \nBidholi - https://maps.app.goo.gl/nK9apRWjEZmwTesX7
+\ \nKandoli - https://maps.app.goo.gl/ynjEroes3GZkTipu5
+ 
+ 
+User: "where is fire training ground in upes?" / "how to reach to fire training ground in upes?" / "location of fire training ground" / "fire training ground"
+Bot: You can reach to the fire training ground with the help of Google Maps by just clicking at: https://goo.gl/maps/sTZUvEeWFLYWL5uG9
+ 
+ 
+User: "how to reach hubble?" / "how to reach hubble block?" / "hubble block location" / "hubble location"
+Bot: You can reach to the hubble block with the help of Google Maps by just clicking at: https://goo.gl/maps/rKsjqSL3uCDfyJEF6
+ 
+ 
+User: "where is pump location in upes?" / "pump location" / "how to reach pump location?" / "pump location in upes"
+Bot: You can reach to the pump with the help of Google Maps by just clicking at: https://goo.gl/maps/tm26XZPfnHuM8LMK6
+ 
+ 
+User: "where is rain harvesting in upes?" / "location of rain harvesting in upes" / "rain harvesting in upes" / "rain harvesting points in upes"
+Bot: There are multiple rain harvesting areas. You can visit some with the help of Google Maps by just clicking at: https://goo.gl/maps/jr33khcFM7Jyzid6A
+ 
+ 
+User: "is there any safety zone in upes?" / "safety zone in upes" / "locations of safety zone in upes" / "safety zones"
+Bot: You can see the various safety zones mentioned in the image or You can visit the safety zone board with the help of Google Maps by just clicking at: https://goo.gl/maps/XoMdW5pDXZ2iaKYY7
+ 
+ 
+User: "is the sewage plant in upes?" / "sewage treatment plant in upes" / "sewage plant in upes" / "sewage plant"
+Bot: You can reach to the sewage plant with the help of Google Maps by just clicking at: https://goo.gl/maps/PC9EYVCLvBWk5zJs8
+ 
+ 
+User: "solar tree location" / "location of solar tree in upes" / "where is solar tree in upes?" / "how to reach to solar tree in upes?"
+Bot: You can reach to the solar tree with the help of Google Maps by just clicking at: https://goo.gl/maps/xzY6Ju3wM7df4Cn96
+ 
+User: "how to reach food court" / "how to reach canteen" / "where is food court" / "location of food court in university"
+Bot: You can reach the food court with the help of Google Maps by just clicking at:
+\
+Bidholi - https://www.google.com/maps/dir//30.4159679,77.9677752/@30.4159679,77.9655865,17z/data=!4m2!4m1!3e0?hl=en
+\
+Kandoli - https://maps.app.goo.gl/g3LpMN6A5TNXYnjm6
+ 
+ 
+User: "how to reach infirmary" / "how to reach UPES infirmary" / "where is infirmary" / "location of infirmary in university"
+Bot: You can reach the infirmary with the help of Google Maps by just clicking at:
+\
+Bidholi - https://www.google.com/maps/dir//30.4160436,77.9680081/@30.4160436,77.9658194,17z/data=!4m2!4m1!3e0?hl=en
+\
+Kandoli - https://maps.app.goo.gl/MW8VHmDMuyYQEAYh6
+ 
+ 
+User: "how to reach finance office" / "how to reach finance office in UPES" / "where is finance office" / "location of finance office in university"
+Bot: You can reach the finance department with the help of Google Maps by just clicking at:
+\
+Bidholi - https://www.google.com/maps/dir//30.4171381,77.9672431/@30.4171381,77.9650544,17z/data=!4m2!4m1!3e0?hl=en
+\
+Kandoli - https://maps.app.goo.gl/npP2aDuPXc8L9fQH7
+ 
+ 
+User: "how to reach library" / "how to reach UPES library" / "where is library" / "location of library in university"
+Bot: You can reach the library with the help of Google Maps by just clicking at:
+\
+Bidholi - https://www.google.com/maps/dir//30.4173333,77.9677493/@30.4173333,77.9655606,17z/data=!4m2!4m1!3e0?hl=en
+\
+Kandoli - https://maps.app.goo.gl/9b8JxgTHLuVYoUHy6
+ 
+ 
+User: "how to reach mac" / "how to reach multi activity center" / "where is MAC" / "location of MAC in university"
+Bot: You can reach the Multi Activity Center (MAC) with the help of Google Maps by just clicking at: https://www.google.com/maps/dir//30.4169853,77.9667635/@30.4169853,77.9645748,17z/data=!4m2!4m1!3e0?hl=en
+ 
+ 
+User: "how to reach boys hostel?" / "where is boys hostel in UPES?" / "boys hostel in UPES" / "location of boys hostel in UPES"
+Bot: You can reach the Boys Hostel with the help of Google Maps by just clicking at:
+\
+Bidholi - https://goo.gl/maps/izcenMLXNgMR5XFF8
+\
+Kandoli - https://maps.app.goo.gl/cVeWcKRW8NqgyuRx7
+ 
+ 
+User: "how to reach girls hostel?" / "where is girls hostel in UPES?" / "girls hostel in UPES" / "location of girls hostel in UPES"
+Bot: You can reach the Girls Hostel with the help of Google Maps by just clicking at:
+\
+Bidholi - https://goo.gl/maps/xN3Ky2siqJ25UptC8
+\
+Kandoli - https://maps.app.goo.gl/VHE4CWow6MrJ2zvz7
+ 
+ 
+User: "how to reach student welfare office?" / "where is student welfare office?" / "location of student welfare office" / "how to reach dsw office?"
+Bot: You can reach the Student Welfare Office with the help of Google Maps by just clicking at: https://goo.gl/maps/Wt43ToUAWX2TV5eQ6
+ 
+ 
+User: "where is electrical sub-station in upes?" / "location of electrical sub-station" / "electrical sub-station" / "how to reach to electrical sub-station in upes?"
+Bot: You can reach to the electrical sub-station with the help of Google Maps by just clicking at: https://goo.gl/maps/GZEVJ1EVBasn2ghe9
+ 
+ 
+User: "where is fire rig zone in upes?" / "how to reach to fire rig zone?" / "location of fire rig zone" / "fire rig zone in upes"
+Bot: You can reach to the fire RIG zone with the help of Google Maps by just clicking at: https://goo.gl/maps/ymsQWQUNo3jb83eQ8
+ 
+ 
+
+

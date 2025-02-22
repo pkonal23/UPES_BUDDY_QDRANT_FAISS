@@ -1,0 +1,27 @@
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Close
+School of Computer Science
+During the span of the last 10 years in academics, Deepak has been teaching diverse subjects related to computer science engineering from core subjects to programming subjects.  Some of the courses, which he has taught in recent years are: Data Structures, Big Data Analytics, Big Data Storage, Blockchain for Business, Operating System, Database management System, Data Mining and Warehousing, Cryptography, Business process Management, Object Oriented Analysis and Design. Programming courses: Object Oriented Programming using Java, Python Programming, and Principle of Programming Language using C.
+Deepak has achieved significant accomplishments throughout his academic and professional journey. With 4 granted patents and 1 published patent, he has made notable contributions in his field. In recognition of his expertise and dedication, Deepak was awarded the prestigious Gold Partner Faculty distinction in the 2018 Infosys Ltd Campus Connect Program. He has also made a positive impact on the education of aspiring students, successfully training more than 500 individuals in Python Programming through the Infosys Foundation Program. Furthermore, his exceptional skills were demonstrated by qualifying the GATE CS examination in both 2011 and 2015.
+Faculty
+Deepak has held the position of Assistant Professor-SS in the School of Computer Science at UPES, located in Dehradun, Uttarakhand, India.  He obtained his Master's degree (M.Tech.) in Computer Science and Engineering from Jaypee University of Information Technology in Solan, Himachal Pradesh. Currently, he is pursuing a Ph.D. in Computer Science & Engineering at UPES in Dehradun. He has made significant contributions to his field, with numerous research papers published in reputable journals and conferences. He is also a certified Python professional, having received certification from Infosys Ltd. His research interests primarily revolve around Blockchain, data mining, and warehousing, data analytics, as well as information and web security. On top of his academic achievements, his talent extends to the sporting arena, where he represented his university's football team in a competitive inter-university tournament held in Goa.
+Scholarly Activities
+Deepak has made notable contributions to academia with his publications in esteemed journals and conferences. His research interests encompass Blockchain, data mining and warehousing, data analytics, as well as information and web security. In addition to his research endeavours, he has served as a guiding force for numerous projects that have garnered recognition at different levels. Moreover, he has achieved significant milestones with the grant of four patents in the field of blockchain and related domains.
+Conducted several workshops and professional software training programs covering areas such as Python, Blockchain, and Linux programming for students of UPES and outside UPES.
+Courses Taught
+Eligibility Criteria
+Assistant Professor (SS)
+Deepak Kumar Sharma
+Prior to joining UPES, Deepak served as an Assistant Professor at Ganpat University in Gujarat, India from 2013 to 2015. Over the course of the last 10 years, he has held various administrative positions, including Course Coordinator, Internship Coordinator, and roles within Examination Teams and Project Committees. In addition to his administrative responsibilities, Deepak has demonstrated his organizational skills by coordinating academic events such as UHackathon (1.0, 2.0, 3.0, 4.0) and international conferences like ICIIP, ICPDGC, NGCT and ICMLDE. He has also facilitated several workshops and Faculty Development Programs (FDPs) for various teachers and students during his academic career. He has trained various students in Python programming under the Infosys Foundation Program.
+Deepak's teaching philosophy centres on creating a student-centred environment that promotes active learning and intellectual curiosity. He strives to empower students by providing the tools and guidance they need to succeed. Utilizing innovative teaching methods and practical applications, Deepak fosters critical thinking skills and cultivates a supportive and inclusive classroom. Through collaboration, respect, and open dialogue, he aims to instil a lifelong love for learning and prepare students for future success.
+Conducted a 2-day workshop on Python Programming for Teachers from the Kendriya Vidyalaya Dehradun region at Kendriya Vidyalaya ONGC Dehradun in 2018.
+dksharma@ddn.upes.ac.in
+Profile Summary
+Conducted a 5-day workshop on various Python topics for teachers at Kendriya Vidyalaya IIP Dehradun in June 2019.
+Actively participated in the Teacher Excellence program conducted by the Ahmedabad Management Association.
+Contact
+Invited multiple times as a panel member for computer science teacher recruitments in various Kendriya Vidyalaya schools in Dehradun.
+Teaching Philosophy

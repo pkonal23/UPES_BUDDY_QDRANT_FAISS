@@ -1,0 +1,37 @@
+The M. Tech. program in Computational Fluid Dynamics (CFD) offered by the UPES School of Advanced Engineering is a comprehensive two-year graduate degree designed to equip students with advanced skills in numerical simulation of complex mechanical systems. The program covers various aspects of fluid dynamics, structural dynamics, and mechanics of materials, utilizing high-performance computing and specialized software. 
+
+### Curriculum Overview
+The curriculum includes a blend of theoretical and practical components, featuring courses such as:
+- Advanced Fluid Mechanics
+- Turbulence Modelling
+- Combustion and Reactive Flows
+- Numerical Methods for Multiphase Flows
+- Finite Element Method for Fluid Dynamics
+- Computational Aeroacoustics
+
+Students participate in hands-on labs, including:
+- CFD Programming Lab I & II
+- CFD Application Lab I & II
+- Flow Visualization and Quantification
+
+The program culminates in a one-year thesis, allowing students to engage in in-depth research.
+
+### Eligibility Criteria
+Candidates must possess a B.Tech/BE in Aerospace, Aeronautical, Mechanical, Civil, or Chemical Engineering with a minimum of 60% marks. Preference is given to those who have qualified for GATE or NET. Additionally, students must have achieved at least 60% in their Higher and Senior Secondary education (10th and 12th grades).
+
+### Admission Process
+Interested candidates should fill out an inquiry form and meet the eligibility criteria. Selection will be based on performance in a personal interview.
+
+### Career Opportunities
+Graduates of the program can pursue careers in various sectors, including aerospace, automotive, civil engineering, and research institutions. Potential roles include Simulation Engineers, Structural Analysts, Finite Element Analysts, and CFD Specialists. The program's strong industry connections and dedicated placement cell enhance job prospects, with graduates being actively sought after by leading companies.
+
+### Industry Trends
+The future of CFD is promising, driven by the need for simulation-driven design for efficient product development. The integration of advanced technologies such as multi-physics simulations, optimization techniques, and machine learning is transforming the field, creating vast opportunities across multiple industries.
+
+### Facilities and Support
+UPES provides state-of-the-art facilities, including high-performance computing labs, to support academic and research endeavors. The university also offers dedicated placement support, enhancing students' employability in leading engineering sectors globally.
+
+### Contact Information
+For further inquiries, students can reach out via the provided contact details, although specific phone numbers or email addresses were not included in the text.
+
+Overall, the M. Tech. in Computational Fluid Dynamics at UPES prepares students for a dynamic career in engineering, emphasizing both theoretical knowledge and practical skills to address complex engineering challenges.

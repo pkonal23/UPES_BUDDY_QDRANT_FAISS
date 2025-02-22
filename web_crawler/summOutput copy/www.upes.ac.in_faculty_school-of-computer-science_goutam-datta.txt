@@ -1,0 +1,11 @@
+Goutam Datta is an accomplished academic and researcher currently serving as an Assistant Professor at the School of Computer Science, UPES, since October 2018. He is in the process of completing his Ph.D. at Banasthali Vidyapith in Rajasthan. His educational background includes an M.Tech. in Computer Science and Engineering and a B.E. in the same field from M.D. University, Rohtak, and Amravati University, Maharashtra, respectively, alongside a Diploma in Industrial Electronics from the Board of Technical Examination, Mumbai.
+
+With over 20 years of experience in both teaching and industry, Goutam has a diverse skill set encompassing Data Mining, Machine Learning, Artificial Intelligence, Software Engineering, Data Analytics, Operating Systems, Shell Programming, and Object-Oriented Programming. His research interests are primarily focused on the intersection of Natural Language Processing and Machine Learning, with a particular emphasis on language translation and Deep Learning. He has completed various training programs related to Image and Video Processing, Data Analytics, and Natural Language Processing at prestigious institutions such as IITs, IIITs, and IIMs.
+
+Goutam has authored approximately 20 research papers and has filed multiple patents, demonstrating his active engagement in scholarly activities. He has also served as a reviewer for numerous conference papers and journal articles. His professional affiliations include memberships in the Indian Society for Technical Education (ISTE) and the European Alliance for Innovation (EAI).
+
+In terms of mentoring, Goutam has guided numerous B.Tech and M.Tech research projects, encouraging students to engage in research that benefits society. Notably, one of the projects he mentored in the computer vision domain received an award at the district level.
+
+Goutam’s teaching philosophy emphasizes the importance of conceptual understanding, problem-solving skills, and project-based learning. He believes that these elements are crucial for preparing students to apply their knowledge effectively to real-world challenges.
+
+For contact, Goutam can be reached via email at gdatta@ddn.upes.ac.in.

@@ -1,0 +1,24 @@
+Randomized Algorithm | Resource Allocation | Device to device communication |  Machine Learning
+Research Interests
+Home
+Work Experience
+Close
+School of Computer Science
+R&D Auriss Technology Pvt Limited as a senior software engineer after submitting thesis in 2021.
+M.Tech and PhD in Computer Science from Indian Statistical Institute in Jan 2022.
+Prof Ghosal believes in unfolding new concepts and chooses an applicative approach. Each topic in Computer Science comes with an application for solving some problems. He found its easy to start from problem and then derive the solution. In the context of mathematics in computer science, students must learn every topic at the moment of teaching math with examples and simple codes and visuals/ tangiability.
+Faculty
+Dr. Subhakar Ghosal's moto of research is to narrow down the gap between theoretical computer science and its application in the real domain. It is well-known that many groundbreaking theoretical results die down in theory without getting a chance to be applied to real-world applications. Dr. Ghosal especially works on randomized algorithms and successfully applies them in 5G-6G device-to-device communication. Randomized algorithms use random numbers for decision-making and provide probabilistic guarantees of efficiency. One of Prof Ghosal's notable contributions is a novel paradigm of randomized algorithms, which enhances the optimum hitting probability by an exponential factor of problem size.
+Cryptography
+Courses Taught
+Eligibility Criteria
+subhankar.ghosal@ddn.upes.ac.in
+Dr. Subhankar Ghosal
+Operation Research and Optimization (Theory, Lab)
+Profile Summary
+Assistant Professor
+Assistant Professor of Computer Science in SoCS in UPES from 2023-
+Contact
+Prof Ghosal is/was
+Software Engineering
+Teaching Philosophy

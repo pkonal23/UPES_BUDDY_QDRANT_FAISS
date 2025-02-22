@@ -1,0 +1,38 @@
+Research Interests
+Image Segmentation and Enhancement
+Home
+Work Experience
+Dr. Mausam Chouksey is a dedicated academic and researcher specializing in Image Processing, Signal Processing, Machine Learning, and Optimization Algorithms. With over 10 years of research experience and 2 years of teaching expertise, he has significantly contributed to computer vision, biomedical image processing, and artificial intelligence. Dr. Chouksey holds a Ph.D. from IIT Patna, where his work on image segmentation using multiverse optimization garnered acclaim, supported by an MHRD scholarship. He is a two-time GATE qualifier (2011, 2012) and actively contributes as a reviewer for leading journals, including Expert Systems with Applications, Artificial Intelligence, and Knowledge-Based Systems.
+Digital Electronics
+Awards and Grants
+Dr. Mausam Chouksey has been recognized for his academic excellence and contributions throughout his career. He received prestigious MHRD scholarships during both his M.Tech and Ph.D. programs, reflecting his outstanding academic achievements. A two-time GATE qualifier in 2011 and 2012, he demonstrated exceptional proficiency in engineering and technology. Dr. Chouksey also played a pivotal role as a member of the organizing committee for the NCVPRIPG conference in 2015 at IIT Patna, showcasing his commitment to fostering academic collaboration. His research contributions have been widely recognized, with high-impact publications in journals such as Expert Systems with Applications and Multimedia Tools and Applications. Additionally, his active participation in national and international conferences has further solidified his reputation as a leading researcher and educator.
+mausam.chouksey@ddn,upes.ac.in
+Close
+School of Computer Science
+Dr. Chouksey believes in creating an interactive and engaging learning environment that bridges theoretical knowledge with practical applications. He emphasizes critical thinking and problem-solving, encouraging students to develop independent learning skills and stay ahead in the rapidly evolving technological landscape.
+Optimization Algorithms and Soft Computing
+Biomedical Image Processing
+Faculty
+Electric Circuit Analysis
+Dr. Mausam Chouksey actively contributes to the academic community as a reviewer for renowned journals, including Expert Systems with Applications, Artificial Intelligence, and Knowledge-Based Systems. He regularly evaluates high-quality research papers, ensuring advancements in the fields of AI, image processing, and optimization techniques. Additionally, he presents his research at international conferences and mentors students in cutting-edge academic projects.
+Scholarly Activities
+Dr. Chouksey's research focuses on:
+Dr. Mausam Chouksey brings over a decade of research experience and two years of teaching expertise to his academic career. Currently serving as an Assistant Professor at UPES, he is actively involved in teaching advanced technical courses, mentoring students, and conducting innovative research in artificial intelligence, computer vision, and optimization algorithms. Previously, as a Visiting Professor at IIIT Lucknow, he delivered a comprehensive Natural Language Processing curriculum for master's students, while also guiding their academic and professional development. Before this, he worked as an Assistant Professor at Saveetha Engineering College, where he taught core subjects such as Signal and Systems, Digital Electronics, and Communication Theory, while mentoring BTech students in projects and academic events.
+Courses Taught
+Eligibility Criteria
+Signal Processing Techniques
+Dr. Mausam Chouksey
+Electronic Circuit
+Dr. Chouksey’s research journey began during his Ph.D. at IIT Patna, where he conducted groundbreaking studies in image segmentation and optimization algorithms, leading to high-impact publications. He also contributed significantly to academic communities by organizing conferences like NCVPRIPG 2015 at IIT Patna. Throughout his career, he has demonstrated a commitment to fostering academic excellence through curriculum development, innovative research, and effective student mentorship. His work reflects a dedication to advancing technology and inspiring the next generation of professionals.
+Deep Learning
+Profile Summary
+Digital Signal Processing
+Natural Language Processing
+Control System
+Assistant Professor
+Signal and Systems
+Machine Learning and AI Applications
+Contact
+Communication System
+Teaching Philosophy
+Dr. Chouksey’s commitment to academia extends to mentoring students, organizing conferences like NCVPRIPG 2015 at IIT Patna, and delivering innovative curricula. His teaching philosophy emphasizes bridging theoretical concepts with practical applications to foster critical thinking and innovation. A prolific researcher, his high-impact publications and active participation in national and international conferences reflect his dedication to advancing technology and inspiring future professionals. Currently, as an Assistant Professor at UPES, he continues to shape academic excellence and pursue groundbreaking research in AI, computer vision, and optimization techniques.

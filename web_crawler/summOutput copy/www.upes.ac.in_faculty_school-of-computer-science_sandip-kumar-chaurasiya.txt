@@ -1,0 +1,34 @@
+**Summary of Sandip Kumar Chaurasiya's Profile**
+
+**Name:** Sandip Kumar Chaurasiya  
+**Position:** Assistant Professor  
+**Institution:** School of Computer Science, UPES (University of Petroleum and Energy Studies)  
+**Email Contact:** schaurasiya@ddn.upes.ac.in  
+
+**Teaching Experience:**  
+Sandip Kumar Chaurasiya has over 13 years of teaching experience, during which he has significantly influenced the academic and professional trajectories of his students. Prior to his tenure at UPES, he served as an assistant professor at DIT University, Dehradun, for more than five years, and at Saroj Institute of Technology and Management, Lucknow, for one year. He has been a part of UPES since July 2016.
+
+**Teaching Philosophy:**  
+Chaurasiya emphasizes project-based learning and hands-on sessions, believing that lifelong learning is fostered through experimentation. His teaching approach encourages creativity and cultivates expertise and commitment among students.
+
+**Research Interests:**  
+Chaurasiya is an active researcher with a focus on:
+- Wireless Sensor Networks (WSN)
+- Internet of Things (IoT)
+- Disconnected/Partitioned Wireless Sensor Networks
+- Metaheuristic Algorithms
+
+He has a robust publication record, contributing numerous research articles to SCI and Scopus-indexed journals and prestigious international conferences. Additionally, he has authored several books on wireless sensor networks published by international publishers.
+
+**Courses Taught:**  
+He specializes in fundamental and core subjects within computer science and engineering, including:
+- Discrete Mathematics
+- Formal Language and Automata Theory
+- Compiler Design
+- Principles of Programming Languages
+- Modelling and Simulation
+- IoT Programming
+
+These courses are designed to provide students with a solid foundation, equipping them with vital skills and knowledge for their future careers.
+
+In summary, Sandip Kumar Chaurasiya is a dedicated educator and researcher, committed to fostering student development through innovative teaching methodologies and extensive subject matter expertise.

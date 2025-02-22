@@ -1,0 +1,13 @@
+Dr. Bhupendra Singh is an accomplished academic associated with the University of Petroleum and Energy Studies (UPES) for over eight years, where he has held various leadership roles, particularly in curriculum design and the establishment of the Centre of Excellence for IoT. He is an integral part of the School of Computer Science, engaging in teaching and supporting its daily operations.
+
+Dr. Singh's academic background includes an MTech from the Indian Institute of Information Technology, Allahabad (2009-2011), and a B.E. from Kumaon Engineering College, Dwarahat (2005-2009). His notable expertise lies in sensors and microcontroller-based applications for healthcare, rehabilitation, and assistive technology, as well as human-computer interaction.
+
+He holds five patents and has authored over ten research papers published in prestigious journals, including the IEEE Sensor Journal and Elsevier's Speech Communications. In 2022, he presented his research at the IEEE R10 Humanitarian Technology Conference in Hyderabad. He has been awarded three research projects totaling INR 2.15 lakh and has supervised a student project funded with INR 50,000.
+
+Before joining UPES, Dr. Singh worked as an Associate Technology Consultant at Sapient Consulting Pvt. Ltd., contributing to energy trading and risk management projects for a European oil and gas company, including a significant migration project in Dusseldorf, Germany.
+
+Dr. Singh teaches a variety of courses, including C/C++ Programming, Computer Graphics, Image Processing, Microprocessor and Microcontroller Systems, Introduction to IoT, IoT Protocols and Standards, ARM Programming for Industrial Applications, Web-based 3D Graphics with WebGL, and Web VR/AR with THREE JS. His teaching philosophy emphasizes strengthening foundational knowledge while integrating the latest technological advancements, encouraging active student participation, and enhancing understanding through hardware demonstrations and practical lab work.
+
+Additionally, Dr. Singh is pursuing an entrepreneurial venture with his startup, Sense 3D Technologies, which focuses on developing next-generation gesture-based controllers for computer games. He has also authored a textbook titled "Learn 3D Graphics Programming for the Web using WebGL."
+
+For inquiries, Dr. Singh can be contacted via email at **bhupendra.singh@ddn.upes.ac.in**.

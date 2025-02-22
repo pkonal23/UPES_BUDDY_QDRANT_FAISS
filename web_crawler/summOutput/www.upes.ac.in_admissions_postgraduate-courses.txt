@@ -1,0 +1,32 @@
+The content provides detailed information about the University of Petroleum and Energy Studies (UPES), its admission process, eligibility criteria, campus facilities, and technology requirements for students. 
+
+**Photography and Digital Media**: Students are encouraged to showcase their photography skills and any digital media experimentation, including drawing, sketching, and rendering, using both 2D and 3D techniques.
+
+**University Overview**: UPES was established under an Act of the Uttarakhand State Legislature on September 1, 2003. The Governor of Uttarakhand acts as the 'Visitor' of the university, while the Principal Secretary of Higher Education serves as the 'Representative' of the state on various boards.
+
+**Operating System Requirements**: Students must have a mandatory operating system such as Windows XP/Vista/7/8 Professional Edition or the latest version of Mac OS. Proof of ownership is required. Additionally, students need a productivity suite capable of editing Microsoft Office documents, with Microsoft Office Student Edition recommended.
+
+**Campuses**: UPES has two campuses in Dehradun:
+1. **Bidholi Campus (Energy Acres)**: Programs under the School of Advanced Engineering, School of Computer Science, School of Design, and School of Health Sciences & Technology.
+2. **Kandoli Campus (Knowledge Acres)**: Programs under the School of Law, School of Business, School of Modern Media, and School of Liberal Studies.
+
+**Admissions and Eligibility**: Applicants must have a minimum of 50% marks in their Higher and Senior Secondary levels (Class X and XII). For Law programs, candidates can apply through the UPES Law Studies Aptitude Test (UL-SAT), CLAT Score, LSAT Percentile, or Board Merit.
+
+**Technology Requirements**: 
+- Students are required to possess a laptop or tablet that meets specific minimum configurations, including:
+  - Operating System: Legal and appropriately patched (Windows Professional recommended).
+  - Memory: At least 4 GB.
+  - Storage: Minimum of 32 GB.
+  - Processor: Intel Core i3 or equivalent AMD processor or higher.
+  - External keyboard and connectivity options (USB, VGA, HDMI).
+  - Capability to connect to Wi-Fi and comply with university network policies.
+
+**Placement and Scholarships**: UPES has a strong placement record, with over 90% placement rates for the past five years. The highest CTC rose from ₹28 LPA in 2021 to ₹50 LPA in 2022. The university has partnerships with banks like Axis Bank and State Bank of India to facilitate education loans.
+
+**Hostel and Accommodation**: Limited on-campus accommodation is available on a first-come-first-serve basis, with separate blocks for boys and girls. Students are advised to verify private hostel arrangements independently.
+
+**Application Process**: Interested candidates can apply online through the UPES website, and the last date for submitting applications is to be announced. Admit cards will be issued post successful completion of the test booking process.
+
+**Additional Resources**: For more information, students can visit [UPES Official Website](https://www.upes.ac.in) and the admissions section at [UPES Admissions](https://admission.upes.ac.in/apply).
+
+In summary, UPES provides comprehensive educational opportunities with a focus on technology and industry readiness, ensuring students are well-equipped for their academic and professional journeys.

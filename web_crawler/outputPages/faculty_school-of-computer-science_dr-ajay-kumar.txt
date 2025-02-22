@@ -1,0 +1,21 @@
+Research Interests
+Home
+Work Experience
+Close
+School of Computer Science
+Faculty
+Dr. Ajay Kumar is an Assistant Professor with extensive experience in academia. He has held positions as an Assistant Professor at several esteemed institutions, including the University of Petroleum and Energy Studies (UPES) in Dehradun, Bennett University in Greater Noida, Amity University in Gwalior. Prior to pursuing his Ph.D., Dr. Kumar served as an Assistant Professor at the Noida Institute of Engineering and Technology. His diverse teaching experiences have enriched his understanding of various educational environments, allowing him to effectively engage students and foster their intellectual growth.
+Scholarly Activities
+Dr. Ajay Kumar's teaching philosophy centers around creating a dynamic and engaging learning environment that fosters intellectual curiosity and critical thinking among students. He believes in the power of active learning, where students are encouraged to participate, collaborate, and apply their knowledge to real-world scenarios. Dr. Kumar incorporates various teaching methodologies, including interactive discussions, hands-on activities, and problem-solving exercises, to facilitate a deeper understanding of the subject matter. He emphasizes the importance of building strong student-teacher relationships, promoting open communication, and providing individualized support to ensure each student's academic growth.
+He has a granted design patent and has published various research papers in reputed journals and conferences. He has published several research papers in reputed SCI-indexed journals, including IEEE transaction and several Scopus conference papers.
+Dr. Ajay Kumar
+Courses Taught
+Eligibility Criteria
+ajay.kumar@ddn.upes.ac.in
+Profile Summary
+Assistant Professor (Senior Scale)
+Contact
+Dr. Ajay Kumar's research focuses on various aspects of computer science, with a particular emphasis on social network analysis, link prediction, and influence maximization in complex networks. He, in collaboration with his colleagues has published a series of impactful papers in prestigious journals such as ACM Transactions on Asian and Low-Resource Language Information Processing, Applied Intelligence, Knowledge-based Systems, and the Journal of Computational Science. Their work showcases the application of innovative techniques and algorithms to solve challenging problems in social network analysis, utilizing approaches such as Higher-Order Path Index, Fuzzy Logic, and Centrality Measures.
+Dr. Ajay Kumar has taught courses such as Design and Analysis of Algorithms, Data Structures, Data Communication and Computer Networks, Big Data with Hadoop, and Programming in Java, Python, and C. Through his teaching, Dr. Kumar strives to provide students with a solid foundation in fundamental concepts and practical skills. He emphasizes the importance of understanding algorithmic design principles, implementing efficient data structures, and comprehending the intricacies of data communication and computer networks.
+Teaching Philosophy
+Dr. Ajay Kumar is an Assistant Professor in the School of Computer Science at the University of Petroleum and Energy Studies (UPES), Dehradun. He holds a Ph.D. in Computer Science and Engineering from the Indian Institute of Technology (IIT), BHU Varanasi, an M.Tech in Computer Science & Engineering from S.A.T.I Vidisha, and a B.Tech in Computer Science & Engineering from RKDF IST Bhopal. Throughout his career, he has published various research papers in reputable journals and has had the privilege of presenting her findings at international conferences and workshops.

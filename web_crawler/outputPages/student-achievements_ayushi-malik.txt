@@ -1,0 +1,11 @@
+Ayushi Malik
+Patent on Implementing Biometrics in Banking KYC: Improved Security and Privacy has been granted by Indian Copyright Office.
+Student Achievements
+Ayushi Malik, a student of M.Tech. Computer Science with specialization in Cyber Security and Forensic published a research paper in 2nd International Conference on Innovative Sustainable, a research paper in Fourth International Conference on Computing, Communication and Cyber-Security (IC4S-2022)) on the topic “Proposed Framework for Implementation of Biometrics in Banking KYC”.
+Ayushi Malik - Achievement
+Home
+The above paper can be summarized by, Cyber security is a collection of technologies, policies, and operations that are used to protect networks, devices, software, and data against intrusions, damage, malware, viruses, hacking, and security breaches. The protection of the customer's assets is the primary objective of data security in banks. As more people become cashless, additional acts or transactions go online. Transactions are carried out using electronic payment methods like debit and credit cards, which requires cyber complete security. In this paper, we are proposing a framework for KYC based on biometric retina recognition which is more secure than the existing framework. During the onboarding process, our proposed framework employs the unique digital identity of each customer and lessens the chance of digital identity theft. Retinal biometric recognition may be implemented in ATMs in the future to guard against fraud risks such as cash trapping, card skimming, bogus assistance, eavesdropping, shoulder surfing, fake PIN pad overlays, hold-ups, etc.
+Close
+School of Computer Science
+2 Patents and International Research Papers with high impact
+Eligibility Criteria

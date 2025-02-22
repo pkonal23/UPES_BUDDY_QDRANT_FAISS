@@ -1,0 +1,24 @@
+Dr. Ashish Aggarwal
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Close
+Faculty
+Dr. Ashish Aggarwal has guided and worked with multidisciplinary teams on graduate and undergraduate major & minor projects to address various spatial problems related to geospatial and environmental issues. He has mentored students for some award-winning national-level competitions in GIS and guided a few funded RISE student projects.
+Scholarly Activities
+Dr. Ashish Aggarwal's teaching pedagogy aims to lay the right foundation for students to visualize, comprehend, and accept challenges in the geospatial industry. He emphasizes teaching the basics of GIS/Remote sensing and basic modelling techniques up to advanced levels, with a strong focus on concept building and practical exposure. Practical learning is considered essential in GIS/Remote sensing, and thus, he prioritizes practical exercises and projects in all the courses.
+Before joining UPES, Dr. Ashish Aggarwal worked in the GIS Industry both in India and abroad, serving as a GIS specialist and Digital cartographer for around four years. He also briefly worked as a SAP consultant in his career.
+Courses Taught
+Eligibility Criteria
+Energy
+Profile Summary
+School of Advanced Engineering
+Dr. Ashish Aggarwal has a total experience of around 14 years and has been associated with UPES since 2013. His major research interests include Predictive modelling and risk assessment of natural hazards (Flood/Fire/Drought/Landslides), SAR data processing, Groundwater modelling, Land use planning and management, and GIS/Remote sensing-based applications. Currently, he has 16 publications in various national and international journals and conferences. In addition to his teaching activities, he also conducts in-house GIS/Remote sensing seminars and workshops to create awareness about geospatial technologies.
+Dr. Ashish Aggarwal teaches various courses on GIS and Remote sensing, including Introduction to Geoinformatics, Remote Sensing Fundamentals, Spatial Database Management, Spatial Data Analysis and Modelling, Applications of Geoinformatics, Advances in GIS, Natural Hazard and Disaster Management, and others. He also conducts practical lab sessions for these courses.
+Contact
+Assistant Professor (Selection Grade)
+Dr. Ashish Aggarwal received an Instant Reward from UPES for his exceptional contribution to the placement preparation of Geoinformatics/Geoscience students.
+aaggarwal@ddn.upes.ac.in
+With the increasing acceptance and demand for GIS/Remote sensing technology in both public and private sectors, Dr. Ashish Aggarwal's research vision involves multi-disciplinary research, consultancy, and implementation. He focuses his current research on land subsidence studies, hydrological modelling, groundwater and aquifer studies, agriculture, eco-sustainability, and spatial analysis using machine learning and open-source platforms like Google Earth Engine.
+Teaching Philosophy

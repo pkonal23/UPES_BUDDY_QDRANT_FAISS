@@ -1,0 +1,45 @@
+The **B. Tech. in VLSI Design and Technology** program at the UPES School of Advanced Engineering is designed to equip students with a robust foundation in microelectronics, focusing on the design and fabrication of next-generation integrated circuits and chips. The curriculum, spanning from 2023 to 2027, is strategically aligned with the **India Semiconductor Mission**, addressing global demands in semiconductor industries and core electronics chip manufacturing. 
+
+### Key Program Features:
+- **Industry-Relevant Curriculum**: The coursework covers a wide range of topics, including:
+  - VLSI fabrication
+  - ASIC (Application-Specific Integrated Circuit) and SoC (System-on-Chip) design
+  - Low-power chip design
+  - Advanced areas like quantum computing and AI-driven custom embedded chips.
+
+- **Hands-on Experience**: Students gain practical exposure through:
+  - Use of leading VLSI design tools such as Xilinx, AMD, Cadence, Synopsys, and Mentor Graphics.
+  - Industrial internships, visits, and collaborations with global semiconductor companies.
+
+- **Career Opportunities**: Graduates are prepared for various specialized roles in the semiconductor and VLSI industries, such as:
+  - VLSI Interconnects
+  - Analog Design Engineer
+  - ASIC System Design Engineer
+  - RF IC Design Engineer
+  - IC Packaging and Testing Engineer
+  - Mixed Signal Design Engineer
+  - Memory Designer
+
+- **Placement Success**: The program boasts a 100% placement rate, with graduates securing an average package of **5.1 LPA** and the highest package reaching **6.2 LPA**. This success is attributed to the program's strong industry connections and focus on producing industry-ready graduates.
+
+### Eligibility Criteria:
+- Minimum of **50% marks** in Classes X and XII, with at least **50% in Physics, Chemistry, and Mathematics** in Class XII.
+- Admission is based on performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET.
+
+### Program Structure:
+- The program spans **eight semesters**, with courses including:
+  - Digital System Design
+  - Communication Skills
+  - Network Engineering
+  - Analog Electronics
+  - Embedded Systems
+  - AI and Machine Learning Applications
+  - Capstone Projects
+
+### Contact Details:
+For further inquiries or to apply, students can fill out an **Enquiry Form** or reach out via the contact information provided on the UPES website.
+
+### Important Dates:
+- **Last Date to Apply**: February 25, 2025
+
+This program is ideal for aspiring engineers passionate about microelectronics and semiconductor devices, providing them with the skills and knowledge necessary to thrive in the evolving landscape of chip design and manufacturing.

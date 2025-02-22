@@ -1,0 +1,11 @@
+Kushmandini Gupta and Tulika Baranwal, students specializing in Cloud Computing and Virtualization Technology as part of their B.Tech. CSE program, developed an advanced Inventory Management System utilizing Microservices architecture. A significant feature of this project is its scalability and flexibility, enabled by the use of Docker containers, which allows for seamless adjustments in deployment as the company grows. New containers can be easily added or removed to meet changing demands, ensuring the system maintains optimal performance.
+
+The project aims to provide a centralized and automated solution for managing inventory operations, effectively reducing manual errors, enhancing accuracy, and improving visibility into inventory management. The system offers a comprehensive overview of operations, including stock levels, order statuses, and supplier delivery times, which facilitates informed decision-making. By automating manual processes, the project enhances operational efficiency and minimizes the need for human intervention.
+
+In contrast to traditional monolithic software systems, which are prone to issues due to interdependencies and lack of scalability, the microservices architecture adopted in this project comprises small, independent services that work together. This design choice enhances flexibility and resilience, addressing the limitations associated with monolithic systems.
+
+Key functionalities of the Inventory Management System include real-time tracking of inventory levels, management of inbound and outbound stock, and order management, which helps prevent overstocking and stock shortages. The system is built using the Spring Boot framework and deployed within Docker containers, ensuring efficient inventory management while maintaining data consistency through separate databases for different services.
+
+For further details, the project can be accessed at: [GitHub Repository](https://github.com/kushmandinigupta/Minor-2).
+
+This project exemplifies a modern approach to inventory management, particularly beneficial for small businesses seeking to improve their operational efficiency and accuracy.

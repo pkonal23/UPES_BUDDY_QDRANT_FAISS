@@ -1,0 +1,32 @@
+The B.Tech. program in Electrical Engineering with a specialization in E-Vehicles and Industrial Drives at UPES School of Advanced Engineering is designed to provide students with a comprehensive understanding of electrical systems, focusing particularly on the rapidly evolving fields of electric vehicles and industrial drives. The curriculum includes core subjects such as circuit analysis, power systems, control systems, and electronics, alongside specialized courses that delve into electric vehicle technologies, power electronics, motor drives, and control strategies.
+
+**Program Structure and Curriculum:**
+- **Semesters Overview:**
+  - **Semester 1:** Basic Electrical and Electronics, Chemistry, Physics, Digital System Design.
+  - **Semester 2:** Engineering Mathematics I, Workshop Practice, Electrical Systems and Components.
+  - **Semester 3:** Analog Electronics I, Specialization Course I, and Industrial Power Electronics.
+  - **Semesters 4-8:** Include advanced topics such as Nonlinear Control Systems, Electric Traction Drives, and hands-on projects like Capstone I & II, along with opportunities for industrial internships and exploratory courses.
+
+- **Specialization Courses:** These include advanced microcontrollers, simulation design, and control system engineering, which are crucial for optimizing performance in industrial applications.
+
+**Career Opportunities:**
+Graduates are prepared for diverse roles including:
+- Electrical Machine Engineer
+- Power Electronics Engineer
+- Power System Engineer
+- Electrical Vehicle Design Engineer
+- Automobile Engineer
+- Power Analyst
+- Battery Management Analyst
+
+**Eligibility Criteria:**
+Prospective students must have a minimum of 50% marks in Classes X and XII, with at least 50% in Physics, Chemistry, and Mathematics in Class XII. Admission is based on scores from UPESEAT, JEE Mains, Board Merit, SAT, or CUET.
+
+**Industry Trends and Future Scope:**
+The program is aligned with current industry demands, particularly in the E-Vehicle and automobile sectors, which are experiencing significant growth. The emphasis on control system engineering and energy efficiency prepares graduates to tackle challenges related to sustainability and eco-friendly industrial processes. The curriculum also addresses issues like harmonics and power factors, equipping students with the skills to develop effective control techniques.
+
+**Contact Information:**
+For the latest information regarding the program, including fee structures and placements, prospective students are encouraged to contact UPES School of Advanced Engineering directly.
+
+**Conclusion:**
+The B.Tech. program in Electrical Engineering (E-Vehicle and Industrial Drives) at UPES is designed to produce competent, industry-ready engineers equipped with the knowledge and skills needed to thrive in a dynamic and evolving field. The program's focus on practical experience and real-world applications ensures that graduates are well-prepared for successful careers in electrical engineering.

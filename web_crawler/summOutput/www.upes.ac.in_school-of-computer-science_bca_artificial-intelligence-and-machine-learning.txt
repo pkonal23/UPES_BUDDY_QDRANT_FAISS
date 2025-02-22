@@ -1,0 +1,36 @@
+The Bachelor of Computer Application (BCA) program with a specialization in Artificial Intelligence and Machine Learning at the UPES School of Computer Science is designed to provide students with a comprehensive educational experience that combines theoretical knowledge, practical skills, and industry exposure. 
+
+### Program Overview
+- **Specialization**: Artificial Intelligence and Machine Learning
+- **Average Salary for Graduates**: 4.35 LPA
+- **Highest Salary**: 7.5 LPA
+- **Placement Companies**: Includes Advanced Network Management, Expand my Business, Hike Education, Instant Procurement Services (ProcMart), LTIMindtree, Posist Technologies, Academor, Leadsquared, and LEARNING ROUTES PVT LTD.
+
+### Curriculum Highlights
+The curriculum is meticulously crafted by renowned academicians and industry experts, focusing on:
+- **Core Subjects**: Basic Mathematics, Data Structures, Python Programming, Object-Oriented Programming, and Applied Statistics.
+- **Advanced Topics**: Neural Networks, Natural Language Processing, Deep Learning, and Robotics.
+- **Hands-On Experience**: The program includes four projects (minor and major), allowing students to tackle real-world industry problems under mentor guidance.
+- **Internship Requirement**: A mandatory three-month industry internship provides practical experience and often leads to pre-placement offers.
+
+### Career Opportunities
+Graduates are prepared for various roles in the AI sector, including:
+- AI Engineers
+- Data Scientists
+- Machine Learning Specialists
+- AI Consultants
+- Research Scientists
+- AI Project Managers
+- AI Ethics Specialists
+- Robotics Engineers and Data Analysts
+
+### Admission Criteria
+- **Eligibility**: Minimum of 50% marks in Class X and XII with Mathematics/Computer Science/Information Technology as a major subject in Class XII.
+- **Selection Process**: Based on performance in a Personal Interview or CUET.
+- **Application Deadline**: February 28, 2025.
+
+### Contact Information
+To inquire further or apply, students can reach out via email or phone. Specific contact details were not provided in the text but are likely available on the UPES School of Computer Science website.
+
+### Conclusion
+The BCA program at UPES stands out for its commitment to providing a robust educational framework that integrates theoretical studies with practical applications, preparing students for successful careers in the fast-evolving field of Artificial Intelligence.

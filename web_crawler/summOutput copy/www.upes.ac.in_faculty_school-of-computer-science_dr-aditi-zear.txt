@@ -1,0 +1,9 @@
+Dr. Aditi Zear is an Assistant Professor at the School of Computer Science, with a robust academic and research background in wireless sensor networks, unmanned aerial vehicles, and data hiding techniques. She completed her Ph.D. in Computer Engineering from the National Institute of Technology (NIT), Kurukshetra, Haryana, and has over five years of research experience along with 2.5 years of teaching experience. 
+
+Dr. Zear has also been involved in a DST-SERB project focused on network partition recovery in wireless sensor networks, integrating unmanned aerial vehicles. Her educational qualifications include an M. Tech in Computer Science Engineering from Jaypee University of Information Technology (JUIT) in Waknaghat, Solan, Himachal Pradesh, and a B. Tech in Information Technology from the University Institute of Information Technology (UIIT) in Shimla, Himachal Pradesh.
+
+In her teaching role, Dr. Zear is dedicated to fostering a supportive and encouraging environment for her students. She emphasizes constructive assessment and feedback to aid students in understanding their progress and identifying areas for improvement. The courses she teaches include Database Management Systems, Advanced Database Management Systems, and Design and Analysis of Algorithms.
+
+Prior to her current position at UPES, Dr. Aditi served as an Assistant Professor at COER University in Roorkee, Uttarakhand, and as a Lecturer at the National Institute of Technology in Hamirpur, Himachal Pradesh.
+
+For inquiries, Dr. Aditi Zear can be reached via email at aditi.zear@ddn.upes.ac.in.

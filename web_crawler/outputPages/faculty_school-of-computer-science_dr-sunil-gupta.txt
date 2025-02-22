@@ -1,0 +1,31 @@
+Research Interests
+Delivered an expert lecture in online FDP at NITTTR, Chandigarh, Govt of India on “Nanotechnology Enabled Wireless Communication and Internet of Things" from 25/04/2022 to 29/04/2022.
+Home
+Work Experience
+Mobile Computing (Resource Management in Wireless Networks
+Professor
+Awards and Grants
+Close
+Dr. Sunil Gupta has more than 19 years of expertise in the fields of computer science and engineering in teaching, research, and industry. He held positions with BML Munjal University, Delhi Technical Campus, IP University, Northern India Engineering College, IIMT, Baddi University of Emerging Science, IFTM University, and Physical Laboratory before becoming a professor at UPES. He is a life member of the International Association of Engineers, the IEEE Society, the Computer Society of India, the Computer Science Teacher Association, the International Association of Computer Science and Information Technology, and the Internet Society (ISOC).
+School of Computer Science
+Focus on secure connection between two entities to provide authentication and remove attacks. Authentication for cloud security, Wireless sensor security, Tele-medical healthcare, Data Management and Security, Security in grid and resources, Information, IP & Web security, Resource Management in Wireless Networks, Service Discovery, Resource Management, Network Protocols and Architecture, Network Management.
+Certificate of Merit for the 2017 IAENG International Conference on communication systems and applications for paper entitled ‘Authentication Framework Against Malicious Attack in Mobile Wireless Sensor Networks.
+Healthcare Security, Telemedicine (Authentication and Authorization)
+Resource Person at All India Faculty Development Program (AIFDP2k21) on Emerging Trends in Online Education Conducted from July 1 to 14, 2021, and delivered a lecture on IT Security. Received Certificate of Appreciation.
+IoT, Big Data and Cloud Computing (Data Management and Security)
+Faculty
+Scholarly Activities
+Grid Computing (Security in grid and resources)
+Dr. Sunil Gupta
+Computer Networks (Network Protocols and Architecture, Network Management, Security)
+Courses Taught
+Eligibility Criteria
+Dr Gupta has always found it rewarding to watch students put theory into practice.  He believes in creating a space in the classroom where students may learn independently and express their creativity. This kind of instruction is partially carried out through discussions of various opportunities during lectures and questions. The utilisation of examples from everyday life also serves as a source of motivation, and connecting classroom discussions with either current affairs or my professional experience also helps to demonstrate to the students the value and significance of the subjects being taught. As a result, a large portion of his efforts in the courses, are focused on creating practical experiences, assignments, projects, and presentation opportunities that are closely tied to the lectures.
+Wireless Sensor Networks (Secure Sensor Networks)
+Profile Summary
+Cryptography & Network Security (Information, IP & Web security)
+Contact
+Dr. Sunil Gupta is an alumnus of the prestigious NIT Jalandhar and NIT Hamirpur.  He is an academic with a broad variety of research, development, industrial, and administrative expertise. Dr. Gupta has worked in both higher education and industry for more than a decade.  He has played a key role in developing innovative curricula in cutting-edge technological fields at UPES and BMU as a professor. Dr. Gupta has always felt that education should extend beyond the classroom; therefore, have worked hard to instil ideals and provide students with a solid moral basis. Dr. Gupta has worked on formulating academic policies, innovating teaching-learning pedagogies, engaging students, educating about new technologies, consulting, conducting research, attending conferences, publishing journals, building connections with the business world, etc.
+s.gupta@ddn.upes.ac.in
+Dr. Gupta mentors a variety of students in their research and project work. In addition to writing five textbooks on wireless sensor networks, Blockchain, AI in Sports, and Cryptography, he has also authored more than 10 patents and 100 academic publications. His scholarly interests span a range of fields, including security, cloud computing, big data, sensor technology, wireless networks, and healthcare. He has successfully completed numerous research projects and consulting assignments for public and private organisations, including the Department of Science and Technology, Xcrino Business Solutions, and others.
+Teaching Philosophy

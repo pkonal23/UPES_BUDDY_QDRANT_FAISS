@@ -1,0 +1,23 @@
+Research Interests
+Himanshu believes in experiential learning that combines theoretical knowledge with hands-on projects. His approach emphasizes fostering analytical thinking and problem-solving skills among students through collaborative and project-driven coursework, ensuring enhanced engagement and understanding.
+Home
+Work Experience
+Awards and Grants
+Close
+School of Computer Science
+Faculty
+Himanshu is a dynamic professional with a strong academic foundation in Information Technology and Wireless Communication. With extensive experience in roles that demand high-level data analysis and automation, he has consistently brought efficiency to decision-making processes. His proficiency in programming languages such as C, C++, and Python has enabled him to contribute to diverse and impactful projects, including designing sensor networks and extracting large-scale data. Himanshu's innovative approach and technical expertise continue to set him apart in his professional endeavours.
+Himanshu has made notable contributions to scholarly activities. His work on enhancing data collection through sensor networks involved designing systems for real-time environmental monitoring using efficient gateways and virtualized services. In another project, he developed robust pipelines for large-scale genomic data handling for Thousand Zenome. Additionally, he demonstrated his technical prowess by building a scalable e-commerce website using the MERN stack, incorporating functionalities like secure payments and responsive design.
+Scholarly Activities
+Courses Taught
+Eligibility Criteria
+Himanshu's research interests lie in wireless communication protocols, including ZigBee and Open Thread. He is also keen on exploring automation frameworks and large-scale data processing systems. Furthermore, his interest extends to IoT networks and their critical role in enabling real-time data analysis and decision-making.
+Profile Summary
+Himanshu
+Himanshu has gained significant experience through his roles at esteemed organizations. At Tata Consultancy Services, where he worked as an Assistant System Engineer from August 2021 to October 2022, he led data analysis initiatives and developed efficient dashboards. Later, as a Software Validation Intern at NXP Semiconductors from January 2024 to June 2024, he focused on automating Open Thread and Zigbee protocol test cases using Python and C/C++.
+Assistant Professor
+Himanshu has successfully completed an MTech degree in Wireless Communication and Computing from the prestigious Indian Institute of Information Technology (IIIT), Allahabad, demonstrating his dedication to advanced learning and research.
+Contact
+Himanshu has taught various subjects that include Database Management, Data Structures and Algorithms, Operating Systems, Computer Networks, Competitive Programming, and Advanced Data Structures. Through these courses, he has consistently aimed to bridge theoretical concepts with practical applications.
+himanshu@ddn.upes.ac.in
+Teaching Philosophy

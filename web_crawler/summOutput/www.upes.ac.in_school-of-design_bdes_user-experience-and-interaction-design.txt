@@ -1,0 +1,28 @@
+The B.Des. (User Experience & Interaction Design) program at UPES is structured to prepare students for a dynamic career in the rapidly growing field of UX/UI design. This comprehensive four-year undergraduate degree encompasses a wide array of subjects including User-Centered Design (UCD), UX research, UI design, usability engineering, physical computing, augmented reality (AR), virtual reality (VR), and artificial intelligence (AI) and machine learning (ML) applications in UX.
+
+### Career Paths
+Graduates can choose between two primary career trajectories: technical or managerial. A technical path may lead to roles such as full-stack developer, mobile app developer, or video game app designer, leveraging languages like Python, Ruby, and PHP. Conversely, those inclined towards management can advance from interface designer to user experience manager, and potentially to UX director.
+
+### Industry Trends
+The demand for UX/UI designers is projected to surge from 2023 to 2025, driven by the increasing focus on digital platforms across various industries. This growth opens up opportunities in mobile applications, website design, and innovative interfaces for emerging technologies such as AI, VR, AR, and the Internet of Things (IoT). Companies are prioritizing user-centered design, which further enhances the relevance of this field.
+
+### Program Highlights
+- **Student Exchange Program**: Offers UX students the opportunity to study at UE Germany, allowing them to work on design projects with peers from diverse cultural backgrounds.
+- **Interaction Design Studio**: Equipped with advanced AR/VR technology, microcontrollers, smart materials, and 3D printers, facilitating hands-on learning and experimentation.
+- **Industry Internship Program**: This program provides students with real-world experience through summer internships and final-year dissertation projects at leading UX industries and brands, fostering professional connections and practical skills.
+
+### Placement Opportunities
+Graduates can expect to secure exciting placements with top recruiters, including Microsoft, IBM, Accenture, KPMG, Infosys, Capgemini, Google, Facebook, LinkedIn, and TCS. The average CTC offered is Rs. 6.48 lakhs per annum, with the maximum CTC reaching Rs. 15.17 lakhs per annum.
+
+### Admission Criteria
+To qualify for the B.Des. program, students must meet the following eligibility criteria:
+- A minimum of 50% marks in Class X and XII (any stream).
+- Selection is based on performance in national-level exams (NID/NIFT/UCEED/JEE-Mains), UPESDAT, Board Merit, or CUET, followed by a portfolio presentation and interview.
+
+### Contact Information
+For further inquiries regarding the program, prospective students can reach out to the School of Design at UPES. Contact details include:
+- **Phone**: +91 [Phone Number]
+- **Email**: [Email Address]
+
+### Conclusion
+The B.Des. (User Experience & Interaction Design) program at UPES offers a well-rounded education and prepares students for a promising career in UX/UI design, reflecting the industry's current trends and future demands. The program's unique features, including the student exchange initiative and industry internship, enhance its value, making it an excellent choice for aspiring designers.

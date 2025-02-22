@@ -1,0 +1,31 @@
+The B.Tech. Computer Science Engineering (CSE) program at UPES is a comprehensive 4-year course designed to prepare students for a successful career in various domains of computer science. The curriculum is structured to remain relevant to current industry standards, incorporating selected modules developed with input from leading industry experts. 
+
+### Program Structure
+- **Core Courses**: The program includes essential subjects such as Data Structures, Object-Oriented Programming, Database Management Systems, and various labs to enhance practical skills.
+- **Specializations**: Students can choose from in-demand specializations like Cloud Computing, Artificial Intelligence, Cyber Security & Digital Forensics, DevOps, and Big Data.
+- **Internships**: Mandatory internships in public and private sectors provide students with invaluable real-world experience. The university has partnerships with organizations like IBM and Microsoft to facilitate these internships.
+
+### Admission Criteria
+To be eligible for the B.Tech. CSE program, students must meet the following criteria:
+- **Exam Pathways**: Candidates can gain admission through the UPESEAT exam, JEE Mains, Board Merit, SAT, or CUET.
+- **Non-Exam Pathways**: Students must have a minimum of 50% marks in Class X and XII, and at least 50% in Physics, Chemistry, and Mathematics (PCM) in Class XII.
+- **Additional Requirements**: SAT scores will be updated on the UPES website after the result declaration for AY 2025.
+
+### Fees and Scholarships
+- **Program Fees**: Detailed information about the fee structure is available on the UPES website.
+- **Scholarships**: UPES offers scholarships for B.Tech. programs, although specific details are not provided in the text.
+
+### Placement Opportunities
+UPES boasts impressive placement records, with packages reaching up to ₹50 LPA. The university provides lifetime placement assistance, ensuring that graduates find suitable employment opportunities. Top recruiters include major companies such as Microsoft, Infosys, and Airtel.
+
+### Facilities and Support
+- **Computer Labs**: Equipped with the latest technology, UPES computer labs support practical learning and development.
+- **Hostel Facilities**: On-campus housing is available for students on a first-come, first-served basis, with separate accommodations for boys and girls.
+
+### International Opportunities
+Students have the opportunity to participate in a credit transfer program to the University of Queensland, Australia, and a semester abroad program at the University of California, Berkeley.
+
+### Contact Information
+For further details regarding admissions, course structure, and other inquiries, prospective students can visit the UPES website or contact the admissions office directly.
+
+This comprehensive overview of the B.Tech. CSE program at UPES highlights the educational framework, admission criteria, placement opportunities, and support systems designed to foster student success in the field of computer science.

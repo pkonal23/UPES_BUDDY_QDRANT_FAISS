@@ -1,0 +1,13 @@
+Dr. Amit Verma is a distinguished professional with extensive expertise in the fields of Artificial Intelligence (AI), Machine Learning (ML), and logic gates, particularly in switching theory. He has made significant contributions across various domains, including healthcare and agriculture, through innovative research and practical applications.
+
+In healthcare, Dr. Verma has developed advanced algorithms and models for the classification of skin cancer types, which play a crucial role in early detection and diagnosis. Additionally, he has created a portal for the classification of potato blight diseases and pesticide recommendation systems, which assist farmers in making informed decisions to optimize their crop yields.
+
+His research interests encompass a broad range of topics: Machine Learning, Artificial Intelligence, Algorithms, and Logic Gates. Dr. Verma has also focused on the t-NOT gate for a 3-bit system and has developed a novel multiplication algorithm, illustrating his capability to tackle complex computational challenges.
+
+Dr. Verma has recently authored a book on Artificial Neural Networks, which offers detailed insights into this rapidly evolving field. He combines theoretical knowledge with practical skills, demonstrating proficiency in developing machine learning models and convolution-based neural networks using Python. His academic background includes teaching core Computer Science Engineering subjects such as C/C++ programming, Python programming, and Data Structures, where he has published two textbooks on C programming and a recent one on Artificial Neural Networks featuring hands-on coding in Python.
+
+In recognition of his teaching excellence, Dr. Verma has received a cash prize and a certificate for achieving a 100% pass rate in his subject. He was also awarded a grant of Rs 50,000 for developing a device aimed at aiding visually impaired individuals, which was completed successfully and delivered on time.
+
+Before his tenure at the University of Petroleum and Energy Studies (UPES), Dr. Verma worked at the College of Engineering Roorkee and Uttaranchal University in Dehradun. His teaching philosophy emphasizes innovation and quality education, focusing on enhancing student understanding through interactive presentations, surprise tests, short assignments, and quizzes. He values individuality and fosters open communication to cater to diverse learning needs, aiming to empower students with a solid foundation in computer science and practical skills for their academic and professional journeys.
+
+For further inquiries or collaboration, Dr. Amit Verma can be contacted via email at amit.verma@ddn.upes.ac.in.

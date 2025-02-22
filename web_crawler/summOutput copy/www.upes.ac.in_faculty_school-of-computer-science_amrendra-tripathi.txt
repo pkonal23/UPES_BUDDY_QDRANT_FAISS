@@ -1,0 +1,11 @@
+Amrendra Tripathi is an Assistant Professor at the School of Computer Science with over 10 years of academic experience. His teaching portfolio encompasses a wide range of computer science subjects, including core topics and specialized courses. Recently, he has taught courses such as Design and Analysis of Algorithms, Data Structures, Operating Systems, IT Infrastructure, Data Communication and Computer Networks, Advanced Computer Architecture, Object-Oriented Programming, Real-Time Systems, Advanced Database Management Systems, Principles of Programming Languages, Cloud Management, and Software Quality Management.
+
+His primary research interests lie in Signal Processing, Brain-Computer Interfaces (BCI), Machine Learning, and Cloud Computing. He has contributed to the academic community through publications in reputable SCI/SCOPUS journals and conferences and has supervised over five master's dissertations.
+
+Before his tenure at UPES, he served as an Assistant Professor at DIT University, Dehradun, from 2011 to 2017. In addition to his teaching responsibilities, he has held various administrative positions, including Placement Coordinator, member of the Accreditation team, Student Chapters Coordinator, Spoken Tutorial Coordinator, and member of the Examination Team and Project Committees. He has also been instrumental in organizing academic events such as UHackathon and international conferences like NGCT, along with several workshops and Faculty Development Programs (FDPs).
+
+Tripathi's teaching philosophy emphasizes active and experiential learning. He employs diverse teaching methods, including discussions, debates, group work, projects, and hands-on activities, to foster student engagement and promote a deeper understanding of the material. He values collaboration, independent thinking, and reflection to enhance the overall learning experience for his students.
+
+He is currently pursuing his PhD in Computer Science Engineering (CSE) and holds an M.Tech in CSE from Motilal Nehru National Institute of Technology, Allahabad, India. He has authored several research articles and technical books in his areas of expertise.
+
+For further inquiries, Amrendra Tripathi can be contacted via email at an.tripathi@ddn.upes.ac.in.

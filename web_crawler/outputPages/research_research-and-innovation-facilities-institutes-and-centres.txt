@@ -1,0 +1,63 @@
+Research Centres
+Financial Support for attending national and international conferences, etc.
+Centre for Stochastic Modeling and Simulation (CSMS)
+Blog
+Primarily focus of this Research Laboratory is on waste paper recycling. Its rationale stems mainly from the fact that the world’s consumption of paper products is massive and therefore the disposal problems are enormous; traditionally involving either incineration or landfill. Our basic idea was to bring a balance between the environment and the use of technology for the economic independence of rural women. This project aimed to help rural women from the indigenous community to earn a fair wage by teaching them how to make high-quality goods using waste paper viz paper pencils, jewellery, stationery items, etc. In a lab we have a set of six machines (Figure 1). Rolling Machine, oven, cutting machine, abrading machine and coating machine
+The UPES Library is a dynamic learning hub, offering extensive knowledge resources and cutting-edge information services to support students, faculty, and the community. As a hybrid center with state-of-the-art technology, it houses a vast collection focused on engineering, science & technology, management, law, allied health sciences, and related fields, fostering intellectual growth and research excellence.
+Support
+Home
+Waste Paper Recycling Laboratory
+Provision of SEED grant for undertaking interdisciplinary and innovative research projects.
+Centers of Excellence (COEs)
+Central Instrumentation Centre (CIC)
+Students
+Applicant Login
+Close
+The Media Laboratory and Studios at UPES serve as a dynamic platform for students and researchers to engage in innovative media projects. Equipped with state-of-the-art technology, the facility supports a wide range of activities, including audio-visual production, digital content creation, and multimedia research. By providing hands-on experience in a professional setting, the Media Laboratory and Studios enhance the learning environment, fostering creativity and practical skills among the UPES community.
+Faculty
+Medicinal Plant and Aromatic Plant (MAP) Lab
+The Medicinal and Aromatic Plant Laboratory is developed under DST funded project Rural Women Technology Park of UPES, (2015-2018) SEED Division DST, GoI. The objective of the lab is to do Extraction of essential oil of medicinal and aromatic plants and to conduct comparative study of yield of essential oil from different land pattern. Under this Lab the primary screening of natural compounds from medicinal and aromatic plant is carried out. MAP Lab facilitates the antimicrobial, antifungal, and antibacterial studies of extraction of MAP species. The lab is equipped with Soxhlet assembly, Rotameters, Clevenger unit and Steam distillation (Autoclave)unit, soil and water testing kits which are used for the extraction of essential oil of Lemongrass, Stevia, Tulsi and Chamomile. The University has also established polyhouse and nurseries for the cultivation of medicinal and aromatic plants. Under this project, we give training and technical backup support to rural women farmers to cultivate medicinal and aromatic plant species like Tulsi, Chamomile, Lemongrass, Stevia in nearby villages i.e Than goan, Birsani, Doonga and Masraajpatti.
+Centre of Alternative Energy Research (CAER)
+To foster a research culture that provides solutions through innovative applied research to society and intellectually stimulating environment for researchers; UPES has developed commensurate research policies to provide the enabling ecosystem for state-of-the art research:
+The facility is aimed at conducting high-end computing specific to investing Machine Learning challenges of Artificial Intelligence. The facility is funded by Research & Development of UPES, in collaboration with School of Computer Science (SOCS) having a vision to develop as Centre of Excellence (COE) that is profound and self-sustainable. MIRC facility is equipped with HPE Apollo6000 Gen 10 server system, having 256 GBs of RAM and dual Xeon processors installed over 32 GB of GPU Tesla V100 graphic card. MIRC provides platform for researchers, all faculty and students to conduct fundamental research in the field of Artificial Intelligence and Data Sciences. It also provides assistance and collaborates with other schools of the university and related organizations for applied AI work. MIRC facilitates the heavy and parallel computing for other fields like Fluid Dynamics, Virtual Reality, and simulation for Aerodynamics. The centre is utilized by students of doctoral studies, post and under graduate along with faculty members. Over the coming few years, the centre is expected to be strengthened with increased computational capacities and other infrastructure.
+C-DSAI at UPES is established to contribute towards the growing significance of the role of Data Science, AI, and AI-enabled technologies in various application domains. These technologies are omnipresent today in society and business world. All areas of life are affected by digital transformation which is evolving faster and faster. Data Science, AI, 5G, Big Data, IoT, and Blockchain will disrupt traditional business models and change job roles in industry. Organizations that fail to recognize the disruptive power, will be left behind.
+Research Database
+(SLRC).
+Research and Innovation Facilities, Institutes and Centres
+Providing safe, widespread, and equitable access to sustainable energy is one of the key challenges of our time. Centre for Alternate Energy Research (CAER) UPES, hosts world-leading researchers who see this challenge as an opportunity to help future generations inherit a better world. Our interdisciplinary program brings together innovators from many departments, including the School of Applied Science, School of Engineering, School of Health Sciences and School of Business. Work is in progress on different alternative energy resources using advanced technology. Current efforts include biofuel production from waste agricultural and forest biomass by thermal and biological routes, plastic waste to energy and other value-added products, microalgae biofuels. CAER actively seek national and global collaboration with industry, academia and all levels of government and private bodies.
+Eligibility Criteria
+Centre (MIRC), Centre for Alternative Energy Research (CAER) and Speech and Language Research Centre.
+Studios
+The objective of Centre of Excellence in Speech and Language Research Centre (SLRC) is to undertake theoretical and empirical research into the rich and complex structure of physiological, social and development variation. Our lab efforts are to root a community-based solution by improving language understanding and developing target intervention for their speech and language weaknesses. Through our research we want to cater families, educators, community people and policy makers so that they can recognize their role and responsibilities in facilitating speech, or language development.
+A University's worth, it's 'greatness', should be judged by its value to the society. Since its establishment, UPES has been among India's pioneering innovation driven University with fine tradition of developing research culture in the organization by creating dedicated research centers and winning serval research projects from National and International Funding Organisations; both in the public and private sectors. UPES has a strong ecosystem to support innovations and interdisciplinary research.
+Central Instrumentation Centre (CIC) was inaugurated by “Padma Bhushan Dr. R. Chidambaram” on 27th February 2014. This facility is aimed to provide data collection from sophisticated, analytical equipment to scientific community for their advanced research and also to facilitate cutting edge technologies for societal needs. The facility is open to researchers from across the country.
+Library
+Early Science Technology Engineering Education & Mathematics (ESTEEM) of India Research Center
+Projects
+Speech and Language Research Centre (SLRC)
+Expansion of research databases through subscription of SCOPUS, Science Direct, Web of Science, Emeral Insight, EBSCO, IEEE etc.
+Student support – financial, mentorship and for research through SHODH scheme.
+Read More
+ESTEEM of India Research Center has a four-pronged focus: Mathematics and Astronomy of India, Mensuration in IKS, Chemistry of dyes, pigments, chemicals used in India & Sustainable agriculture and food preservation. The ESTEEM of India Research Center aims to bring to the fore, the rich scientific traditions of India through various forums and actual demonstration of the concepts described in the Indian traditions – with an earnest motivation that an exposure to such knowledge may infuse the coming generation of students and scholars with a rich knowledge and understanding of India and may pave the path for a renewed intellectual resurgence of India at the global level. It will also strive hard to question (and set right) the Eurocentric version of history of science and will highlight India's pre-eminent contributions to the field of Science and Technology. This Research Center, under the leadership of Dr. Ashish Karn has already fetched two research grants, one from IKS division, Ministry of Education and one with the collaboration of SoA University, Bhubaneshwar. The Research Center has crafted many student researchers to present their works at topmost IKS forums in the country. The Research Center has also been actively involved in the dissemination of IKS inside and outside UPES through seminars and invited talks. Finally, the work of the Center has also led to a course being taught at UPES since last year titled "Indian Knowledge Systems in Science and Engineering".
+Contact Us
+With growing realization that mathematics has become a central feature of scientific enquiry, attempts would be made to model different systems. Most practical systems have uncertainty/stochasticity associated with them. Real world systems whether physical, engineering, neural, biological, health, educational, environmental, social and managerial are inherently nonlinear and stochastic. The centre aims to focus on the development of application-driven theories and methodologies for understanding uncertainty and its management.
+Infrastructure
+Talks, Lectures from eminent Researchers, conferences, seminars etc, for capacity building.
+Rankings
+The UPES research portal Provides research students with access to a vast collection of multidisciplinary databases, covering fields such as engineering, science & technology, management, law, and health sciences. Key resources include Scopus and Web of Science for citation indexing, IEEE Xplore and ScienceDirect for technical research, PubMed for health sciences, EBSCO and Emerald Insight for business studies, and Lexis Advance and SCC Online for legal research. These databases offer scholarly articles, journals, case laws, reports, and statistical insights, enabling students to conduct in-depth, data-driven, and well-cited research with access to global academic and professional knowledge.
+Rewards & Recognition Policy and Research Advisory Committee.
+Research and Innovation Units
+Provision of SEED Infrastructure grant for procurement of state-of-the-art sophisticated equipment.
+Start-Ups
+Establishment of Centre for Interdisciplinary Research and Innovation (CIDRI), Machine Intelligence Research.
+Institutional Ethics Committee to implement adherence to highest standards of ethics.
+Parents
+Machine Intelligence Research Centre (MIRC)
+Centre for Data Science and Artificial Intelligence (C-DSAI)
+About Us
+Centre of Inter-disciplinary Research & Innovation (CIDRI) at UPES provides a platform for interaction across the boundaries of various disciplines, such as Science, Engineering, Health Environment, Computer Science, Design, Management, Humanities, Law, etc. and address the key technical, organizational and logistical challenges that currently hinder truly trans disciplinary research. CIDRI promotes and facilitates the interfacing and collaborating with industries, clinicians and doctors in hospitals for translational research, research groups of prominent national and international universities/institutes. CIDRI aims at bringing together the researchers in the field of basic sciences, all streams of engineering, artificial intelligence, machine learning along with experts of design as well as business and law so as to finally emerge with a product with intellectual property rights and business plan.
+Integrity
+Centers of Excellence
+Alumni
+Programs
+Centre for Interdisciplinary Research and Innovation (CIDRI)

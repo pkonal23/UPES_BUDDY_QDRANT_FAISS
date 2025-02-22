@@ -1,0 +1,122 @@
+:
+M.Tech Computer Science & Engineering (Cybersecurity & Digital Forensics)
+Future Scope / Industry Trends
+Semester 4
+Digital Forensics
++91
+Advanced Digital Forensics
+L
+First Name
+Emphasis on quality research and publication in reputable journals equips students with a strong foundation for contributing to the evolving field of cybersecurity, fostering innovation and development.
+M.Tech Computer Science & Engineering (Cyber Security & Digital Forensics)
+Course Details
+Semester 1
+Program details
+Acquire skills in Volatility, a memory forensics tool, for extracting valuable information from memory dumps, enriching your capabilities in identifying advanced cyber threats.
+Eligibility
+Course Type
+I accept
+Please Select Condition
+Applied DevOps
+The program's commitment to real-world exposure is highlighted by its on-the-job training opportunities. Collaborations with prominent industry players like IBM, KPMG, and Wipro offer students valuable internships and engagement with genuine industry problems. This hands-on experience bridges the gap between academic learning and industry demands, fostering a holistic development that prepares students for their careers ahead. Students enrolled in the program benefit from dedicated faculty mentors who provide consistent guidance and support throughout their academic journey. Additionally, the university's research and development center facilitates thesis and research projects. Backed by experienced faculty members with extensive research backgrounds, students receive mentorship that enriches their academic pursuits and encourages them to contribute to the field's advancement.
+Please enter email address
+Contact Us
+Project Phase - 1
+PE - 2
+2
+Completing the
+PE - 4
+*
+Mandatory
+for detailed Fee Structure.
+Summer Internship
+1. Minimum 60% marks at Higher and Senior Secondary level (X and XII). 2. B. Tech/ BE (IT/(Hons.) Computer Science and Engineering), MCA, M.Sc. (Physics/Math’s/Statistics, with minimum 60% marks. Or Equivalent.
+Selection for the M.Tech in Computer Science & Engineering (Cyber Security & Digital Forensics) program at UPES School of Computer Science relies on an individual's performance in Personal Interview.
+Call Me
+Semester 3
+School Tour
+Penetration Testing & Ethical Hacking
+Fee Structure
+Close
+Cyber Threat Intelligence
+terms & conditions
+Placements
+Topics in Mathematical Sciences
+Please enter first name
+Mobile Number
+Learn EnCase, a powerful digital forensics tool, for collecting, preserving, and analyzing digital evidence, coupled with FTK Imager for creating forensic images of various digital media.
+4
+Application Security
+20
+Credits
+Select Course
+P
+Semester 2
+Suggested videos
+Design and Analysis of Algorithms
+Program Elective - IV
+Please Select Course Type
+EDGE - Advanced Communication
+Program Elective - I
+Master Snort, an open-source intrusion detection and prevention system, and OpenVAS, a vulnerability scanner, for robust network security monitoring and vulnerability identification.
+Selection Criteria
+T
+3
+Academics
+Network Security
+EDGE - Softskills
+How To Apply
+1
+Enquiry Form
+Please enter mobile number
+M.Tech in Computer Science & Engineering with a focus on Cyber Security & Digital Forensics
+The future outlook for the
+Research Methodology
+from UPES School of Computer Science opens the door to a diverse array of career pathways. Graduates can step into roles such as Security Analysts, Engineers, Network Security Administrators, Cybersecurity Consultants, Incident Responders, and Digital Forensics Investigators. The program equips students with the essential skills and knowledge needed to tackle the ever-evolving landscape of cyber threats. With the escalating demand for skilled cybersecurity professionals, individuals specializing in this field are presented with abundant career prospects. The ongoing importance of cybersecurity in safeguarding businesses and organizations from digital risks ensures continuous opportunities for growth and advancement in this dynamic sector.
+-- None --
+In conclusion, UPES School of Computer Science's M.Tech program in Computer Science & Engineering with a specialization in Cybersecurity & Digital Forensics is a comprehensive educational pathway for individuals aspiring to excel in the dynamic domain of cybersecurity. By imparting practical skills, industry exposure, and expert mentorship, the program prepares graduates to be well-rounded professionals capable of addressing contemporary cybersecurity challenges.
+programgain expertise in industry-standard tools like Wireshark for network analysis, Nmap for network exploration, and Metasploit for penetration testing, enabling comprehensive cybersecurity skill development.
+Utilize Autopsy, an open-source digital forensics platform, to conduct in-depth investigations and analysis of digital evidence, enhancing proficiency in handling complex cases.
+--None--
+,
+Remarks
+Cyber Security & Digital Forensics
+Computer Science & Engineering
+Students of the
+Please enter last name
+Advanced Algorithms
+PE - 1
+Program Highlights
+PE - 3
+Database Systems
+Program Elective - II
+Career Opportunities
+Curriculum
+The
+M.Tech in Computer Science & Engineering (Cybersecurity & Digital Forensics)
+Home
+Program Elective - III
+program offered by UPES School of Computer Science is designed to equip students with a comprehensive understanding of cybersecurity and digital forensics. The curriculum encompasses a diverse range of topics including network security, encryption, ethical hacking, cyber legislation, incident response, and digital forensics. By delving into these subjects, students develop a robust foundation in the field, preparing them to tackle real-world challenges effectively. A distinctive aspect of the program is its emphasis on practical learning. Through a combination of projects, lab activities, and practical workshops, students gain hands-on experience in applying theoretical concepts to practical scenarios. The curriculum is meticulously curated to stay aligned with the latest industry trends and practices. This ensures that graduates are not only knowledgeable but also adept at using cutting-edge software tools and technologies prevalent in the cybersecurity landscape.
+School of Computer Science
+Email Address
+Admission Process
+Apply now
+Eligibility Criteria
+Please select Course
+M.Tech. CSE
+Interested students must meet the following minimum eligibility criteria for
+M.Tech
+Further Information
+15
+Click here
+program at UPES School of Computer Science consistently demonstrates impressive placement results. With an average annual package of 8.40 LPA and the highest package reaching 12 LPA, the program paves the way for promising career opportunities. Renowned companies such as DataM Intelligence 4market Research LLP, Navikenz, Philips India Limited, Schneider Electric, Stryker India Pvt. Ltd., and Synopsys have actively recruited graduates from this program. These placements underscore the program's commitment to producing highly skilled professionals who are sought after by industry leaders across various sectors, solidifying its reputation as a prime choice for students aspiring to excel in the field of cybersecurity and digital forensics.
+Electives for Cyber Security and Digital Forensics
+program is highly promising due to the rapid expansion of the cybersecurity industry, driven by escalating cyber threats worldwide. Predicted to reach $270 billion by 2026 according to Cybersecurity Ventures, this sector's exponential growth underscores the increasing demand for skilled professionals in this domain. Noteworthy industry trends that will influence the landscape include the integration of artificial intelligence and machine learning for real-time threat detection, the imperative for secure cloud infrastructure as businesses migrate online, safeguarding data and networks. Additionally, the proliferation of interconnected devices necessitates experts in secure IoT systems, while the rise of mobile devices necessitates mobile security solutions to counter threats in this arena. Students specializing in this field can anticipate a lucrative career path amidst the evolving technological and cybersecurity landscape.
+Distributed Systems
+Modelling and Simulation
+Choose one
+Course
+Project Phase - 2
+0
+Last Name
+M.Tech. Computer Science & Engineering - CYBER SECURITY & DIGITAL FORENSICS

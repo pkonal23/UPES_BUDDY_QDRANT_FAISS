@@ -1,0 +1,26 @@
+Research Interests
+Dr. Singh has been associated with UPES for over 8 years, taking on various leadership roles in curriculum design and updates, as well as the establishment of the Centre of Excellence for IoT in addition to teaching and supporting the day-to-day activities of the School of Computer Science.
+Home
+Work Experience
+Awards and Grants
+Close
+School of Computer Science
+Sensors and Microcontroller based applications for Healthcare, Rehabilitation and Assistive Technology, Human-Computer Interaction
+Faculty
+Dr. Singh is an alumnus of the Indian Institute of Information Technology Allahabad (2009-11) and the government-funded Kumaon Engineering College Dwarahat (2005-09).
+Dr. Singh holds 5 patents and has published over 10 research papers in reputable journals and conferences. Some of his notable works have been published in top journals of their respective fields, including the IEEE Sensor Journal and Elsevier's Speech Communications. In 2022, he also presented his work at the IEEE R10 Humanitarian Technology Conference in Hyderabad.
+Scholarly Activities
+Bhupendra.singh@ddn.upes.ac.in
+Prior to joining UPES, Dr. Singh worked as an Associate Technology Consultant at Sapient Consulting Pvt. Ltd. During this time, he contributed to several Energy Trading and Risk Management projects for a major European Oil and Gas company. He was also involved in the crucial handover of a migration project at the client's site in Dusseldorf, Germany.
+Courses Taught
+Eligibility Criteria
+Dr. Singh has been granted three research projects totalling INR 2.15 lakh and has supervised a student project selected by UPES and funded with INR 50,000. His MTech program at the Indian Institute of Information Technology was supported by an MHRD scholarship after securing an All India Rank of 2106 in Computer Science in 2009. Dr. Singh completed his B.E. from the government-financed Kumaon Engineering College Dwarahat after securing an All India Rank of 28786 in AIEEE in 2005.
+Profile Summary
+Dr. Bhupendra Singh is a well-versed faculty member with over eight years of teaching experience and research work published in several top journals in their field. He brings in 3.5 years of industry experience to teach students industry-aligned courses in IoT, Graphics, and Gaming. Dr. Singh stands out as one of the inspirational faculty members from the School of Computer Science who is also pursuing an entrepreneurial journey with his startup named Sense 3D Technologies. His startup focuses on developing the next generation of gesture-based controllers for computer games.
+Assistant Professor (Senior Scale)
+Dr. Bhupendra Singh
+C/C++ Programming, Computer Graphics, Image Processing, Microprocessor and Microcontroller Systems, Introduction to IoT, IoT Protocols and Standards, ARM Programming for Industrial applications, Web-based 3D Graphics with WebGL, Web VR/AR with THREE JS.
+Contact
+Dr. Singh firmly believes in strengthening students' foundational knowledge and enhancing it with the latest technological developments. He places great emphasis on active student participation in the classroom and encourages them to ask questions. Dr. Singh enriches his lectures with hardware demonstrations and visualizations, utilizing computer programs to facilitate the understanding of otherwise complex concepts. He prioritizes practical lab work, ensuring problem explanation and assessment with immediate feedback on the same day. His assignments and tests are designed to be novel, challenging students to think creatively and apply their learning to real-world scenarios.
+Teaching Philosophy
+In addition to his research contributions, Dr. Singh has authored a textbook titled "Learn 3D Graphics Programming for the Web using WebGL."

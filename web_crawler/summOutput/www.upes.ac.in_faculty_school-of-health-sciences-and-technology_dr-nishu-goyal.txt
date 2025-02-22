@@ -1,0 +1,19 @@
+Dr. Nishu Goyal is an Associate Professor in the Department of Allied Health Sciences at the School of Health Sciences and Technology, University of Petroleum and Energy Studies (UPES), Dehradun, India. She has an extensive academic background, having completed her B.Tech in Biotechnology from Indraprastha University, followed by an M.Tech in Biomedical Engineering from IIT Bombay, and a Ph.D. in Systems Biology from the National University of Singapore (NUS). During her doctoral studies, she was awarded the prestigious President's Graduate Fellowship for her research. Notably, she received the Springer Thesis Award for her outstanding Ph.D. work.
+
+Dr. Goyal's research interests are primarily focused on the development of genome-scale metabolic models of microorganisms, particularly for bioremediation and clinical applications. Her work aims to optimize biochemical pathways for converting carbon dioxide into cleaner energy fuels like methane, addressing global CO2 emissions and sustainable energy needs. She has identified the potential of the methanogenic archaeon Methanococcus maripaludis in this regard. 
+
+Her notable publications include:
+- Goyal, N. et al. (2022). "Machine learning technology in biohydrogen production from agriculture waste: Recent advances and future perspectives." Bioresource Technology.
+- Goyal, N. et al. (2023). "Carbon conversion by Methanococcus maripaludis S2 under diazotrophic and a revised genome-scale metabolic model." Chemical Engineering Science.
+- Goyal, N. et al. (2022). "A cohesive effort to assess the suitability and disparity of carbon nanotubes for water treatment." Environmental Science and Pollution Research.
+
+Dr. Goyal has actively participated in various conferences, presenting her research through oral and poster presentations. Notable presentations include her talk on "Metabolic network analysis to study biodegradation pathways in Nitrosomonas europaea" at the 3rd International Conference on Bioprocess for Sustainable Environment and Energy (ICBSEE)-2022 and her oral presentation on "Genome-based Metabolic Flux Analysis (MFA) of M. Maripaludis for improved methane productivity" at the AIChE Annual Meeting in 2014.
+
+Her professional experience includes positions as a Scientist-II at Strand Life Sciences Pvt Ltd in Bangalore and a Research Engineer at NUS. She has also secured multiple research grants, including SEED 2022 and RISE, to support her research initiatives.
+
+In her teaching philosophy, Dr. Goyal emphasizes a learner-centered approach, promoting collaborative learning environments, project-based activities, and interactive class discussions to enhance student engagement and problem-solving skills. She has taught various subjects including Computational Biology, Biochemistry, and Fermentation Technology.
+
+Contact details for Dr. Nishu Goyal are as follows:
+- Email: nishu.goyal@ddn.upes.ac.in
+
+Overall, Dr. Goyal's contributions to the fields of biotechnology and environmental science are significant, with a focus on sustainable solutions to pressing global issues.

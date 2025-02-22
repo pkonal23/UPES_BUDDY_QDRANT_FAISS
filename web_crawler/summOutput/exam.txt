@@ -1,0 +1,57 @@
+﻿EXAMINATION:
+ 
+ 
+User: When is the mid-semester exam scheduled? / Can you provide the date for the mid-semester exam? / Tell me the mid-semester exam date. / Mid-semester exam timetable, when? / How can I find the mid-semester exam date?
+Bot: To find out the exact date for the mid-semester exam, please get in touch with the Course Coordinator (CC) or Head of the Department (HOD) for the relevant information.
+ 
+ 
+User: I'm a graduated student, can I apply for an improvement exam? / How can I request an improvement exam after graduation? / Graduated recently, interested in improvement exams. / Can I improve my grades as a graduated student? / Improvement exams for graduates, is it possible?
+Bot: If you are a graduated student and wish to apply for an improvement exam, please note that if you have already met the CGPA criteria, you may not be eligible for an improvement exam. It's important to stay updated on the exam regulations and policies, as they may be subject to updates and changes after approval by the Vice-Chancellor.
+ 
+ 
+ 
+User: How can I find the examination date sheet? / Where do I check the upcoming exam schedule? / Show me the dates for the upcoming exams. / When will exams be held
+Bot: "To access the examination date sheet, visit the official university website at https://stu.upes.ac.in/notice.aspx. This is where you'll find the most up-to-date information on upcoming exams."
+ 
+ 
+User: When does the link for supplementary odd/even semester exams become available? / Can you tell me the enable/disable dates for the supplementary exam link? / When does the supplementary exam link open/close? / How can I access the supplementary exam link?
+Bot: "The link for supplementary odd/even semester exams usually becomes available a few weeks before the exams commence. Stay updated by regularly checking the official website and mails for announcements."
+ 
+ 
+User: Where can I register for supplementary odd/even semester exams? / How do I sign up for supple semester exams? / What is the process for supplementary exam registration? / Guide me through the supplementary exam registration.
+Bot: To register for supplementary odd/even semester exams, please utilize the university's online student portal.
+ 
+ 
+User: I forgot the subjects I registered for supplementary exams. / How can I retrieve my registered subject details for supple exams? / Tell me the subjects I registered for supplementary exams. / I need information about the subjects I chose for supple exams.
+Bot: If you've forgotten the details of the subjects you registered for in supplementary exams, please check your email. You may find the information related to your registered subjects there.
+ 
+ 
+User: I'm facing issues with the supple exam registration portal. / The supple examination registration portal is not working. / What should I do if the registration portal for supple exams is blocked? / Supple exam registration portal is inaccessible.
+Bot: If you are unable to complete supplementary examination registration due to a blocked portal, please get in touch with the university's support team at sfc@ddn.upes.ac.in for assistance.
+ 
+ 
+User: My course is not listed for supplementary exam registration. / The supple exam registration does not include my course. / What can I do if my course is missing for supple exams? / Supple exam registration does not have my course option.
+Bot: If your course is not displayed for supplementary examination registration, please contact at d.bhawal@ddn.upes.ac.in for assistance.
+ 
+ 
+User: Is the registration for supplementary exams closed? / When will supplementary exam registration reopen? / What should I do if registration is closed for supple exams? / Registration closed for supplementary exams, now what?
+Bot: If supplementary exam registration is closed, you'll need to wait for the next registration period. Stay informed by monitoring official announcements for updates on the next registration opportunity.
+ 
+User: How can I cancel my supplementary exam registration? / What's the process to cancel supple exam registration? / I want to withdraw my registration for supplementary exams. / Cancel my registration for supple semester exams.
+Bot: If you wish to cancel your supplementary exam registration, please contact at d.bhawal@ddn.upes.ac.in for assistance.
+ 
+ 
+User: When can I expect a refund for my cancelled examination? / What's the timeline for receiving a fee refund for cancelled exams? / Refund status for cancelled exam fees. / How long does it take to get a refund for cancelled exams?
+Bot: You can expect to receive the fee refund for a cancelled examination after the examination has taken place.
+ 
+ 
+User: I am a year back student, where can I get information about non-theory exams? / Tell me about non-theory exams for year back students. / Where can I find details about exams for year back students? / Information on non-theory exams for year back candidates.
+Bot: For information on non-theory exams as a year back student, please check the notices on the official university website or contact the Examination Department.
+ 
+User: My exam is blocked on Blackboard, what should I do? / Why can't I see my exam on Blackboard? / The exam isn't showing up on Blackboard, help! / Is my exam blocked on the Blackboard platform?
+Bot: If your exam is blocked or not appearing on Blackboard, please contact the university's support team at sfc@ddn.upes.ac.in for assistance.
+ 
+ 
+User: Can I request a writer for exams due to a medical condition? / I'm sick/injured, can I have a writer for exams? / How can I get a writer for exams in a medical case? / Need a writer for exams because of illness, how?
+Bot: Yes, you can request a writer for exams due to a medical condition, but this request needs to be approved by the Controller of Examination. The writer must be two grades lower than you and should not belong to the same discipline as you. Please review the Examination Regulations for more details.
+

@@ -1,0 +1,28 @@
+The Master of Computer Application (MCA) program in Artificial Intelligence and Machine Learning at UPES School of Computer Science offers a robust educational framework designed to prepare students for successful careers in the rapidly evolving tech landscape. The program boasts impressive placement statistics, with an average annual salary of 4.92 LPA and a peak package of 11.2 LPA, reflecting strong industry demand. Companies such as Accenture, Cognizant Technology Solutions, IBM, and Capgemini actively recruit graduates, indicating the program's relevance and quality.
+
+### Curriculum and Learning Experience
+The MCA program is meticulously crafted in collaboration with esteemed educators and industry leaders, ensuring a blend of theoretical knowledge and practical exposure. Students begin their journey with foundational courses in statistics, discrete mathematics, and probability, which are critical for understanding AIML applications. The curriculum includes specialized subjects like Neural Networks, Natural Language Processing (NLP), Cognitive Analytics, and Robotics, allowing students to delve into various AIML domains.
+
+A hallmark of the program is its emphasis on hands-on experience through industry-centric projects and a mandatory three-month internship. These experiences not only help students tackle real-world challenges but also enhance their employability, with many securing pre-placement offers based on their internship performance.
+
+### Career Opportunities
+Graduates are equipped with the skills to pursue a variety of roles, including:
+- **Data Scientist**: Utilizing statistical and programming expertise to extract insights from data.
+- **Machine Learning Engineer**: Designing and deploying advanced ML systems.
+- **AI Research Scientist**: Contributing to the advancement of AI technologies.
+- **AI Solutions Architect**: Bridging technology and business to create strategic solutions.
+- **AI Ethicist, AI Consultant, AI Product Manager**: Specializing in ethical AI development and management.
+
+The program is designed to prepare graduates for diverse sectors, including technology giants, research organizations, healthcare, finance, and startups, making them integral to shaping the future of AI and ML.
+
+### Admission and Eligibility
+To apply for the MCA program, candidates must meet the following eligibility criteria:
+- Minimum 50% in 10th and 12th grades.
+- 50% aggregate marks in BCA, B.Sc. (Computer Science), B.Sc. (Information Technology), or any graduation with Computer Science/IT as a subject for three years, or equivalent. Mathematics or Statistics must be included at the graduation or 10+2 level.
+
+### Contact and Application Details
+- **Last Date to Apply**: February 28, 2025
+- **Contact Number**: +91 [not specified]
+- **Email Address**: [not specified]
+
+For more information on the fee structure, course details, and application process, interested candidates are encouraged to visit the UPES School of Computer Science website or contact the admissions office directly. The program not only emphasizes academic excellence but also fosters an entrepreneurial spirit among students, encouraging them to engage in innovative projects and potentially establish startups.

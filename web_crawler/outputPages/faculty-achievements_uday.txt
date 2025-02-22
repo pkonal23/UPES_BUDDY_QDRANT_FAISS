@@ -1,0 +1,13 @@
+This was a talk on the topic of Lie Groups in the broad area of group theory.
+Formula for Compact Lie Groups’ at
+Faculty Achievements
+Let G be a finite group, and α: G x G → G denotes the commutator map. The cardinalities of the fiber α^{-1}(g) can be computed by a formula due to Frobenius, using the character values χ(g) of irreducible characters χ of G.
+Uday Bhaskar Sharma delivered a presentation on "A Frobenius-Type Formula for Compact Lie Groups" at the conference ‘Groups and Representations’. The talk focused on deriving a generalised formula for connected compact Lie groups, orthogonal groups, and FC groups, in collaboration with Dr. Shripad Garge from IIT Bombay.
+Presentation on ‘A Frobenius-type
+Home
+School of Liberal Studies and Media
+the Conference ‘Groups and Representations’
+Uday
+Close
+Uday - Achievement
+Eligibility Criteria

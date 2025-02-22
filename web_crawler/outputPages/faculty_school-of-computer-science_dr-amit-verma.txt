@@ -1,0 +1,25 @@
+In the field of healthcare, Dr. Verma has made notable contributions to the area of skin cancer classification. His work involves developing advanced algorithms and models to accurately classify skin cancer types, aiding in early detection and diagnosis. Furthermore, he has successfully built a portal for potato blight disease classification and pesticide recommendation systems, helping farmers make informed decisions and optimize crop yield.
+Dr. Verma's expertise extends to the realm of logic gates, particularly focusing on the t-NOT gate for a 3-bit system and developing a novel multiplication algorithm. His research in this area demonstrates his ability to solve complex problems and push the boundaries of computational logic.
+Research Interests
+Machine Learning I Artificial Intelligence I Algorithms I Logic Gates.
+Home
+Work Experience
+Awards and Grants
+amit.verma@ddn.upes.ac.in
+Recognized as a thought leader, Dr. Verma has recently authored a book on Artificial Neural Networks, providing comprehensive insights into this rapidly evolving field. He combines his theoretical knowledge with practical skills, showcasing proficiency in developing machine learning and convolution-based neural networks using Python.
+Close
+School of Computer Science
+Dr. Amit Verma has vast experience in teaching Computer Science Engineering core subjects like C/C++ programming, Python programming and Data Structures. He has published two textbooks on C programming language and he recently published a textbook on Artificial Neural Networks book with hands-on coding in Python.
+Dr. Amit Verma has received a cash prize and a certificate for quality teaching, resulting in a 100% pass rate in the subject. Additionally, he was awarded a grant of Rs 50,000 for developing a device for visually impaired individuals. The project was completed on time, and the product was successfully delivered.
+Faculty
+Before joining UPES he worked in the College of Engineering Roorkee, Roorkee, and Uttaranchal University, Dehradun.
+Courses Taught
+Eligibility Criteria
+Dr. Amit Verma has extensive experience teaching core subjects like C/C++ programming and Data Structures in computer science engineering. His teaching has earned him cash prizes and achieved a 100% result rate. He remains focused on innovating new methods to enhance student understanding. He incorporates interactive presentations, surprise tests, short assignments, and online/offline quizzes to create an engaging learning environment. He values individuality, fosters open communication, and provides personalized attention to cater to diverse learning needs. His teaching philosophy centers around delivering high-quality education, empowering students with a strong foundation in computer science and practical skills for academic and professional success.
+Dr. Amit Verma
+Profile Summary
+Dr. Amit Verma is a seasoned professional with expertise in AI/ML and logic gates in switching theory. He has made significant contributions to various domains, including healthcare, agriculture, and computational logic. His recent projects showcase his diverse skill set and dedication to cutting-edge research and development.
+Assistant Professor (SG)
+With a passion for innovation and a commitment to excellence, Dr. Amit Verma is a sought-after professional in the AI/ML community. His expertise, combined with his hands-on experience and research contributions, make him an invaluable asset to any organization or research team.
+Contact
+Teaching Philosophy

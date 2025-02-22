@@ -1,0 +1,23 @@
+Research Interests
+Dr. Gaurav Bhardwaj is research enthusiastic with special focus on Robotics and AI. During his PhD at IIT Roorkee, he has work on Bipedal Robots trajectory planning simulation and control on Non-Flat Terrains. He has completed his PhD from IIT Roorkee from CSE Department in 2023. Prior to it, he has done his MTech in Information Technology from IIIT Allahabad in 2017 with specialization in Software Engineering. He has research papers in reputed SCI Journals like Applied Intelligence and International Journal of Control Automation and Systems along with National/International Conferences. He has design patent registered for the Bipedal Robot in 2024. He has Industrial experience of working with robotics products in Agriculture and Healthcare domain with deployment of products deployed in Indian Council of Agricultural Research (ICAR) campus under guidance of Principal Scientists.
+Home
+Work Experience
+Awards and Grants
+Dr. Bhardwaj has qualified CSIR JRF with All India Rank 55 and Qualified Gate 2 times in 2014 and 2016. He has raised funding of INR 40 Lakhs from DST under Pankh Scheme at IHUB Divyasampark IIT Roorkee for his startup. Grant of INR 5 Lakhs from PAU PABI for his startup in 2024.
+Close
+School of Computer Science
+Faculty
+Dr. Bhardwaj worked as Teaching Assistant for NPTEL course “Robotics and Control” under Prof N. Sukavanam at IIT Roorkee for three consecutive Years.
+Scholarly Activities
+Dr. Gaurav Bhardwaj
+Courses Taught
+Eligibility Criteria
+Dr. Bhardwaj has research papers in reputed SCI Journals and Conferences. He has reviewed papers for IEEE RAL and other similar Journals. He has design patent registered for Bipedal Robot.
+Profile Summary
+Assistant Professor
+gaurav.bhardwaj@ddn.upes.ac.in
+Contact
+Before joining UPES, Dr. Bhardwaj was working as MD and CEO of his own robotics based Startup PaiByTwo Private Limited founded during his doctorate in 2022. He has raised INR 50 Lakhs from different Sources like IHUB Divyasampark IIT Roorkee, PAU PABI with incubation support at AIC IIT Delhi and ABIC ICRA Delhi. He has worked on development of Intelligent bipedal Agrobot for Precision Spraying and Crop Monitoring Purposes.
+Dr. Bhardwaj’s teaching philosophy is coupled with Industrial Requirements. His main focus is to develop sense of innovation among the students to meetup Industry standard and state of the art technology based requirements. The skills can be developed if form of Real-Time Projects and specialized tools for development of various aspects of learning.
+Robotics I Artificial Intelligence I Deep Learning I Haptics I Healthcare Robotics I Exoskeletons
+Teaching Philosophy

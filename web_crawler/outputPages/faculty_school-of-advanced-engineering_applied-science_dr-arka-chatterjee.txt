@@ -1,0 +1,66 @@
+He has memberships of the following presitigious institutions:
+Research Interests
+Seminars/Presentations:
+Teaching demands the ability to express and elucidate complex concepts clearly for learners. This requirement acts as a catalyst, compelling the teacher to possess a crystal-clear understanding of these concepts. Furthermore, effective teaching hinges on the skill full ideas to facilitate meaningful comprehension. These contribute to a deeper understanding of the entire body of knowledge. In future, the ideas enhance the potential for research works.
+2. Postdoctoral Fellowship from UNIST, 2020, Ulsan, South Korea
+Peer-Reviewed:
+White Paper: 1,
+Home
+Work Experience
+Awards and Grants
+Close
+Basic experiments to understand the concepts of Physics and their real world applications.
+9. Job offer as a Graduate Trainee from Ignite Project of TCS, 2008, Chennai, India
+Faculty
+Dr. Arka Chatterjee interests are embedded in discovering the signatures of general relativity (GR) and “Disk-Jet Connections” through multi-wavelength variabilities of galactic black holes (GBHs) and active galactic nuclei (AGNs). During the accretion process, the inflowing matter speeds up by spending gravitational potential energy. This kinetic energy is converted into heat, and the heat is dissipated through radiation. Radiations may come out in the range of Radio, Infrared, Ultraviolet, or X-ray depending on the mass of the central black hole and emitting region on the accretion disk. For GBHs and AGNs, the inner region radiates mostly in X-rays. Since the curvature becomes steeper closer to black holes, the X-ray contains potent signatures of GR processes. The X-ray light curves from accreting black holes of various mass ranges often exhibits Quasi-Periodic Oscillations (QPOs) and can be utilized to probe the extreme gravity around black holes. His research would likely to address these tantalizing issues of black hole accretion physics:
+Dr. Arka Chatterjee possess profound passion for the art of teaching and finds it to be an immensely invigorating experience. In his view, teaching is a dynamic, two-way process characterized by mutual learning. This symbiotic relationship becomes especially evident in a research-oriented environment, where people continually push the boundaries of knowledge. He firmly believes that research, when parted from teaching, tends to yield considerably fewer insights. This holds true whether faculties are engaged with undergraduate or graduate instruction.
+1. Equipment grant (PC) of KRW 5 million from UNIST, 2021, Ulsan, South Korea
+1. Member International Astronomical Union (IAU), CA20832
+Astronomer Telegram: 1,
+Conference: 15
+“Exploring Inner Accretion Dynamics of Black Holes across the Mass Scale using Astrosat” (Co-PI)
+Co-PI: uGMRT 6 Hrs, ATel 16378; ARIES (2020 cycle A, 5 nights)
+Stellar Evolution:
+Scholarly Activities
+Journals: 11 MNRAS, 2 ApJ & 1 ApJS
+Observational Proposal:
+Dr. Arka Chatterjee has joined as an Assistant Professor -Senior Scale UPES on 11th November 2024. Prior to this, he served as a Postdoctoral Fellow of University of Manitoba, Winnipeg, Canada where the project funded was by the Research Program of Canadian Space Agency 2021-2024. Before that, he worked as a Postdoctoral Researcher in the UNIST, South Korea and S N Bose National Centre for Basic Sciences, Kolkata, India from 2018-2020.
+Canadian Space Agency (CSA) (CAD 50k/INR: 30 lakh, Start Date: 01.04.24)
+Courses Taught
+Physics for Computer Engineers:
+4. Travel & Accommodation Grant in the MAXI 10 Year Workshop, 2020, Tokyo, Japan
+Eligibility Criteria
+d. First Proposed & Simulated Soft Excess through the Single Corona
+1. What are the general relativistic signatures on timing properties in black hole accretion?
+5. Postdoctoral Fellowship-IPDF from IIT Guwahati, 2019, Guwahati, India, declined
+8. Travel & Accommodation Grant of COSPAR Students’ Fellowship for COSPAR Conference, 2016, Turkey
+Assistant Professor - Senior Scale
+14 (4 First, 6 corresponding, 4 co-author); Total IF: 79.8 (Avg. 5.7),
+Dr. Arka Chatterjee is an Astrophysicist with a PhD in Theoretical Physics from the University of Calcutta. His research focuses the X-ray images of accreting black holes, general relativistic effects, and disk-jet connections in the accretion disk. He discovered Jet induced Soft Lags during accretion onto black holes and has expertise in the field for Ray-Tracing, Black Hole Astrophysics, X-ray astronomy, and time series techniques.
+Below, is a list of a few of his notable research works:
+Dr. Arka Chatterjee teaches a variety of courses, including:
+3. CSA Postdoctoral Fellowship from University of Manitoba, 2020, Winnipeg, Canada
+PI: Astrosat Proposals (200 ks; IDs: A12_99, A13_87, A14_94)
+a. First X-ray Images of Black Holes with Observable Spectral & Temporal counterpart
+6. Postdoctoral Fellowship from SNBNCBS, 2018, Kolkata, India
+8 Invited Lectures (IISc, IIST, IITG, IITKGP, UNIST, UofM., Presidency University)
+Laboratory Experiments for Computer Engineers:
+Profile Summary
+School of Advanced Engineering
+Dr. Arka Chatterjee
+Basics of Lasers, EM theory, and Modern Physics.
+Externally Funded Project:
+arka.chatterjee@ddn.upes.ac.in
+Publications: 33
+c. Discovery of Radio Flux and Soft-Lag Correlation
+13 Contributed talks (5 International, 8 National)
+Book Chapters: 2 (single author, Internationa),
+Contact
+7. Travel & Accommodation Grant in the RETCO III, 2017, IIST, Trivandrum, India
+Fundamentals of Stellar Evolution, Equilibrium and Nuclear Processes, Formation of Compact Objects, Hands on sessions and projects.
+2. Member of Canadian Astronomical Society (CASCA), Vancouver, BC, Canada
+Applied Science
+3. Life membership of Astronomical Society of India (ASI), L 2408, India
+2. What triggers the multi-wavelength variability during the black hole accretion?
+Teaching Philosophy
+b. First Time Lag Simulations for Inhomogeneous Corona

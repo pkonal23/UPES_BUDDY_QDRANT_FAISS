@@ -1,0 +1,45 @@
+**Dr. Manisha Malik - Profile Summary and Research Interests**
+
+**Contact Information:**
+- Email: manisha.malik@ddn.upes.ac.in
+
+**Current Position:**
+- Assistant Professor in the Department of Mathematics (Applied Science Cluster) at the School of Advanced Engineering, UPES, Dehradun.
+
+**Educational Background:**
+- Ph.D. from the Indian Institute of Technology (IIT) Roorkee, focusing on optimization problems under uncertainty.
+- M.Sc. (Hons. School) from Panjab University, Chandigarh.
+- B.Sc. from Kurukshetra University, Kurukshetra.
+
+**Research Interests:**
+Dr. Malik has made significant contributions to the field of operations research, particularly in:
+- Developing solution methodologies for single and multi-objective optimization problems in uncertain environments.
+- Addressing multi-criteria decision-making problems within fuzzy environments.
+Her research emphasizes practical applications across various sectors, including education, production planning, transportation, and more. 
+
+**Scholarly Contributions:**
+- Dr. Malik has presented her research at international conferences such as ORSI 2019 and OR-2022 at the Karlsruhe Institute of Technology, Germany.
+- She serves as a reviewer for several SCI journals, including the Alexandria Engineering Journal and the Journal of Mathematics.
+- Her research findings have been published in prestigious international peer-reviewed SCI journals and edited volumes.
+
+**Awards and Grants:**
+- Recipient of the "Dr. Sushil Sharma Excellence in Doctoral Research Award" in 2023 at IIT Roorkee.
+- Awarded the SIAM Student Travel Award 2023 for presenting at the SIAM Conference on Optimization (OP23) in Seattle, USA.
+- Received various grants for international travel and research presentation, including support from the Dean of Resources and Alumni Affairs (DORA) at IIT Roorkee, CSIR Foreign Travel Grant, and International Travel Support from the Science and Engineering Research Board (SERB), Government of India.
+
+**Teaching Philosophy:**
+Dr. Malik's teaching approach is centered on:
+- Fostering a deep understanding of mathematical concepts through active engagement and critical thinking.
+- Creating an inclusive and supportive learning environment that encourages exploration and problem-solving.
+- Integrating collaborative projects and technology to enhance students' technical skills and confidence in mathematics.
+- Inspiring a lifelong curiosity and passion for the subject, empowering students to excel academically and professionally.
+
+**Courses Taught:**
+Dr. Malik teaches a variety of subjects, including:
+- Advanced Engineering Mathematics I
+- Engineering Mathematics II
+- Optimization Techniques
+- Operations Research
+- Discrete Mathematics
+
+Dr. Malik's expertise in optimization and operations research, combined with her commitment to teaching and mentorship, positions her as a valuable asset in academia and research.

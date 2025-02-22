@@ -1,0 +1,26 @@
+Computer Networks
+Coordinator in Five Days Self-Financed Short-Term Course on Wireless Networks and IoT, IIIT Allahabad. In this workshop, I delivered hands-on session in Internet of Things (IoT).
+Coordinator in a four-day Self-Financed Short-Term Course on IoT, Machine Learning, and Blockchain at IIIT Allahabad. He has worked on the ‘Ultraviolet Disinfection Systems against ’COVID-19’ (UVDS)’ project with the Indian Telephone Industry, Mankapur. In this project, he designed the system motherboard using ESP32 (SoC), Sensors and Relays, and the User Interface (UI) using Embedded C, HTML, CSS, and JavaScript.
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Close
+Data Structure
+School of Computer Science
+Ritesh Kumar
+Institute Fellowship, MoE, Government of India, as a PhD research scholar in Indian Institute of Information Technology Allahabad (2019-2023).
+He holds a B. Tech in Electronics and Communication Engineering and is currently pursuing a dual degree program (M. Tech and PhD in Information Technology (specialization in Robotics)) at the Indian Institute of Information Technology, Allahabad. His thesis title is “RSSI-based indoor localization methods for static and dynamic objects using Machine Learning / Deep Learning approaches”.
+Faculty
+M.Tech MHRD GATE Fellowship as a Master student in Indian Institute of Information Technology Allahabad (2017-2019).
+Scholarly Activities
+His teaching philosophy centres on creating an inclusive, engaging learning environment where students feel valued and motivated to excel. He believes in education's power to inspire curiosity, critical thinking, and lifelong learning. He prioritizes active learning, collaboration, and real-world application of concepts, integrating innovative pedagogical strategies and technology. His aim is to equip students with skills and mindsets for success in a dynamic world, fostering diversity, equity, and compassion. Teaching is a collaborative, evolving process where students can continuously learn and adapt based on feedback and reflection.
+His research interests are Indoor localization, Internet of Things, Aerial Robotics (Micro-UAV), Machine Learning and Deep Learning.
+Courses Taught
+ritesh.kumar@ddn.upes.ac.in
+Eligibility Criteria
+Profile Summary
+Assistant Professor
+Contact
+Before joining UPES, he was a Senior Research Fellow (SRF) in Indian Institute of Information Technology, Allahabad.
+Teaching Philosophy

@@ -1,0 +1,21 @@
+The 3rd International Conference on Machine Learning and Data Engineering (ICMLDE 3.0) took place on November 28-29, 2024, at the UPES Bidholi Campus, organized by the UPES School of Computer Science in collaboration with Elsevier, the University of Dayton (USA), and Providence University. This conference aimed to serve as a platform for discussing advanced innovations in Machine Learning and Data Engineering, showcasing high-quality research, and fostering global collaboration among researchers, academicians, professionals, and industry leaders.
+
+The event was sponsored by the Ministry of Electronics and Information Technology (MeitY) and IBM, and it continued the tradition of academic excellence established by its predecessors, which had previously attracted over 3,800 contributors from 47 countries. ICMLDE 3.0 featured four main tracks: Machine Learning Foundation, Deep Learning and Data Engineering, Machine Learning and Data Engineering, and Applications. 
+
+The conference successfully facilitated meaningful discussions and collaborations focused on global challenges and emerging opportunities in Artificial Intelligence and Data Engineering. More than 400 research papers were presented, with accepted papers published in the Procedia Computer Science journal by Elsevier, ensuring global accessibility and recognition.
+
+Key speakers and guests included:
+- Dr. Sanjay Bahl, Director General, CERT-In, MeitY
+- Dr. Ajay Kumar, Director, IRDE DRDO
+- Dr. Ram Sharma, Vice-Chancellor, UPES
+- Dr. Tanmoy Chakraborty, IIT Delhi
+- Dr. Amit Sachan, Jio
+- Dr. Vijayan K. Asari, University of Dayton
+- Dr. Arun Kumar, NIT Rourkela
+- Dr. Bernard Fong, Providence University
+- Professor Peter Han Joo Chong, Auckland University of Technology
+- Dr. G. G. Md. Nawaz, Bradley University, USA
+- L. Venkata Subramaniam, IBM Quantum Lead
+- Siddharth Golecha, Quantum Support Engineer at IBM
+
+The conference placed a significant emphasis on nurturing young researchers through expert speeches and engaging technical sessions, paving the way for innovation and progress in the field. The event was held at the Multi Activity Centre (MAC) Auditorium, UPES Bidholi Campus, and aimed to highlight UPES's vision as a hub for research excellence and impactful solutions.

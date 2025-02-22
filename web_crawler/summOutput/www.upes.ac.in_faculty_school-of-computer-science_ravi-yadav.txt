@@ -1,0 +1,9 @@
+Ravi Yadav is an Assistant Professor at the University of Petroleum and Energy Studies in Dehradun, having started his position in August 2023. He holds a Ph.D. from the Department of Computer Science at Banaras Hindu University, and he completed his M.Tech at KNIT, Sultanpur, following his B.Tech from Galgotia’s College of Engineering and Technology. 
+
+His primary research interests lie in Fog Computing, Trust Management, and Blockchain technologies. He has actively collaborated with multidisciplinary teams in these fields and has a notable record of research publications in reputable journals, including those from IEEE, Elsevier, and Springer. Additionally, Yadav is an active member of the IEEE and ComSoc societies.
+
+In his teaching role, he covers courses such as Operating Systems, Design Analysis and Algorithms, and Data Structures. He also provides instruction and lab work on the Solidity programming language. His teaching philosophy focuses on fostering a learning environment where students can connect theoretical concepts to practical applications, and he values student feedback to enhance the educational experience.
+
+During his Ph.D., Yadav was awarded the UGC-NET JRF and SRF Fellowships and received a GATE scholarship from the Ministry of Human Resource Development (MHRD) during his M.Tech program.
+
+For further inquiries, he can be contacted via email at ravi.yadav@ddn.upes.ac.in.

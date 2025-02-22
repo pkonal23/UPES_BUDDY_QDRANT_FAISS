@@ -1,0 +1,26 @@
+Research Interests
+More recently, from January 2023 to May 2023, Milton Kumar is working on a project focused on Crowd Counting and Density Estimation using Fog Architecture. This project utilizes IoT, Python, Google Collab, Anaconda Framework, and Deep Learning techniques. The goal is to develop a system that can accurately predict the head count in a crowded image using Convolutional Neural Network (CNN) models, and propose a fog architecture to efficiently manage crowds at crowded places.
+Milton Kumar's research interests lie in the field of Internet of Things (IoT) and Deep Learning. He is particularly interested in exploring crowd counting and density estimation using fog architecture. His ongoing project focuses on developing a system that can accurately predict the head count in a crowded image using Convolutional Neural Network (CNN) models. The proposed fog architecture aims to efficiently manage crowds at crowded places.
+Home
+Work Experience
+Awards and Grants
+As a Teacher, Milton Kumar believes in creating an engaging and interactive learning environment for students. He strives to break down complex concepts into simpler terms, making them more accessible and understandable. His approach involves providing clear explanations, encouraging active participation, and offering timely feedback to help students excel in their studies. He is committed to fostering a positive and supportive learning atmosphere that promotes academic growth and success.
+Close
+School of Computer Science
+Milton Kumar is a dedicated and hardworking individual having degree of Master of Technology in Information Technology at the Indian Institute of Information Technology, Allahabad. With a strong background in Computer Science Engineering and a specialization in Cloud Computing and Virtualization Technology, he possesses a diverse skill set including proficiency in programming languages such as C, C++, and Python. He has experience working as a Software Developer at Shanrohi Technologies, where he contributed to the development of the Ramp Android App and made modifications to the RampWMS website. Additionally, he has served as a Teaching Assistant for Object Oriented Programming and Computer Networks courses at IIIT Allahabad, demonstrating his ability to effectively communicate and guide students.
+Faculty
+Milton.kumar@ddn.upes.ac.in
+Scholarly Activities
+Milton Kumar served as a Summer Intern at Shanrohi Technologies from June 2017 to July 2017, where he developed the Ramp WMS Android App. He has also gained teaching experience as a Teaching Assistant at IIIT Allahabad. From August 2022 to December 2022, he took tutorial classes, prepared questions, and evaluated more than 200 students of the B.Tech 3rd year for the Object-Oriented Programming course. Additionally, from January 2023 to May 2023, he performed similar duties for the Computer Networks course.
+Courses Taught
+Eligibility Criteria
+Milton Kumar has worked on several projects during his academic and professional journey. In February 2019 to December 2019, he developed a Smart Remainder Android App using Android Studio, XML, and Java. The app handles alarms and other reminders, provides a chatting interface, and supports voice instructions.
+Milton Kumar
+Profile Summary
+Assistant Professor
+Milton Kumar has gained valuable teaching experience as a Teaching Assistant at the Indian Institute of Information Technology, Prayagraj. From August 2022 to December 2022, he took tutorial classes, prepared questions, and evaluated more than 200 students of the B.Tech 3rd year for the Object-Oriented Programming course. In this role, he demonstrated his ability to effectively communicate complex concepts, encourage active participation, and provide timely feedback to help students excel in their studies.
+Milton Kumar has earned numerous badges in competitive programming from online platforms such as HackerRank and LeetCode. He has also obtained a Cloud Computing and Virtualization Graduate Certificate from IBM. Milton Kumar also received a Problem-Solving Certificate from HackerRank, showcasing his problem-solving skills and abilities.
+Contact
+Additionally, from January 2023 to May 2023, Milton Kumar served as a Teaching Assistant for the Computer Networks course, where he performed similar duties. He took tutorial classes, prepared questions, and evaluated more than 200 students of the B.Tech 3rd year, further showcasing his commitment to fostering a positive and supportive learning environment that promotes academic growth and success.
+From March 2020 to December 2020, Milton Kumar developed a Keylogger Windows App using Visual Studio Code and C++. The app records keystrokes typed by the user and hides itself, running in the background.
+Teaching Philosophy

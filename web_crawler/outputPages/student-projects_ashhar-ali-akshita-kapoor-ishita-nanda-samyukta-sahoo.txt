@@ -1,0 +1,14 @@
+Thus, the application Manage your money easily (MYME) primarily aims at managing our money, which we spend each day either individually or collectively. In this app, the user can record daily expenditure and can have a personalized breakdown of the total expenditures. Moreover, a major feature allows seamless money distribution among groups, so people can split money error-free with minimal cash flow. Additionally, this app provides user-specific login and logout windows, which allows the user to create a personalized management interface. The goal will therefore be to design a user-friendly interface where the users can enter their cash flow information and keep track of it visually.
+Download the Application:
+https://github.com/nerdynerd09/Minor
+Money Management Application
+Eligibility Criteria
+Money Management Application – Manage your Money Easily (MYME)
+Ashhar Ali, Akshita Kapoor, Ishita Nanda & Samyukta Sahoo, a group of students pursuing the degree of B.Tech. CSE with the specialization in Cloud Computing and Virtualization Technology from the batch of 2020-24 completed the project of developing a Money Management Application – Manage your Money Easily (MYME).
+Home
+Close
+School of Computer Science
+Student Projects
+Manage Your Money Easily (MYME) is an intuitive personal finance application designed to help individuals and groups effectively track and manage their finances. With features like daily expenditure recording, personalized breakdowns of expenses, and seamless money distribution among groups, MYME simplifies the process of managing cash flow. The user-specific login and logout windows ensure a personalized management interface, while the user-friendly design provides a visual overview of financial information, empowering users to take control of their finances effortlessly.
+Ashhar Ali, Akshita Kapoor, Ishita Nanda & Samyukta Sahoo
+The ability to manage money is a basic skill that everyone performs throughout their lives, but the difference between a meaningful and fulfilling existence and one that struggles often comes down to how well or poorly we manage our finances. Money Management is a process that lets you track the inflows and outflows of your account balance. Our personal finances should be managed to minimize our cash flow by keeping detailed records of our spending and expenses. We can prevent losing money on frivolous expenses by keeping a budget, planning taxes, and keeping track of who we owe money to. If you have an excessive amount of debt, you may suffer serious financial consequences in the future. Having a good understanding of personal finance can also help you manage your debt.

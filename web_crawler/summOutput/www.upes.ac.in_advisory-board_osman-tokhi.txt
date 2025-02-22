@@ -1,0 +1,23 @@
+**Eligibility Criteria for Professor of Control Engineering at London South Bank University**
+
+**Professor Osman Tokhi** has an extensive academic and professional background in Electrical Engineering and Robotics. He obtained his **BSc** in Electrical Engineering from **Kabul University, Afghanistan** in **1978** and later earned his **PhD** from **Heriot-Watt University, UK** in **1988**. He is recognized as a **Chartered Engineer** and holds prestigious memberships including being a **Fellow of the Institution of Engineering and Technology (IET)**, a **Senior Member of the Institute of Electrical and Electronics Engineers (IEEE)**, a **Member of the International Institute of Acoustics and Vibration (IIAV)**, and a **Member of the Climbing and Walking Robots Association (CLAWAR)**.
+
+**Research and Awards:**
+Professor Tokhi has secured significant research funding from both national and international sources. His accolades include the **Tan Chin Tuan Exchange Fellowship Award in Engineering** at **Nanyang Technological University, Singapore** in **2016**, and the **1995/96 F C Williams Premium Award** from the **Institution of Electrical Engineers (IEE)**, recognizing his contributions to high-performance real-time signal processing and control.
+
+**Editorial Roles:**
+He serves as the **Editor-in-Chief** of the **Journal of Low-Frequency Noise, Vibration and Active Control** and is involved in various editorial capacities for notable book series on Service Robotics published by **World Scientific Publishing Company** and on Mobile Service Robotics by **Elsevier Publishing Company**. He is also a member of the **Editorial Advisory Board** for the **Industrial Robot Journal**, and has held multiple editorial roles in several international journals.
+
+**Current Position and Research Interests:**
+Currently, Professor Tokhi is a **Professor of Robotics** and the head of the **Cognitive Systems Research Centre** at the **School of Engineering, London South Bank University, UK**. His research interests encompass areas such as **Active Noise and Vibration Control**, **Adaptive/Intelligent Control**, **High-performance Real-time Computing**, **Soft-computing Modelling and Control of Dynamic Systems**, and **Assistive Robotics**. He has a robust publication record and has completed numerous projects within these domains.
+
+**Professional Affiliations:**
+Professor Tokhi holds several significant positions in professional organizations:
+- Chair of the **CLAWAR Association**
+- Chair of the **BSI (British Standards Institute) Technical Committee AMT10 (Robotics) Sub-Committee-1** on Robot Ethics
+- Member of **IFAC Technical Committees TC 3.1** (Computers for Control) and **TC 3.2** (Computational Intelligence for Control)
+- Member of the **IET Technical Advisory Panel** for Automation and Control Professional Network
+- Convenor of **ISO/TC299 (Robotics) working group WG2** on Service Robot Safety
+- Member of various working groups within **ISO/TC299 – Robotics Committee**, **IEC/TC62/SC62A** concerning electrical equipment in medical practice, and the **BSI AMT/010 Robotics Committee**.
+
+This comprehensive profile underscores Professor Tokhi's qualifications and contributions to the field of Control Engineering and Robotics, making him a prominent figure in academia and industry.

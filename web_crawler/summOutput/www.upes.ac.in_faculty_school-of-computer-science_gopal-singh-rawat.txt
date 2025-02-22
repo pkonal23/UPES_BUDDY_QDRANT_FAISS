@@ -1,0 +1,11 @@
+Dr. Gopal Singh Rawat is an Assistant Professor at the School of Computer Science at UPES, having joined in September 2022. He completed his PhD at Jawaharlal Nehru University in 2022, following an MTech in Computer Science and Technology from the same institution in 2017. His academic background also includes an MSc in Informatics and a B.Sc. in Electronics from the University of Delhi, completed in 2012 and 2009, respectively.
+
+Dr. Rawat possesses over five years of research experience, with a focus on Network Security, Vehicular Ad-hoc Networks (VANETs), Intelligent Transportation Systems (ITS), and Blockchain Technology. His scholarly contributions include numerous research articles published in various prestigious journals indexed by SCI, Scopus, ESCI, and INSPEC.
+
+He has a strong commitment to teaching, viewing it as a collaborative process of mutual learning that enhances both the educator's and students' understanding of complex concepts. Dr. Rawat emphasizes the importance of clear conceptualization and appropriate abstraction in teaching, believing that these elements not only facilitate learning but also contribute to the expansion of knowledge through research.
+
+In his previous role as an Assistant Professor in the Department of Computer Science at the University of Delhi during the 2017-18 academic year, Dr. Rawat mentored numerous B.Tech research projects. He has guided students on various projects, including an e-commerce web application utilizing the MERN stack, a cryptocurrency market analysis, and a plant disease detection system using deep learning techniques.
+
+Dr. Rawat has also demonstrated his academic proficiency by clearing various competitive exams, including the Junior Research Fellowship (JRF) conducted by the National Testing Agency (UGC) in December 2017 and 2018, as well as the National Eligibility Test (NET) from 2014 to 2017. He qualified for the Graduate Aptitude Test (GATE) in both 2015 and 2016.
+
+For inquiries, Dr. Rawat can be contacted via email at gopals.rawat@ddn.upes.ac.in.

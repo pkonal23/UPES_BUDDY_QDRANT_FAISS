@@ -1,0 +1,39 @@
+**Profile Summary of Nayantara Kotoky**
+
+**Contact Information:**
+- Email: nayantara.kotoky@ddn.upes.ac.in
+
+**Current Position:**
+- Assistant Professor (Senior Scale) at the School of Computer Science, UPES, since May 2023.
+
+**Teaching Philosophy:**
+Nayantara Kotoky emphasizes the importance of collaborative learning and skill development. She believes that building a nation requires collective effort, and she aims to equip students with technical skills that can be effectively applied in real-world scenarios. She encourages active class participation, prompting students to identify global issues and explore potential technical solutions.
+
+**Research Interests:**
+Nayantara specializes in Machine Learning, focusing on its applications in Public Policy Making and Cognitive Neuroscience. Her Ph.D. thesis centered on the application of machine learning to identify areas for amendment in the Indian Right to Information Act, 2005. She continues to explore how machine learning can be utilized to extract valuable insights for effective public policy formulation.
+
+**Work Experience:**
+- Prior to her role at UPES, Nayantara served as an ERCIM postdoctoral fellow at the Fraunhofer Institute for Industrial Engineering in Stuttgart, Germany, where she worked on applied neurocognitive systems.
+- She has also held a position as an assistant professor in the Department of Computer Science and Engineering at Pandit Deendayal Energy University, Gujarat.
+
+**Courses Taught:**
+Nayantara has experience teaching various subjects, including:
+- Introduction to Python Programming
+- Foundations of Data Science
+- Data Warehousing and Data Mining
+- Cyber Forensics
+
+**Scholarly Activities:**
+Nayantara has actively participated in academic events, including:
+- A talk on "We Can Help Create Better Policies: Text Analytics in Policy-Making" at a GUJCOST Sponsored Workshop on Natural Language Processing in 2020.
+- A presentation on "Machine Learning Strategies for Policy Implications" at a Faculty Development Program on Artificial Intelligence and Machine Learning at ICFAI University, Tripura, in 2021.
+- Serving as a reviewer and session chair for the 1st IEEE International Conference on Artificial Intelligence and Machine Vision (AIMV) in 2021.
+- An invited talk on "Role of Technology in Education and its Impact on Society" at Tyagbir Hem Baruah College, Assam, in 2022.
+
+**Awards and Grants:**
+Nayantara has received several prestigious awards, including:
+- The ERCIM postdoctoral fellowship, hosted by the Fraunhofer Institute for Industrial Engineering, Germany.
+- The ACM-W scholarship for her research accepted at the IEEE International Conference on Machine Learning and Applications (ICMLA) in Florida, 2019.
+- The Grace Hopper Celebration, India (GHCI) student scholarship to attend the GHCI event in 2019.
+
+Nayantara Kotoky's commitment to education, research, and community engagement underscores her role as an influential figure in the field of computer science, particularly in machine learning and its societal implications.

@@ -1,0 +1,27 @@
+Designed and implemented SQL queries to extract, transform, and load data from multiple sources into a centralized database, improving data retrieval efficiency.
+Research Interests
+Utilized Python for data analysis, scripting, and data visualization using libraries such as Pandas and NumPy.
+Home
+Work Experience
+Awards and Grants
+Close
+Developed interactive data dashboards and reports using Qlik Sense to support data-driven decision-making.
+School of Computer Science
+Pranshu Srivastava is a skilled professional with experience in data analytics and software development. He has a solid background in computer science, complemented by practical experience in data analytics, machine learning, and backend development. Pranshu's expertise lies in developing interactive data dashboards, analyzing large datasets, deploying machine learning models and data structures and algorithms. He has a strong command of programming languages such as C/C++ and proficiency in database management systems (Efficient in SQL). With a commitment to continuous learning and innovation, Pranshu brings a dynamic approach to problem-solving and project execution.
+Faculty
+Research interests lie at the intersection of computer science and data analytics.
+Scholarly Activities
+Managed and analyzed large datasets using Excel, performing calculations and generating visual reports.
+Courses Taught
+Eligibility Criteria
+pranshu.srivastava@ddn.upes.ac.in
+Profile Summary
+Assistant Professor
+Recognized for exceptional contribution as a Teaching Assistant at BITS Pilani.
+I emphasize a practical, industry-oriented approach that equips students with the skills and knowledge needed to excel in product and service-based companies. My focus areas include data structures and algorithms, database management systems (DBMS), operating systems, computer networks, computer organization and architecture, programming, and SQL querying.
+Contact
+Certification of Author Presentation: Acknowledged for presenting at IEEE COMPSAC 2022.
+Pranshu Srivastava
+Software Engineer – Credit Suisse, Pune
+Teaching Philosophy
+In my approach to teaching, I prioritize hands-on experience to bridge the gap between academic learning and real-world industry applications. My philosophy revolves around immersing students in current technologies, avoiding traditional teaching methods, and emphasizing practical problem-solving skills.I believe in providing students with ample opportunities for hands-on experience, enabling them to directly apply theoretical concepts to practical scenarios. By engaging in coding problems, SQL querying exercises, and real-world projects, students gain valuable insights into industry practices and develop the skills necessary to tackle complex challenges. Rather than relying solely on theoretical instruction, I focus on solving numerical problems and practical case studies to reinforce learning. This approach not only enhances students' understanding of fundamental concepts but also prepares them for the demands of the modern workforce.

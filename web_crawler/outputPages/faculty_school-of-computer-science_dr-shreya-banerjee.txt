@@ -1,0 +1,42 @@
+IEEE Quantum Week 2021 (Technical paper presentation) (QCE-21), Virtual conference, 2021.
+Assistant Professor (Senior Scale) at University of Petroleum and Energy Studies, Dehradun- (Oct 2023 – Present)
+ORAL Presentations -
+Research Interests
+Faculty Development Program on Quantum Computing, IIIT Dharwad, 2021.
+Assistant Professor-Senior Scale
+Quantum algorithms.
+Home
+Work Experience
+Awards and Grants
+Vidyasagar Bhawan Fellowship. (2011)
+Close
+School of Computer Science
+Faculty Development Program on Quantum Computing, TCET Mumbai-2021.
+My teaching philosophy centers on fostering curiosity, critical thinking, and a love for lifelong learning. I believe in creating a supportive environment that empowers students to explore, question, and grow.
+Dr. Shreya Banerjee
+Faculty
+Asia Pacific Conference and Workshop on Quantum Information Science, IISER Kolkata, 2018.
+Scholarly Activities
+Courses Taught
+Open quantum systems,
+National Conference on Quantum Information and Computations, IIT Jodhpur, 2019.
+Eligibility Criteria
+Quantum metrology,
+,
+Quantum non-local correlations,
+She is an assistant professor at the School of Computer Science, UPES in Dehradun, India. Previously, she worked as a postdoctoral scholar at the Institute quantique, University of Sherbrooke. Her research is primarily focused on studying quantum systems and their application in cutting edge technologies. During her doctoral studies, she had explored the geometry of qudit entangled states and formed a novel approach to quantify multiparty distributive entanglement. Alongside, she studied the dynamics of the non-local correlations in open quantum systems and was involved in developing protocols and algorithms using quantum and semi-quantum tools. Further, she has experience in implementation of quantum algorithms and protocols using Quimb (a Tensor Network library), IBM Quantum, Qiskit, Openqasm, as well as in numerical computation using GNU-Octave, Matlab, and Mathematica. She wants to carry forward her studies of quantum systems in my future research career.
+Summer School on Quantum Information and Quantum Technology
+Profile Summary
+Inspire Fellowship. (2011)
+Postdoctoral researcher at University of Sherbrooke, Sherbrooke, QC, Canada (Nov- 2021-Sep 2023), in collaboration with Ericsson.
+IISER Kolkata, 2019.
+NISQ computers
+IISER Kolkata, 2021 (Local organizing committee and Industry-Academia Resource Person) .
+Contact
+MITACS accelerated postdoctoral Fellowship. (2022)
+IISER Kolkata, 2022.
+Quantum machine learning,
+Data Mining and Business Intelligence
+shreya.banerjee@ddn.upes.ac.in
+Teaching Philosophy
+She has 2+ years of post-PhD research and teaching experiences including both academia and industry.

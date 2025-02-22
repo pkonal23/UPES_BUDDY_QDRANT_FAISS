@@ -1,0 +1,19 @@
+The UPES School of Computer Science recently organized an industrial visit to Bengaluru, which included 23 students and two faculty members. During this tour, students gained insights into Programmable Logic Controllers (PLC), including their specifications, operational software, internal hardware components, and various types developed by Siemens. Additionally, a session was conducted on sensors, instruments used by Siemens, control loops, analog processors, and the configuration of Siemens sensors.
+
+In a previous initiative from 2020, students from the UPES School of Engineering visited Cyient Limited, TATA Advanced Systems, and the Defense Research and Development Laboratory (DRDO) in Hyderabad. This tour involved 53 students and three faculty members. The students learned about the significance of Artificial Intelligence (AI) for the future and were introduced to Augmented Reality (AR) and Virtual Reality (VR) products developed by Cyient, along with their functionality. They also explored Metal Additive Manufacturing and received guidance from DRDL scientists regarding their ongoing projects and the operational procedures of high-speed tunnels, including a demonstration of a Water Tunnel used for torpedo testing.
+
+Further enhancing the learning experience, students from the B.Tech CSE program with a specialization in DevOps visited Xebia in Gurugram, with 43 students and three faculty members participating in this tour.
+
+In 2015, UPES School of Design students specializing in Transportation and Product Design visited several automobile industries, including Hero MotoCorp Ltd., Bajaj Auto Ltd., Wipro Ltd., and Suzuki Motor Corporation. This visit provided students with knowledge about manufacturing techniques and the resources available in factories.
+
+Additionally, 16 students and two faculty members from the Department of Petroleum Engineering and Earth Sciences visited the Marwar Super Group in Jodhpur, Rajasthan, where geoscientists discussed recent discoveries and issues concerning the Neoproterozoic-Cambrian lithosphere and biosphere.
+
+The School of Advanced Engineering also facilitated an educational tour for 88 students from the M.Design in Transportation and Product and Bachelor of Fine Arts to IFB Appliances and Mozaic in Goa in 2018. This tour aimed to provide industry exposure that could inspire innovative, sustainable, and ethical product ideas.
+
+Moreover, students specializing in Graphics and Gaming from the B.Tech CSE program visited NxtGen Infinite Data Center in Bidadi Industrial Area, Bengaluru, where they participated in panel discussions on cybersecurity, the balance between jobs and entrepreneurship, and the Internet of Things (IoT).
+
+A group of about 70 students, accompanied by two faculty members, visited Sun Mobility Pvt. Ltd. in Bengaluru, where industry experts discussed servers, networking components, and showcased various devices. They also attended a panel discussion at Gurukool, featuring insights from industry experts, including Mr. Saurabh Shanu, who spoke on "The tectonic shift in technology—from West to East," and Mr. Pankaj Badoni, who discussed "New working model—jobs of the new generation."
+
+In 2014, a group of 20 M.Design Transportation students visited TVS Motors, HCL Technologies, and Tata Elxsi Ltd. in Bangalore, where they learned about the design and manufacturing processes in the automobile industry, providing them with a comprehensive understanding of transforming design concepts into reality. 
+
+These various industry visits and tours demonstrate UPES's commitment to enhancing student learning through practical exposure and engagement with industry leaders.

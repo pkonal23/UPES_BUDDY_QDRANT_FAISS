@@ -1,0 +1,13 @@
+Download the Application:
+Vivek Anand, a student pursuing the degree of B.Tech. CSE with the specialization in Devops completed the project of developing a blockchain based Healthcare Data Management System.
+https://github.com/viveka1302/Blockchain-based-HealthCare-Data-management-system
+Home
+Data from doctors, patients, as well as hospital admins, needs better security than what is available in today’s software applications to preserve the confidentiality rights of patients. Blockchain technology, introduced with the invention of cryptocurrencies, offers a new approach to data security.
+Vivek Anand
+A blockchain based Healthcare Data Management System
+This project aims to offer the power of blockchain security to healthcare organizations by implementing blockchain as a data-structure using Java. This would ensure that unauthorized manipulation of patient data, hence allowing treatments and research work to be carried out smoothly.
+Close
+School of Computer Science
+Student Projects
+Eligibility Criteria
+Project aims to enhance data security in healthcare by implementing blockchain technology as a data structure using Java. By leveraging the power of blockchain, we ensure the confidentiality rights of patients' data, preventing unauthorized manipulation and facilitating seamless treatments and research within healthcare organizations. Experience the cutting-edge security offered by blockchain in safeguarding sensitive medical information.

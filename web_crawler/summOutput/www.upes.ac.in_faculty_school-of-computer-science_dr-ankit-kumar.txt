@@ -1,0 +1,30 @@
+Dr. Ankit Kumar is an Assistant Professor at the School of Computer Science, with a decade of teaching experience. He has previously worked at KIET, Ghaziabad, and currently teaches courses that emphasize Project-Based Learning (PBL), aiming to provide students with hands-on experience and foster group collaboration. His teaching philosophy revolves around mutual learning, particularly in a research environment, where he believes that teaching and research complement each other.
+
+Dr. Kumar holds a B.Tech in Computer Science and Engineering from UPTU, Lucknow, an M.Tech in Computer Engineering, and a Ph.D. in Computer Engineering from the National Institute of Technology, Kurukshetra. His research interests include Automatic Speech Recognition (ASR), Speaker Recognition, and Machine Translation. He has focused on developing ASR systems for low-resource languages and has employed various techniques such as semi-supervised and transfer learning across different languages. 
+
+He has published over 10 papers in esteemed international journals and conference proceedings and serves as an active reviewer for several journals, including the International Journal of Speech Technology and Telecommunication Systems. Dr. Kumar has also been involved in technical program committees and has conducted ASR workshops at the institute level.
+
+Dr. Kumar's commitment to mentoring students is evident in his guidance of B.Tech and M.Tech research projects, encouraging them to engage in research activities. He is dedicated to enhancing students' communication skills through presentations and written assignments, promoting critical thinking and open dialogues.
+
+Recognition for his work includes the Ignaz Kogler Senior Research Fellowship in Germany.
+
+For further inquiries or collaboration, Dr. Ankit Kumar can be contacted via email at ankit.kumar@ddn.upes.ac.in.
+
+**Research Areas:**
+- Automatic Speech Recognition (ASR)
+- Speaker Recognition
+- Machine Translation
+
+**Teaching Areas:**
+- Speech Recognition
+- Natural Language Processing
+- Machine Learning
+- Conversational AI
+- Deep Learning
+- Data Structures
+- Design and Analysis of Algorithms
+- Operating Systems
+- Software Engineering
+- Artificial Intelligence
+
+Dr. Kumar's overarching aim is to cultivate an environment that promotes research collaboration and critical thinking among students, thereby enriching their academic journey.

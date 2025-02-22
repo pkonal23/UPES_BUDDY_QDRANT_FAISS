@@ -1,0 +1,13 @@
+Download the Application:
+Deep learning is a type of machine learning that is based on the human brain. It is a branch of artificial intelligence that has been around for decades but has recently seen exponential growth in its popularity. It is used for tasks such as image recognition, speech recognition, and natural language processing. Deep Learning is a subset of Machine Learning which deals with algorithms that are capable of learning from data and making predictions based on what they have learned.
+Rahul Gusain, Vaishnav Balodhi, Devyansh Samyal & Mayank Verma
+This project employs deep learning to classify fish breeds using a dataset sourced from Kaggle. Through training the model on images of different fish species, the team gained the ability to accurately identify and provide detailed information about each breed. The model excels at recognizing nine types of fish, such as Black Sea Sprat, Horse Mackerel, Red Mullet, Red Sea Bream, Sea Bass, and Shrimp, offering a robust solution for fish breed classification.
+https://github.com/rahulgusain2511/fish_breed_classification_using_deep_learning
+Home
+In this project, the team employed deep learning techniques to achieve accurate classification of fish breeds. The project utilized a dataset sourced from Kaggle, which served as the foundation for training the model. By implementing deep learning methodologies, the model was equipped to effectively determine the breed of a given fish based on provided images. The workflow involved training the model with a diverse array of fish images and subsequently testing its proficiency with various fish photos. The model exhibited the capability to identify nine distinct fish types, including Black Sea Sprat, Horse Mackerel, Red Mullet, Red Sea Bream, Sea Bass, and Shrimp.
+Deep Learning-based Fish Breed Classification
+Close
+School of Computer Science
+Student Projects
+Eligibility Criteria
+Rahul Gusain, Vaishnav Balodhi, Devyansh Samyal & Mayank Verma, a group of students pursuing the degree of B.Tech. CSE with the specialization in Devops completed the project of developing a Deep Learning-based Fish Breed Classification.

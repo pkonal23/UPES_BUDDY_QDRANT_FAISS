@@ -1,0 +1,22 @@
+**Research Interests and Projects:**
+Dr. Anil Kumar is leading a significant project titled "Development of an Integrated Intelligent Disaster Management System for Mountain Communities in India," recognized as a project of "National Importance" and funded by the Department of Science and Technology (DST), Government of India. This project aims to create an intelligent system that integrates a comprehensive knowledge database on disasters, traditional mountain community knowledge, real-time monitoring sensors, spatial information systems, and auxiliary data sources. The focus is on multi-hazard early warning and management in hilly regions of India.
+
+Additionally, he has been involved in a project related to the "Semantic segmentation of PolSAR image data using advanced deep learning models," which is part of the NISAR (NASA-ISRO Synthetic Aperture Radar) mission. His research also includes the automatic identification of lunar craters and ejecta using deep learning models, and in healthcare, he is applying machine learning algorithms to assess breast cancer proliferation rates through the analysis of whole slide images.
+
+**Professional Recognition:**
+Dr. Anil Kumar has received the prestigious Governor Research Award from the Governor of Uttarakhand, India. He was selected as the Lead Speaker for the NISAR Science Workshop in 2015, conducted at the Space Applications Centre (SAC), ISRO in Ahmedabad. He is also a member of the Executive Committee of the WInSAR (Western North America Interferometric Synthetic Aperture Radar Consortium) as an Adjunct II part of UNAVCO.
+
+**Academic Background and Experience:**
+Dr. Anil Kumar serves as an Associate Professor at the School of Computer Science and has previously worked at DIT University and Cognizant Technology Solutions. He is also a guest faculty member at the Indian Institute of Remote Sensing, ISRO, in Dehradun, India. He completed his master's thesis at IIT Kharagpur.
+
+**Teaching Philosophy:**
+Prof. Anil emphasizes adaptability and relevance in his teaching philosophy, continuously updating syllabi and employing suitable pedagogical methods to meet the demands of society and industry. He utilizes online platforms for enhanced learning and problem-solving, fostering a competitive environment among students to encourage a passion for learning. His approach involves guiding students through authentic problems, nurturing critical thinking skills, and promoting optimized solutions and exploration.
+
+**Courses Taught:**
+He teaches fundamental subjects such as Digital Image Processing, Database Management Systems, Computer Graphics, and Design and Analysis of Algorithms, alongside specialized courses in Machine Learning, Data Mining, Algorithms for Intelligent Systems, and Robotics.
+
+**Editorial Contributions:**
+Dr. Anil serves as an editor for several reputable peer-reviewed journals, including *Advances in Space Research* (Elsevier), *Earth and Space Science* (Wiley), and *Remote Sensing* (MDPI).
+
+**Contact Information:**
+For inquiries, Dr. Anil Kumar can be reached via email at: **anil.kumar@ddn.upes.ac.in**.

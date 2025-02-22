@@ -1,0 +1,16 @@
+In 2022, the global computer gaming market was valued at $197 billion, with the mobile gaming segment alone reaching $3 billion. This market presents significant opportunities for various software and hardware solutions throughout its value chain, particularly in the realm of innovative gaming controllers. The focus is on developing next-generation game controllers that facilitate natural interactions, aiming to cater to the mass mobile gaming market in India and globally.
+
+The current game controllers are noted for lacking natural usability, which the new designs aim to improve. The overarching goal is to enhance the gaming experience by creating controllers that allow users to navigate virtual 3D environments seamlessly. 
+
+Dr. Bhupendra Singh is a key figure in this initiative, leading a startup named "Sense3D," which has recently been accepted into the Runway incubator's first cohort. The startup's mission is to leverage 3D graphics, XR technologies, and IoT to deliver software and hardware solutions that enhance strategic planning, visualization, coordination, and entertainment.
+
+The startup plans to outsource electronics component manufacturing to optimize efficiency and cost-effectiveness. The distribution of their products will occur through both online platforms and established retail chains, ensuring broad accessibility to potential customers. 
+
+Key objectives include:
+- Launching next-generation game controllers tailored for mobile gamers.
+- Enhancing user experience through innovative design and functionality.
+- Establishing a reputation for innovation within the gaming industry, both in India and internationally.
+
+For more information about Dr. Bhupendra Singh's achievements and the workings of the Sense3D prototype, interested parties can access the following link: [Working Prototype](https://drive.google.com/file/d/19tXkmY4gBnRfmutzmjzj2p9OYLk2Wzp1/view?usp=drivesdk). 
+
+In summary, Sense3D is positioned to make significant contributions to the gaming market by focusing on user-friendly, innovative game controllers, while also exploring the integration of advanced sensing capabilities in 3D graphics applications.

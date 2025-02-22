@@ -1,0 +1,50 @@
+Invited talk on “Metabolic network analysis to study biodegradation pathways in Nitrosomonas europaea” during the 3rd International Conference on Bioprocess for Sustainable Environment and Energy (ICBSEE)-2022 held at National Institute of Technology Rourkela, June 20- 24, 2022
+Poster Presentation entitled “Influence of nitrogen limitation on methanogenesis and growth in M. Maripaludis”, International Conference on CO2 Utilization (ICCDU), Singapore, July 5, 2015
+HRD Scholarship by Government of India for pursuing M.Tech at IIT Bombay
+Graduate Research Scholar (2011-2015), Department of Chemical and Biomolecular Engineering, National University of Singapore
+Research Interests
+A.K. Sharma, P. Ghodke, N. Goyal, S. Nethaji & W. H. Chen (2022). Machine learning technology in biohydrogen production from agriculture waste: Recent advances and future perspectives. Bioresource Technology (2022), 128076. (IF: 11.9)
+Oral presentation entitled “Carbon nanotubes – A worthy adsorbent in treating wastewater?”, 2 nd International Conference on Chemical, Bio, and Environmental engineering (CHEMBIOEN2021), India, August 20-22, 2021
+Biofuels and bioenergy
+Springer Thesis Award – The "best of the best" thesis award for outstanding Ph.D. research
+Home
+Work Experience
+Novel microbial strain development and optimization for environmental remediation
+Awards and Grants
+Assistant Professor – Selection Grade (July 2017-April 2023), University of Petroleum and Energy Studies, Dehradun, India
+Close
+nishu.goyal@ddn.upes.ac.in
+N. Goyal, J. Sharma, A. Singh, J. K. Pallavi, H. Sonah, K.V. Prabhu, and P. Gupta. “Assessment of genetic relationships among bread wheat genotypes using microsatellite markers." International Journal of Applied Agricultural Research (2010) Vol.5 No.5, 575-582 International / National Conferences:
+Associate Professor
+Faculty
+N. Goyal, Z. Zhi, and I A Karimi. “Flux measurements and maintenance energy for CO2 Utilization by M. maripaludis”. Microbial Cell Factories (2015), Vol. 14, 146 (IF: 5.14) • N. Goyal, I A Karimi, and Z. Zhi. “Genome-scale metabolic model of M. Maripaludis S2 for CO2 capture and conversion to methane”. Molecular BioSystems (2014), Vol.10, 1043-1054 (IF: 4.21)
+C. H. Vo, N. Goyal, M. Kraft & I. A. Karimi (2023). Carbon conversion by Methanococcus maripaludis S2 under diazotrophic and a revised genome-scale metabolic model. Chemical Engineering Science, 118910. (IF 4.88)
+Scholarly Activities
+Scientist-II (2010-2011), Strand Life Sciences Pvt Ltd, Bangalore, India
+Research Engineer (Jan 2016-Jan 2017), Department of Chemical and Biomolecular Engineering, National University of Singapore
+N. Goyal, Z. Zhi, and I A Karimi. “Metabolic processes of M. Maripaludis and potential applications” Microbial Cell Factories (2016), Vol. 15, 107 (IF: 5.14)
+Courses Taught
+Oral presentation entitled “Genome-scale metabolic network reconstruction and in silico analysis of M. Maripaludis S2”. 23rd European Symposium on Computer-Aided Process Engineering (ESCAPE), Lappeenranta, Finland, June 9, 2013 Book Published:
+Eligibility Criteria
+Bacteria mediated disease treatment
+Goyal, Nishu. In silico Modeling and Experimental Validation for Improving Methanogenesis from CO2 via M. Maripaludi
+For teaching, I am dedicated to share my knowledge / expertise with students, create collaborative interdisciplinary environment, guiding them on research projects, and making them self-reliant for the betterment of society. As a faculty at UPES, I interacted with many students and encouraged them to higher studies, guided them on research projects, taught/graded various subjects, and demonstrated lab experiments. I realized that students learn better if we use a learner-centredness approach. Class discussion, peer interaction, timely feedback, and updated curriculum and teaching methods are necessary. Assignments and presentations are great teaching ways to inculcate team spirit and togetherness among the students. Project-based learning and activities based on syllabus boost student aptitude, problem-solving skills, and time management and is more effective than teaching from a textbook.
+Dr. Nishu Goyal
+Profile Summary
+Qualified CSIR- National Eligibility Test - A National Eligibility Test for Lectureship in Indian Institutions
+School of Health Sciences and Technology
+All India Rank 4 (99.96 percentile) in Graduate Aptitude Test in Engineering (GATE)
+N. Goyal, A. Nawaz, K. S. Chandel, D. Devnarayan, L. Gupta, S. Singh & A. K. Sharma (2022). A cohesive effort to assess the suitability and disparity of carbon nanotubes for water treatment. Environmental Science and Pollution Research (2022), 1-22. (IF: 5.19)
+Secured research funds- SEED 2022, SEED 2021, Research Initiative for Science and Engineering (RISE), Rapid Research and Innovation Challenge (RRIC)
+Oral presentation entitled “Genome-based Metabolic Flux Analysis (MFA) of M. Maripaludis for improved methane productivity”, AIChE Annual Meeting, Atlanta GA, USA, Nov 16, 2014
+Dr. Nishu Goyal is an Associate Professor in the Department of Allied Health Sciences, School of Health Sciences and Technology, UPES, Dehradun. Following a B.Tech in Biotechnology from Indraprastha University, Nishu earned her M.Tech in Biomedical Engineering from IIT Bombay and a Ph.D. in Systems Biology from NUS Singapore. Before joining PhD, she gained valuable work experience in Strand Life Sciences Pvt Ltd., a leading bioinformatics company in Bangalore, India. She was awarded the highly prestigious President Graduate Fellowship for her doctoral studies at NUS and honored with the Springer Thesis award for outstanding doctoral work. Given the global issue of increasing CO2 emissions and a need for sustainable energy, she decided to focus on the possibility of converting carbon dioxide into a cleaner energy fuel, such as methane, via biochemical pathways. To this end, she conducted an exhaustive search and identified the potential of M. maripaludis to convert CO2 to methane. Presently, her research group focuses on developing genome-scale metabolic models of microorganisms and applying them for bioremediation and clinical benefits, such as optimizing pesticide degradation pathways in soil microorganisms and identification/enhancement of antitumor agents secreted by bacteria, respectively.
+C.H. Vo, N. Goyal, I. A. Karimi, and M. Kraft. “First observation of an acetate switch in a methanogenic autotroph (Methanococcus maripaludis S2)” Microbiology Insights (2020). Vol.13
+Contact
+Publications:
+Metabolic Model reconstruction, phenotype prediction and analysis
+N. Goyal*, F. Jerold. “Biocosmetics: Technological Advances and Future Outlook”. Environment Science and Pollution Research (2021) (IF: 5.19)
+Oral highlights plus poster presentation entitled “Experimental validation of in silico flux predictions from a genome-scale model (iMM518) for CO2 utilization by M. Mariplaudis”, 12th International Symposium on Process Systems Engineering (PSE) and 25th European Symposium on Computer-Aided Process Engineering (ESCAPE), Copenhagen, Denmark, May 31, 2015
+Computational Biology and Bioinformatics, Biochemistry and Metabolic Engineering, Pharmaceutical Biotechnology, Introduction to Biotechnology, Fermentation Technology, Food Microbiology, Biology for Engineers, Engineering Chemistry
+President’s Graduate Fellowship award for pursuing Ph.D. at National University of Singapore
+Associate Professor (May 2023 onwards), University of Petroleum and Energy Studies, Dehradun, India
+Teaching Philosophy

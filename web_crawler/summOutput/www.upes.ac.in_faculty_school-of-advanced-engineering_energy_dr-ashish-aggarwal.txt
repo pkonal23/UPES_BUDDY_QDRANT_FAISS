@@ -1,0 +1,25 @@
+Dr. Ashish Aggarwal is an Assistant Professor (Selection Grade) at the University of Petroleum and Energy Studies (UPES) with approximately 14 years of experience, including a tenure at UPES since 2013. His professional background encompasses both academic and practical experience in the GIS industry, where he has worked as a GIS specialist and digital cartographer for four years, alongside a brief stint as a SAP consultant.
+
+**Research Interests and Scholarly Activities:**
+Dr. Aggarwal's research focuses on predictive modeling and risk assessment for natural hazards such as floods, fires, droughts, and landslides. He is also involved in SAR data processing, groundwater modeling, land use planning, and GIS/Remote sensing applications. His current research endeavors include land subsidence studies, hydrological modeling, aquifer studies, agriculture, eco-sustainability, and spatial analysis utilizing machine learning and open-source platforms like Google Earth Engine. He has contributed to the academic community with 16 publications in various national and international journals and conferences. Dr. Aggarwal actively conducts in-house seminars and workshops on GIS/Remote sensing to promote awareness of geospatial technologies.
+
+**Teaching Philosophy and Courses:**
+Dr. Aggarwal's teaching philosophy emphasizes a solid foundation for students in the geospatial industry, prioritizing practical learning experiences. He teaches a variety of courses related to GIS and Remote Sensing, including:
+- Introduction to Geoinformatics
+- Remote Sensing Fundamentals
+- Spatial Database Management
+- Spatial Data Analysis and Modelling
+- Applications of Geoinformatics
+- Advances in GIS
+- Natural Hazard and Disaster Management
+
+He incorporates practical lab sessions into his courses, ensuring students gain hands-on experience.
+
+**Awards and Recognition:**
+Dr. Aggarwal has received an Instant Reward from UPES for his outstanding contributions to the placement preparation of Geoinformatics and Geoscience students. He has also successfully guided multidisciplinary teams on various projects, mentoring students in award-winning national-level GIS competitions and overseeing funded RISE student projects.
+
+**Contact Information:**
+For inquiries, Dr. Ashish Aggarwal can be reached at:
+Email: aaggarwal@ddn.upes.ac.in
+
+Overall, Dr. Aggarwal’s comprehensive approach to teaching and research in the field of geospatial sciences positions him as a valuable asset to both UPES and the broader academic community.

@@ -1,0 +1,29 @@
+**Dr. Suneet Kumar Gupta - Profile Summary**
+
+**Contact Information:**
+- Email: suneet.gupta@ddn.upes.ac.in
+
+**Research Interests and Expertise:**
+Dr. Suneet Kumar Gupta is a distinguished academic with a PhD in Computer Science and Engineering from the Indian Institute of Technology (Indian School of Mines), Dhanbad. He has over 15 years of experience in teaching and research, primarily focusing on deep learning and healthcare solutions. His specialization includes the compression and acceleration of deep neural networks, and he oversees the Robotic Process Automation specialization at Bennett University, where he has also obtained advanced certifications in UI PATH.
+
+**Work Experience:**
+Before joining the University of Petroleum and Energy Studies (UPES), Dr. Gupta spent over 6 years at Bennett University, Greater Noida, where he served as Head of Operations at leadinginida.ai. In this role, he organized over 250 workshops on advanced technologies, including Deep Learning, Robotic Process Automation, and Internet of Things (IoT), across various prestigious institutions in India such as IITs and NITs. His prior experience includes positions at O.P. Jindal Institute of Technology in Raigarh, Chhattisgarh, and ABES Engineering College in Ghaziabad.
+
+**Academic Contributions:**
+Dr. Gupta has been actively involved in the academic community, participating in over 50 conferences in various capacities, including keynote speaker, organizing chair, and session chair. He has hosted five international conferences from 2020 to 2023, including the IACC series. His research has been recognized through publications in prestigious conferences like ICMLA and IACC, as well as in renowned journals such as IEEE Transactions on Image Processing.
+
+**Funding and Grants:**
+- In 2018, he received funding from the Council of Science and Technology, Uttar Pradesh, for research on Wireless Sensor Networks.
+- In 2021, he was awarded a grant from the Data Security Council of India for work on IoT device classification using AI.
+- He secured additional funding from SERB in 2022 and 2023 to conduct workshops on cutting-edge technologies.
+
+**Teaching Philosophy:**
+Dr. Gupta is committed to fostering an interactive and engaging learning environment. He views students as capable learners with a natural curiosity and emphasizes the importance of critical thinking and problem-solving. His teaching strategies involve a variety of activities that encourage exploration, collaboration, and acceptance of mistakes, aiming to cultivate independent thinkers rather than merely delivering content.
+
+**Courses Taught:**
+His courses cover topics such as Applied Deep Learning, AI in Healthcare, Wireless Sensor Networks, and Large Language Models (LLM).
+
+**Scholarly Activities:**
+Dr. Gupta's contributions extend to maintaining the integrity of scholarly literature and involvement with accreditation bodies like NAAC, reflecting his dedication to enhancing educational standards.
+
+In summary, Dr. Suneet Kumar Gupta is an influential figure in computer science, particularly in the realm of AI and deep learning, with a robust academic and professional background, extensive teaching experience, and a commitment to advancing both research and education in his field.

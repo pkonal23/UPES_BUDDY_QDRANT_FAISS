@@ -1,0 +1,11 @@
+The proposed project aims to tackle the global issue of snakebites through the creation of an innovative snake-trapping device that utilizes Artificial Intelligence (AI). This interdisciplinary technological solution is designed to automate the capture and classification of snakes while using artificial prey that mimics the attributes of real prey. The project emphasizes advanced technology to enhance snakebite prevention and management strategies.
+
+Key highlights of the study include:
+
+- **Faculty Achievement**: Dr. Neelu Jyoti Ahuja has been recognized for her contributions to this project.
+- **Harm-Free Capture**: The trap is engineered to capture snakes without inflicting harm and without the need for human involvement.
+- **Community Safety**: The research aims to reduce fatalities and health issues associated with snakebites, thereby improving safety for rural populations.
+- **Funding**: The project has received a significant grant of 32 lakh from the Department of Science and Technology (DST) for the development of the AI-powered snake trapping device, particularly benefiting Scheduled Tribes in India.
+- **Educational Initiatives**: The establishment of Science and Technology Innovation (STI) hubs is planned to provide education on the basic operation of the snake trap.
+
+For further information, Dr. Neelu Jyoti Ahuja is affiliated with the School of Computer Science, although specific contact details were not provided in the text.

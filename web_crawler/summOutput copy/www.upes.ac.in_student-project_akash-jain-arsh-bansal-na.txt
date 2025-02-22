@@ -1,0 +1,9 @@
+Akash Jain and Arsh Bansal, both 4th-year Bachelor of Pharmacy students, have developed a biosensor designed to detect and quantify the presence of Chlorpyrifos pesticide in milk. Chlorpyrifos is a widely used agricultural pesticide that, while effective in controlling pests, poses significant risks including increased mortality rates and environmental pollution, as well as contributing to neurotoxic disorders in humans. The students noted a lack of existing research on pesticide detection in milk, motivating them to pursue this project due to its potential impact and affordability solutions.
+
+The project was guided by Dr. Jyoti Upadhyay, Assistant Professor at the School of Health Sciences and Technology (SOHST), and Dr. Ashish Mathur, Senior Associate Professor at the Centre for Innovative Drug Research and Development (CIDRI), R&D UPES. Throughout their research, Akash and Arsh received extensive support from both their academic institution and the Research & Development team, which was crucial given their initial unfamiliarity with biosensor technology. Their mentors provided comprehensive guidance, assisting them at every stage of the research process.
+
+For further inquiries or contact, the details of the guiding professors are as follows:
+- **Dr. Jyoti Upadhyay**
+- **Dr. Ashish Mathur**
+- **School of Health Sciences and Technology (SOHST)**
+- **Centre for Innovative Drug Research and Development (CIDRI)**, R&D UPES.

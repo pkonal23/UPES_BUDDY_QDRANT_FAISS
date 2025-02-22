@@ -1,0 +1,27 @@
+**Summary of Prof. Virender Kadyan's Profile and Contributions**
+
+**Contact Information:**
+- Email: vkadyan@ddn.upes.ac.in
+
+**Professional Overview:**
+Prof. Virender Kadyan is an Associate Professor at the School of Computer Science, renowned for his innovative contributions in the field of automatic speech processing and emotion recognition. He is recognized as a leading expert in these areas and has a significant academic and research background, including the supervision of PhD and MTech scholars.
+
+**Educational Philosophy:**
+Prof. Kadyan emphasizes that the primary objective of a teacher is to empower learners rather than merely impart knowledge. His teaching philosophy incorporates a reflective teaching-learning cycle that focuses on providing constructive feedback. This approach begins with positive reinforcement before addressing areas needing improvement. He advocates for various strategies to enhance learning, such as:
+- Changing seating arrangements to encourage peer learning.
+- Adjusting the pace of content delivery.
+- Introducing diverse learning activities.
+- Utilizing graphical and creative feedback methods.
+- Engaging reluctant learners through ice-breaking techniques.
+
+**Research and Awards:**
+Prof. Kadyan has received several prestigious awards, including the UN Influx Trust Award and the Most International Project Award for his innovation of the Braille Slate. He has successfully completed multiple grants, including TIDE 2.0-DST, Nidhi Pryass-DST, and NEWGEN IEDC. His research output includes numerous publications in reputable journals and conferences such as IEEE, Springer, and Inderscience, along with 7 granted patents related to his innovations.
+
+**Work Experience:**
+Before his tenure at UPES, Prof. Kadyan served as an Assistant Professor-Research at Chitkara University, Punjab, and held a Visiting Researcher position at NDRI, Karnal. He also worked as a Project Associate at Thapar University in Patiala. His work has involved leading multidisciplinary teams to develop solutions that improve the lives of disabled individuals and farmers.
+
+**Courses and Scholarly Activities:**
+Prof. Kadyan teaches a range of subjects, including electives in Machine Learning and Operations Research, as well as core subjects like Data Structures and Programming in C and Python. He has designed various course curricula and has taken on the role of course coordinator multiple times. Currently, he serves as the Head of the MiRC and Coordinator of the Centre for Data Science and Artificial Intelligence research centers.
+
+**Conclusion:**
+Prof. Kadyan's commitment to removing learning barriers, fostering peer learning, and his extensive experience in research and education highlight his dedication to empowering students and contributing to the academic community. His innovative approaches and recognition in the field underscore his impact as an educator and researcher.

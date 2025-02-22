@@ -1,0 +1,23 @@
+Dr. Anish Kumar Vishwakarma is an Assistant Professor on a Senior Scale at the School of Computer Science, where he exemplifies a teaching philosophy centered on creating a dynamic and inclusive learning environment. His approach emphasizes the importance of critical thinking and empathy, fostering student engagement and active participation. He advocates for the transformative potential of education, which he believes should not only convey knowledge but also equip students with vital skills such as communication, problem-solving, and ethical reasoning.
+
+**Research Interests:**
+Dr. Vishwakarma holds a Ph.D. from Visvesvaraya National Institute of Technology, Nagpur, India. His research focuses on developing statistical and machine learning-based models for no-reference video quality assessment. During his postdoctoral tenure at IIT Madras, he contributed to advanced analytics in combat sports through deep learning at the Centre of Excellence for Sports Analytics. His ongoing research aims to broaden the application of machine learning techniques in various image and video domains, particularly in computer vision and interdisciplinary fields involving data science, machine learning, and deep learning.
+
+**Awards and Recognition:**
+Dr. Vishwakarma has received multiple accolades for his scholarly work, including the Best Paper Award at the International Conference on the Paradigm Shifts in Communication, Embedded Systems, Machine Learning, and Signal Processing (PCEMS 2022) and the Best Paper Award at the International Conference on Parallel, Distributed, and Grid Computing (PDGC 2020).
+
+**Courses Taught:**
+He teaches a range of subjects, including:
+- Digital Electronics
+- Microprocessors and Microcontrollers
+- Embedded Systems
+- Specialized courses in Machine Learning and Deep Learning
+
+**Professional Background:**
+Prior to his current role at UPES, Dr. Vishwakarma served as a postdoctoral researcher at the Indian Institute of Technology, Madras, in the departments of Applied Mechanics and Biomedical Engineering. He possesses extensive experience in applying machine learning techniques to video processing and has a robust theoretical foundation in relevant statistical and machine learning concepts. He has also published numerous scientific papers in esteemed international journals.
+
+**Contact Information:**
+For inquiries, Dr. Vishwakarma can be reached via email at anishk.vishwakarma@ddn.upes.ac.in.
+
+**Objective:**
+His overarching goal is to conduct advanced interdisciplinary research in computer vision, utilizing his acquired skills to bridge theoretical knowledge and practical applications, thereby enhancing the quality of life through his work.

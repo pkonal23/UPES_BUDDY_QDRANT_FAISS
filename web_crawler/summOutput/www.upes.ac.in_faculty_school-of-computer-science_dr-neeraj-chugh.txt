@@ -1,0 +1,19 @@
+Dr. Neeraj Chugh is an Associate Professor at the School of Computer Science, with a robust background in academia and research in Computer Science and Engineering. He has been affiliated with the University of Petroleum and Energy Studies (UPES) since 2009, and prior to that, he held various positions at other educational institutions, including ICFAI University and MIT, Rishikesh.
+
+**Research and Scholarly Activities:**
+Dr. Chugh is actively involved in research, focusing on areas such as Machine Learning, Ad Hoc Networks, and the Internet of Things (IoT). He has published numerous research papers in SCI and Scopus-indexed journals and conferences. Besides conducting his own research, he plays a vital role in mentoring students on their research projects, guiding them through all stages of their work. He also reviews papers for esteemed journals, ensuring the quality and integrity of academic contributions. Dr. Chugh frequently shares his insights through talks and presentations at various academic conferences, fostering collaboration and knowledge dissemination within the scholarly community.
+
+**Teaching Experience:**
+With over two decades of experience, Dr. Chugh has taught a wide range of subjects, including programming languages (C, C++, Java, SQL, PL/SQL, COBOL, and REXX), core subjects like Operating Systems, Advanced Database Management Systems, Computer System Architecture, Digital Electronics, Software Engineering, Data Warehousing, and Data Mining. He has also taught domain-specific subjects related to Mainframe technologies. His teaching philosophy emphasizes project-based learning, where he integrates real-world problems into his curriculum, exemplified by his development of the Faculty Feedback System, which was implemented at UPES for four semesters.
+
+**Educational Background:**
+Dr. Chugh earned his Ph.D. in Computer Science and Engineering from UTU (State Technical University) and completed his M.Tech. in the same field from Kurukshetra University, India, in 2001. 
+
+**Professional Affiliations:**
+He is a life member of the Computer Society of India (CSI) and has served as an examiner for various universities. His extensive experience includes roles as Head of the Computer Science Department and Senior Lecturer at MIT, Rishikesh, and as an IGNOU Counsellor for several programs.
+
+**Contact Information:**
+For further inquiries, Dr. Neeraj Chugh can be reached via email at: 
+- **Email:** nchugh@ddn.upes.ac.in
+
+In summary, Dr. Neeraj Chugh is a dedicated educator and researcher committed to advancing the field of computer science through active engagement in teaching, mentoring, and scholarly activities, while also contributing significantly to the academic community.

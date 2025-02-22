@@ -1,0 +1,9 @@
+Pushpendu Sinha, Rishabh Kinger, Siddharth Raj, Vivek Negi, Varun Singh Kushwaha
+Eligibility Criteria
+Pushpendu Sinha, Rishabh Kinger, Siddharth Raj, Vivek Negi, Varun Singh Kushwaha, a group of students pursuing the degree of B.Tech. in Applied Petroleum Engineering - Gas from the batch of 2019-23 conducted their project on the creation of Flex Fuel with Ethanol Blending.
+Home
+School of Advanced Engineering
+This work aims to develop Flex fuel by blending ethanol with Gasoline. Flex-fuel of four grades are prepared, namely E10, E20, E30, and E40. Blending ethanol into Gasoline in different proportions prepares these different grades of flex fuel. To prepare E10, blend 10% ethanol with 90% gasoline. E20 is prepared similarly by blending ethanol and Gasoline but in different proportions of 20%and 80%, respectively. Similarly, E30 and E40 are prepared by mixing 30% ethanol-70% gasoline and 40% ethanol-60% gasoline, respectively.
+Student Project
+Close
+Flex Fuel with Ethanol Blending

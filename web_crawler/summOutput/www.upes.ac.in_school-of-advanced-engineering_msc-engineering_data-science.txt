@@ -1,0 +1,12 @@
+The M.Sc. Data Science program at the UPES School of Advanced Engineering is a comprehensive two-year master's program designed to equip students with a robust foundation in mathematics, data analysis, statistical modeling, and machine learning techniques. The curriculum integrates interdisciplinary knowledge, covering areas such as statistical analysis, machine learning, big data analytics, data visualization, and programming in languages like Python and R. This program emphasizes practical learning, enabling students to effectively communicate complex data insights through visualization techniques.
+
+**Key Features of the Program:**
+- **Curriculum:** The program includes courses such as Computational Mathematics, Data Warehousing, Computer Vision, Optimization Techniques, Statistical Machine Learning, and Deep Learning & GPU. Students will also engage in real-world data science projects and have the opportunity to undertake a dissertation in their second year, applying their knowledge to a self-selected topic.
+- **Career Opportunities:** Graduates can pursue various roles including Data Scientist, Data Analyst, Machine Learning Engineer, Big Data Engineer, Business Intelligence Analyst, and Data Architect. The program prepares students for careers in both public and private sectors, emphasizing the growing demand for skilled professionals in data science and analytics.
+- **Placement Support:** The UPES School of Advanced Engineering boasts a strong placement record, with connections to leading industries that actively recruit graduates. The dedicated placement cell provides career support and connects students with top recruiters.
+
+**Selection Criteria:** Admission is based on the performance in a personal interview, ensuring that candidates possess the necessary skills and motivation for the program.
+
+**Contact Information:** For detailed fee structures and further information, prospective students are encouraged to visit the UPES School of Advanced Engineering's website or contact their admissions office directly.
+
+Overall, the M.Sc. Data Science program at UPES prepares students to tackle complex data-driven challenges, making them well-equipped for a successful career in the rapidly evolving data science landscape.

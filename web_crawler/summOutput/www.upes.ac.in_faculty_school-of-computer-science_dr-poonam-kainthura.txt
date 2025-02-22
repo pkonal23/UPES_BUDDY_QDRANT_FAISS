@@ -1,0 +1,9 @@
+Dr. Poonam Kainthura is an Assistant Professor in the Senior Grade at the School of Computer Science, with a robust academic background and extensive experience in both research and teaching. She earned her Ph.D. in Computer Engineering from Banasthali Vidyapith in Rajasthan and has accumulated over 9 years of research experience alongside 15 years of teaching experience, with 11 of those years spent at the University of Petroleum and Energy Studies (UPES).
+
+Her primary research interests include Machine Learning, Spatial Data Analysis, and Landslide Prediction, particularly in the hilly regions of Uttarakhand. Dr. Kainthura has contributed significantly to her field with numerous publications in reputable journals indexed by SCI, WOS, and Scopus, and has been an active reviewer for several international journals since 2017. She is also known for her engagement in academic activities, including guest lectures at faculty development programs and participation in various technical program and organizing committees.
+
+In her teaching career, Dr. Kainthura has instructed a wide range of subjects, including Theory of Automata, Data Mining, Data Structures, Software Engineering, Digital Forensics, and C-Programming, with a particular focus on machine-learning-based spatial analysis. She is committed to innovative teaching methods and aims to create a supportive and interactive classroom environment where students are encouraged to express their opinions and engage with real-world problems.
+
+Dr. Kainthura's scholarly contributions include publications in high-impact journals such as *Scientific Reports* (Nature Publishing Group) and the *Journal of Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards* (Taylor and Francis). 
+
+For further inquiries or collaborations, Dr. Kainthura can be reached at her email: pkainthura@ddn.upes.ac.in.

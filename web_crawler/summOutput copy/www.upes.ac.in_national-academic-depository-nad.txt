@@ -1,0 +1,25 @@
+The National Academic Depository (NAD) is an online platform designed to securely store and provide access to academic awards such as certificates, diplomas, degrees, and mark sheets. Users are encouraged to select Digi Locker as their preferred depository for registering with NAD. By doing so, they can easily access their academic awards anytime and anywhere, eliminating the need to approach educational institutions for transcripts and reducing the risk of fraudulent practices like the forging of awards.
+
+**Key Features and Benefits of NAD:**
+- **Convenient Access:** Students can view and download their digitally signed awards online at any time through a single account.
+- **Immediate Availability:** Academic awards are made available as soon as they are uploaded by the respective academic institutions.
+- **Authenticity and Security:** The documents stored in Digi Locker are considered equivalent to original physical documents, ensuring their authenticity, integrity, and confidentiality. This is supported by Rule 9A of the Information Technology (Preservation and Retention of Information by Intermediaries Providing Digital Locker Facilities) Rules, 2016.
+- **Roles and Responsibilities of Students:**
+  - Students can approve or reject requests from verifiers seeking access to their certificates.
+  - They must submit their Aadhar or Digi Locker ID to their academic institution for verification and data seeding into the award data.
+  - Students can request printed copies of their certificates if needed.
+
+**Eligibility and Access:**
+- Users can choose Digi Locker as the sole depository for their NAD registration.
+- In cases where Aadhar is unavailable, students can still avail themselves of a Digi Locker ID.
+
+**Academic Bank of Credits (ABC):**
+ABC functions similarly to NAD, allowing students to manage their academic data and facilitate credit transfers. However, the issuance of certificates and the compilation of award records are handled by academic institutions through the NAD platform.
+
+**Contact Information:**
+For more information on NAD and to register, users can visit the following links:
+- National Academic Depository: [https://nad.gov.in/](https://nad.gov.in/)
+- Digi Locker services: [https://nad.digitallocker.gov.in](https://nad.digitallocker.gov.in/)
+- Academic Bank of Credits: [https://www.abc.gov.in/](https://www.abc.gov.in/)
+
+In summary, NAD provides a comprehensive, secure, and efficient way for students to manage their academic awards digitally, enhancing accessibility and reducing the potential for fraud.

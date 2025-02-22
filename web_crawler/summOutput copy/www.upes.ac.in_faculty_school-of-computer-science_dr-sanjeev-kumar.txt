@@ -1,0 +1,50 @@
+**Research Interests and Academic Background of Dr. Sanjeev Kumar**
+
+Dr. Sanjeev Kumar is a prominent academic figure in the field of Computer Science and Engineering. Prior to his current role at the University of Petroleum and Energy Studies (UPES), he served as a Professor and Head of the Institutional Innovation Centre at KIET Group of Institutions in Ghaziabad. He has also held the position of Head of the Computer Science and Engineering Department at Agra College, Agra.
+
+**Educational Qualifications:**
+- **Ph.D.** from the School of Computer & System Sciences, Jawaharlal Nehru University, New Delhi. His doctoral thesis was titled “Stochastic Modelling and Monte Carlo Simulation of Spiking Patterns in an Ensemble of Neurons.”
+- **M.Tech.** and **B.E.** from Dayalbagh Educational Institute (Deemed University), Agra.
+
+Dr. Kumar has over 23 years of experience in higher education, showcasing his capabilities as a team manager, researcher, and administrator. His contributions to research and development at both departmental and institutional levels have been significant, and he is committed to fostering a culture of research and innovation.
+
+**Teaching Experience:**
+Dr. Kumar has taught a comprehensive array of undergraduate courses, including:
+- Programming Fundamentals
+- Data Structures and Algorithms
+- Database Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- Artificial Intelligence
+- Soft Computing Techniques (Neural Networks, Genetic Algorithms, Fuzzy Logic)
+- Pattern Recognition
+- Digital Forensics
+- Digital Image Processing
+- Randomized Algorithms
+- Object-Oriented Programming (in languages such as C, Python, and MATLAB)
+
+These courses are designed to equip students with both fundamental principles and advanced concepts necessary for careers in software development, systems analysis, and data management.
+
+**Research and Scholarly Activities:**
+Dr. Kumar's research interests encompass:
+- Computational Neuroscience
+- Cognitive Analytics
+- Intelligent Computing
+- Stochastic Modelling and Algorithm Design
+
+He has constructed mathematical models focusing on the stochastic evolution of various systems, utilizing analytical, simulation, and information-theoretic frameworks to explore performance modeling of computer and communication networks, as well as neuronal spiking patterns. Dr. Kumar has authored over 40 publications in reputable journals, including IEEE Transactions, and holds 7 patents (both national and international).
+
+**Awards and Recognition:**
+Dr. Kumar has received numerous accolades, including:
+- The "C.V. Raman Award" for Outstanding Academic Performance in Research.
+- A Certificate of Appreciation from Texas Instruments for assisting students in securing startup funding.
+- The NPTEL Mentoring Award for the "Introduction to Machine Learning" course (IIT Madras).
+- Recognition as a distinguished coach at the International Collegiate Programming Contest (ACM ICPC).
+- A certificate of achievement from Infosys Pvt. Ltd. as a Partner Faculty.
+
+**Teaching Philosophy:**
+Dr. Kumar employs diverse teaching strategies to enhance student engagement, including interactive lectures, hands-on projects, case studies, and discussions. He emphasizes real-world applications to help students connect theoretical concepts with practical experiences. His teaching fosters the development of problem-solving and critical thinking skills by encouraging students to analyze complex problems and devise effective solutions through practical assignments and collaborative projects.
+
+**Contact Information:**
+For further inquiries, Dr. Sanjeev Kumar can be reached via email at: **sanjeev.kumar@ddn.upes.ac.in**.

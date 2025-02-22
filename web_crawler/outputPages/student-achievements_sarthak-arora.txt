@@ -1,0 +1,10 @@
+As part of his participation in the Bugcrowd program, Sarthak Arora submitted a comprehensive security report for NASA's web application to NASA. The vulnerability was categorized as a "Server Security Misconfiguration" due to the absence of X-Content-Type-Options HTTP response header. This lack of the header significantly increased the web application’s exposure to MIME type sniffing, which could potentially lead to Cross-Site Scripting (XSS) attacks. Such attacks can undermine the integrity of web applications by injecting malicious scripts, potentially exposing sensitive user data.
+Sarthak Arora
+Reported Vulnerability in NASA Web Application
+Student Achievements
+Home
+To aid in the assessment of the vulnerability, Sarthak utilized industry-standard tools like Burp Suite. The report provided detailed steps to reproduce the issue, showing how the absence of the X-Content-Type-Options header in HTTP responses could compromise web security. The discovery of this vulnerability was crucial for enhancing the overall security posture of NASA’s web infrastructure.
+Sarthak Arora - Achievement
+Close
+School of Computer Science
+Eligibility Criteria

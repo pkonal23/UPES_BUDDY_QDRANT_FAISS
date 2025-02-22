@@ -1,0 +1,23 @@
+Prof. Dhiviya, an esteemed educator at the University of Petroleum and Energy Studies (UPES) in the School of Computer Science, boasts over 18 years of teaching experience at both undergraduate and postgraduate levels. Before her tenure at UPES, she served for five years at the Centre for Applied Research and Education (CARE) in Tiruchirapalli, where she also managed the website and coordinated various academic activities. Her early career includes six years at Karunya University in Coimbatore, where she progressed from lecturer to Assistant Professor, playing a key role in organizing foundational courses in collaboration with Infosys Technologies Pvt. Ltd. and UGC-sponsored initiatives.
+
+**Research Interests**: Prof. Dhiviya's research focuses on several areas, including Healthcare, Artificial Intelligence, Deep Learning, Multi-agent Systems (MAS), and Web Technology.
+
+**Teaching Approach**: Known for her impressive work ethic and commitment, Prof. Dhiviya fosters a challenging yet nurturing learning environment. She employs diverse teaching strategies such as gaming, storytelling, and visual presentations to enhance student understanding through Problem Solving and Design Thinking principles. She is dedicated to scholarly activities, conducting original research, publishing in SCI and Scopus-indexed journals, and presenting at international conferences. Her notable publications include works on Generative Adversarial Networks and cross-lingual handwritten character recognition.
+
+**Professional Development**: Prof. Dhiviya believes in continuous learning and regularly engages in Faculty Development Programs, Train the Trainer initiatives, and online courses from esteemed institutions like Oracle, IBM, and Michigan University.
+
+**Teaching Philosophy**: She emphasizes the holistic development of students, integrating biological, cognitive, and socio-emotional skills into her teaching. Prof. Dhiviya is committed to effective teaching, mentoring, transparent evaluation, and providing support when needed.
+
+**Profile Summary**: 
+- Name: Dhiviya Rose J
+- Position: Assistant Professor (S.G)
+- Academic Achievement: University Gold Medallist in M.Tech. (CSE) from Karunya University.
+- Project Management: Contributed as Project Manager for CPPGG projects at UCIE-UPES, utilizing IT applications to assist farmers in marketing their products.
+- Awards: Recipient of Best Paper Awards at various conferences, including ICETDT-2021 and ASTMLS-2020.
+
+**Courses Taught**: Her teaching repertoire includes subjects such as Problem-Solving Using C and C++, Java Programming, Web Technology, Software Agents, Database Management Systems, and Mobile Application Development.
+
+**Contact Information**: 
+- Email: dhiviyarj@ddn.upes.ac.in
+
+Prof. Dhiviya's dedication to education and research makes her a significant asset to the academic community at UPES, inspiring her students to excel in their scholarly pursuits.

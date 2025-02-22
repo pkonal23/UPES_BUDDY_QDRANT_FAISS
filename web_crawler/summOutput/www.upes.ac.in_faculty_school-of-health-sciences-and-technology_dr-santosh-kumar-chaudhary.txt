@@ -1,0 +1,25 @@
+Dr. Santosh Kumar Chaudhary is an Assistant Professor (Selection Grade) specializing in Structural Biology, Recombinant DNA technology, and Genetic Engineering. His research focuses on protein structure determination, structure-based drug design, and proximity-induced therapeutics, with a strong emphasis on the dynamic roles of proteins and their post-translational modifications (PTMs).
+
+### Work Experience and Education
+Dr. Chaudhary holds a B.E. and M.Tech in Biotechnology, followed by a Ph.D. in Structural and Computational Biology from the Indian Institute of Science, Bangalore. His doctoral research involved exploring amino acid networks that influence enzyme activity and validating the roles of dynamic protein complexes in bacterial DNA-repair pathways. He further advanced his research as a Postdoctoral Associate at the Broad Institute of MIT and Harvard, where he designed bifunctional small molecules for targeted protein phosphorylation and degradation, and developed innovative chemogenetic protein tags and hybrid nanobodies for T-cell recruitment on cancer cells.
+
+### Research Contributions
+Dr. Chaudhary has authored and co-authored several notable publications, including:
+
+1. Chaudhary et al. (2023). "Proximity-inducing modalities: the past, present, and future." Chem. Soc. Rev, 52, 5485-5515.
+2. Chaudhary et al. (2022). "Synthetic Reprogramming of Kinases Expands Cellular Activities of Proteins." Angewandte Chemie International Edition, 31: e202202770.
+3. Chaudhary et al. (2023). "Proteolysis targeting chimeras with reduced off-targets." Nature Chemistry, 16(2):218-228.
+4. Chaudhary et al. (2023). "Development and applications of chimera platforms for tyrosine phosphorylation." ACS Central Science, 9(8):1558-1566.
+
+### Teaching Philosophy
+Dr. Chaudhary believes in a collaborative teaching approach that empowers students to explore their interests while developing critical thinking skills to understand the complexities of the natural world. He focuses on mentoring students systematically to cultivate their interests and foster a structured understanding of knowledge, promoting discipline in their academic pursuits.
+
+### Awards and Fellowships
+Dr. Chaudhary has received several accolades, including a Ph.D. fellowship from the Indian Institute of Science and a DBT fellowship to support his M.Tech program. He has also successfully qualified in competitive examinations like GATE and CSIR-NET.
+
+### Contact Information
+For inquiries or further information, Dr. Santosh Kumar Chaudhary can be reached at:
+- Email: santosh.chaudhary@ddn.upes.ac.in
+
+### Summary
+Dr. Santosh Kumar Chaudhary is a dedicated researcher and educator in the fields of structural biology and chemical biology, with a robust academic background and a commitment to advancing scientific knowledge through innovative research and effective teaching methodologies.

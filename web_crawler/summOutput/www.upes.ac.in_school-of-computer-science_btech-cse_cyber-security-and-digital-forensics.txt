@@ -1,0 +1,27 @@
+The content outlines a comprehensive educational program in **B.Tech Computer Science and Engineering with a specialization in Cyber Security and Digital Forensics**. The program is designed to equip students with the necessary skills to tackle real-world challenges in the cybersecurity domain, with partnerships involving industry giants like IBM, KPMG, and Wipro, providing students with practical exposure.
+
+### Program Structure and Curriculum
+- **Duration**: The program spans multiple semesters, with courses structured across eight semesters.
+- **Core Courses**: Key subjects include Operating Systems, Digital Forensics, Data Structures, Object-Oriented Programming, Network Security, Cyber Security Lab, and more.
+- **Labs and Practical Work**: Students engage in hands-on experience through various labs (e.g., Cyber Security Lab, Digital Forensics Lab) and practical sessions, enhancing their understanding of cybersecurity tools and technologies such as Wireshark, Nmap, Metasploit, and Nessus.
+- **Internships and Projects**: The curriculum emphasizes internships and projects, allowing students to gain valuable industry experience.
+
+### Career Opportunities and Industry Trends
+- The demand for cybersecurity professionals is surging due to increasing cyber threats like ransomware and cryptomining. The US Bureau of Labor Statistics anticipates a **33% growth** in jobs for information security analysts from 2020-2030, with an average salary of **$103,590**.
+- The cybersecurity industry is projected to have **3.5 million unfilled jobs** this year, indicating a growing need for qualified professionals.
+- Career paths for graduates include roles such as Incident Response Analyst, Cyber Security Consultant, Digital Forensic Investigator, and Security Engineer, among others.
+
+### Placement and Salary
+- The program boasts an impressive placement record, with an average annual package of **Rs. 8.25 lakh** and the highest package reaching **Rs. 50 lakh**.
+- Top recruiting companies include Accenture, CISCO, Adobe, Boeing, Capgemini, Cognizant, and TCS, alongside interest from various startups.
+
+### Eligibility and Admission Process
+- **Eligibility Criteria**: Candidates must have a minimum of **50% marks** in Class X and XII, with at least **50% in Physics, Chemistry, and Mathematics** in Class XII.
+- **Selection Process**: Admission is based on performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET.
+- **Application Deadline**: The last date to apply is **February 25, 2025**.
+
+### Contact Information
+For further inquiries regarding the program, students are encouraged to fill out an **Enquiry Form** or contact the institution directly. Specific contact details, such as phone numbers or email addresses, were not provided in the content.
+
+### Conclusion
+The B.Tech program in Cyber Security and Digital Forensics at UPES is strategically designed to prepare students for the evolving landscape of cybersecurity. With a robust curriculum, practical exposure, and strong industry connections, graduates are well-positioned to meet the demands of a rapidly growing field.

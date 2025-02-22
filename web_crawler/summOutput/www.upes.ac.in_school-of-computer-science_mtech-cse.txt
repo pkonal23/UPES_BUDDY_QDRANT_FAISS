@@ -1,0 +1,36 @@
+The Master of Technology (M.Tech.) in Computer Science Engineering (CSE) at UPES is a comprehensive two-year program designed to equip students with advanced technical knowledge and skills in the competitive field of Computer Science. Students can specialize in areas such as Artificial Intelligence or Cyber Security and Forensics, with the curriculum including essential concepts like data structures, algorithms, object-oriented programming (OOP) using Java, databases, software engineering, design processes, as well as Cyber Security and Forensics applications.
+
+### Program Structure
+The M.Tech. CSE program consists of four semesters, each integrating theoretical knowledge with hands-on training in state-of-the-art computer labs. The program offers over 200 courses across various disciplines, allowing students to choose minors or exploratory subjects from schools such as Engineering, Law, Design, Business, Health Sciences, Modern Media, and Liberal Studies.
+
+#### Semester Breakdown:
+- **Semester 1**: Core subjects include CSIP 7005P, Elective I (e.g., Artificial Intelligence & Expert Systems, Data Mining & Business Intelligence).
+- **Semester 2**: Subjects include CSEG 7002, Elective II (e.g., Big Data Analytics, NoSQL Database Management).
+- **Semester 3**: Focuses on practical labs and electives like CSEG 7101 and CSEG 7104.
+- **Semester 4**: Culminates with advanced topics and project work.
+
+### Specializations
+Students can choose from various specializations, such as:
+- Artificial Intelligence
+- Cyber Security & Forensics
+- Data Science
+- Machine Learning
+- Computer Vision
+
+### Career Opportunities
+Graduates of the M.Tech. CSE program have a high placement rate, with an impressive 96.55% placement record. They can pursue roles such as Software Engineer, Cyber Security Analyst, Data Scientist, and Researcher, with average salaries ranging from INR 4 to 10 LPA, and top packages exceeding INR 50 LPA. The program boasts collaborations with industry giants like L&T, Microsoft, and Infosys, enhancing job prospects.
+
+### Admission Criteria
+To be eligible for the M.Tech. CSE program, candidates must have:
+- A minimum of 60% marks in Higher Secondary (X) and Senior Secondary (XII).
+- A relevant undergraduate degree (B.Tech/BE in IT/Computer Science, MCA, M.Sc. in Physics/Mathematics/Statistics) with at least 60% marks.
+
+### Additional Information
+- **Hostel Facilities**: UPES provides on-campus accommodation for students, with separate blocks for boys and girls on a first-come, first-served basis.
+- **Scholarships**: The university offers various scholarships to support students financially.
+- **Placement Assistance**: UPES has a dedicated Career Service Department that provides lifetime placement assistance to its graduates.
+
+### Contact Information
+For more details about the M.Tech. CSE program, including course specifics, fee structure, and application deadlines (last date to apply: February 28, 2025), prospective students are encouraged to visit the UPES website or contact the admissions office directly.
+
+This M.Tech. program is ideal for those looking to advance their careers in technology, providing a strong foundation and practical experience necessary to thrive in today's dynamic job market.

@@ -1,0 +1,43 @@
+The provided content outlines the academic and professional achievements of Dr. Piyush Kuchhal, highlighting his contributions to various fields, particularly in engineering and renewable energy research.
+
+**Publications:**
+1. **SRR Slotted Multiband Antenna** - Co-authored with Anshuman Mishra, Madiha Nasim, and Umesh Chandra Sharma, published in *EAI Endorsed Transactions on Energy Web* (Aug 2020). DOI: 10.4108/eai.1-7-2020.165997.
+   
+2. **Extraction and Characterization of Sesbania Cannabina Seed Oil** - Co-authored with Anshuman Mishra, Madiha Nasim, and Umesh Chandra Sharma, published in *Journal of Oleo Science* (2021, Volume 70, Issue 6, Pages 777-785). DOI: 10.5650/jos.ess20359 (SCI, IF: 1.601).
+   
+3. **Experimental Study on PV System Performance** - Published in *EAI Endorsed Transaction* (May 2020). DOI: 10.4108/eai.13-7-2018.164582 (Scopus).
+
+4. **Rheological Behaviour of Oxide Nano Lubricants** - Published in *Particulate Science and Technology* (2020). DOI: 10.1080/02726351.2020.1792018 (SCI IF).
+
+5. **Compression Study in Fatty Acid Alkyl Esters and Biodiesels** - Published in *Design Engineering* (2021). Pages 11708-11714. [Link](http://www.thedesignengineering.com/index.php/DE/article/view/4326).
+
+6. **WPAN and IoT Enabled Automation** - Co-authored with multiple researchers, published in *Sensors* (2021, Volume 21, Issue 21, Article 7031). DOI: 10.3390/s21217031.
+
+7. **Optimizing Photovoltaic Efficiency of DSSC** - Published in *International Journal of Renewable Energy Research* (Volume 10, No 1, March 2020).
+
+8. **Selection Criteria for Spintronic Materials** - Co-authored with K.P.S. Parmar and others, published in *Journal of Physics and Chemistry of Solids* (2021). DOI: 10.1016/j.jpcs.2020.109786 (SCI-IF: 2.48).
+
+9. **Investigation of Analog Parameters in Double Gate Tunnel FETs** - Co-authored with Kumar D. and Rahi S.B., in *Intelligent Communication, Control and Devices* (2021). DOI: 10.1007/978-981-16-1510-8_33.
+
+10. **Analysis of Charge Transport Properties in DSSC** - Co-authored with D. Kumar and K.P.S. Parmar, published in *International Journal of Renewable Energy Research* (Vol 11, No 1, 2021).
+
+**Awards and Recognitions:**
+- Best Employer Award at UPES (2008).
+- Dedicated Service Award at UPES (2011, 2016).
+- R&D C3 Research Award at UPES (2015).
+- R&D Award at UPES (2016).
+
+**Education:**
+- M.Sc. in Physics with specialization in Engineering Physics from IIT Roorkee.
+- Ph.D. in Physics from IIT Roorkee.
+
+**Professional Affiliations:**
+- The document does not specify particular memberships or fellowships, but it indicates a strong involvement in academia and research.
+
+**Area of Specialization:**
+Dr. Kuchhal specializes in engineering physics, renewable energy systems, photovoltaic technologies, and material science, particularly in the context of spintronics and nano-lubricants.
+
+**Contact Information:**
+The provided content does not include specific contact details for Dr. Piyush Kuchhal. 
+
+This summary encapsulates Dr. Kuchhal's academic contributions, research publications, and recognitions, providing a comprehensive overview of his professional profile.

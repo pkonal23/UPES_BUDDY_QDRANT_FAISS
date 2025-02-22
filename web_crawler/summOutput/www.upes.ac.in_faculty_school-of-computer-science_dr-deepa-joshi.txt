@@ -1,0 +1,13 @@
+Dr. Deepa Joshi is an accomplished Assistant Professor (Selection Grade) at the University of Petroleum and Energy Studies (UPES) in Dehradun, where she has been serving since July 2016. With over 8 years of teaching and industry experience, she specializes in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Big Data Analytics. Dr. Joshi holds a Ph.D. in Computer Science and Engineering, along with a B.Tech in Computer Science and Engineering from Uttarakhand Technical University and an M.Tech in Computer Engineering from GBPUAT, Pantnagar.
+
+Her research focuses on leveraging machine learning techniques to transform healthcare in India, specifically through projects that apply ML and NLP to medical images and textual data. Notably, her PhD thesis centered on the localization and segmentation of wrist fractures in X-ray radiographs, which involved collecting and labeling X-ray images with the assistance of expert radiologists from Doon Hospital in Dehradun. Dr. Joshi actively engages in data analytics competitions on platforms such as Kaggle.
+
+In her academic role, she teaches various courses including Operating Systems, Data Structures using C, Database Management Systems, and Design and Analysis of Algorithms. She is dedicated to bridging the gap between academia and industry, encouraging her students to participate in project-based learning and coding competitions to enhance their employability in product-based companies.
+
+Dr. Joshi has made significant contributions to her field, receiving the Best Paper Award at the ICCISC-2022 for her research on deep learning in medical imaging. She has also been recognized as Employee of the Month during her tenure as an Assistant Manager at IndiaMart.com (2014-2015) and was nominated for the Best Faculty Award from the School of Computer Science at UPES for the academic year 2021-2022.
+
+Her involvement in research includes serving as Co-PI for several projects, such as the TDP_DST Project aimed at developing an AI-based disaster management system for Uttarakhand, and she has successfully completed a SEED project funded by UPES. Additionally, she has mentored international students and organized numerous events, workshops, and hackathons to foster learning and innovation.
+
+Dr. Deepa Joshi is also actively involved in scholarly activities and has published multiple research articles in SCI/Scopus-indexed journals. She has signed a Memorandum of Understanding (MOU) with a senior radiologist at Doon Hospital for medical dataset research and has participated in various academic initiatives, including curriculum development and accreditation processes.
+
+For further inquiries, Dr. Joshi can be contacted at her email: djoshi@ddn.upes.ac.in.

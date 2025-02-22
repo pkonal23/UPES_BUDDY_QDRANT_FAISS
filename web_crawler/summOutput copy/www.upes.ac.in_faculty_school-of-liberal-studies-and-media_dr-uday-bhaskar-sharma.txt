@@ -1,0 +1,15 @@
+Dr. Uday Bhaskar Sharma is a faculty member at the UPES School of Liberal Studies and Media, specializing in Mathematics with a focus on combinatorics and group theory. He serves as the Programme Lead for the B.Sc. in Applied Mathematics and Statistics. Dr. Sharma has a robust research portfolio, having published several papers in esteemed national and international journals, and is currently working on two additional publications.
+
+His teaching philosophy emphasizes student-centric learning, integrating real-life examples and utilizing his skills in origami and art to create visual aids that enhance understanding. Dr. Sharma aims to provide hands-on experiences through rigorous tutorial sessions.
+
+Dr. Sharma's research interests include the asymptotic behavior of the number of similarity classes of commuting tuples, branching rules, and commuting probabilities for triangular and unitriangular matrices, as well as the study of simultaneous similarity classes of commuting matrices over finite fields. He has authored notable papers in peer-reviewed journals, including:
+
+1. "Branching rules and commuting probabilities for Triangular and Unitriangular matrices" published in *Communications in Algebra*.
+2. "Branching rules for Unitary and Symplectic matrices" in the *Journal of Algebra and Its Applications*.
+3. "Linear Algebra and its Applications" and other significant works listed with DOI references.
+
+Before joining UPES, Dr. Sharma completed post-doctoral research at the Indian Institute of Science Education and Research (IISER) Pune and the Tata Institute of Fundamental Research (TIFR) Mumbai. He earned his Ph.D. from the Institute of Mathematical Sciences in Chennai and was awarded the University Gold Medal during his Master's program at the University of Hyderabad in 2011.
+
+Dr. Sharma has taught courses such as 'Algebra-I,' where he introduced Group Theory concepts to B.Sc. students, and a module on Discrete Mathematics as part of the PhD course 'Critical Approaches to Liberal Arts.'
+
+For further information or inquiries, Dr. Uday Bhaskar Sharma can be contacted via email at udaybhaskar.sharma@ddn.upes.ac.in. His research interests include Group Theory, Combinatorics, and Representation Theory.

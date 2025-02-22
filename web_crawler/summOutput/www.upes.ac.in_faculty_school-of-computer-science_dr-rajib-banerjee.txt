@@ -1,0 +1,31 @@
+Dr. Rajib Banerjee is an Associate Professor at the School of Computer Science, known for his dedication to teaching and research. He emphasizes a teaching philosophy that integrates research into the learning process, aiming to inspire and educate students in relevant areas of computer science and communication engineering. Dr. Banerjee adopts modern pedagogical methods and focuses on providing special guidance for postgraduate students, aligning the curriculum with current research trends.
+
+**Research Interests and Achievements:**
+Dr. Banerjee has made significant contributions to his field, earning the title of Best Faculty in 2023 at Dr. B.C. Roy Engineering College for his exceptional work in research and teaching. His research was recognized as the Best Research Progress at the IEEE ICC Covid-19 Congress in Bangladesh in July 2020. He has held the position of Organizing Chair for IEEE conferences in 2020 and 2022 and served as a judge for various technical events, including those organized by the Government of West Bengal and the MHRD's Kavach Hackathon. His scholarly contributions have led to his inclusion in the world scientific index via the AD scientific index since 2021. Additionally, Dr. Banerjee was elected Vice President of the Lions Club City Centre Durgapur in 2022, reflecting his commitment to social and humanitarian efforts.
+
+**Educational Background:**
+Dr. Banerjee holds a Ph.D. in Engineering from the Indian Institute of Engineering Science and Technology, Shibpur, and a Master of Technology in Electronics and Communication Engineering from the University of Pune. He has extensive experience, with 22 years in total—19 years in academia and research and 3 years in industry.
+
+**Courses Taught:**
+Dr. Banerjee has taught a wide array of courses, including:
+- Computer Networks
+- Wireless Sensor Networks
+- Communication Engineering
+- Internet of Things (IoT)
+- Internet Technology
+- Wireless and Mobile Communication
+- Image Processing
+- Digital Electronics
+- Analog and Digital Electronics
+- Computer Organization
+- Microprocessors
+- Computer Graphics
+
+**Research Contributions:**
+He has published numerous research articles in SCI journals and peer-reviewed IEEE conferences, holds three granted design patents, and has four published utility patents. Notably, Dr. Banerjee contributed to the development of a hybrid sanitizer and a low-cost oxygen concentrator during the COVID-19 pandemic, collaborating with Indo-American teams. He is currently supervising three PhD candidates, with one awaiting defense for degree completion.
+
+**Contact Information:**
+For further inquiries, Dr. Banerjee can be reached at:
+**Email:** rajib.banerjee@ddn.upes.ac.in
+
+In summary, Dr. Rajib Banerjee is a passionate educator and researcher with a strong commitment to advancing knowledge in computer science and communication engineering through innovative teaching and impactful research.

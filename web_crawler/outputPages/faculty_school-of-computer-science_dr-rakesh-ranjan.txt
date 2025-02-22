@@ -1,0 +1,40 @@
+Database Management System
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Digital Electronics
+Qualified in GATE 2014. (94.85 Percentile)
+Ph.D. Research Scholar at National Institute of Technology Patna. (July-2019 – June 2024)
+Close
+School of Computer Science
+Received Financial Assistantship under International Travel Support (ITS) Scheme with from SERB DST-India to attend MeMeA-2022 Conference in June 2022 at UNAHOTELS Naxos Beach Sicilia, Messina, Italy.
+Healthcare Analytics
+Faculty
+rakesh.ranjan@ddn.upes.ac.in
+Biomedical Signal Processing
+Junior Research Fellow (JRF) at VNIT, Nagpur. (April-2018 - June-2019)
+Scholarly Activities
+Digital Image Processing
+Four times the best Paper awards in various International Conferences in India.
+Recipient of Ph.D. Scholarship from Ministry of Education, India. (Jul 2019 - Jun 2024)
+Courses Taught
+Eligibility Criteria
+Deep Learning
+Python Programming
+Profile Summary
+Assistant Professor at CMR Engineering College, Hyderabad. (Nov.2016 – April 2018)
+Recipient of Post Graduate Scholarship from AICTE, India. (2014 – 2016)
+Biomedical Signal and Image Processing, Brain-Computer Interface, Time-Frequency analysis, pattern recognition, machine learning, computer-aided medical diagnosis, and healthcare applications.
+Assistant Professor
+Dr. Rakesh Ranjan has been an active IEEE member. He is also associated with IEEE Signal Processing Society, IEEE Engineering Medicine and Biology Society, and IEEE Young Professionals Community. He was organized seven technical events under IEEE Signal Processing Society (SPS) Student Branch Chapter at NIT Patna. He was also actively associated in Technical Program Committee of a few international conferences at NIT Patna Campus: SoCTA-2019, AITA- 2021, ICCET-2023, and MAI-2023.
+Dr. Rakesh Ranjan
+Founding Chairperson of IEEE Signal Processing Society (SPS) Student Branch Chapter at the National Institute of Technology—Patna under the IEEE Kolkata section. (Mar 2023 - May 2024)
+Contact
+Dr. Ranjan’s teaching philosophy centers on creating a student-focused learning environment that emphasizes real-world applications and collaborative learning. By integrating hands-on projects, case studies, and industry-relevant examples, he bridges theory with practice. As an active researcher in cutting-edge fields, he inspires students to explore advanced technologies and pursue independent research, aiming for academic excellence and meaningful contributions. He also provides personalized support to students.
+Signal and System
+Referee Services: Scientific Reports, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Instrumentation and Measurement, IEEE Transactions on Neural Systems and Rehabilitation Engineering, IEEE Access, Cognitive Neurodynamics, Computer Methods in Biomechanics and Biomedical Engineering, Cogent Engineering, Circuits, Systems, and Signal Processing, Clinical EEG and Neuroscience, and various International conferences.
+Before joining UPES, Dr. Ranjan has 1.5 years of teaching experience and 2 years of research experience. The details are as follows:
+Dr. Rakesh Ranjan is an Assistant Professor in School of Computer Science at UPES, Dehradun. He earned his Ph.D. from the National Institute of Technology Patna in 2024. He explored brain signal analysis and synthesis with signal denoising (Artifacts removal), and application to detection of different mental disorders, and healthcare applications during his PhD study. His ongoing research continues to advance the frontiers of biomedical engineering, focusing on innovations in mental health diagnostics, healthcare applications, and AI-driven projects.
+Applied Machine Learning
+Teaching Philosophy

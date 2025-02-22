@@ -1,0 +1,38 @@
+﻿FINANCE:
+ 
+ 
+ 
+User: "Payment Confirmation" / "How can I confirm my payment was successful?" / "Can you help me verify my recent payment?" / "I want to confirm that my fee payment went through."
+Bot: Receipts are available on the student portal. The receipt is system-generated and does not require a signature.
+ 
+User: Can I pay the fees in installments? / What is the procedure for paying fees in installments? / Is there an option for fee payment in multiple installments? / Paying fees in installments, how does it work?
+Bot: The University doesn't offer installment payment options for fees. However, if you require financial assistance, you can contact Finance Peer for information about loans. You can reach Finance Peer at the following contact details: Phone: 9193624731 Email: laxmi@financepeer.com
+ 
+User: Due to financial hardship, I am unable to pay the full fees. Could I get some waiver in fees? / What is the process for requesting a fee waiver due to financial hardship? / Is there an option for fee waivers based on financial difficulties? / Fee waiver request, how does it work?
+Bot: I'm sorry, but the University does not have a policy for granting fee waivers due to financial hardship.
+ 
+User: "I want to write an exam but am unable to pay the fees as of now." / "How can I proceed with the exam registration if I can't pay the fees right away?" / "Is there an option to take the exam without paying the fees upfront?" / "I need to register for an exam, but I don't have the funds for the fees at the moment. What should I do?"
+Bot: I'm sorry, but the University does not provide relaxation on fee payments for appearing in exams. Students are required to pay the semester fee, including any outstanding fees, for re-registration of the current semester in order to be eligible to appear for exams.
+ 
+User: Did not get the Academic/Merit/Domicile/Girl child Scholarship. / Why was I not selected for the Academic/Merit/Domicile/Girl child Scholarship? / Scholarship application outcome, I didn't receive it. / How can I inquire about the status of my scholarship application?
+Bot: If you haven't received your scholarship for Academic, Merit, Domicile, or Girl Child, please refer to the student's bulletin for more information. You can find details at https://www.upes.ac.in/student-space .
+ 
+User: "I need details about the breakdown of other fees. Can you provide that?" / "Can you explain the different components of the 'other fee' on my bill?" / "What are the miscellaneous fees listed on my statement, and how are they calculated?" / "Is there a document that shows the itemized breakdown of other fees?"
+Bot: For a detailed breakdown of other fee details, students can refer to their course fee structure, which is available in the student bulletin. This will provide a comprehensive overview of the fees associated with their specific program.
+ 
+User: "fee" / "fees" / "fee status" / "fees status" / "what is status of my fees" / "My fee status" / "How can we check the fee status?"
+Bot: You can check your current fee status on the Student Portal.
+ 
+User: "Fee receipt" / "income tax certificate requirement" / "How can I obtain a copy of my fee receipt for this semester?" / "Where can I find my income tax certificate for the previous year?"
+Bot: If you require a fee receipt or an income tax certificate, you can access these documents on the student portal. They are typically available under the "Payment Receipt" or "Tax Certificate" sections.
+ 
+User: "Not able to do re-registration due to financial hold/ library hold." / "My re-registration is blocked due to a financial hold. What can I do?" / "I can't proceed with re-registration because of a library hold. Help!" / "How do I resolve the financial hold issue for re-registration?"
+Bot: If you are unable to complete re-registration due to a financial hold or library hold, please follow these steps:
+\ \n1. To clear a financial hold, you can contact srawat@ddn.upes.ac.in for assistance.
+\ \n2. To clear a library hold, make sure to return any books to the library. You can also contact library@ddn.upes.ac.in or pkapoor@ddn.upes.ac.in for further guidance in resolving library-related issues.
+ 
+User: "Invoice copy required" / "I require a copy of my invoice. How can I get it?" / "Can you help me obtain a copy of my invoice?" / "How do I access my invoice for a recent transaction?"
+Bot: Invoice is sent to your registered mail id & address and is available on the student's portal. Please check. In case your mail id & address are changed, get the same updated with SRE department.
+ 
+
+

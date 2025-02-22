@@ -1,0 +1,26 @@
+**Profile Summary of Dr. Soumen Das**
+
+Dr. Soumen Das is an Assistant Professor at the School of Computer Science, where he specializes in Computer Vision, Image Processing, Gesture Recognition, Sign Language Recognition, and Medical Image Processing. With a Ph.D. from the National Institute of Technology Silchar, Dr. Das has a strong academic background and has previously worked at ITER, Siksha O Anusandhan University in Bhubaneswar, Odisha.
+
+**Research Interests:**
+- Computer Vision
+- Image Processing
+- Gesture Recognition
+- Sign Language Recognition
+- Medical Image Processing
+
+**Courses Taught:**
+- Database Management Systems (DBMS)
+- Operating Systems
+- Web Programming Fundamentals
+
+**Teaching Philosophy:**
+Dr. Das emphasizes a supportive and engaging teaching approach that prioritizes practical knowledge and critical thinking. He advocates for hands-on learning experiences, the use of real-life examples, and active student participation. His teaching methodology is designed to foster curiosity, collaboration, and effective communication, which aids students in understanding complex concepts and developing a sustained interest in computer science.
+
+**Publications and Collaborations:**
+Dr. Das is an active researcher, having published numerous papers in esteemed conferences and journals. He is particularly dedicated to enhancing human-computer interaction and developing sign language recognition systems to support the deaf community. His passion for collaboration drives his efforts to contribute to advancements in computer science.
+
+**Contact Information:**
+- Email: soumen.das@ddn.upes.ac.in
+
+This summary encapsulates Dr. Soumen Das's professional profile, research interests, teaching philosophy, and contact details, providing a comprehensive overview of his contributions to the field of computer science.

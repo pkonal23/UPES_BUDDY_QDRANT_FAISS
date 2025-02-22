@@ -1,0 +1,44 @@
+The content outlines the B.Sc. program in Computer Science with a specialization in Artificial Intelligence (AI) and Machine Learning (ML) offered by the UPES School of Computer Science. The program is structured into eight semesters, encompassing a comprehensive curriculum that combines theoretical knowledge with practical skills essential for the AI and ML fields.
+
+### Program Overview:
+- **Specialization**: Artificial Intelligence & Machine Learning
+- **Total Credits**: 24 for major electives, with various labs and courses distributed across semesters.
+- **Eligibility Criteria**: Students must have a minimum of 50% marks in Class X and XII, with Mathematics, Computer Science, or Information Technology as a major subject in Class XII.
+
+### Curriculum Highlights:
+- The curriculum includes courses such as:
+  - Data Structures and Algorithms
+  - Deep Learning
+  - Natural Language Processing
+  - Computational Linguistics
+  - Statistics for Data Analysis
+  - Programming in C, C++, and Python
+  - Database Management
+  - Cyber Security
+  - Digital Electronics
+- Students engage in hands-on labs (e.g., AI/ML labs, OOPs using C++ Lab, and more) and projects throughout the program to enhance their practical skills.
+
+### Future Scope and Industry Trends:
+- Graduates are prepared for various roles such as:
+  - Machine Learning Engineer
+  - Data Scientist
+  - AI Researcher
+  - Software Developer
+- The program emphasizes the growing demand for AI professionals across industries like healthcare, finance, and manufacturing, equipping students with skills in data analysis, model creation, and innovation.
+
+### Practical Exposure:
+- The program includes internships, industry collaborations, and access to cutting-edge labs equipped with the latest tools (e.g., TensorFlow, Keras, PyTorch).
+- Students participate in research projects that contribute to advancements in AI and ML.
+
+### Career Opportunities:
+- Graduates are well-positioned for high employability due to the program's strong industry connections and practical training. 
+- UPES provides dedicated career services and networking opportunities to facilitate successful placements in reputed companies.
+
+### Contact Information:
+While specific contact details were not provided in the content, students interested in the program are encouraged to apply and inquire further through the UPES School of Computer Science's official channels.
+
+### Additional Notes:
+- The program is designed to foster critical thinking, problem-solving skills, and creativity, preparing students to tackle real-world challenges in technology.
+- The emphasis on statistical proficiency and mathematical simulations is a distinguishing feature that enhances graduates' capabilities in data-driven decision-making.
+
+Overall, the B.Sc. program in Computer Science with AI and ML specialization at UPES is designed to provide a robust foundation for students aspiring to succeed in the rapidly evolving tech landscape.

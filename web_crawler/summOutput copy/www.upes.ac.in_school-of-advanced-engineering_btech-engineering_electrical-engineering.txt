@@ -1,0 +1,37 @@
+The B.Tech. in Electrical Engineering program at UPES School of Advanced Engineering prioritizes practical learning through hands-on projects, workshops, and collaborations with industry partners. This curriculum is designed to equip students with the skills necessary to effectively address real-world challenges in the electrical engineering field.
+
+### Program Structure
+The program spans multiple semesters from 2023 to 2029, featuring a comprehensive curriculum that includes core subjects such as:
+- Power Systems
+- Control Systems
+- Digital Electronics
+- Communication Systems
+- Electrical Machines
+- Signals and Systems
+
+Students engage in specialized courses such as Smart Grid Technologies, E-Vehicle and Industrial Drives, and AI & ML Applications, allowing them to tailor their education according to personal interests and career goals.
+
+### Practical Learning and Facilities
+Students benefit from advanced laboratory facilities, including:
+- DST FIST sponsored lab for battery testing
+- Texas Instruments embedded system lab
+- Advanced Power System and Protection lab
+
+This hands-on approach ensures that students gain practical experience in designing and implementing electrical systems, significantly enhancing their employability.
+
+### Industry Collaboration and Placement
+The program boasts a remarkable 100% placement record, with graduates securing lucrative job offers in both core electrical industries and software companies. The highest package reported is 6.2 LPA, while the average package stands at 5.1 LPA. This success highlights the program's strong industry connections and commitment to producing industry-ready graduates.
+
+### Admission Criteria
+To apply for the program, candidates must meet the following eligibility criteria:
+- Minimum 50% marks in Classes X and XII, with at least 50% in Physics, Chemistry, and Mathematics in Class XII.
+- Selection is based on performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET.
+
+### Important Dates
+- **Last Date to Apply:** February 25, 2025
+
+### Contact Information
+For more details about the program, students can reach out to UPES School of Advanced Engineering. Specific contact details were not provided in the content, but interested individuals are encouraged to inquire for further information.
+
+### Conclusion
+The B.Tech. in Electrical Engineering program at UPES is a forward-thinking curriculum that prepares students for diverse career paths in the rapidly evolving energy landscape. With a strong emphasis on practical skills, interdisciplinary learning, and specialized knowledge, graduates are well-equipped to make significant contributions in the field of electrical engineering.

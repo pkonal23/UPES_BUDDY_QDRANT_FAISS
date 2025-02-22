@@ -1,0 +1,25 @@
+Research Interests
+CDMA | IDMA | AI/ML | WSN | IoT | Computer Vision | Deep Learning | Brain Wave Mapping | Digital Twin
+He received a fellowship from the Ministry of Human Resource and Development (MHRD) during his M.Tech. at Harcourt Butler Technological Institute (HBTI), Kanpur. He has received fellowships from the University Grants Commission (UGC), during his Ph.D. at Motilal Nehru National Institute of Technology Allahabad (MNNIT).
+Home
+Work Experience
+Awards and Grants
+Close
+School of Computer Science
+prateek.gautam@ddn.upes.ac.in
+Dr. Prateek Raj Gautam
+Faculty
+He is an Assistant Professor in the SoCS UPES. He has around six years of teaching experience and has taught several UG (B.Tech.) and PG (M.Tech.) courses and delivered short courses on various topics. His research interests include CDMA, IDMA, WSN, IoT, AI/ML, Computer Vision, and Digital Twin. He believes in teaching core engineering subjects using real-world examples and technology. He has received fellowships from the MHRD and UGC and has published his work in reputable journals and transactions. Currently, he is exploring applications of deep learning in different fields.
+Scholarly Activities
+prateekrajgautam@gmail.com
+Courses Taught
+Eligibility Criteria
+,
+He has published in reputed journals and transactions on topics like Optical Orthogonal Codes of OCDMA, Interleaver design for IDMA, WBAN, WSN routing and localization, and IoT. He has presented his work at various International Conferences and contributed to various Book Chapters. Currently, he is exploring applications of deep learning in WSN Localization, Brain Wave Mapping, and Biomedical, IoT in agriculture and Digital Twin.
+Profile Summary
+Before joining UPES, he was at the Computer Science and Engineering Dept. of the Centre for Advanced Studies, Dr. A. P. J. Abdul Kalam Technical University, Lucknow, UP. Before his Ph.D. he worked as an Assistant Professor in the Electronics and Communication Engineering Department of Allenhouse Institute of Technology, Rooma, Kanpur, UP, and before that at Naraina College of Engineering and Technology, Ratanpur, Kanpur UP. He has also worked as a Guest Faculty in the Electronics and Communication Engineering Department, Institute of Engineering and Technology, CSJMU Kanpur, UP.
+Contact
+Assistant Professor – Senior Scale
+Teaching Philosophy
+He has taught various UG courses like Digital Electronics, Electromagnetic Field Theory, Microprocessors, Measurements, Analog Electronics Circuits, Digital Communication, and Data Communication in Electronics and Communication Engineering and PG courses like Machine Learning, Computer Vision, Internet of Things, Advanced Computer Networks and Communication, Research Methodology in Computer Science and Engineering. He has delivered short courses on Python, LaTeX, Inkscape, Docker, Git and GitHub, and Nix for M.Tech. researcher scholars.
+His teaching philosophy revolves around facilitating students' understanding of the theoretical and practical aspects of core engineering subjects. He emphasizes delivering course content using real-world examples to help students relate fundamental concepts of core subjects with state-of-the-art technology. In his teaching approach, he uses Python, JavaScript, and other web apps, thereby enabling students to better analyze real-world engineering problems.

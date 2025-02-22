@@ -1,0 +1,36 @@
+**Profile Summary of Professor Vikas Thapa**
+
+**Educational Background:**
+- University Silver Medallist for MTech in Robotics from the University of Petroleum and Energy Studies (UPES).
+
+**Research Interests:**
+- Professor Vikas Thapa specializes in deep learning, computer vision, image processing, robotics, and automation. His expertise encompasses various robotics aspects, including kinematics, dynamics, control systems, and machine learning.
+
+**Work Experience:**
+- Prior to his current role at UPES, he served as a Junior Research Fellow at the Indian Institute of Technology (Hyderabad) in the Biomedical Engineering department and held a researcher position at UPES R&D. He has contributed to multiple DST-funded projects and provided consulting services in biomedical imaging and computer vision engineering systems.
+
+**Teaching Philosophy:**
+- Vikas advocates for an immersive, experiential learning approach, believing that optimal learning occurs when students engage actively with the subject matter. He integrates theory with hands-on exercises and practical projects to enhance understanding of robotics and IoT principles. His teaching methods include:
+  - Lectures and demonstrations
+  - Interactive lab sessions
+  - Collaborative group projects
+  - Thoughtful discussions
+- He emphasizes active learning and student participation, encouraging students to explore their ideas, develop critical thinking skills, and apply knowledge to real-world scenarios.
+
+**Courses Taught:**
+1. **Internet of Things (IoT) Fundamentals:**
+   - Covers concepts and technologies in the IoT ecosystem, including sensor networks, data acquisition, wireless communication protocols, cloud computing, and data analytics. The course includes practical exercises for building IoT applications.
+
+2. **Tangible User Interface (TUI) Course:**
+   - Focuses on designing, developing, and evaluating interactive systems that allow physical manipulation of objects to interact with digital information, offering a more intuitive experience than traditional GUIs.
+
+3. **Physical Computing Course:**
+   - Integrates software and hardware to create interactive systems that respond to the physical world, covering principles of computer science, electronics, and design.
+
+4. **Introduction to Robotics:**
+   - Introduces fundamental robotics concepts, including robot architecture, kinematics, sensors, actuators, and basic control strategies, with practical sessions on programming robots.
+
+**Contact Information:**
+- Email: vikas.thapa@ddn.upes.ac.in
+
+Professor Vikas Thapa's comprehensive understanding of robotics and dedication to student engagement make him a valuable asset in the field of robotics education and research.

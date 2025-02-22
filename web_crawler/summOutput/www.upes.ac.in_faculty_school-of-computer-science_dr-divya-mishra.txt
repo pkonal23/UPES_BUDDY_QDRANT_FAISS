@@ -1,0 +1,41 @@
+Dr. Divya Mishra is an accomplished academic and researcher specializing in Artificial Intelligence, Machine Learning, Deep Learning, Digital Image Processing, Computer Vision, Digital Signal Processing, Digital Systems, and Information Security Governance. She holds an All India Rank of 4 in the M. Tech Entrance exam at Jamia Millia Islamia University, India. Dr. Mishra is currently an Assistant Professor in the School of Computer Science at the University of Petroleum and Energy Studies (UPES) and has 3 years of industrial experience as a Quality Control Engineer.
+
+### Education and Research
+Dr. Mishra completed her Ph.D. in Image Processing and Computer Vision at Ben Gurion University (BGU), Israel, where her research was funded by the Ministry of Science and Technology, Israel. Her dissertation focused on "Real-world Unsupervised Remote Sensing Image Super-Resolution" and involved collaboration with the Israel Space Agency and Israel Aerospace Industries. Notably, she worked on Israel’s first single-band nanosatellite, BGUSat, achieving a tenfold super-resolution. Her research findings have practical applications, having collaborated with the Israeli Agritech company "Crystal Vision Integrated Solutions."
+
+### Awards and Fellowships
+Dr. Mishra has received several prestigious awards, including:
+- **Kaufmann Award** for outstanding Ph.D. research students at BGU.
+- **Dean’s Award** for being in the top 1% of Ph.D. students based on cumulative achievements.
+- **Negev Scholarship** for outstanding Ph.D. students.
+- **UGC-GATE Fellowship** during her M. Tech studies.
+
+She has also been recognized with an **Appreciation Certificate** from the Editor-in-Chief of the "Journal of Electronic Imaging" for her contributions as a reviewer.
+
+### Scholarly Activities
+Dr. Mishra is actively involved in the IEEE community, serving as a reviewer for various SCI/Scopus-indexed journals and conferences, including:
+- IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Transactions on Image Processing
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- IEEE Geoscience and Remote Sensing Letters
+- Multimedia Tools and Applications
+- IJCNN ‘A’ ranked conference
+
+She has published a patent titled "Hybrid-Optimized Deep Learning Model for Rapid COVID-19 Detection using Respiratory Audio Signals."
+
+### Teaching Philosophy
+Dr. Mishra adheres to three core principles in her teaching philosophy:
+1. **Collaboration and Innovation**: Encouraging an environment where students and faculty can explore new ideas and collaborate.
+2. **Student-Centered Approach**: Focusing on the needs and interests of students, ensuring inclusivity and engagement.
+3. **Feedback and Reflection**: Regularly providing feedback and reflecting on teaching practices to enhance learning outcomes.
+
+### Courses Taught and Student Supervision
+Dr. Mishra has co-supervised 7 undergraduate and 1 master’s student towards their final year projects and thesis completion during her Ph.D. studies.
+
+### Contact Information
+- **Email**: divya.mishra@ddn.upes.ac.in
+- **LinkedIn**: [Divya Mishra LinkedIn Profile](https://www.linkedin.com/in/divya-mishra-920a091a5)
+- **Personal Webpage**: [Divya Mishra Personal Page](https://sites.google.com/view/divya-mishra)
+- **Google Scholar**: [Divya Mishra Google Scholar Profile](https://scholar.google.com/citations?user=2ZTwh3AAAAAJ&hl=en)
+
+Dr. Divya Mishra’s extensive research, teaching philosophy, and commitment to academic excellence make her a prominent figure in her field.

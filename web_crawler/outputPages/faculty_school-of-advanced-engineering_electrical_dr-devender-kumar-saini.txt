@@ -1,0 +1,24 @@
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Teaching Philosophy
+Close
+Electrical
+Associate Professor
+Faculty
+Currently, Dr. Saini serves as an Associate Professor at UPES, before which, he worked at NIET, Rajasthan, for one year and pursued research as a scholar at IIT Roorkee for four years.
+Dr. Saini has led three groups of postgraduate students and conducted surveys to assess the applicability and acceptability of Electric Vehicles in the Dehradun Region. The study aims to analyse the need for infrastructure development to promote Electric Vehicle adoption in the region. Furthermore, he has conducted a series of experiments on high-voltage traction lines to accurately pinpoint faults over OHE. This study aimed to minimize train delays caused by faults on the electric traction line for Indian Railways and metro services, significantly impacting the country's GDP.
+Scholarly Activities
+Dr. Saini earned recognition as an IEEE Senior Member in 2021. He has been acknowledged by Southern Indian Railways officials for co-experimenting and developing an algorithm that detects the exact fault location over OHE for the traction system in 2020. Additionally, he received the Best Paper Award at an IEEE international conference held at NITTTR Chandigarh in November 2021.
+dksaini@ddn.upes.ac.in
+Courses Taught
+Eligibility Criteria
+Dr. Saini's research primarily revolves around power system planning using distributed energy resources and electric vehicles for resilient distribution grids. His work involves developing innovative solutions that integrate distributed energy resources, such as wind, solar, and battery storage systems, into dynamic distribution grids. Besides power system planning, he also takes a keen interest in evaluating electric machine performance for electric vehicle applications.
+Profile Summary
+School of Advanced Engineering
+Throughout his academic career, Dr. Saini has taught a diverse range of core electrical subjects and a few multidisciplinary subjects, including Network Theory, Control Systems, Power Systems, Electrical Machines, and more. He envisions taking blended engineering subjects such as Digitized Substation, Communication Standards & Protocols, Cyber Security in Power Systems, E-Vehicle & Energy Storage, and Disaster Modelling & Vulnerability Analysis to be integral parts of the electrical engineering program at both undergraduate and postgraduate levels. He imparts instruction at the undergraduate, and graduate levels and mentors Ph.D. students.
+Dr. D.K. Saini completed his MTech. in Electrical Engineering with a specialization in System Engineering & Operation Research from IIT Roorkee in 2009. He pursued his PhD focusing on controller design for uncertain interval systems and their order reduction. With proficiency in optimization and control problems, as well as knowledge of power systems and energy alternatives, Dr. Saini has published more than 60 papers in SCI/Scopus-indexed journals and conferences. He actively contributes to the IEEE community and holds the status of an IEEE Senior Member since 2021. His research efforts over the past five years have centred around technology development for social benefits. Notably, he collaborated with the Indian Southern Railways division to devise a solution for locating exact faults on overhead traction lines. The study's findings have been validated by Railways, and several research articles, including one in IEEE Transactions on Transportation Electrification in 2018, have been published. Additionally, Dr. Saini delivers technical training programs to organizations like TATA Power Solar and TEHRI, focusing on energy storage solutions and the digitalization of electrical grids.
+Contact
+Dr. Devender Kumar Saini
+In Dr. Saini's teaching philosophy, he places significant emphasis on technical learning with a focus on providing social benefits to students before delving into technical and economic aspects. He designs and delivers technical curricula based on current social needs. Additionally, he is enthusiastic about setting up and upgrading the smart grid & communication lab, recognizing the ever-changing definitions of smart grids and advancements in communication mediums/devices, demanding preparedness for inevitable challenges.

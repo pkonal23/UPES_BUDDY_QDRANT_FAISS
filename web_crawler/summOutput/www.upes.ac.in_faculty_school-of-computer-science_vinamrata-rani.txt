@@ -1,0 +1,7 @@
+Vinamrata Rani is an aspiring academic professional aiming to establish her career as an Assistant Professor. She holds a master's degree in Data Science from Delhi Technological University, New Delhi, and brings a modern perspective and advanced expertise to her teaching and research. Her academic focus during her postgraduate studies was on deep learning and image processing, which highlights her strong analytical abilities and problem-solving skills.
+
+Currently, Vinamrata is a faculty member at the University of Petroleum and Energy Studies (UPES), where she has recently begun her teaching career. She instructs courses in Natural Language Processing, Pattern Recognition and Anomaly Detection, Database Management Systems (DBMS), and specialized subjects such as Computer Graphics. 
+
+Her research interests include deep learning, diffusion processes in image processing, generative AI, and segmentation. Vinamrata is committed to equipping her students with both academic knowledge and practical skills necessary for real-world challenges. She actively mentors students interested in emerging technologies, including machine learning and deep learning, and supports their participation in coding competitions and open-source projects.
+
+For further inquiries, she can be contacted via email at vinamrata.rani@ddn.upes.ac.in.

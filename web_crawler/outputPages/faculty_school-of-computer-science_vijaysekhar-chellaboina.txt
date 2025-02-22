@@ -1,0 +1,25 @@
+Professor Vijay has received state-level awards in mathematical Olympiads for three consecutive years, as well as the prestigious US NSF CAREER and TCS Distinguished Researcher awards. He is also a senior member of IEEE.
+Research Interests
+His research focuses on stability theory and feedback control applications to complex systems, including biomedical and financial systems. Vijay has contributed over a hundred journal papers and a similar number of peer-reviewed conference articles, and has authored five books published by Springer and Princeton University Press. His book on nonlinear dynamical systems is widely used as a textbook/reference in advanced courses at top universities globally.
+Home
+Work Experience
+Awards and Grants
+Close
+School of Computer Science
+Vijay's primary research expertise lies in the mathematics of control systems, specifically focusing on stability analysis and controller synthesis for nonlinear dynamical systems. His applied research encompasses adaptive control for biomedical systems and stochastic optimization for financial portfolios. Currently, his interests include reinforcement learning for control systems and quantum computing.
+Dean.SOCS@ddn.upes.ac.in
+Faculty
+Vijay earned his B. Tech in Mechanical Engineering from IIT Madras and his M.S. in Mechanical Engineering from Florida Institute of Technology. He holds a Ph.D. in Aerospace Engineering from the Georgia Institute of Technology. With a solid foundation in mechanical and aerospace engineering and research expertise in applied mathematics, his teaching interests encompass mathematics, mechanical, aerospace, and electrical engineering, as well as computer science.
+Professor and Dean, School of Computer Science
+Scholarly Activities
+Courses Taught
+Eligibility Criteria
+Prof. Vijaysekhar Chellaboina
+Vijay has authored over a hundred journal papers and a similar number of peer-reviewed conference articles, as well as five books published by Springer and Princeton University Press. His book on nonlinear dynamical systems is widely used as a textbook/reference in advanced courses at top universities globally, and his book on thermodynamics offers a unique perspective on the laws of thermodynamics using a dynamical systems approach. His work has garnered over seven thousand citations, with a current Google h-index of 36 and an i10-index of 87.
+Profile Summary
+Professor Vijay is a recipient of US NSF CAREER and TCS Distinguished Researcher awards and is a senior member of IEEE.
+Vijay is a strong advocate of student-centric learning, as opposed to traditional exam-focused teaching. He believes that engineering education has often emphasized theoretical concepts without connecting them to real-world applications or practical skills. Vijay envisions an ideal education as a balance between theory and practice, and between long-term learning and short-term skills. Consequently, his preferred teaching method is project- or practice-based learning across all courses. With the availability of software tools, students can grasp even the most challenging concepts in mathematics and engineering through simulations.
+Vijay served as an assistant professor at the University of Missouri—Columbia from 1999 to 2004 and as an associate professor at the University of Tennessee—Knoxville from 2004 to 2008. He returned to India in 2008 to join TCS Research in Hyderabad, where he led the risk and finance group. Vijay then held professorships at Mahindra University (formerly Mahindra Ecole Centrale) from 2014 to 2018, SRM University—Amaravati from 2018 to 2020, and GITAM University from 2020 to 2024. During his tenure, he served as Dean of Academics at Mahindra, Associate Dean of Engineering and Sciences at SRM, and Dean of Engineering at GITAM.
+Contact
+At the master's and doctoral levels, Vijay has taught courses on robust control for linear systems, nonlinear control systems, advanced dynamics, and mathematical biology. At the undergraduate level, he has experience teaching mathematics (calculus, linear algebra, probability, and statistics), strength of materials, engineering drawing, systems dynamics, and control systems. He is currently completing an advanced course on nonlinear control for NPTEL.
+Teaching Philosophy

@@ -1,0 +1,23 @@
+Amar Jindal is an Assistant Professor with a strong focus on Computer Vision, Machine Learning, and Deep Learning. He integrates real-world industrial scenarios into his teaching to illustrate the practical applications of theoretical concepts, enhancing student engagement through quizzes and assignments modeled after research and industry challenges.
+
+Educational Background:
+- Ph.D. Thesis: Submitted in May 2023 at the National Institute of Technology Patna (NITP) on ‘Offline Handwritten Text Recognition in Ancient Documents in Indian Scripts’.
+- M.Tech in Information Technology: Completed from NITP (2018-2020).
+- B.Tech in Information Technology: Completed from Guru Gobind Singh Indraprastha University, Delhi (2011-2015).
+- Cleared the Graduation Aptitude Test in Engineering (GATE) in 2018.
+
+Work Experience:
+- Senior Analyst at Capgemini Pune from March 2016 to November 2017, where he was responsible for creating documentation, test cases, test scripts, test suites, and plans, as well as managing lab infrastructure for deployment and troubleshooting.
+
+Teaching Contributions:
+Amar Jindal teaches several courses, including:
+- Software Engineering
+- Programming with C
+- Machine Learning
+
+He has also actively participated in scholarly activities, publishing research articles in respected journals and maintaining IEEE membership. His outreach includes delivering 9 hours of lectures on ‘Introduction to Machine Learning’ at a workshop on ‘Applications of Artificial Intelligence in Healthcare’ at Sikkim Manipal University, and providing 27 hours of expert lectures during the ‘AI & Healthcare Workshop’ at KIIT School of Public Health.
+
+Contact Information:
+- Email: amar.jindal@ddn.upes.ac.in 
+
+Overall, Amar Jindal's profile reflects a blend of academic excellence, practical industry experience, and a commitment to enhancing the educational landscape through innovative teaching methods.

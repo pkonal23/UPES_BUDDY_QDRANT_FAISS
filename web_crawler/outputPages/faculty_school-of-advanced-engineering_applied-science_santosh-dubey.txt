@@ -1,0 +1,25 @@
+Research Interests
+Professor Dubey adopts a student-centric teaching philosophy, focusing on innovative thinking, leadership skills, self-reflection, feedback, and more. He encourages students to initiate discussions on open-ended problems from various domains to enhance their intellectual and imaginative quotient. His pedagogical approach also involves learning from errors and fostering an environment where students can learn and grow through their mistakes.
+Home
+Work Experience
+Awards and Grants
+Professor
+Close
+Faculty
+Santosh Dubey
+Prof. Dubey has been very active in organizing/participating in scholarly events like conferences, workshops, and seminars, executing research & consultancy projects and supervising students for dissertations, etc. He was the convener of a National Conference on Advances in Materials Science for Energy Applications (AMSEA 2014). He also organized a workshop “Basic Numerical Computations Using Linux Operating System” for students and faculty members in which he trained the audience on developing computer programs for solving integrals, ordinary differential equations, partial differential equations, etc. and data visualization using Gnuplot in Linux OS.
+Scholarly Activities
+Courses Taught
+Eligibility Criteria
+santosh.dubey@ddn.upes.ac.in
+Professor Santosh Dubey completed his MS & PhD in Computational Science (Materials Science) at Florida State University, USA. He is renowned for his significant contributions to understanding radiation-materials interactions through mathematical modelling and experimentation. He has developed mathematical models to simulate the physical mechanisms responsible for material property degradation in nuclear reactor components. Additionally, he has utilized experimental tools like ion beam irradiation and thermal annealing to synthesize material phases with applications in solar cells, microelectronics, and more. Notably, he has also developed a theoretical/computational framework for shale gas production from reservoirs.
+Given his research background in mathematical modelling and simulation, Professor Dubey teaches various courses related to Physics, including Mathematical Physics, Computational Physics, Introduction to Computational Physics, and Electricity & Magnetism, among others. Additionally, he has taught courses on Modelling & Simulation of Metallurgical Processes, Advanced Computing Techniques, Computer Programming & Simulations, and Nuclear Engineering Materials.
+Profile Summary
+School of Advanced Engineering
+Professor Dubey has been recognized with the Adelaide-Wilson Doctoral Fellowship in 2008-2009 by Florida State University. His team of students was also a semi-finalist in IICDC 2017 organized by the Department of Science & Technology and Texas Instruments, receiving a cash prize of INR 20000. Along with his team, he also received a consultancy project \from ABB Bangalore to develop a theoretical/computational framework for shale gas production from reservoirs. Additionally, he has received research projects from IUAC, New Delhi, and UGC-DAE-CSR, Indore, to work on phase transformation in Ni/Si thin films using ion-beam irradiation and thermal annealing.
+Professor Dubey's research interests include understanding phase transformation in materials under thermal and irradiation conditions using mathematical modelling and experimentation. Presently, he is working on synthesizing Nickel Silicides through annealing and ion beam irradiation, with potential applications in microelectronics, solar photovoltaics, and other fields.
+Contact
+Before joining UPES, Professor Dubey served as a post-doctoral research associate at the School of Nuclear Engineering, Purdue University, USA. During his tenure at Purdue, he focused on developing mathematical models to simulate the behaviour of structural materials under intensely irradiated environments. He also worked as a Scientist at the Institute for Plasma Research (IPR), Department of Atomic Energy, Govt. of India. In this capacity, he played a vital role in developing a data acquisition system to monitor temperature and power density profiles of plasma particles on first wall components in the Steady State Superconducting Tokamak (SST-1), a project aimed at achieving nuclear fusion for green energy production.
+Prof. Dubey, along with a team of researchers from UPES Dehradun, executed an externally funded consultancy project from ABB Bangalore to develop a theoretical/computational framework for understanding shale gas and production from reservoirs. He has also executed research projects on ion-beam-induced phase transformations in materials, finding applications in areas like solar photovoltaics, microelectronics, etc.
+Applied Science
+Teaching Philosophy

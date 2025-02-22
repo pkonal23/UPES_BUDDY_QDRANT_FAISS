@@ -1,0 +1,13 @@
+Dr. Shaurya Mall is an accomplished academic and researcher specializing in data analytics, transportation systems, and electric vehicle (EV) ecosystems. She holds a dual M.Tech and Ph.D. degree from the Centre for Transportation Systems at IIT Roorkee, where her doctoral research concentrated on the adoption of electric vehicles in urban India and strategic planning for charging infrastructure, addressing significant issues in sustainable mobility.
+
+Her professional experience includes working as a data scientist at Siemens Energy, where she engaged in solving complex analytical challenges. Additionally, she served as a Research Associate on a project funded by the Department of Science and Technology (DST), focusing on sustainable transportation solutions. Dr. Mall has also contributed significantly to education as a Teaching Assistant for the NPTEL (National Programme on Technology Enhanced Learning) course on Data Analytics with Python, where she mentored around 40,000 students annually, enhancing their understanding of Python programming, data visualization, and machine learning techniques through practical applications.
+
+Dr. Mall’s research interests lie in several key areas: electric vehicle adoption, charging infrastructure planning, data analytics, transportation systems, sustainability, and decision sciences. She has actively participated in multidisciplinary research and has presented her findings at over 10 international conferences, along with publishing in high-impact SCI journals. Her commitment to education is evident in her teaching philosophy, which emphasizes an engaging learning environment that integrates theoretical knowledge with practical applications through pre-class assignments, quizzes, and real-world problem-solving.
+
+Dr. Mall has received recognition for her research contributions, including publications and accolades at international conferences, and her work has been supported by prestigious DST funding. Her contact details are as follows:
+
+**Dr. Shaurya Mall**  
+**School of Business**  
+**Email:** shaurya.mall@ddn.upes.ac.in  
+
+In summary, Dr. Mall is dedicated to advancing knowledge in sustainable transportation and data analytics, making significant contributions to both academia and industry while fostering an enriching educational experience for her students.

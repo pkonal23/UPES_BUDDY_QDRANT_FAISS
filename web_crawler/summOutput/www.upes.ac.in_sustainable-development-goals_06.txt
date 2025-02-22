@@ -1,0 +1,19 @@
+The Sustainable Development Goal (SDG) 6 emphasizes the importance of ensuring access to clean water and sanitation for all by 2030. It addresses critical issues such as water scarcity, improving water quality, and promoting hygiene, which are essential for better health, environmental sustainability, and overall global well-being.
+
+**Key Goals Under SDG 6:**
+1. **Protect and Restore Water-Related Ecosystems:** This includes mountains, forests, wetlands, rivers, aquifers, and lakes.
+2. **Address Water Scarcity:** Focus on vulnerable regions, particularly those affected by conflict and drought.
+3. **Improve Water Quality:** Reduce pollution and minimize the release of hazardous materials while restoring ecosystems.
+4. **Integrated Water Resources Management:** Implement strategies at all levels to ensure sustainable water use.
+5. **Universal Access to Safe Drinking Water:** Ensure that all individuals have equitable access to safe and affordable drinking water.
+6. **Sanitation and Hygiene:** Ensure adequate sanitation for all and eliminate open defecation.
+
+**Major Activities and Policies Implemented by UPES (University of Petroleum and Energy Studies):**
+- UPES has established a first-of-its-kind facility in India that includes a laboratory, pond, Continuous Stirred Tank Reactor (CSTR), and a Hydrothermal Liquefaction Reactor. This initiative is a collaborative effort with Vikalp Nai Dishayen.
+- Dr. Bhawna Lamba has spearheaded a project inspired by the Swachh Bharat campaign, utilizing her expertise in Polymer Technology. The project is currently at Technology Readiness Level 7 and is supported by a ₹73 lakh budget, employing microalgae for sewage treatment, resulting in zero waste.
+- The university has recycled 250 Kilo Liters (KL) of water in its horticulture section, with a recycling capacity of 550 KLPD. Rainwater harvesting systems are equipped with water flow meters, allowing for efficient groundwater replenishment and achieving 89% water savings.
+- UPES actively engages local communities in managing water resources and ensures their participation in decision-making processes related to water and sanitation.
+
+**Project Swachhata:** This initiative aims to contribute to the 'Clean India' mission by promoting sustained cleaning efforts in the surrounding community areas.
+
+In summary, UPES is making significant strides in addressing the challenges outlined in SDG 6 through innovative projects, community engagement, and sustainable practices, ultimately contributing to the goal of clean water and sanitation for all.

@@ -1,0 +1,28 @@
+Prof. Alok Jhaldiyal is a dedicated academician and researcher affiliated with the School of Computer Science. His research primarily focuses on enhancing the processing of LiDAR data, which is crucial for the navigation of autonomous vehicles. His areas of expertise encompass Remote Sensing, Geographical Information Systems (GIS), GeoAI, 3D Data Processing, Image Processing, and Machine Learning.
+
+**Research Interests:**
+- Remote Sensing & GIS
+- GeoAI
+- 3D Data Processing
+- Image Processing
+- Machine Learning
+
+**Teaching Philosophy:**
+Prof. Alok believes in equipping students with a comprehensive understanding that spans from fundamental concepts to the latest advancements in their fields. He emphasizes practical learning through engaging demonstrations, real-time class activities, case studies, assessments, and projects, which serve as benchmarks for student evaluation.
+
+**Work Experience:**
+Before his current role at the University of Petroleum and Energy Studies (UPES), Prof. Alok was a Research Associate at the Indian Institute of Technology, Mumbai (IITB), specifically at the Center of Excellence in Climate Studies. His career also includes roles as a Network Associate Engineer at Buzzworks Business Pvt. Ltd. and as a Technical Support professional at Amadeus India Pvt. Ltd.
+
+**Courses Taught:**
+Prof. Alok teaches a variety of graduate courses in core computer science subjects and specialization courses in cyber security and data analytics. His teaching portfolio includes:
+- Operating Systems
+- Data Communication & Computer Networks
+- Python Programming
+- Mobile Communication
+- IT Data & Application Security
+- Big Data Analytics
+
+**Contact Information:**
+For inquiries, Prof. Alok can be reached at his email: ajhaldiyal@ddn.upes.ac.in.
+
+Overall, Prof. Alok Jhaldiyal exemplifies a blend of academic rigor and practical application in his teaching and research, fostering a rich learning environment for his students.

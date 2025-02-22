@@ -1,0 +1,11 @@
+Dr. Sambhavi Shukla is an accomplished academic with a rich teaching background and a strong focus on research in the fields of the Internet of Things (IoT) and artificial intelligence integration. She has three years of teaching experience at BITS Pilani and has also briefly served as an assistant professor at IILM University in Greater Noida following the completion of her Ph.D. in 2023. 
+
+Dr. Shukla’s educational qualifications include an MTech from J.C. Bose Institute of Engineering and Technology (YMCA), Faridabad, and a Ph.D. in Computational Electromagnetics from BITS Pilani. She has successfully qualified for both the UGC-NET in 2018 and GATE in 2017.
+
+Her teaching experience spans various subjects in Electronics and Communication Engineering (ECE) and Computer Science Engineering (CSE), including courses such as Fundamentals of Python Programming, Digital Electronics, Microprocessor, and Computer Organization and Architecture. Dr. Shukla emphasizes practical application in her teaching philosophy, integrating real-world problems into her curriculum to enhance student engagement and skill development.
+
+In terms of research, Dr. Shukla has made significant contributions, including conference presentations and a book chapter focused on smart cities. She has published ten SCIE-indexed journal articles and presented her research at 15 international conferences. Notably, she has received several awards for her work, including the Best Paper Award in 2023 for her research on 2D nanomaterials in optical communication and two Best Paper Awards in 2022 related to highly sensitive surface plasmon-based sensors. Additionally, her work has been recognized with the Best Researcher award from the World Research Council and ISSN awards for her contributions to aluminum MoS2-based plasmonic devices.
+
+Dr. Shukla’s current research interests include photonics and biosensors, reflecting her commitment to advancing the integration of computer science with real-time applications and customized IoT solutions.
+
+For further inquiries or contact, Dr. Sambhavi Shukla can be reached at her email: sambhavi.shukla@ddn.upes.ac.in.

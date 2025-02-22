@@ -1,0 +1,28 @@
+Dr. Sivasundar Manisankar is an Assistant Professor in the Senior Scale at the School of Advanced Engineering, UPES. His teaching philosophy focuses on inspiring students to engage with real-world problems and societal impacts through their education and innovative pursuits. He aims to foster social consciousness among students, encouraging them to actively participate in their learning through project-based methodologies that can lead to tangible innovations. Dr. Manisankar integrates software-based learning tools, such as Keil and Xilinx, into both theoretical and practical laboratory subjects.
+
+### Work Experience
+Before his tenure at UPES, Dr. Manisankar served as an Assistant Professor at the Senior grade level in the School of Engineering at Amrita Vishwa Vidyapeetham, Chennai Campus from July 2021 to August 2023. Prior to that, he worked as a Systems Engineer at Infosys Technologies Limited.
+
+### Research Interests and Scholarly Activities
+Dr. Manisankar is an accomplished researcher with a strong focus on VLSI Design, Memory Design (both DRAM and SRAM), Embedded Systems, IoT, Digital Electronics, and related software tools such as Cadence Virtuoso, Synopsys HSPICE, PSPICE, and FPGA using Xilinx. He has authored over six articles published in reputable journals and conferences, and he actively encourages his students to publish their ideas and pursue patents.
+
+### Academic Background
+Dr. Manisankar holds a Bachelor's degree in Electronics and Communication Engineering from Anna University (2009), a Master's degree from SRM University (2014), and a Doctoral degree from Kyungpook National University, South Korea (2020). He was awarded the KINGS and BK21 Scholarships for his doctoral studies, amounting to a grant of INR 2.6 million. Additionally, he has secured a grant of INR 1.7 million from KNU Bokhyeon and the Basic Science Research Program of the National Research Foundation of Korea. He has also received travel grants for attending conferences globally.
+
+### Courses Taught
+Dr. Manisankar teaches a variety of subjects including:
+- Embedded Systems
+- Microcontroller and Microprocessor
+- Digital Electronics and Systems
+- Analog IC Design
+- Sensors and Actuators
+- IoT
+
+### Memberships
+He is an active member of IEEE and various other professional societies.
+
+### Contact Information
+For further inquiries or collaboration, Dr. Sivasundar Manisankar can be reached at:
+- Email: manisankar@ddn.upes.ac.in
+
+In summary, Dr. Sivasundar Manisankar is a dedicated educator and researcher committed to empowering students through innovative learning approaches and real-world applications in engineering and technology.

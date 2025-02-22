@@ -1,0 +1,64 @@
+﻿WHO'S - WHO:
+ 
+ 
+ 
+ 
+User: "Who is Manish Madan" / "Manish" / "Madan" / "registrar" / "who is registrar"
+Bot: The Registrar of UPES is Manish Madan.
+ 
+ 
+User: "Who is Sharad Mehra" / "Sharad" / "Mehra" / "gus ceo" / "who is ceo of gus"
+Bot: Sharad Mehra is the CEO, Asia Pacific - Global University System.
+ 
+ 
+User: "Who is the Chancellor of UPES?" / "Tell me about the Chancellor of UPES." / "Who leads UPES as the Chancellor?" / "Give me information about the Chancellor of UPES." / "chancellor" / "chancellor upes" / "upes chancellor" / "Who is Sunil Rai" / "Who is Dr. Sunil Rai" / "Sunil" / "Rai" / "Dr. Sunil" / "Dr. Rai" / "Dr. Sunil Rai"
+Bot: The Chancellor of UPES is Dr. Sunil Rai.
+ 
+User: "Who is the Vice Chancellor of UPES?" / "Tell me about the Vice Chancellor of UPES." / "Who leads UPES as the Vice Chancellor?" / "Give me information about the Vice Chancellor of UPES."
+Bot: The Vice Chancellor of UPES is Dr. Ram K Sharma.\ \nHe is an accomplished higher education leader who joined UPES as the Dean of Academics in February 2020 and became the Pro Vice-Chancellor in February 2022.
+ 
+ 
+User: "Who is the Dean of the School of Computer Science at UPES?" / "Tell me about the Dean of School of Computer Science at UPES." / "Who leads the School of Computer Science as the Dean?" / "Give me information about the Dean of School of Computer Science at UPES."
+Bot: The Dean of the School of Computer Science at UPES is Dr. Ravi Shankar Iyer.\ \nHe brings over 30 years of global experience in transforming ideas into viable and scalable products and businesses.
+ 
+ 
+User: "Who is the Dean of the School of Modern Media at UPES?" / "Tell me about the Dean of School of Modern Media at UPES." / "Who leads the School of Modern Media as the Dean?" / "Give me information about the Dean of School of Modern Media at UPES."
+Bot: The Dean of the School of Modern Media at UPES is Dr. Nalin Mehta.\ \nHe is an award-winning social scientist, journalist, and author with senior leadership positions in major Indian digital, print, and TV news companies.
+ 
+ 
+User: "Who is the Dean of the School of Health Sciences and Technology at UPES?" / "Tell me about the Dean of School of Health Sciences and Technology at UPES." / "Who leads the School of Health Sciences and Technology as the Dean?" / "Give me information about the Dean of School of Health Sciences and Technology at UPES."
+Bot: The Dean of the School of Health Sciences and Technology at UPES is Dr. Padma Venkat.\ \nShe comes with 31+ years of experience in the areas of Microbiology, Biochemistry, Phytochemistry, Ayurveda, and Public Health.
+ 
+ 
+User: "Who is the Dean of the School of Design at UPES?" / "Tell me about the Dean of School of Design at UPES." / "Who leads the School of Design as the Dean?" / "Give me information about the Dean of School of Design at UPES."
+Bot: The Dean of the School of Design at UPES is Prof. Phani Tetali.\ \nHe is an animator, educator, and cartoonist with more than 30 years of experience.
+ 
+ 
+User: "Who is the Director of the School of Business at UPES?" / "Tell me about the Director of School of Business at UPES." / "Who leads the School of Business as the Director?" / "Give me information about the Director of School of Business at UPES."
+Bot: The Director of the School of Business at UPES is Prof. Rahul Nainwal.
+ 
+ 
+User: "Who is the Dean of the School of Liberal Studies at UPES?" / "Tell me about the Dean of School of Liberal Studies at UPES." / "Who leads the School of Liberal Studies as the Dean?" / "Give me information about the Dean of School of Liberal Studies at UPES."
+Bot: The Dean of the School of Liberal Studies at UPES is Shubhashis Gangopadhyay.
+ 
+ 
+User: "Who is the Associate Dean of the School of Law?" / "Can you tell me the name of the Associate Dean at the School of Law?" / "Who currently holds the position of Associate Dean at the School of Law?" / "I'd like to know the Associate Dean's name for the School of Law."
+Bot: The associate dean of the School of Law is Abhishek Sinha.\ \nHe is a dual qualified (England & Wales and India) corporate lawyer with a post-
+ 
+User: dean UPES / UPES dean / who is dean of UPES / name of all deans / name of dean / show me who are dean / tell me dean name / Who is the dean of UPES / dean 
+ 
+Bot: The Deans of Various Schools in UPES are:\ \n 
+ 
+Dr Ravi S Iyer - Dean, School of Computer Science\ \n 
+ 
+Dr. Nalin Mehta - Dean, School of Modern Media\ \n 
+ 
+Dr. Padma Venkat - Dean, School of Health Sciences and Technology\ \n 
+ 
+Prof. Phani Tetali - Dean, School of Design\ \n 
+ 
+Rahul Nainwal - Director, School of Business\ \n 
+ 
+Shubhashis Gangopadhyay - Dean, School of Liberal Studies\ \n 
+ 
+Abhishek Sinha - Associate Dean, School of Law

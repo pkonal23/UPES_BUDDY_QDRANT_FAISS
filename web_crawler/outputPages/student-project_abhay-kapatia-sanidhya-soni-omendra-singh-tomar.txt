@@ -1,0 +1,15 @@
+Download the Application:
+Abhay Kapatia, Sanidhya Soni & Omendra Singh Tomar
+Eligibility Criteria
+https://github.com/sanidhya-soni/Minor-Project-2.git
+Abhay Kapatia, Sanidhya Soni & Omendra Singh Tomar, a group of student pursuing the degree of B.Tech. CSE with the specialization in Cloud Computing and Virtualization Technology completed the project of developing a Microservice Based SaaS Application for Unified Communication in Campus.
+Home
+The unified communication features of the application include instant messaging, which enables users to exchange messages in real-time. File sharing and collaborative document editing enable users to work together on documents and projects in real-time, regardless of their location or device.
+To achieve this, the application is built using microservices architecture, which allows for the development, deployment, and scaling of individual services independently. Each service performs a specific function, such as login, signup, main page and more. By separating the application into smaller, independent services, the application can be updated, maintained, and scaled easily and efficiently.
+The microservice-based SaaS application for unified communication in campus offers an efficient and effective way for students, faculty, and staff members to collaborate and communicate, ultimately improving the overall campus experience. By providing a unified communication platform, the application enhances productivity, collaboration, and engagement among users, leading to better outcomes for students and the institution.
+Close
+Student Project
+School of Computer Science
+Microservice Based SaaS Application for Unified Communication in Campus
+The application is designed to be scalable and flexible, allowing it to meet the changing needs of a campus environment. Existing campus systems can be easily integrated with it, such as learning management systems and student information systems, to provide a seamless user experience. This integration ensures that the application fits into the existing workflows and processes of the campus, making it easier for users to adapt and use the platform.
+The project aims to provide a modern and efficient solution for communication and collaboration among students, faculty, and staff members in academic institutions. The microservice-based SaaS application for unified communication in campus is a cutting-edge solution that addresses the communication and collaboration challenges faced by academic institutions. With a growing number of students, faculty, and staff members spread across multiple locations and devices, it is crucial to have a unified communication platform that enables real-time collaboration and information sharing.

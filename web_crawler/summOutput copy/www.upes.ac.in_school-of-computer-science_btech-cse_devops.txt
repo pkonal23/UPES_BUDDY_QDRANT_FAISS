@@ -1,0 +1,37 @@
+The document outlines the B.Tech program in Computer Science & Engineering with a specialization in DevOps offered by the UPES School of Computer Science. This program is designed to prepare students for a career in the rapidly evolving tech industry, focusing on integrating security within software development through a comprehensive curriculum.
+
+### Program Overview:
+- **Degree**: B.Tech in Computer Science & Engineering (DevOps)
+- **Specialization**: DevOps, emphasizing automation, security, and collaboration in software development.
+- **Duration**: 8 semesters, with various labs and projects integrated throughout the course.
+
+### Key Features:
+1. **Curriculum**: The program covers essential computer science concepts such as data structures, algorithms, object-oriented programming, and software engineering. It also includes specialized courses in DevOps practices, including:
+   - Source code control (Git, Bitbucket, SVN)
+   - Continuous Integration/Continuous Deployment (CI/CD) using tools like Jenkins and VSTS
+   - Containerization with Docker and orchestration with Kubernetes
+   - Security integration (DevSecOps)
+
+2. **Industry Collaboration**: The program collaborates with Xebia, providing students with insights from industry experts and ensuring that faculty are trained on the latest tools and technologies in DevOps.
+
+3. **Career Opportunities**: Graduates have access to a wide range of career opportunities, with impressive placement statistics:
+   - Average annual salary (CTC): ₹8.72 LPA
+   - Highest placement: ₹16.63 LPA
+   - Top recruiters include Accenture, Barclays, Cognizant, Oracle, and many others.
+
+4. **Future Scope**: The program is designed to adapt to emerging technologies and trends, including cloud-native environments and AI-driven security measures. It aims to equip students with the skills needed to address vulnerabilities in software development and align with regulatory demands.
+
+### Admission Process:
+- **Eligibility Criteria**: Candidates must have a minimum of 50% marks in Class X and XII, along with 50% in Physics, Chemistry, and Mathematics in Class XII.
+- **Selection Criteria**: Admission is based on performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET.
+
+### Contact Information:
+- **Last Date to Apply**: February 25, 2025
+- **Contact Number**: +91 (specific number not mentioned)
+- **Email**: (specific email not mentioned)
+  
+### Additional Information:
+- The program includes various labs (e.g., Data Structures and Algorithms Lab, Python Programming Lab) and project components (e.g., Capstone Projects) to enhance practical learning.
+- Students are encouraged to embrace cloud platforms such as AWS, Azure, and Google Cloud for application management.
+
+In summary, the B.Tech in Computer Science & Engineering (DevOps) at UPES is a forward-thinking program that combines foundational computer science knowledge with specialized DevOps skills, preparing students for successful careers in a dynamic technological landscape.

@@ -1,0 +1,21 @@
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Close
+School of Computer Science
+Before joining UPES, Dr. Subhranil Das was at the MIT World Peace University as a Assistant Professor position in School of Business.  He also worked for 4 years as a Assistant Professor in the Department of Electrical and Electronics Engineering, Vidya Vihar Institute of technology, Purnea, Bihar from 2011 to 2015, and 2 years of industrial experience at Bharat Consultants as a Electrical System Designer.
+Faculty
+Dr. Subhranil Das has been nominated for Best Researcher Award in the Global Awards on Artificial Intelligence and Robotics,2022. Moreover, he was also Nominated as Best Researcher Award in the International Research Awards on Welding Technology, 2022.
+Courses Taught
+Eligibility Criteria
+Assistant Professor - Senior Scale
+Dr. Subhranil Das has been known for working for the different application areas of Artificial Intellegence. His major contributions are in the field of Robotics and Medical Image Processing. His research delves into various applications of Artificial Intelligence, including optimization techniques, deep learning for autonomous vehicles, and big data analytics. It also explores the use of AI in areas like predictive modeling, natural language processing, reinforcement learning, and computer vision, demonstrating the wide-ranging impact of AI across different domains.
+Artificial Intelligence I Machine Learning I Robotics I Medical Image processing
+Dr. Subhranil Das
+Profile Summary
+As an Assistant Professor, Dr. Subhranil Das believes in fostering a collaborative and engaging learning environment where students are encouraged to think critically and apply theoretical knowledge to practical problems. He emphasizes the importance of hands-on experience, particularly in the fields of robotics and medical image processing, to bridge the gap between classroom learning and real-world applications. Dr. Das strives to inspire curiosity and innovation among his students, guiding them to explore interdisciplinary approaches and develop problem-solving skills. He values continuous learning and aims to empower students to become independent thinkers and future leaders in the field of Artificial Intelligence.
+Contact
+subhranil.das@ddn.upes.ac.in
+Teaching Philosophy
+Dr. Subhranil Das has taught a diverse range of courses, including Artificial Intelligence and Machine Learning, where he introduces students to foundational concepts and advanced techniques in data-driven decision-making. In Digital Image Processing and Computer Graphics, he explores visual computing, enhancing students' understanding of image analysis and visual representation. His Digital Forensics  course covers techniques for investigating and analyzing digital evidence, preparing students for challenges in cybersecurity and forensic analysis. Through these courses, Dr. Das aims to equip students with a robust understanding of both theoretical principles and practical applications in the ever-evolving field of computer science.

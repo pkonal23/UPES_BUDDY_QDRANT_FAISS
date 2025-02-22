@@ -1,0 +1,56 @@
+The B.Tech. program in Computer Science & Engineering with a specialization in Big Data at UPES School of Computer Science offers a comprehensive curriculum designed to equip students with the necessary skills to excel in the rapidly evolving field of big data. The program emphasizes a strong foundation in key technologies, hands-on training, and industry exposure, preparing students to tackle complex real-world challenges and drive innovation across various sectors.
+
+### Program Structure:
+- **Duration:** 8 semesters
+- **Core Courses Include:**
+  - Data Structures and Algorithms
+  - Machine Learning and Deep Learning
+  - Data Communication and Networks
+  - Object-Oriented Programming
+  - Database Management Systems
+  - Statistics and Data Analysis
+  - Programming Languages: Python, Java, Scala, C++, and others.
+  
+- **Labs:** Extensive hands-on experience is provided through dedicated labs such as:
+  - Big Data labs for Hadoop, Spark, and Kafka
+  - Python Programming Lab
+  - Data Visualization and Interpretation Lab
+  - Machine Learning and Deep Learning Lab
+
+### Eligibility Criteria:
+- Minimum 50% marks in Class X and XII.
+- At least 50% in Physics, Chemistry, and Mathematics in Class XII.
+- Admissions are based on performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET.
+
+### Future Scope and Industry Trends:
+The program prepares students for emerging trends in technology, including:
+- Automation via AI algorithms for data processing and decision-making.
+- Real-time data processing and analysis.
+- The rise of IoT devices and edge computing.
+- Hybrid and multi-cloud strategies for data storage.
+- DataOps methodologies for enhanced collaboration.
+- The growing importance of ethical data governance and privacy-preserving technologies.
+
+### Career Opportunities:
+Graduates can pursue various roles, including:
+- Data Engineer
+- Data Analyst
+- Machine Learning Engineer
+- Software Developer
+- Cybersecurity Expert
+- Data Scientist
+- UX/UI Designer
+- Entrepreneur
+
+The program boasts strong industry ties with companies like IBM, Xebia, and AWS Academy, providing students with opportunities for internships, real-world projects, and participation in hackathons and coding competitions. The average annual package for graduates is around 8.70 LPA, with the highest package reaching 26.41 LPA.
+
+### Additional Features:
+- Interaction with industry experts through webinars and sessions.
+- Access to advanced computer labs and a well-equipped library.
+- Opportunities for scholarships based on academic performance.
+- Financial assistance and loan schemes for deserving candidates.
+
+### Contact Information:
+For further details regarding the program, fee structure, or admission process, interested candidates can reach out via email or phone. The last date to apply for this program is February 25, 2025.
+
+This program at UPES School of Computer Science is structured to produce highly skilled professionals ready to make significant contributions in the big data landscape.

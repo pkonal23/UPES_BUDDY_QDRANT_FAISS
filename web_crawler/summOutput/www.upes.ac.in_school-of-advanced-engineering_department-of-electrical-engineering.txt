@@ -1,0 +1,57 @@
+**Department Overview: Electrical and Electronics Engineering**
+
+The Department of Electrical and Electronics Engineering, established in 2008, offers a comprehensive curriculum that blends traditional engineering principles with modern technological advancements. It provides two undergraduate programs: B.Tech in Electronics & Computer Engineering and B.Tech in Electrical Engineering, along with a postgraduate program: M.Tech in Robotics Engineering. Additionally, the department offers Ph.D. programs in Electrical Engineering and Electronics Engineering.
+
+**Curriculum and Specializations**
+
+The curriculum emphasizes hands-on, project-based learning, integrating specialized courses in areas such as Artificial Intelligence (AI), Machine Learning (ML), Embedded Systems, Internet of Things (IoT), Robotics, and Drives. Students are encouraged to select specializations that align with industry demands, including:
+
+- AI and ML Applications
+- Wearable Devices
+- Microelectronics
+- 5G & 6G Technology
+- Industrial Drives
+
+Minors offered cover diverse fields like Blockchain, Data Science, Bio-mimetics, Sustainability Engineering, Climate Change, Disaster Management, Astronomy & Astrophysics, and Economics.
+
+**Mission and Vision**
+
+The department aims to cultivate ethical engineers who prioritize social and environmental considerations in their professional practices. It strives to develop highly competent professionals who contribute to national development and global challenges, fostering a culture of continuous improvement in academic and allied areas.
+
+**Facilities and Equipment**
+
+The department is equipped with advanced laboratories and tools, including:
+
+- **Texas Instruments (TI) Innovation Lab**
+- **VLSI Lab:** Xilinx Zynq®-7000 SoC, FPGA Boards, Spectrum Analyzers, and Microwave Test Benches.
+- **Robotics Lab:** Various Robotics Systems and Development Kits.
+- **Advanced Communication Lab**
+- **DST-FIST Funded Lab**
+- **Battery Testing Unit**
+
+Software tools utilized include MATLAB, TINA, Python, LabView, Proteus, Xilinx Vivado, Modelsim, and ANSYS HFSS.
+
+**Faculty**
+
+The department is staffed by qualified faculty members, including:
+
+- Dr. Monika Yadav, Associate Professor
+- Dr. Abhinav Sharma, Assistant Professor (SG)
+- Dr. Devender Kumar Saini, Senior Associate Professor
+- Dr. Adesh Kumar, Assistant Professor
+- Dr. Harshit Mohan, Assistant Professor
+
+**Program Outcomes**
+
+Graduates are expected to:
+
+- Apply engineering knowledge to solve complex problems.
+- Function effectively in diverse teams and multidisciplinary settings.
+- Communicate complex engineering activities effectively.
+- Engage in lifelong learning and recognize the need for sustainable development.
+
+**Contact Information**
+
+For more details or to apply, prospective students can reach out through the department's official channels, although specific contact details are not provided in the text. 
+
+Overall, the Department of Electrical and Electronics Engineering is dedicated to producing responsible and innovative engineers equipped to meet the challenges of contemporary industry and society.

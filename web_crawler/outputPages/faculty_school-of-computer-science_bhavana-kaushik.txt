@@ -1,0 +1,31 @@
+Data Science and Machine Learning
+Research Interests
+Home
+Work Experience
+Awards and Grants
+IT Infrastructure Management Frameworks
+C and C++
+Distributed Computing
+Close
+School of Computer Science
+Data Structures and Algorithm
+Faculty
+Bhavana Kaushik is a highly accomplished individual, qualifying in NET, GATE 2013, GATE 2014, and GATE 2015. She earned a Silver Medal for outstanding academic performance in their M.Tech program and was an academic topper in B.Tech. Additionally, Bhavana served as the Chairperson of the IEEE WIE GLA Affinity Student Group, demonstrating their leadership skills and commitment to promoting women's participation in engineering. Also, she is a council member of WICCI Uttarakhand IPR council.
+Introduction to IoT
+Bhavana Kaushik has an industry background as Systems Engineer in Infosys Ltd. and is skilled in corporate-level training for working on Python programming and mainframes. She completed B.Tech. (Hons) in 2013 as an academic topper and M.Tech. as a Silver Medallist in 2015 in the field of Computer Science. She is pursuing her PhD in the field of Image Processing and Computer Vision from UPES. Her research area also includes Biomedical Image Processing, Sustainable Business Models and Sustainable Computing. Apart from research, she has worked on various real-time projects, which include government projects as well, and she is also an IRCA-certified Information Security Management System Lead Auditor (ISO 27001:2013).
+Bhavana Kaushik
+Scholarly Activities
+Courses Taught
+Eligibility Criteria
+Database Management Systems with SQL &PL/SQL
+Software Engineering and Project Management
+Bhavana Kaushik has made significant contributions to research, with publications ranging from journal articles to book chapters. In their research on computer vision and image processing, they explored context-based tracking for similar and deformable objects and investigated solar flare classification methods. Additionally, Bhavana published an article on surveillance of suspicious activities near the Indian Line of Actual Control (LAC) using remote sensing techniques. Her work extends beyond the realm of computer science. Bhavana co-authored an article on a computational intelligence-based method for automated identification of COVID-19 and pneumonia from chest X-ray scans. In terms of book chapters, Bhavana contributed to publications on forensics in medical imaging and challenges in artificial intelligence with human-computer interaction. Her research has been presented at international conferences, including a paper on classifying erythemato-squamous diseases of the skin using conventional machine learning methods. Furthermore, Bhavana has obtained five design patents in India, highlighting their innovative contributions.
+Bhavana Kaushik's teaching philosophy is firmly rooted in the belief that it is the educator’s responsibility to create a supportive and encouraging learning environment for students. By integrating group activity in the classroom and utilizing authentic problems, Bhavana aims to create an interactive learning environment that empowers students. To promote active engagement and preparation, Bhavana assigns materials to students before class. These materials may include assigned textbook sections or other relevant resources. Also, to assess and motivate the students, she keeps the leaderboards score with her.
+Python Programming
+Profile Summary
+Assistant Professor
+bkaushik@ddn.upes.ac.in
+Contact
+Prior to her role as an Assistant Professor, Bhavana worked as a Systems Engineer at Infosys Limited in Pune, Maharashtra, from 2016 to 2017. During this time, she received corporate-level training in Python and Mainframe Technology. She was responsible for maintaining an existing Mainframe Application and performing IDMS to RDBMS conversion for Infosys as a client.
+Computer Vision I Image Processing I Bio-Medical Image Processing I Data Analysis I Machine Learning I Artificial Intelligence.
+Teaching Philosophy

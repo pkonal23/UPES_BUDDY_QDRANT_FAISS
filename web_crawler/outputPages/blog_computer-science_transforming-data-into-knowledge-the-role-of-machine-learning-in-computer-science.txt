@@ -1,0 +1,109 @@
+Choosing between a B.Sc. Honours degree and a B.Sc. degree is a critical decision for students passionate about science and technology.
+19/02/2025
+20/09/2024
+Top 10 data science careers that are shaping the future
+Transforming Data into Knowledge: The Role of Machine Learning in Computer Science
+We can even deploy drastically different methods like Visibility graph (VG) where different aspects of time series data can be used to automatically label healthy and diseased ECGs. Both EMD and VG can even give rise to a hybrid scheme if performance is boosted! A major future direction is to study the interspersed nature of healthy and unhealthy ECG vectors in clustering space to provide guidelines for disease tagging when it is too close to call, or it is obfuscating. Further indecision points can arise where EMD from both healthy and unhealthy ECGs is equal up to the second place of decimal. This ECG is equidistant from the healthy and unhealthy world in equal magnitude. Such problems arise because of the limited size and diversity of datasets and there is a natural need for larger and more heterogeneous datasets of ECGs apart from other modalities like Cardiac Auscultation and bio-markers.
+Students and faculty from UPES were among the finalists at Toycathon 2021. UPES was one of the 7 teams selected by AICTE to present their unique gaming idea to Prime Minister Narendra Modi.
++91
+12/09/2024
+09/09/2024
+First Name
+Finally, one of the major questions with which the Indian clinical community has been struggling is which ECG or any other clinical digital trace e.g. cervigram, mammogram, etc. should be tagged “Healthy” when there is so much variation in what clinicians mean by a “Healthy” ECG. This work successfully picks a representative “Healthy” ECG from an ensemble of “Healthy” ECGs using Earth Mover’s Distance (EMD) based on the premise that this representative “Healthy” ECG should demonstrate maximum similarity to all other “Healthy” ECGs in a given ensemble. It is interesting to note that a serious issue of the medical community finally gets resolved in the world of computational similarity and machine learning.
+If you are tech savy and want to have a deeper understanding of tech world the BCA is just the degree for you.
+Enhancing decision-making: Machine Learning applications in engineering
+Parminder Singh Sethi stands out as a software engineer of exceptional calibre. With over 78 patents granted by the US Patent and Trademark Office (USPTO).
+Unlock Your Coding Potential with B. Tech. CSE
+21/11/2024
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” ― Martin Fowler.
+Dr. Priya Ranjan
+Course Type
+From UPES Alumnus to Innovation Leader: Parminder Singh Sethi’s Inspiring Journey with 78+ Granted Patents from the USPTO
+Artificial intelligence (AI) and machine learning (ML) are two of the most exciting and innovative fields of computer science.
+Cybersecurity in the Digital Age
+Please enter email address
+8 trends that will shape the future of human resource management
+In the rapidly evolving landscape of Computer Science and Engineering (CSE), the integration of machine learning has emerged as a game-changer.
+Choosing the Right Path Post B.Tech: Deciding Between M.Tech. and MBA
+12/08/2024
+01/10/2024
+*
+25/07/2024
+This work shows that using basic geometric ideas like Euclidean distance or similarity detection metrics like Earth Mover’s Distance used frequently in face detection problems can provide up to eighty percent accuracy in healthy ECG tagging. This can help the PHCs to make sense of ECGs using this work and further provide referral advice to patients. Integration of visual imaging-based tools with biomarkers like Troponin isoforms, CKMB, and BNP may enhance the capability to automatically categorise ECGs correctly but also may add to the instrumentation and costs.  Future software will be expected to classify given ECG in these five categories with some confidence using similarity-based algorithms like EMD has many different implementations based on what kind of distancing we pick, i.e. “Manhattan” distancing is likely to give a different result from the emdL1 scheme.
+From being students at UPES School of Computer Science to becoming successful tech entrepreneurs, Divyani Singh and Anshul Saxena have achieved an incredible milestone.
+Top Benefits of Studying BCA
+20/12/2024
+UPES alumni secure ₹4 crore seed funding for revolutionary tech start-up
+Trending Post
+Please enter first name
+Mobile Number
+With an investment of ₹ 50 crore, the university aims to foster cutting-edge research, revolutionise industries, and empower the next generation of AI pioneers.
+Submit
+Select Course
+of UPES.
+Confused between B.Sc. & B.Sc. Honours? Discover differences in scope, curriculum, career opportunities, & which degree to choose!
+Subscribe
+14/09/2024
+Boost Your Career with an M.Tech. in Computer Science
+Leveraging Machine Learning for Intelligent Decision-Making in Computer Science and Engineering
+By
+the
+One technology that has evolved continuously and found widespread application and acceptance in every conceivable part of life is Machine Learning (ML).
+Please Select Course Type
+Artificial Intelligence and Machine Learning as Premier Career Paths in the 21st Century!
+Unlocking the Potential: Machine Learning’s Impact on Computer Science and Engineering
+Difference Between B.Sc. Computer Science vs. BCA Course
+A subscriber email already exists.
+We anticipate that integration of this robust automated classifier along with minimally invasive detection of molecular biomarkers such as N-terminal prohormone of brain natriuretic peptide (NTpro-BNP), Creatinine Phospho Kinase Muscle- Brain (CPKM/B), and Troponin isoforms will form the rationale for development of effective and precision oriented triage system for achieving not only high screening rates for Myocardial Infarction (MI) but also accurately triaging or prioritising the most urgent conditions. Biomarkers are emerging as a new technique to find precursors of many diseases including Epilepsy.
+B.Sc. Honours Degree vs. B.Sc. Degree: What's the Difference?
+UPES fuels groundbreaking research; earmarks ₹50 crore for AI Center of Excellence
+10 CSE Final Year Projects to Elevate Your Engineering Profile!
+13/08/2024
+The world of technology is rapidly evolving, and the demand for skilled computer science engineers is higher than ever.
+The image processing industry has been growing at a steady pace, with rising demand from industries such as healthcare, military, agriculture, and the environment, among others. As an image processing engineer, your options are limitless
+An exploration of the geometric study of computational disease tagging of ECGs has been presented to highlight the steps involved in transforming data into knowledge. Using computational perceptual similarity metrics like Earth Mover’s Distance (EMD), an automated clustering of healthy and unhealthy ECGs is demonstrated. This work illustrates that not only one can generate useful knowledge from seemingly innocent ECG data, but also use this knowledge to save lives in areas where cardiologists have not reached. When coupled with web-service-like interfaces, it can provide solutions to multiple cardiovascular diseases (CVD) in Low and Middle Income Countries (LMICs) like India. We suggest further ways to augment and enhance this automated classification scheme using bio-markers like Troponin isoforms, CKMB, and BNP using computational data fusion algorithms. Future directions include the study of larger datasets of ECGs from diverse populations collected from a heterogeneous mix of patients with different CVD conditions. Further, we advocate the robustness and stability of this programmatic approach as compared to deep learning kind of disease tagging schemes which are amenable to dynamic instabilities. Such instabilities are not acceptable in automated clinical digital trace processing systems.
+As a Computer Science Engineering (CSE) student, your final year project is not just a mandatory academic requirement—it's a golden opportunity to showcase your skills, creativity, and readiness for the tech industry.
+26/07/2024
+The electrocardiogram (ECG) is a fundamental tool in the everyday practice of clinical medicine, with more than 300 million ECGs obtained annually worldwide. The ECG is pivotal for diagnosing a wide spectrum of cardiovascular abnormalities ranging from Arrhythmias to Myocardial infarction (MI). The hospital-based registries have neither been able to provide accurate estimates of the cardiovascular disease (CVD) burden nor identify the disease drivers for the CVD epidemic despite it being the largest cause of mortality.  This necessitates the need to develop novel bottom-up strategies to map out the burden of CVDs at the community level as well. Such a strategy would not only help us to elucidate the niche-specific disease drivers but also augment the hospital-based registries in visualising the realistic burden of CVDs across the Indian sub-continent.
+In today's rapidly evolving job market, having a strong educational foundation is more important than ever.
+Unravel the world of BCA Specialisations
+Although a large number of drugs have been designed for treating patients afflicted with CVDs across the Indian subcontinent, the absence of a systematic database taking into account the vast genetic base of the Indian populace has been perhaps the Achilles heel in developing policies or programs aimed for better management of CVDs. Development of novel Artificial Intelligence (AI) enabled Electrocardiogram (ECG) interpretation has become increasingly important in the clinical ECG workflow since its inception over 50 years ago, serving as a crucial adjunct to physician interpretation not only in resource limited clinical settings prevalent across the Indian sub-continent but also elsewhere across the world. The availability of affordable, accessible, and scalable computational platforms with capabilities to process large-scale raw data will not only improve expert human ECG interpretation by accurately triaging or prioritising the most urgent conditions but also importantly reduce the rates of misdiagnosed ECG interpretations. To this end, we are proposing a novel R-based open source software with the inherent capability to classify different kinds of automated geometric visualisations of ECGs along with its categorisation based upon similarity indices as measured by Earth Mover’s Distance (EMD).
+Please enter mobile number
+B.Tech vs. B.Sc in Computer Science: Which Is Better for Your Tech Career?
+Cardiovascular diseases (CVD) result in 17.9 million (31%) deaths each year worldwide. More than 75% of CVD deaths occur in Low and Middle Income Countries (LMICs). India has seen a significant rise in CVD-associated mortality rates with an epidemiological transition to non-communicable diseases. This pattern is uniform throughout the country despite wide variation in risk factors and socioeconomic status. India faces a great challenge in providing quality healthcare, especially in rural domains due to a lack of resources and trained healthcare providers.  The lack of resources for triaging or stratification of patients based on the severity of their condition leads to prolonged waiting periods for treatment, further worsening the prognosis of the patients. Moreover, the scarcity of specialised cardiologists significantly impacts the clinical prognosis of the patients intensifying the cardiovascular disease burden.
+06/08/2024
+-- None --
+According to recent studies, cybercrime is expected to cost the world $10.5 trillion annually by 2025.
+Employee preferences, shifts in the role and importance of unions in the business world, work-life balance of the employees, the tools they use, and organisational processes, will change and thus affect human resource management
+--None--
+PM Modi congratulates Team UPES for board game Aarogya, calls it a ‘union of ancient knowledge and modern innovation’
+Top 7 Programming Languages to Learn in 2024 for Computer Science Students
+UPES Editorial Team
+06/09/2024
+UPES was an associate sponsor of the Pune Design Festival, 2022. One of the workshops at the festival ‘Into the Metaverse – AR/VR’ was presented by UPES faculty Dr. Anmol Srivastava and Pankaj Badoni, who gave engaging insights about the early stages of Metaverse.
+To preserve natural resources for future generations and to minimise their negative effects on the environment, conservation refers to the ethical management and sustainable use of these resources.
+In recent years, the field of AI has shown impressive progress and innovation, affecting our everyday lives in unprecedented ways.
+Decision-making is a ubiquitous and indispensable aspect of responsible human life.  Decisions must be made at individual and at institutional levels.
+UPES professors give insights on Metaverse at Pune Design Festival
+Please enter last name
+Choosing the right degree is one of the most critical decisions you'll make when planning your tech career. In the field of computer science, two of the most popular undergraduate courses are the Bachelor of Technology (B.Tech) and the Bachelor of Science (B.Sc) in Computer Science.
+Thank you for subscribing to UPES blogs.
+Join our community for exclusive stories, insights, and updates
+Email Address
+How can conservation be improved by computation?
+11/09/2024
+With the exponential rise in generation of data, almost every organisation today needs skilled data scientists who can analyse and interpret the data in a way that helps the organisations prediction future scenarios
+Congratulations, B.Tech. trailblazers! As you stand at the crossroads post-B.Tech., the decision between M.Tech. and MBA looms large.
+4 industries that are actively hiring image processing specialists
+Please select Course
+23/08/2024
+UPES Admission Enquiry
+The writer is Dr. Priya Ranjan, Professor, UPES School of Computer Science
+Choosing a career path is a significant decision that shapes your future. One of the popular choices among students today is pursuing a Bachelor of Computer Applications (BCA).
+Related Articles
+Subscribe to UPES Blogs
+By clicking the "Subscribe" button, I agree and accept
+Generative AI Versus Machine Learning
+privacy policy
+Published 22/09/2023
+Last Name

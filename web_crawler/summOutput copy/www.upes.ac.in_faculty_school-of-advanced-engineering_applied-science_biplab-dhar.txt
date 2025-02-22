@@ -1,0 +1,11 @@
+Dr. Biplab Dhar is an emerging researcher and educator specializing in Mathematics, particularly in Computational Oncology and Mathematical Epidemiology. He conducts numerical simulations using Wolfram Mathematica, focusing on mathematical models related to tumors/cancer and infectious diseases. His research aims to address real-life biological issues through mathematical equations and innovative techniques, contributing to bridging existing research gaps. Key concepts in his research include Digital Twins, Fuzzy Logic, Memory Effect, Jeff Phenomena, and Tumor Tolerance.
+
+Dr. Dhar completed his doctorate at the National Institute of Technology Silchar, India, with a thesis titled “Mathematical Study and Simulation on Tumor-Immune System with Targeted Chemotherapeutic Drug.” He also holds a Higher Diploma in Software Engineering from the National Institute of Information Technology, Silchar, and has qualified the Graduate Aptitude Test in Engineering-Mathematics.
+
+His accolades include the Best Paper Award at the 13th International Conference on Computing, Engineering and Information Technology in Bangkok, Thailand, and at the 1st International Conference on Innovation in Modern Science and Technology in Siliguri, India. Dr. Dhar is also a lifetime executive member of the Assam Academy of Mathematics, Cachar Branch, Silchar, and participated in the Annual Foundation School-II at Bhaskaracharya Pratishthana, Pune.
+
+In his teaching philosophy, Dr. Dhar emphasizes inspiring curiosity, nurturing critical thinking, and fostering a love for learning. He believes in a collaborative educational journey where both students and teachers learn from each other, aiming to create a supportive environment that values each student's unique perspective. His goal is to empower students to become thoughtful, compassionate, and informed individuals.
+
+Dr. Dhar's teaching experience includes roles as an Assistant Professor at the University of Science and Technology Meghalaya and DIT University, Dehradun, India, where he also coordinated a Value Added Course in LaTeX. He has nearly three years of work experience, including his current position at UPES, Dehradun, India, where he is part of the School of Advanced Engineering in the Applied Science department.
+
+For further inquiries, Dr. Biplab Dhar can be contacted at biplab.dhar@ddn.upes.ac.in.

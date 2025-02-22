@@ -1,0 +1,48 @@
+**Program Overview**
+
+The Bachelor of Technology in Computer Science & Engineering (Full Stack AI) program at the University of Petroleum and Energy Studies (UPES) School of Computer Science, established in conjunction with Xebia since 2022, is a comprehensive four-year program that educates individuals in the realm of Full Stack AI. The program is designed to foster versatile professionals with a holistic skill set encompassing both front-end and back-end development, while concurrently instilling a profound grasp of artificial intelligence (AI) technologies.
+
+**Program Details**
+
+**Course Content:**
+
+The program's curriculum includes a diverse range of subjects. It commences with foundational courses in computer science and programming, serving as a gateway to advanced modules that delve into web development and AI fundamentals. As the program progresses, students explore specialized topics such as natural language processing, deep learning, and cloud computing, equipping them with the skills necessary to create sophisticated AI-powered applications.
+
+**Program Highlights:**
+
+* Development with cutting-edge tools such as React, Angular, Python, Java, and Node.js for front-end and back-end proficiency.
+* Mastery of machine learning frameworks through TensorFlow and PyTorch, involving neural networks and deep learning for AI innovation.
+* Hands-on experience with AWS and Azure for deploying and scaling AI-powered applications on robust cloud platforms.
+* Proficiency in Git for efficient version control, ensuring seamless collaboration and code management.
+* Captivating user interface design using front-end skills to create engaging and user-friendly web applications.
+* Comprehensive understanding of Full Stack AI development, utilizing Docker for collaborative and streamlined application deployment.
+
+**Future Scope and Industry Trends:**
+
+The Bachelor of Technology in Computer Science & Engineering (Full Stack AI) program ushers in an era of groundbreaking potential, revolutionizing industries through the synergy of comprehensive development and artificial intelligence. As businesses seek to optimize operations, Full Stack AI professionals will play a pivotal role in crafting end-to-end solutions that seamlessly integrate front-end and back-end development with AI-driven insights. By harnessing AI technologies like machine learning, deep learning, and natural language processing, this approach will birth highly intelligent applications that refine user experiences, facilitate data-driven choices, and elevate digital system efficiency. The burgeoning demand for versatile developers skilled in AI promises abundant career prospects in the Full Stack AI domain, which is poised to shape the future technological landscape.
+
+**Career Opportunities:**
+
+Graduates of the Bachelor of Technology in Computer Science & Engineering (Full Stack AI) program at UPES School of Computer Science possess a unique skill set that blends comprehensive full-stack development proficiency with a deep understanding of artificial intelligence. This combination opens up a spectrum of lucrative career opportunities in the realm of technology and AI-powered advancements. Potential career paths for these graduates include AI Software Engineer, Machine Learning Engineer, Full Stack Developer with AI Integration, AI Product Manager, and Data Scientist. The program's emphasis on both AI and full-stack development equips graduates to excel in diverse roles demanding a profound understanding of cutting-edge technologies and their practical implementation in real-world scenarios.
+
+**Placements:**
+
+The Bachelor of Technology in Computer Science & Engineering (Full Stack AI) program at UPES School of Computer Science provides an exceptional platform for students to excel in the dynamic field of technology. The program's curriculum, which seamlessly intertwines comprehensive knowledge of computer science and artificial intelligence, equips students with the skills to create innovative solutions. UPES's strong industry connections, coupled with its emphasis on practical learning, guarantee that graduates are well-prepared to enter the professional world. Alumni from this program have secured placements in renowned tech companies, startups, and research institutions, demonstrating the program's success in producing competent professionals. With a proven track record of high placements, the Bachelor of Technology in Computer Science & Engineering (Full Stack AI) program at UPES opens doors to promising career opportunities in the ever-evolving sphere of technology.
+
+**Eligibility Criteria:**
+
+Interested students must meet the following eligibility criteria:
+
+* Minimum 50% Marks in Class X and XII.
+* 50% in PCM (Physics/Chemistry and Mathematics) in Class XII.
+
+**Selection Criteria:**
+
+Admission to the Bachelor of Technology in Computer Science & Engineering (Full Stack AI) program is contingent upon an individual's performance in UPESEAT / JEE Mains / Board Merit / SAT / CUET.
+
+**Contact Information:**
+
+For further inquiries, please contact the UPES School of Computer Science:
+
+* Email: scs@upes.ac.in
+* Phone: +915942401024

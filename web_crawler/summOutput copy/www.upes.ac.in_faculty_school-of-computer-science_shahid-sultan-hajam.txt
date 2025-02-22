@@ -1,0 +1,9 @@
+Shahid Sultan Hajam is an accomplished academic with a strong background in research and teaching within the field of computer science. He has published numerous research papers in both national and international journals and conferences, demonstrating his active engagement in scholarly activities. In addition to his research contributions, he has played a significant role in mentoring students, assisting them with their projects, and inspiring them to engage in research endeavors.
+
+His teaching philosophy is centered on student engagement, emphasizing the importance of placing students at the heart of the learning process. Shahid aims to forge meaningful connections between educational content and real-world applications. He is dedicated to fostering an inclusive and stimulating classroom environment that empowers students to explore, question, and collaborate effectively. By utilizing a variety of teaching strategies and promoting active participation, he focuses on cultivating critical thinking, problem-solving abilities, and lifelong learning skills among his students.
+
+Shahid's research interests include Resource Management in the Internet of Things (IoT), Applications of Machine Learning in IoT, Precision Agriculture, Federated Learning, and Optimization. He is currently an Assistant Professor at the School of Computer Science, where he teaches several courses, including Data Structures, Operating Systems, Algorithms, Internet of Things, and Programming.
+
+Prior to his position at the University of Petroleum and Energy Studies (UPES), Shahid was pursuing his Ph.D. at the National Institute of Technology (NIT) Srinagar in Jammu & Kashmir. He holds an M. Tech from Central University of Kashmir, obtained in 2018, and a B. Tech in Computer Science and Engineering from NIT Srinagar.
+
+For further inquiries, he can be contacted via email at shahid.sultan@ddn.upes.ac.in.

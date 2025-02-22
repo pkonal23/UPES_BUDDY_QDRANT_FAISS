@@ -1,0 +1,16 @@
+The application "Manage Your Money Easily" (MYME) is designed to assist users in efficiently managing their personal finances, whether individually or in groups. The app allows users to record their daily expenditures and offers a personalized breakdown of total expenses. A standout feature of MYME is its capability to facilitate error-free money distribution among groups, thereby minimizing cash flow complications.
+
+Key features of MYME include:
+- **Daily Expenditure Recording**: Users can log their daily spending.
+- **Personalized Expenditure Breakdown**: The app provides a tailored overview of total expenses, allowing users to understand their financial habits better.
+- **Group Money Distribution**: This feature simplifies the process of splitting expenses among multiple users, ensuring accuracy and ease of management.
+- **User-Specific Login and Logout**: MYME includes personalized login windows, creating a tailored management interface for each user.
+- **User-Friendly Design**: The application focuses on providing a visually intuitive experience for tracking cash flow, empowering users to take control of their finances effectively.
+
+The development team behind MYME consists of four B.Tech. CSE students specializing in Cloud Computing and Virtualization Technology from the 2020-2024 batch: Ashhar Ali, Akshita Kapoor, Ishita Nanda, and Samyukta Sahoo. 
+
+The application emphasizes the importance of money management as a fundamental life skill, highlighting that effective financial management can significantly impact one’s quality of life. It encourages users to maintain detailed records of their spending to avoid unnecessary expenses, plan for taxes, and keep track of debts. Understanding personal finance is crucial for managing debt and ensuring financial stability.
+
+For those interested in downloading the application, it is available at the following link: [Download MYME](https://github.com/nerdynerd09/Minor).
+
+In summary, MYME is an intuitive personal finance tool that aims to enhance financial awareness and management for individuals and groups through its comprehensive features and user-centric design.

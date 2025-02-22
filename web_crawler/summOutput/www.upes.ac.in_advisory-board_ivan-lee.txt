@@ -1,0 +1,9 @@
+Ivan Lee holds multiple degrees: a Bachelor of Engineering (B.Eng.), a Master of Commerce (M.Com.), a Master of Engineering Research (MER), and a Doctor of Philosophy (Ph.D.) from The University of Sydney. His professional experience includes roles as a software development engineer at Cisco Systems, a software engineer at Remotek Corporation, and an Assistant Professor at Ryerson University. Since 2008, he has been serving as a Senior Lecturer at the University of South Australia.
+
+Lee has played significant roles in various academic conferences, including serving as the Program Co-Chair for the 2008 ACM International Conference on Image and Video Retrieval (CIVR), General Chair for the 2013 Australasian Computer Science Week (ACSW), and General Co-Chair for the 2015 International Conference on Intelligent Information Hiding and Multimedia Signal Processing (IIH-MSP).
+
+He has received several accolades for his contributions to research, including the Best Paper Award at the 2007 Pacific-Rim Conference on Multimedia (PCM), the Lockheed Martin Best Paper Award at the 2015 SPIE Defense + Security, Automatic Target Recognition XXV, and an Honorable Mention for The Vannevar Bush Best Paper at the 2020 Joint Conference on Digital Libraries (JCDL).
+
+Lee's research has been extensively published, with over 150 peer-reviewed articles in prestigious journals such as IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Industrial Informatics, and Advanced Functional Materials. His research interests focus on intelligent sensors, multimedia systems, and data analytics.
+
+For more information, Ivan Lee is currently a Senior Lecturer at the University of South Australia.

@@ -1,0 +1,11 @@
+The 2nd International Conference on Machine Learning and Data Engineering (ICMLDE 2023) is set to serve as a cross-disciplinary summit aimed at bridging gaps between various sectors, including departmental, institutional, industrial, public, and private research organizations. This conference focuses on integrating research and education in the rapidly evolving fields of Machine Learning and Data Engineering.
+
+The event will provide a platform for the presentation of original research findings and the exchange of innovative development experiences across diverse engineering domains. It is designed to attract researchers and application developers from a wide array of artificial intelligence and data engineering-related fields, addressing current issues relevant to nearly all sectors of engineering and technology.
+
+ICMLDE 2023 intends to broaden its focus by including expert talks and presentations from emerging researchers, thereby enhancing the state-of-the-art in Machine Learning and Data Engineering. The conference encourages high-quality research contributions and innovative solutions to complex challenges in machine learning. Scholars, academicians, and professionals worldwide are invited to submit original, unpublished research papers, including theoretical, practical, experimental, and review papers that highlight specific research domains for presentation during the conference's technical sessions.
+
+For registration, participants are required to fill out a registration form, including their first name, last name, email address, and mobile number. The conference is open to anyone interested in attending. 
+
+For further inquiries or to register, participants can refer to the contact details provided during the registration process. 
+
+Overall, ICMLDE 2023 aims to foster collaboration and knowledge sharing among researchers and practitioners in the fields of Machine Learning and Data Engineering.

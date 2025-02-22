@@ -1,0 +1,17 @@
+The project titled "Deep Learning-based Fish Breed Classification" is a student initiative developed by Rahul Gusain, Vaishnav Balodhi, Devyansh Samyal, and Mayank Verma, who are pursuing a B.Tech in Computer Science Engineering (CSE) with a specialization in DevOps. The project utilizes deep learning techniques to classify various fish breeds based on image data sourced from Kaggle.
+
+Deep learning, a subset of machine learning inspired by the human brain, has gained significant traction recently due to its effectiveness in tasks like image recognition, speech recognition, and natural language processing. This project specifically focuses on the classification of fish breeds, enabling the model to accurately identify and provide detailed information about different species.
+
+The model has been trained using a diverse dataset of fish images, which allows it to proficiently recognize nine distinct types of fish, including:
+- Black Sea Sprat
+- Horse Mackerel
+- Red Mullet
+- Red Sea Bream
+- Sea Bass
+- Shrimp
+
+The methodology involved training the model on a wide range of fish images, followed by testing its accuracy with various photos, showcasing its capability to deliver robust classification results.
+
+For further details, the project can be accessed at the following GitHub repository: [Fish Breed Classification Using Deep Learning](https://github.com/rahulgusain2511/fish_breed_classification_using_deep_learning). 
+
+This project exemplifies the application of deep learning in real-world scenarios, particularly in biological classification, and highlights the students' commitment to leveraging advanced technologies in their academic pursuits.

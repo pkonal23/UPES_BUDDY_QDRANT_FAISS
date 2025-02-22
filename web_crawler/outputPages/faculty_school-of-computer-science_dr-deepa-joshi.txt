@@ -1,0 +1,35 @@
+Operating Systems
+djoshi@ddn.upes.ac.in
+Research Interests
+Assistant Professor at Tula's Institute, Dehradun – (Sep 2015 - Jun 2016)
+Assistant Professor - Selection Grade
+C, C++, Java and Python Programming languages
+Home
+Work Experience
+She envisions transforming healthcare in India using ML techniques. Currently, she is working on various projects in collaboration with doctors and researchers across various domains, primarily focusing on applying Machine learning and NLP-based techniques to Medical images/textual data. With this, her PhD thesis focused on the localization and segmentation of wrist fractures on X-ray radiographs. The X-ray images were manually collected, followed by their labelling by expert Radiologists from Doon Hospital, Dehradun. As an interest, she actively participates in Kaggle competitions to perform data analytics.
+Dr. Deepa Joshi is a Ph.D. holder in Computer Science and Engineering with expertise in Machine Learning and Deep Learning. Her research interest is Machine Learning, Natural language Processing, Deep Learning and Big Data analytics. She acquired B.Tech (CSE) from Uttarakhand Technical University, Dehradun, M.Tech (Computer Engineering) from GBPUAT, Pantnagar, and PhD from UPES, Dehradun. She published several SCI/Scopus-indexed research articles in reputed Journals. She signed an MOU with a senior Radiologist and Professor at Doon Hospital Dehradun to work on the medical dataset for research purposes. She is currently acting as Co-PI for the TDP_DST Project, completed the SEED project funded by UPES, and mentored an international student in his project.
+Physical Security
+Awards and Grants
+Close
+School of Computer Science
+Faculty
+Database Management Systems
+Scholarly Activities
+Data Structures using C
+She is currently acting as Co-PI for the TDP_DST Project titled Development of an Artificial Intelligence (AI) based Comprehensive Response and Recovery System for Disaster Management in Uttarakhand. Additionally, she completed a RISE grant of Rs. 50,000 as a Project mentor in 2021 and completed a SEED grant as CO-PI in 2020.
+Courses Taught
+Eligibility Criteria
+Design and Analysis of Algorithms
+Dr. Deepa Joshi
+She completed Abhigyat conducted by ICT-IIT Kanpur in 2019 and was involved in SEED (CO PI) (2020) and RISE projects (Project Mentor) 2019. She was deputed as the trainer for UPCL Employees on IT skills in 2017 and has organized various events, conferences, seminars, workshops, technical Bootcamps and hackathons in UPES. She was a part of the NGCT society member, NAAC and NBA auditing and curriculum development team.
+Profile Summary
+Natural Language Processing
+Her primary objective is to prepare students to bridge the gap between academia and industry. She encourages and guides students to participate in Project-based Learning and global coding competitions (Hackerrank, Leetcode, etc.), which unquestionably aid Computer Science graduates in securing employment with a product-based company.
+Big Data Analytics
+Assistant Manager at IndiaMart.com, Dehradun – (2014 – 2015)
+She received the best paper award for the research “Deep learning-based localization and segmentation of wrist fractures on X-ray radiographs” at ICCISC-2022 (International Conference on Computational Intelligence and Smart Communication). She received the Employee of the Month award as Assistant Manager at Indiamart.com in 2014 and was nominated for the Best Faculty Award from the School of Computer Science at UPES in 2021-2022.
+Assistant Professor (Selection Grade) at University of Petroleum and Energy Studies, Dehradun- (Jul 2016 – Present)
+Contact
+She has 8+ years of teaching and industry experience.
+Machine Learning | Deep Learning | Natural Language Processing | Big Data Analytics.
+Teaching Philosophy

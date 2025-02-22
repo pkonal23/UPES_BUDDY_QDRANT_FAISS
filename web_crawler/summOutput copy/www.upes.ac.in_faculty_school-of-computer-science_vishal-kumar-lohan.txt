@@ -1,0 +1,7 @@
+Prof. Vishal Kumar Lohan is an Assistant Professor at the School of Computer Science at UPES, specializing in Frontend and Backend Development, as well as Software Version Control. He holds an M.Tech from NIT Trichy and a B.Tech from GBPUAT Pantnagar, where he achieved a GATE rank of 605. His research interests lie in Autonomous Vehicles and Natural Language Processing.
+
+Prof. Vishal emphasizes a teaching philosophy that focuses on building a strong foundational understanding of subjects, enabling students to apply their knowledge to real-world scenarios. This approach not only enhances comprehension but also prepares students for professional readiness. He integrates industry-relevant problems into his curriculum, fostering a classroom environment that encourages open communication and allows students to engage actively by asking questions.
+
+In his courses, he investigates the practical applications of full stack development, particularly in the context of web pages and websites, and ensures that students are equipped with the necessary skills to thrive in scalable environments within the industry. His commitment to bridging the gap between academia and professional practice is evident in his teaching methodology, which aims to prepare students to confidently tackle professional challenges.
+
+For further inquiries or to reach out to Prof. Vishal, he can be contacted via email at vishal.lohan@ddn.upes.ac.in.

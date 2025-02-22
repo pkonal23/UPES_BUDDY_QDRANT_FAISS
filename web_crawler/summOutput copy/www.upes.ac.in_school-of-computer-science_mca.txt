@@ -1,0 +1,41 @@
+The Master of Computer Applications (MCA) program at UPES School of Computer Science is a comprehensive postgraduate degree designed to equip students with advanced knowledge and skills in various aspects of computer science, including software development, programming languages, algorithms, data structures, computer networks, databases, and software engineering. The program spans three years (six semesters) and comprises a total of 122 credits.
+
+### Key Features of the MCA Program:
+
+- **Specializations**: The program offers various specializations such as:
+  - Artificial Intelligence and Machine Learning
+  - Data Science
+  - Cloud Computing and Cyber Security
+  - Cyber Forensic Procedures and Analysis
+  - Information Security Analyst
+  - Cybersecurity and Digital Forensics
+
+- **Career Opportunities**: Graduates can pursue diverse roles such as:
+  - Software Engineer
+  - Project Manager
+  - Database Administrator
+  - IT Manager
+  - Cyber Security Consultant
+  - Forensic Consultant
+  - Network Administrator
+  - Forensic Computer Analyst
+
+- **Eligibility Criteria**: Candidates must have a minimum of 50% in 10th and 12th grades and 50% in graduation in a relevant subject. A personal interview is also required for selection.
+
+- **Salary Potential**: The average salary for MCA graduates in India is approximately ₹7.96 lakh per annum, with the highest packages reaching up to ₹50 lakh per annum in top companies.
+
+- **Placement Statistics**: UPES boasts a placement rate of 94%, with over 560 companies recruiting students, including notable names like Hyundai, Vedanta, Halliburton, and L&T Infotech. The university also provides five years of placement assistance.
+
+- **Global Opportunities**: Students can benefit from a global immersion program, studying abroad for four weeks in locations like Berlin or Vancouver, and may receive scholarships of up to 50% for selected postgraduate courses at partner institutes in Europe, the UK, Canada, and the USA.
+
+- **Collaborations and Industry Exposure**: UPES has partnerships with leading organizations such as IBM, Microsoft, and Tata Consultancy Services, offering students unparalleled industry experience and networking opportunities.
+
+- **Hostel Facilities**: The university provides on-campus accommodation for both boys and girls on a first-come, first-served basis.
+
+- **Application Deadline**: The last date to apply for the MCA program is February 28, 2025.
+
+### Contact Information:
+For further details regarding the MCA program, eligibility, specializations, and application procedures, prospective students are encouraged to visit the official UPES website or contact the university directly.
+
+### Conclusion:
+The MCA program at UPES is tailored for individuals with a background in computer science or related fields, aiming to build a robust foundation in technology and prepare for successful careers in the rapidly evolving IT landscape. With a strong emphasis on practical skills, industry connections, and global exposure, UPES stands out as an excellent choice for aspiring technology professionals.

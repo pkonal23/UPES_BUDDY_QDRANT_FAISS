@@ -1,0 +1,11 @@
+Sandeep Pratap Singh is an accomplished academic with over 10 years of experience in the field of computer science. He currently serves as an Assistant Professor at the University of Petroleum and Energy Studies (UPES). Prior to his tenure at UPES, he worked for four years as an Assistant Professor at the OIST in Bhopal from 2012 to 2016. Throughout his academic career, Singh has taken on various administrative roles, including Placement Coordinator, member of the Accreditation team, Student Chapters Coordinator, Spoken Tutorial Coordinator, and part of the Examination Team and Project Committees. 
+
+Singh has been actively involved in organizing significant academic events, such as UHackathon and SEP, as well as international conferences including NGCT, PGDC, and ICMLDE. His primary research interests lie in the domains of image processing, computer vision, and machine learning. He has published numerous research papers in reputable SCI and SCOPUS journals and conferences, and has also guided five master's dissertations. 
+
+He is currently pursuing a Ph.D. in Computer Science Engineering (CSE) and holds an MTech in CSE from Jaypee University of Information Technology, Solan, India. In addition to his research contributions, he has authored technical books in his area of expertise. 
+
+Singh has taught a wide range of subjects related to computer science engineering, covering both core and specialized topics. Some of the courses he has recently instructed include Data Communication and Computer Networks, Computer System Architecture, Operating Systems, Principles of Programming Languages, Cloud Computing Architectures, Introduction to Virtualization and Cloud, Managing Virtual Environment, Information Storage and Management, and AWS Cloud Foundation Certification.
+
+His teaching philosophy emphasizes the belief that teaching is an art form that ignites curiosity in learners. He finds great fulfillment in both teaching and learning, reflecting his commitment to fostering an engaging educational environment.
+
+For contact, Sandeep Pratap Singh can be reached via email at spsingh@ddn.upes.ac.in.

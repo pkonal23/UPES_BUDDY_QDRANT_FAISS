@@ -1,0 +1,26 @@
+Dr. Ved Prakash Bhardwaj is an Associate Professor in the School of Computer Science at the University of Petroleum and Energy Studies (UPES) in Dehradun, India. He has over 8 years of teaching experience and has been with UPES since July 1, 2016. Prior to this, he worked for one year at Jaipur National University and six months at IMS Unison University in Dehradun.
+
+Dr. Bhardwaj holds a Ph.D. in Computer Science and Engineering (CSE) from Jaypee University of Information Technology, which he completed in 2014. He also earned his M.Tech in CSE from the same institution in 2010 and a Bachelor of Engineering in Computer Engineering from Rajasthan University in 2008. His research interests span various areas, including data classification, memory utilization, and blockchain technology.
+
+He has been granted Australian patents for his work, including:
+1. **Australian Patent 2021102043**: "System and Method for Data Classification for Efficient Memory Utilization and Avoiding Duplicate Data," granted on May 26, 2021.
+2. **Australian Patent 2021101878**: "Computerized Design Model for Encryption in Blockchain Transaction Systems," granted on July 7, 2021.
+
+In addition, he has also received an Indian patent:
+- **Indian Patent 202011012372**: "System and Method for Decentralized Electronic Polling," granted on November 20, 2024.
+
+Dr. Bhardwaj is actively involved in scholarly activities, having published over 16 research papers in reputable national and international journals and conferences, including those published by IEEE, ACM, Springer, and Elsevier. He has also completed several certifications, including:
+- **edX Certification** on SW47x: Entrepreneurship in Emerging Economies.
+- **CourseEra Certification** on Virtual Teacher Specialization.
+
+His teaching portfolio includes courses such as:
+- Java Programming
+- Data Communications and Networking
+- Mobile Application Development using Android
+- C Programming
+- Interconnection Networks
+- Parallel and Distributed Computing
+
+Dr. Bhardwaj's teaching philosophy emphasizes the potential of every student to learn, advocating for proper guidance and support to enhance understanding. He incorporates practical demonstrations, real-time class activities, case studies, assessments, and projects to benchmark and assess student performance.
+
+For contact, Dr. Ved Prakash Bhardwaj can be reached via email at **vpbharadwaj@ddn.upes.ac.in**.

@@ -1,0 +1,22 @@
+Research Interests
+Professor Aishik Biswas’s teaching philosophy is centred on fostering a dynamic and interactive learning environment that encourages critical thinking and practical application. I believe in "flipping the classroom," where students engage with pre-reading assignments and quizzes before class, allowing in-class time to be dedicated to hands-on projects and real-world problem solving. This approach not only reinforces theoretical concepts but also helps students develop the skills necessary to tackle complex challenges in Artificial Intelligence and Machine Learning. By creating a supportive and stimulating educational atmosphere, I aim to inspire students to reach their full potential and contribute innovatively to the field of computer science.
+Aishik Biswas
+Home
+Work Experience
+Close
+School of Computer Science
+Faculty
+Professor Aishik Biswas teaches a variety of programming and technical courses, including: -C -C++ -Java -SQL -Mathematics -Problem Solving -Database Management System.
+Scholarly Activities
+Professor Aishik Biswas is newly joined youngest faculty of UPES. Before joining UPES, he has worked in one of the leading company of Canada, Canadian Tire Corp. as a Data Analyst. After that has over 1 year experience of teaching in an institute in India.
+Courses Taught
+Eligibility Criteria
+In addition to these courses, he specializes in coding languages with a particular emphasis on Python, where he holds the highest proficiency. Through his teaching, Professor Biswas aims to equip students with a strong foundation in programming and problem-solving skills, preparing them for advanced work in Artificial Intelligence and Machine Learning.
+aishik.biswas@ddn.upes.ac.in
+Profile Summary
+Artificial Intelligence and Machine Learning in the field of medical science such as Cancer Detection, Drugs Abuse, etc.. Specialising in Computer Vision and Deep Neural Networks.
+Assistant Professor
+Professor Aishik Biswas is a distinguished expert in Artificial Intelligence and Machine Learning, with a specialization in Computer Vision and Deep Neural Networks. He holds a Master of Science (MS) in Computer Science from Lakehead University, one of Canada’s renowned institutions. Aishik’s research focuses on applying AI and machine learning techniques to medical science, addressing critical issues such as cancer detection and drug abuse. His work is recognized for its depth and practical applications, advancing the field of healthcare through innovative technology solutions.
+Professor Aishik Biswas is deeply involved in scholarly activities and serves as a mentor and guide in various club and chapter initiatives. He plays a crucial role in preparing students to achieve ambitious goals by actively participating in coding contests like hackathons, solving problems on platforms like LeetCode, and contributing to open-source projects on GitHub. Through his mentorship, Aishik helps students develop their skills and knowledge, instilling confidence and providing valuable resources. He empowers students to pursue their dreams and create meaningful change in the world.
+Contact
+Teaching Philosophy

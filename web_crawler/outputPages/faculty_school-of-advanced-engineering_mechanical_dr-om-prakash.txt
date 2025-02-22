@@ -1,0 +1,25 @@
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Professor
+Close
+His instructional sessions are structured to immerse students in authentic aircraft data and scenarios, cultivating the necessary skills for success in the Aerospace Engineering sector. This approach is designed to equip students with practical expertise and a profound understanding of the industry's demands.
+His educational philosophy revolves around the practical application of aerospace engineering principles to enhance aircraft flight performance and ensure compliance with regulatory authorities. Dr. Om Prakash employs both theoretical and experimental approaches in crafting aircraft designs and autopilots tailored to meet specific customer demands. Integrating techniques like "numerical simulation" and "gaming flight simulators" into his teaching, he underscores various aircraft manoeuvres, which subsequently demand mathematical and numerical analysis.
+Faculty
+Mechanical
+He has been serving as the Head of the Aerospace Engineering department at UPES for over a decade. He oversees undergraduate programs in Aerospace Engineering and Avionics, as well as postgraduate programs in CFD and UAV specialization. During the same tenure, he completed several DRDO-funded projects, in addition to completing his M.Tech and Ph.D. at IIT Kanpur and IIT Bombay. He also executed a South Korean defence sector project on the development of a controller for a hypersonic propulsion system at Zeusnumerix Pvt. Ltd., IIT Bombay Campus.
+Scholarly Activities
+Prof. Om Prakash teaches core Aerospace Engineering courses such as Flight Mechanics I & II, Aerodynamics I & II, Flight Stability and Control, Aircraft Design, Helicopter Engineering, and Aerial Robotics. He also conducts Avionics specialization courses on the application of control theory to design various Automatic Flight Controllers using MATLAB, which satisfy the necessary stability and control requirements of aircraft in closed-loop systems. He has taught Project Management to postgraduate programs.
+He has presented many research papers at SCITECH and AVIATION Forums of the American Institute of Aeronautics and Astronautics (AIAA), USA. He has delivered lectures and training sessions for capacity building of working professionals about Project Management, Flight Mechanics and Control, Parachute UAV development, etc. He has been a Project Investigator of the DST/SERB Sponsored project on "Pipeline Surveillance using Parachute Ariel Vehicle" and has filed a patent on "A System for Monitoring and Maintaining Air Pressure in Vehicles" (#1205/DEL/2014). Currently, he is involved in the design and development of a Hybrid Airship for autonomous payload delivery, which is awarded internal seed funding. He has guided 3 Ph.D. scholars in the past and is currently working with 4 Ph.D. scholars.
+Courses Taught
+Eligibility Criteria
+Profile Summary
+School of Advanced Engineering
+Dr. Om Prakash's research interests lie in Nonlinear Flight Dynamics and Control (Bifurcation Methods and NDI Control); Modeling and Simulation of Dynamic Systems (SCILAB/MATLAB/SIMULINK); Flight Stability and Control Analysis of Airplanes, Rockets/Missiles/Artillery-projectiles, Parachutes/Parafoils/Hybrid-Airship Aerial Vehicles, Para-UAVs, Hypersonic Vehicles, etc.
+Dr. Om Prakash has been recognized as a Senior Member by the American Institute of Aeronautics and Astronautics (AIAA-USA) and the Institute of Electrical and Electronics Engineers (IEEE-USA). He is also a Fellow of the Institutions of Engineers (India). He served as the Session Co-Chair in AIAA-SCITECH 2021 (USA) and as a Reviewer of the Journal of Aircraft (AIAA-USA). He was the Conference Convenor of the 24th NCICIEC by the Combustion Institute, Indian Section, and the 27th NCAE by The Institution of Engineers, India. Dr. Om Prakash is a Member of the Board of Studies in Aerospace Engineering for various universities and institutions. He was invited to attend the AIAA-Atmospheric Flight Mechanics Technical Committee meeting on 25-26 June 2019 at Edwards Air Force Base, USA.
+Contact
+Dr. Om Prakash has over 20 years of experience in research, teaching, and academic leadership with various premier academic and research institutions. His research work has been recognized and published by the American Institute of Aeronautics and Astronautics (AIAA), USA, and the Institute of Electrical and Electronics Engineers (IEEE), USA. Since 2019, he has been serving as a Technical Member of AIAA Atmospheric Flight Mechanics TC, USA.
+Dr. Om Prakash
+omprakash@ddn.upes.ac.in
+Teaching Philosophy

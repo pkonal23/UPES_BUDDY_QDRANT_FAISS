@@ -1,0 +1,39 @@
+**Summary of Professor Vinod Patidar's Profile and Research Interests**
+
+**Teaching Philosophy and Approach:**
+Professor Vinod Patidar adopts an adaptive teaching methodology aimed at fostering interactive and enjoyable learning experiences. He tailors his pedagogical practices to engage students actively, encouraging them to develop their own analytical, observational, and interpretative skills. His objective is to create a pleasurable understanding of scientific concepts, enhancing knowledge retention and practical application.
+
+**Academic and Professional Background:**
+- **Education and Fellowships:** Professor Patidar is a Fellow of the Executive Leadership Academy at the University of California, Berkeley, and the Institution of Electronics and Telecommunication Engineers (IETE) in India. He has received training in University Governance and Academic Leadership through the European Union ERASMUS+ LEAD 2 Programme at Vrije Universiteit, Brussels.
+- **Experience:** With approximately 23 years of experience (18 years post-PhD), he is recognized as an internationally acclaimed researcher in fields including Nonlinear Dynamics, Chaos Theory, Cryptography, Image Encryption, Steganography, and DNA Cryptography. He has mobilized around INR 5 Million for research activities and has received numerous research grants and fellowships.
+
+**Research and Publications:**
+Professor Patidar has a substantial publication record with 95 publications and an h-index of 21. He has been awarded various fellowships such as the DST Young Scientist Research Grant and SERB-MATRICS Grant, among others. His research work includes significant projects like the application of chaotic dynamical systems in secure cryptosystems and the development of secure image encryption schemes based on chaos theory.
+
+**Teaching Experience:**
+He has held various academic positions, including:
+- Lecturer and Senior Lecturer at Apaji Institute of Mathematics and Applied Computing Technology (AIM&ACT) from July 2005 to July 2008.
+- Assistant Professor (2008-2011), Associate Professor (2011-2015), and Professor (2015-2018) at the School of Engineering, SPSU, Udaipur.
+- Professor & Dean of Research at SPSU from October 2018 to June 2023.
+
+**Courses Taught:**
+Professor Patidar has taught a wide range of subjects, including:
+- Applied and Theoretical Physics
+- Mathematical Methods for Engineers and Scientists
+- Nonlinear Dynamics and Chaos Theory
+- Digital Signal and Image Processing
+- Cryptography and Network Security
+
+**Scholarly Activities and Contributions:**
+He serves as an Associate Editor for several journals, including the Dynamical Systems Section of Frontiers in Applied Mathematics and Statistics, and is a reviewer for over 40 international journals. He has also been recognized with the MOST CITED PAPER AWARD for his contributions to Image and Vision Computing.
+
+**Research Involvement and Student Engagement:**
+Professor Patidar integrates his research into his teaching, involving students in real research problems, which helps cultivate their interest in research-oriented careers.
+
+**Professional Affiliations:**
+He is a Senior Member of several professional organizations, including IEEE and the International Association of Computer Science and Information Technology (IACSIT).
+
+**Contact Information:**
+- Email: vinod.patidar@ddn.upes.ac.in
+
+This summary encapsulates Professor Vinod Patidar's extensive academic background, teaching philosophy, research interests, and professional commitments, providing a comprehensive overview of his contributions to the field of science and education.

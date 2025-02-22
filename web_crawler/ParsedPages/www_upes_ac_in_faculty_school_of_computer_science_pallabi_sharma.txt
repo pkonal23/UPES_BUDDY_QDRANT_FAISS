@@ -1,0 +1,49 @@
+**Dr. Pallabi Sharma**
+
+Dr. Pallabi Sharma, an Assistant Professor at the School of Computer Science at University of Petroleum and Energy Studies (UPES), holds a PhD degree in Computer Science and Engineering from the National Institute of Technology Meghalaya. Pallabi Sharma's area of expertise lies in developing efficient machine learning-based frameworks for medical image analysis within the healthcare sector.
+
+**Educational Background**
+
+Dr. Sharma received her PhD in 2023 from the National Institute of Technology Meghalaya, India. Pallabi Sharma's research focused on utilizing machine learning techniques to enhance medical image analysis within healthcare systems.
+
+**Professional Experience**
+
+Since February 2022, Dr. Pallabi Sharma has been employed at UPES as an Assistant Professor in the School of Computer Science.
+
+**Research Interests**
+
+Pallabi Sharma's research delves into:
+
+* Medical Image Analysis
+* Computer Vision
+* Artificial Intelligence
+* Deep Learning
+* Biomedical Imaging
+* Image Segmentation
+* Data Mining
+* Object Localization
+* Computer-Aided Disease Detection
+
+**Teaching Philosophy**
+
+As an engineering professor, Dr. Pallabi Sharma's teaching approach emphasizes creating an inclusive and engaging learning environment for her students. She fosters active participation and critical thinking by linking theoretical concepts to practical engineering applications. By incorporating technology into her teaching, Dr. Sharma aims to cultivate a passion for learning and nurture ethical and responsible engineers.
+
+**Courses Taught**
+
+Dr. Sharma teaches courses in:
+
+* Data Analysis and Modelling Techniques
+* Human-Computer Interface
+* AI-ML in Healthcare
+
+**Awards and Recognition**
+
+In 2021, Dr. Pallabi Sharma was recognized as the Winner of TIDE 2.0 IDEATHON, organized by the Ministry of Electronics and Information Technology (MEITY) Startup Hub.
+
+**Scholarly Contributions**
+
+Dr. Pallabi Sharma has made significant contributions to her field, authoring or co-authoring 13 publications in esteemed conferences, workshops, journals, and book chapters. Throughout her PhD tenure, Pallabi Sharma provided guidance and support to over 10 B.Tech and M.Tech students in their academic projects and their pursuits of research in real-world applications.
+
+**Contact Information**
+
+For further inquiries, please reach out to Dr. Pallabi Sharma at pallabi.sharma@ddn.upes.ac.in.

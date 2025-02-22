@@ -1,0 +1,24 @@
+Research Interests
+Home
+Work Experience
+Saurabh has an industry experience of 1 year, field experience of 1 year and academic experience of 7 years.
+Saurabh Shanu earned his Bachelor of Technology at ICFAI University in Dehradun, Uttarakhand, in 2012, and his Master’s in Computer Science (with specialization in AI & ANN) at UPES in Dehradun. He is pursuing his PhD in Computer Science from UPES, Dehradun. He is working on ‘Complex Network Analysis and Implementation to Wildlife Corridors using Machine Intelligence’.
+Computational Sustainability
+Saurabh teaches the courses like Formal Language and Automata Theory, Compiler Design, Computer graphics, Image Processing, Cloud Computing and so on. He investigates how the backgrounds and incentives of these courses shape the formation and evolution of problem-solving. In another stream of work, he takes UI/UX design, Artificial Intelligence and Data Science.
+Awards and Grants
+Saurabh has led multidisciplinary projects on an international collaborative project of Random m Encounter Modelling to better understand the animal abundance and density estimation using Camera trap images in the wild. His work has a strong approach to innovation where impact is a key factor e.g. ungulate density estimation for various wildlife research and corridor mappings. He had been invited by the Zoological Society of London for the purpose. In addition to the aforementioned, Saurabh has also worked on an Intelligent Patrolling system and built a tool that has been integrated with the GoI’s initiative of monitoring wildlife reserves. He has also been active with projects on entrepreneurial mindset development and gamification of educational modules.
+Close
+School of Computer Science
+Faculty
+Scholarly Activities
+Courses Taught
+Eligibility Criteria
+sshanu@ddn.upes.ac.in
+Profile Summary
+Saurabh has received many best paper awards at conferences.
+After completing his Master’s, Saurabh accepted a position as a faculty member at UPES, where he has been working for 7 years. During this time, he developed and used new tools and techniques for wildlife conservation as well as species abundance and distribution predictions. He focused in particular on tigers and ungulates for his computational works. In his journey, he has created a tool called ‘Animeter’ which is widely used by the entire world for camera trap image analysis. For his work in the field of computational sustainability, Saurabh had received many awards and recognitions, including an invite from the Royal Charter of London, a collaborative author in GoI’s Tiger Report and Leopard Report in 2018. Saurabh has authored many peer-reviewed papers in both journals and conferences focused on computational sustainability, especially those associated with wildlife sciences and the digitation of heritage.
+Saurabh’s teaching philosophy is grounded in the understanding that it is his responsibility to create a climate that supports and encourages student learning. He has incorporated some elements of hands-on experience with classroom teaching. Quiz material is not repeated in class but instead is used as the foundation for in-class assignments that involve students working with real data and situations. Using authentic interdisciplinary problems helps students move from novice to expert thinking.
+Assistant Professor-Selection Grade
+Contact
+Teaching Philosophy
+Saurabh Shanu

@@ -1,0 +1,32 @@
+**Profile Summary of Vidyanand Mishra**
+
+**Professional Experience:**
+- Vidyanand Mishra has over 9 years of combined teaching and industry experience. He is currently an Assistant Professor (Senior Scale) at the University of Petroleum and Energy Studies (UPES) in Dehradun since July 2016. Prior to this, he worked as an Associate Software Engineer at Tata Consultancy Services (TCS) in Pune from March 2012 to June 2014.
+
+**Teaching Philosophy:**
+- His primary objective is to prepare students to effectively bridge the gap between academia and industry. He believes in fostering a supportive learning environment and emphasizes Project-based Learning and participation in global coding competitions to enhance student engagement and learning outcomes.
+
+**Research Interests:**
+- Vidyanand's research interests include Deep Learning, Computer Vision, and Evolutionary Algorithms. He is currently pursuing a PhD in Computer Science from UPES, Dehradun. He holds a B.Tech in Computer Science Engineering from RGPV, Bhopal, and an M.Tech in Information Security from NIT Allahabad.
+
+**Scholarly Activities:**
+- He has completed the Abhigyat program conducted by ICT-IIT Kanpur in 2019. He participated as a Co-Principal Investigator in the SEED project in 2020 and served as a Project Mentor for the RISE project in 2019, with a successful completion of a RISE grant worth INR 50,000 in 2021.
+- Vidyanand has organized various academic events, including conferences, seminars, workshops, technical boot camps, and hackathons at UPES. He has been actively involved in the NGCT society, NAAC and NBA auditing, as well as curriculum development efforts. His scholarly contributions include several research papers published in prestigious SCI and Scopus-indexed journals and conference proceedings.
+
+**Courses Taught:**
+- He teaches essential subjects in computer science and engineering, including:
+  - Formal Language and Automata Theory
+  - Design and Analysis of Algorithms
+  - Data Structures
+  - Operating Systems
+  - Computer Networks
+  - Object-Oriented Programming
+  - IT Network Security
+  - System Security
+  - IoT Applications
+
+**Contact Information:**
+- Email: Vidyanand.mishra@ddn.upes.ac.in
+
+**Key Skills:**
+- Vidyanand Mishra demonstrates a strong ability to critically analyze complex problems, propose innovative solutions, and effectively communicate his findings within the academic community, reinforcing his commitment to both teaching and research excellence.

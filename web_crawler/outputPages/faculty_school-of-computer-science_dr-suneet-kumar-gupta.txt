@@ -1,0 +1,23 @@
+Dr. Suneet Kumar Gupta
+suneet.gupta@ddn.upes.ac.in
+Research Interests
+Prior to joining UPES, He had a tenure of over 6 years at Bennett University, Gr. Noida. He held a position as Head-operation at leadinginida.ai, where he arranged over 250 workshops on advanced technologies such as Deep Learning, Robotic Process Automation, and Internet of Things (IoT) at various institutions in India, including IIT, and NIT. He formerly worked at O. P. Jindal Institute of Technology, Raigarh, Chhattisgarh, and ABES Engineering College, Ghaziabad before joining Bennett University.
+His expertise resides in deep learning expert, has outstanding skills in instructing courses in this rapidly progressing field and its associated topics. With his profound knowledge, he is able to modify the curriculum to incorporate the most recent improvements, ensuring that students acquire the most pertinent and applicable skills. Whether students are novices or seeking to enhance their proficiency, his courses will provide the necessary skills to excel in the dynamic arena of AI.
+Home
+Work Experience
+Awards and Grants
+Professor
+Close
+School of Computer Science
+Faculty
+He has earned a PhD in Computer Science and Engineering from the Indian Institute of Technology (Indian School of Mines), Dhanbad, and have over 15 years of experience in teaching and research. His skills and research focus on providing healthcare solutions through deep learning, specifically engaged on compression and acceleration of deep neural networks. He oversees the Robotic Process Automation specialization at Bennett University as a specialization champion and obtained advanced level certifications in UI PATH. During his career, he has involved in over 50 conferences in various roles such as Keynote Speaker, Organizing Secretary, Organizing Chair, Session Chair, and participant. He has completed two funded projects supported by the Council of Science and Technology, Lucknow and Data Security Council of India, New Delhi. He has hosted 5 international conferences: IACC 2020, ICIICT 2021, IACC 2021, IACC 2022, and IACC 2023. He has been extensively engaged in upholding the integrity and rigor of scholarly literature. Furthermore, his involvement with esteemed accreditation organizations such as NAAC demonstrates my dedication to improving the educational environment.
+Scholarly Activities
+In the year 2018, he was granted funding from the Council of Science and Technology, Uttar Pradesh, in order to undertake a study centred around Wireless Sensor Networks. In 2021, he was awarded a grant from the Data Security Council of India to pursue the work in domain of IoT devices classification using AI.  He was granted funding from SERB in 2022 and 2023 to conduct one-week workshops on state-of-the-art technology.
+Courses Taught
+Eligibility Criteria
+Profile Summary
+He is a very influential figure in the field of computer science, whose impact goes beyond the scope of his published work.  His groundbreaking efforts in developing a deep learning model that is compatible with the Internet of Things (IoT) have received widespread acclaim, as evidenced by his publication at prestigious conferences such as ICMLA, IACC, as well as renowned journals like IEEE Transaction on Image Processing. He is an innovative and forward-thinking leader, not just in the field of study but also in nurturing the future generation. His mentorship goes beyond providing instruction; he actively works with graduate students, as shown by the many publications they have co-authored together. He is a highly in-demand speaker, who imparts his extensive knowledge and inspires enthusiasm for the profession at prominent global conferences.
+His classroom thrives on student curiosity.  He perceives them as competent individuals with an inherent inclination to acquire knowledge.  Lectures are just one tool; cultivating an interactive learning atmosphere is crucial.  This entails a diverse range of activities, conversations, and assignments that foster students' exploration of ideas, collaboration, and even the acceptance of mistakes.  His ultimate objective is not solely focused on delivering content, but rather on encouraging students to become critical thinkers.  His desire for individuals to not just acquire knowledge, but also engage in critical analysis, problem-solving, and independent conclusion development.
+Applied Deep learning, AI in Healthcare, Wireless Sensor Networks, LLM
+Contact
+Teaching Philosophy

@@ -1,0 +1,24 @@
+University silver Medallist for MTech Robotics (University of Petroleum and Energy Studies).
+Research Interests
+vikas.thapa@ddn.upes.ac.in
+Home
+Work Experience
+Awards and Grants
+Close
+Faculty
+Courses Taught
+Eligibility Criteria
+Deep learning, computer vision, Image Processing, Robotics, and automation.
+Professor Vikas possesses a deep understanding of various aspects of robotics, including kinematics, dynamics, control systems, and machine learning. He has hands-on experience in designing robotic platforms, ranging from Mobile robots to intelligent automation systems. Additionally, he is proficient in programming languages such as Python, C++, and MATLAB, enabling me to develop robust software solutions for robotics applications.
+Internet of Things (IoT) Fundamentals: This course introduces the concepts and technologies behind the IoT ecosystem. Students will explore topics such as sensor networks, data acquisition, wireless communication protocols, cloud computing, and data analytics. Practical exercises will involve building IoT applications using popular development platforms and frameworks.
+Profile Summary
+School of Design
+A tangible user interface (TUI) course typically focuses on the design, development, and evaluation of interactive systems that allow users to physically manipulate objects to interact with digital information. TUIs provide a more intuitive and embodied interaction experience compared to traditional graphical user interfaces (GUIs) that rely on a keyboard and mouse.
+Assistant Professor
+A physical computing course focuses on the integration of software and hardware to create interactive systems that sense and respond to the physical world. It combines principles from computer science, electronics, and design to enable students to build interactive and tangible projects. Here is a general overview of topics typically covered in a physical computing course.
+Introduction to Robotics: This course introduces the fundamental concepts and principles of robotics. Students will learn about robot architecture, kinematics, sensors, actuators, and basic control strategies. Practical sessions will involve programming robots and implementing simple tasks using popular robotic platforms.
+Vikas Thapa
+Vikas Thapa's teaching philosophy revolves around an immersive, experiential learning approach. He firmly believes that optimal learning occurs when students actively immerse themselves in the subject matter. By seamlessly blending theory with hands-on exercises and practical projects, Vikas aims to cultivate a profound grasp of robotics and IoT principles, all the while nurturing creativity and honing problem-solving skills. Within his courses, Vikas places a strong emphasis on active learning and student participation. He employs a dynamic mix of lectures, demonstrations, interactive lab sessions, collaborative group projects, and thoughtful discussions, fostering an engaging and cooperative learning atmosphere. Vikas encourages students to explore their own ideas, cultivate critical thinking, and adeptly apply their knowledge to real-world contexts.
+Contact
+Before joining UPES, Prof. Vikas was at the Indian Institute of Technology (Hyderabad) Biomedical Engineering as a Junior Research Fellow and held a Researcher position at the University of Petroleum and Energy Studies R&D. Worked on various DST Funded Projects and acted as a consultant For Biomedical Imaging and Computer Vision Engineering system.
+Teaching Philosophy

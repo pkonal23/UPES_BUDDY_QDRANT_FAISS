@@ -1,0 +1,24 @@
+The provided content appears to be a form for inquiries related to a specific educational institution or program. It includes fields for personal information such as first name, last name, email address, and mobile number, indicating that users need to fill these out to submit their inquiries. 
+
+Key components of the form include:
+
+1. **Contact Information Fields**:
+   - First Name (mandatory)
+   - Last Name (mandatory)
+   - Email Address (mandatory)
+   - Mobile Number (mandatory)
+
+2. **Inquiry Options**:
+   - A section to select the course type and specific course, although options are currently marked as "--None--" indicating that users need to choose from provided options.
+   - Eligibility Criteria is mentioned, suggesting there may be specific requirements for the courses offered.
+
+3. **IQAC (Internal Quality Assurance Cell)**:
+   - There is a contact point listed as "Director-IQAC" with a placeholder indicating no specific contact has been provided.
+
+4. **User Agreement**:
+   - A checkbox labeled "I accept" likely indicates agreement to terms and conditions, which are referenced but not detailed in the content.
+
+5. **Call Me Option**:
+   - There is a "Call Me" option, suggesting that users can request a call back for further assistance.
+
+Overall, the form is structured to facilitate inquiries into courses offered by the institution, with a clear emphasis on collecting necessary personal information for follow-up. However, specific contact details for the Director-IQAC and additional course options are not provided in the content.

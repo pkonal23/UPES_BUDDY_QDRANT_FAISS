@@ -1,0 +1,35 @@
+The content outlines the comprehensive structure and offerings of the BBA program with a specialization in Analytics and Big Data at UPES School of Business. This program is designed to equip students with essential programming and technical skills necessary for working with big data, including proficiency in languages like Python and R, as well as tools such as SQL, Hadoop, and Spark.
+
+### Program Structure:
+- **Semesters**: The program spans six semesters, each with a variety of courses aimed at building foundational and advanced knowledge in business analytics.
+- **Core Courses**: Include subjects such as Marketing Management, Business Communication, Advanced Statistics, Operations Management, Business Ethics and CSR, and more.
+- **Specialization**: The program offers a specialization in Big Data Analytics and Mining, which includes advanced topics like Text Mining, Natural Language Processing, Data Visualization, and Big Data Analytics Platforms.
+
+### Career Opportunities:
+Graduates can pursue a variety of roles in the analytics field, including:
+- Data Analyst
+- Data Scientist
+- Business Intelligence Analyst
+- Data Engineer
+- Data Consultant
+- Market Research Analyst
+- E-commerce Analyst
+- Risk Analyst
+- Supply Chain Analyst
+
+The industries that typically hire graduates include finance, marketing, healthcare, e-commerce, and consulting. The program emphasizes hands-on experience through summer internships, live projects, and industrial visits, providing students with exposure to real-world applications of their studies.
+
+### Eligibility Criteria:
+To be eligible for the program, students must have a minimum of 50% marks in Classes X and XII. Admission is based on performance in the UPESMET-UG entrance exam or other relevant assessments.
+
+### Future Scope and Industry Trends:
+The demand for professionals skilled in analytics and big data is growing as organizations increasingly rely on data-driven decision-making. Graduates will be well-positioned to leverage advanced analytics techniques, including machine learning and AI, across various sectors.
+
+### Contact Information:
+For further inquiries or to apply, interested individuals can reach out through the provided contact form, specifying their first name, last name, email address, and mobile number for follow-up.
+
+### Additional Features:
+- The program includes modern facilities such as smart classrooms, an Analytics Lab, and opportunities for research projects, seminars, and conferences.
+- Students are encouraged to engage in community and environmental projects, enhancing their learning experience and social responsibility.
+
+This detailed overview encapsulates the key elements of the BBA program in Analytics and Big Data at UPES, emphasizing its structure, career prospects, eligibility, and future relevance in the industry.

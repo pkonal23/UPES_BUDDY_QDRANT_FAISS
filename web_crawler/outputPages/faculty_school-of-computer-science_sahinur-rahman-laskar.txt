@@ -1,0 +1,19 @@
+Research Interests
+Home
+Work Experience
+Dr. Sahinur Rahman Laskar brings 3.9 years of experience. Prior to joining UPES, he worked with Assam University, Silchar (CSE, Department) as a Guest Faculty position.
+His research interests include natural language processing, machine translation, question answering, information retrieval, and machine learning. His PhD research lies in Machine Translation, where Dr. Laskar has demonstrated a strong commitment to advancing knowledge through original and impactful research. Throughout his academic journey, Dr. Laskar has published his work in reputable journals and actively participated in conferences, wherein he has presented and shared his findings with the wider academic community. Dr. Laskar has been working on low-resource neural machine translation for Indian northeastern languages (Assamese, Mizo, Khasi, Nyishi) and has achieved benchmark results in numerous machine translation competitions like WMT, WAT, and LoResMT in the past several years.
+Close
+School of Computer Science
+Dr. Sahinur Rahman Laskar was awarded a Ph.D. in 2023 by NIT Silchar, preceded by M.Tech. (IT) in the year 2015. He received his B.E. (CSE) from Assam Engineering College, Guwahati, India in 2011. His research work mainly revolves around improving the quality of low-resource language translation, along with exploring its multi-modal counterparts. Dr. Laskar has at least 39 published papers in reputed conferences/workshops (27), journals (8), book chapters (2), and patents (2).
+Faculty
+Courses Taught
+Eligibility Criteria
+Dr. Sahinur Rahman Laskar's teaching philosophy is strongly based on the understanding that it is his responsibility to create a climate that supports and encourages student learning. In his approach to teaching, he strives to create a stimulating and inclusive learning environment that fosters critical thinking, creativity, and active engagement among students. Dr. Laskar’s primary objective is to inspire a genuine love for the subject while encouraging students to apply theoretical concepts to real-world scenarios.
+Profile Summary
+Sahinur Rahman Laskar
+Assistant Professor
+Dr. Sahinur Rahman Laskar teaches core subjects of computer science and engineering, namely, Data Structure, DBMS, Programming Languages (C, C++) and Natural Language Processing.
+Contact
+sahinur.laskar@ddn.upes.ac.in
+Teaching Philosophy

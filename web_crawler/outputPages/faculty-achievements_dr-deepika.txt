@@ -1,0 +1,12 @@
+Faculty Achievements
+2023 JVCI Best Paper Award winning USD 1000
+Dr. Deepika
+Dr. Deepika - Achievement
+The paper published in the Journal of Visual Communication and Image Representation:
+has been selected as the Best Paper for 2023.
+Home
+This research work introduces a hybrid fuzzy convolutional neural network (FCNN) based MFIF method, integrating FS with CNN for automatic features extraction and uncertainty removal in images. The proposed method generates data-driven decision maps using Siamese feature extraction module, achieving superior results over six benchmark methods in multi-focus image datasets with both qualitative and quantitative analysis.
+A fuzzy convolutional neural network for enhancing multi-focus image fusion, Journal of Visual Communication and Image Representation, Volume 84, April 2022, 103485
+Close
+School of Computer Science
+Eligibility Criteria

@@ -1,0 +1,28 @@
+Dr. Inder Singh is an accomplished academic with extensive experience in research, teaching, and mentoring, particularly in the fields of computer science and business analytics. He has published numerous research papers in esteemed international journals and presented at various conferences, also chairing sessions at both national and international levels. With a strong supervisory role, he has guided several Ph.D. scholars in diverse areas such as Recommended Systems, Sentiment Analysis, Machine Learning, Computer Networks, and Cloud Security, in addition to mentoring postgraduate and undergraduate projects. Dr. Singh has authored a textbook and numerous book chapters, and holds national and international certifications in Information Technology.
+
+### Research Interests
+Dr. Singh's primary teaching interests lie in Programming Languages, including Python, R, JAVA, PHP, JavaScript, and C/C++. While affiliated with the School of Computer Science at UPES, he taught subjects like Computer Networks, Cloud Computing, Data Mining, and Web Technologies. Currently, as a faculty member at the School of Business at UPES, he teaches courses in Big Data Analytics, Business Analytics, Natural Language Processing, Programming for Analytics, and Web Designing and Development to both undergraduate and postgraduate management students.
+
+### Work Experience
+Before his tenure at UPES, Dr. Singh worked at IMS, Dehradun, accumulating over 20 years of professional experience that combines both industry and academia. From 2008 to 2022, he instructed B.Tech. (CSE) and M.Tech. (CSE) students, and he now focuses on mentoring management students in Big Data Analytics, Artificial Intelligence, Natural Language Processing (NLP), and Digital Transformation.
+
+### Scholarly Activities
+Dr. Singh has received multiple Letters of Appreciation for his research contributions and was recognized with a Certificate of Appreciation for his role in training over one hundred faculty members in Hybrid, Blended, and Online Learning at UPES. He has been acknowledged for his exceptional management of faculty teaching loads and timetables.
+
+He emphasizes the importance of innovative teaching methods, utilizing various pedagogical tools, and mentoring students for their holistic development. His responsibilities include curriculum development, student advising, supervising graduate research projects, and contributing to the academic growth of students. He is actively involved in committee work, manuscript reviews for journals, research proposal evaluations, and accreditation processes. Dr. Singh seeks collaborative research opportunities, interdisciplinary projects, and partnerships with industry and community organizations to enhance the impact of his scholarly work.
+
+### Teaching Philosophy
+Prof. Inder Singh’s teaching philosophy centers on fostering active student participation, collaboration, and critical thinking. He advocates for experiential learning, technology integration, and student-centered approaches that emphasize real-world relevance. He believes in nurturing a growth mindset among students, encouraging them to embrace lifelong learning and continuous improvement.
+
+### Contact Information
+For inquiries, Dr. Inder Singh can be reached at:  
+**Email:** inder@ddn.upes.ac.in  
+
+### Areas of Expertise
+- AI & ML
+- Big Data Analytics
+- Business Analytics
+- Cloud Native Technologies
+- IoT
+
+Dr. Singh's comprehensive expertise and dedication to education position him as a significant contributor to both academic and practical advancements in his field.

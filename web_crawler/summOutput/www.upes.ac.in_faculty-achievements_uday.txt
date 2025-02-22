@@ -1,0 +1,5 @@
+Uday Bhaskar Sharma presented a talk titled "A Frobenius-Type Formula for Compact Lie Groups" at the conference 'Groups and Representations.' His presentation explored the relationship between finite groups and their character values, specifically addressing the commutator map α: G x G → G, which is essential in calculating the cardinalities of the fiber α^{-1}(g). This computation utilizes a formula attributed to Frobenius, leveraging the irreducible character values χ(g) of the group G.
+
+The focus of Sharma's talk was on deriving a generalized formula applicable to connected compact Lie groups, orthogonal groups, and FC groups. This research was conducted in collaboration with Dr. Shripad Garge from the Indian Institute of Technology (IIT) Bombay.
+
+For further details or inquiries, contact information was not explicitly provided in the text. However, the context suggests that the work is associated with the School of Liberal Studies and Media, which may be the appropriate department for follow-up.

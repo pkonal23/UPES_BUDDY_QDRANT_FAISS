@@ -1,0 +1,29 @@
+The University of Petroleum and Energy Studies (UPES), established under the Uttarakhand State Legislature Act on September 1, 2003, has two campuses located in Dehradun: Bidholi campus (Energy Acres) and Kandoli campus (Knowledge Acres). These campuses offer various programs under multiple schools, including Advanced Engineering, Computer Science, Design, Health Sciences, Law, Business, Modern Media, and Liberal Studies. The university operates under the governance of the Governor of Uttarakhand, who serves as the Visitor, with the Principal Secretary of Higher Education acting as the state's representative on various boards.
+
+### Photography and Digital Media
+UPES encourages students to showcase their photography skills and experimentation with digital media, which includes drawing, sketching, and rendering using various digital tools and techniques in both 2D and 3D formats.
+
+### Admission and Eligibility
+To apply for programs including B.Des and M.Des, students must prepare a portfolio that demonstrates their creative work. For B.Des, the portfolio should include hand-drawn sketches and renderings, while M.Des applicants are required to submit drawings, sketches, and other creative works. 
+
+### Operating System and Device Requirements
+Students must possess a laptop or tablet that meets specific requirements:
+- Operating Systems: Windows XP/Vista/7/8 Professional Edition or the latest Mac OS.
+- Proof of ownership of the OS is mandatory.
+- The device must connect to Wi-Fi and support Windows Active Directory authentication.
+- Recommended specifications include an Intel Core i3 processor, 4 GB RAM, and a hard disk of at least 350 GB.
+- Devices must have legal operating systems and antivirus software installed, with the university providing managed antivirus for devices connecting to its network.
+
+### Admission Process
+Students can apply online through the UPES website. The admission process includes an entrance test (UPESEAT), which is conducted at various centers. The university reserves the right to adjust the number of test days and locations based on government guidelines. The last date for submitting application forms is to be announced.
+
+### Campus Placement
+UPES boasts a strong placement record, with a consistent placement percentage exceeding 90% over the past five years. In 2023, the highest package for School of Computer Science students reached INR 36 LPA, while MBA students had a highest package of INR 27.83 LPA. Top recruiters include well-known companies such as Autodesk, Schlumberger, ONGC, Amazon, Adobe, and Deloitte.
+
+### Scholarships and Financial Aid
+UPES has partnered with several banks, including Axis Bank and State Bank of India, to facilitate education loans for students.
+
+### Contact and Additional Information
+For more details, prospective students can visit the UPES website at [www.upes.ac.in](http://www.upes.ac.in) or access specific sections related to admissions and faculty at [https://www.upes.ac.in/schools-faculty](https://www.upes.ac.in/schools-faculty) and [https://admission.upes.ac.in/apply](https://admission.upes.ac.in/apply).
+
+In summary, UPES provides a comprehensive educational environment with rigorous admission criteria and robust support for student creativity and career development, alongside a strong commitment to maintaining high academic standards and placement success.

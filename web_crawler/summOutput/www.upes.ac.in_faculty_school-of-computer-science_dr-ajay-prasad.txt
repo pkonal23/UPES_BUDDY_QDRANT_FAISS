@@ -1,0 +1,13 @@
+Dr. Ajay Prasad is a distinguished professor at the School of Computer Science, with a robust academic and professional background spanning over 22 years. His primary research interests encompass Security and Digital Forensics, particularly focusing on security issues in the Internet of Things (IoT). He also has significant expertise in Modeling and Simulation, Computer Systems, Security Systems, Parallel and Distributed Systems, Grid Systems, and Cloud Computing. In recent years, his research interests have expanded to include Artificial Intelligence and Machine Learning (AIML).
+
+Dr. Prasad has held various leadership roles, including over ten years as Head of the Department (HoD) in different capacities. He is committed to modern teaching methodologies and has effectively engaged with undergraduate, postgraduate, and doctoral students. His teaching areas include Computer Architecture, Simulation and Modelling, Network/Data Security Principles, System Programming, Cloud Systems, Compilers, and Digital Forensics. He has supervised five PhD scholars who have successfully completed their degrees under his guidance.
+
+In addition to his teaching responsibilities, Dr. Prasad has authored numerous technical papers published in international journals and conferences. He has served as a reviewer for various international journals and has played a key role in organizing international conferences, including the “Next Generation Computing Technologies (NGCT)” at UPES since 2015. He has also been a session chair and co-chair at numerous national and international conferences and workshops.
+
+Dr. Prasad is actively involved in community outreach, conducting Cyber Awareness Seminars and serving as a keynote speaker for government agencies such as the Cyber Police (STF) and DITAC for the Uttarakhand Government. He is a member of the Uttarakhand Police Digital Volunteers and a panellist in the Cyber Cell Uttarakhand.
+
+His contributions to academia have been recognized through awards, including the Best Paper Award from the Department of Electronics Engineering at A.M.U and a letter of appreciation from the Cyber Police (STF) of the Uttarakhand Government for his efforts in promoting cybersecurity awareness.
+
+Dr. Prasad has extensive experience in faculty roles at various reputed institutions and has worked in the industry on database applications in the banking sector. His previous positions include Head of the Department of Computer Applications and Cyber Platforms at UPES, as well as roles at Sharda University and Sir Padampat Singhania University.
+
+For further inquiries or contact, Dr. Ajay Prasad can be reached via email at aprasad@ddn.upes.ac.in.

@@ -1,0 +1,20 @@
+Dr. Keshav Sinha is an Assistant Professor in the School of Computer Science with a robust academic and research background. His research interests span various domains, including data security, security protocols, optimization, humanities, politics, and cyber policies. Dr. Sinha has an impressive publication record, which includes:
+
+- 3 papers in SCIE journals,
+- 10 book chapters indexed in Scopus,
+- 9 conference papers in Scopus,
+- 4 additional book chapters, and
+- 2 authored books.
+
+He specializes in Cryptography and Network Security, focusing on creating secure environments for multimedia transmission. His scholarly contributions extend to Soft Computing, Humanities, and social and cyber policy, aiming to introduce flexibility and innovation within the computer science community.
+
+Dr. Sinha teaches a variety of subjects in computer science, such as Operating Systems, Computer Graphics, IT Application & Data Security, Cryptography, and IT System Security & Physical Security. His teaching philosophy emphasizes a student-centered learning environment that encourages critical thinking, practical applications, and holistic growth. He employs diverse educational strategies and technology tools to accommodate various learning styles and promotes inclusivity through real-world examples and engaging discussions.
+
+In addition to his teaching responsibilities, Dr. Sinha has established himself as a respected reviewer for several esteemed journals, including IGI Global, Journal of Intelligent and Fuzzy Systems (JIFS), Microelectronics, Journal of Virtual Reality & Intelligent Hardware, and Soft Computing, contributing to the quality and rigor of academic publications.
+
+Before his tenure at UPES, Dr. Sinha held several academic positions, including Assistant Professor at Sarala Birla University in Ranchi, Jharkhand, and roles at Usha Martin University. He also worked as a Project Assistant Level-II at CSIR-CIMFR and ECL in Dhanbad and Kajora Area, India. His commitment to mentoring is evident as he serves as a Co-guide for one M.Tech scholar and one Ph.D. scholar currently pursuing their research.
+
+For further inquiries, Dr. Keshav Sinha can be contacted via email at keshav.sinha@ddn.upes.ac.in. His scholarly profiles can be accessed through the following links:
+- Google Scholar: [Dr. Keshav Sinha's Google Scholar Profile](https://scholar.google.com/citations?user=nuwPYnsAAAAJ&hl=en)
+- Scopus: [Dr. Keshav Sinha's Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=7102371104)
+- ORCID: [Dr. Keshav Sinha's ORCID Profile](https://orcid.org/0000-0003-1053-3911)

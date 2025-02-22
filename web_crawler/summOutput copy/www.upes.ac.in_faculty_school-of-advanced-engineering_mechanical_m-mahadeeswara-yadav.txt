@@ -1,0 +1,32 @@
+**Prof. M. Mahadeeswara Yadav - Profile Summary**
+
+**Position**: Assistant Professor, Mechanical Cluster  
+**Institution**: School of Advanced Engineering, University of Petroleum and Energy Studies (UPES)  
+
+**Research Interests**:  
+Prof. Yadav specializes in avionics and is dedicated to mentoring students in aerial robotics and computer vision projects. He aims to enhance student understanding through hands-on demonstrations and simulations, integrating experimental approaches into his teaching philosophy.
+
+**Work Experience**:  
+Prior to his current role at UPES, Prof. Yadav served as an avionics engineer at the Aeronautical Development Agency in Bengaluru, where he contributed to the system design and evaluation of the indigenous fighter aircraft, Tejas. He also has experience as a software engineer in the software industry. His work with Boeing Research and Technology, Australia allowed him to present his research to their team, gaining insights into aerospace research challenges.
+
+**Education**:  
+- **Ph.D.** in Aerial Biorobotics, Queensland Brain Institute, The University of Queensland, Brisbane, Australia (2015-2020)  
+- **Master's Degree** in Avionics, Madras Institute of Technology, Anna University, Chennai  
+
+**Scholarships and Awards**:  
+- University of Queensland Higher Research Degree International Scholarship (2015-2020)  
+- Boeing Research and Technology, Australia (BRT-A) top-up scholarship during Ph.D.  
+- Aeronautical Research & Development Board (ARDB) scholarship from the Defence Research & Development Organization (DRDO), India for 2011-2012  
+
+**Scholarly Activities**:  
+During his Ph.D., Prof. Yadav focused on studying the flight characteristics and collision avoidance behaviors of honeybees in natural environments. He is keen to collaborate with colleagues and students to tackle flight-related challenges in aerial vehicles using bioinspired principles.
+
+**Notable Projects and Competitions**:  
+- Participated in "UAVFORGE," an unmanned aerial vehicle competition organized by the US DOD & DARPA (January-May 2012), where he led computer vision tasks as part of the only Indian team.  
+- Presented a "Hex copter for Civil Applications" to Dr. APJ Abdul Kalam, former President of India, during his visit to Anna University in August 2012.  
+- Presented research at various prestigious robotics and neuroethology conferences during his doctoral studies.
+
+**Contact Information**:  
+Email: mahadeeswara.Yadav@ddn.upes.ac.in  
+
+Prof. Yadav's commitment to integrating hands-on learning experiences with theoretical knowledge positions him as a valuable asset to the UPES community, particularly in the fields of aerospace engineering and robotics.

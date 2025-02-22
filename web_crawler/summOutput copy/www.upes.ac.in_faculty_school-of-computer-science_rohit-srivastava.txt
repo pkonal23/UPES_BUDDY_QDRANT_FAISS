@@ -1,0 +1,23 @@
+**Research Interests and Publications:**
+Dr. Rohit Srivastava is a prominent figure in the field of Computer Science, particularly known for his work in biometric image processing and pattern recognition. He published a significant paper titled “Real-Time Multimodal Biometric Authentication of Human using Face Feature Analysis” in the journal *Computers, Materials, and Continua* (CMC) on January 8, 2021, which is SCIE Indexed and has an Impact Factor of 3.77 (Id: 15466). Another notable publication is “Match level fusion of FKP and Iris for Human Identity Validation using Neuro-Fuzzy Classifier” in *Sensors, MDPI* on May 6, 2022, also SCIE Indexed with an Impact Factor of 3.586.
+
+**Academic Background:**
+Dr. Srivastava earned his Ph.D. in Computer Science Engineering from SPSU, Udaipur in 2019, following an M.Tech from JNU in 2011, and a B.E. in Computer Engineering from Rajasthan University in 2007. He has an impressive portfolio, having published over 30 papers in peer-reviewed journals and conferences with esteemed publishers such as IEEE, ACM, Springer, and Elsevier. 
+
+**Professional Experience:**
+With over 15 years of teaching experience, Dr. Srivastava has held various academic positions. Before his current role at UPES, he served as an Assistant Professor at Parul University for nearly five years, where he also coordinated Intellectual Property Rights (IPR) initiatives. His teaching career includes positions at Vyas Institute of Engineering and Technology and Shrinathji Institute of Engineering and Technology.
+
+**Teaching Philosophy:**
+Dr. Srivastava emphasizes a practical approach to education, advocating for teaching that connects theoretical knowledge with real-world applications. He believes in preparing students for future challenges by fostering self-awareness and understanding of their environment. He incorporates field trips and hands-on experiences to develop essential soft skills like communication and leadership.
+
+**Scholarly Contributions:**
+Dr. Srivastava has registered copyrights for two applications: “Half Halt Press,” an Android-based book management application, and a methodology for enhancing sensor node performance titled “Securing 6LowPan based on Performance Analysis using custom IPv6 Application.” He is also certified as a Network & Security Professional by Cyberoam.
+
+**Courses and Supervision:**
+He has taught various courses including Computer Graphics, Information Retrieval, Compiler Design, and Parallel Processing. He has supervised 14 M.Tech dissertations and over 50 undergraduate projects, alongside authoring three textbooks and contributing to book chapters indexed in Scopus.
+
+**Research Proposals:**
+Dr. Srivastava submitted a research proposal titled “Real Time Weed Identification for Crops using UAV through Image Processing and Deep Learning Methods” to the Department of Biotechnology, Government of India, with a project cost of ₹12,32,454.
+
+**Contact Information:**
+For further inquiries, Dr. Rohit Srivastava can be reached via email at r.srivastava@ddn.upes.ac.in.

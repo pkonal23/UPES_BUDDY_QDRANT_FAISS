@@ -1,0 +1,26 @@
+Dr. Seim Timung is an accomplished academic with a diverse portfolio of scholarly activities, including teaching, research, and student engagement. He has taught both theory and laboratory courses through online platforms, coordinated student activities, managed specialized laboratories, supervised student research projects, maintained audit documentation, and facilitated online proctoring to uphold academic integrity. His multifaceted approach underscores his commitment to enhancing the educational experience.
+
+**Research Interests:**
+Dr. Timung's research spans several key areas: microfluidics aimed at healthcare advancements, energy harvesting, nanomaterials synthesis, computational fluid dynamics, and biofuels. During his PhD at IIT Guwahati, under the mentorship of Dr. Dipankar Bandyopadhyay and Dr. Tapas Kumar Mandal, he conducted experiments and simulations focused on miniaturizing oil-water flow morphologies, exploring electric field-induced droplet deformation in microfluidic channels, and developing a microfluidic solar energy harvester. His research contributions have been recognized through publications in peer-reviewed journals and a US Patent. He holds a Master of Technology in Petroleum Refinery Engineering from IIT Guwahati, where he developed a flow pattern indicator for gas-liquid flow using probabilistic neural networks. Dr. Timung has received accolades for his research, including the "Best Paper" award at multiple conferences. 
+
+**Professional Experience:**
+Dr. Timung has experience as a Guest Faculty at NIT Arunachal Pradesh and has engaged in various collaborative projects related to droplet dewetting, water jet breakup under electric fields, and the production of silver nanoparticles. He is proficient in software such as Ansys Fluent, COMSOL Multiphysics, and MATLAB, which has facilitated his experimental and computational studies in microfluidics.
+
+**Awards and Recognition:**
+Dr. Timung has received several awards for his contributions, including:
+- NCC 'A' and 'B' certificates in 2001 and 2003 for his participation in the National Cadet Corps.
+- Best Paper Award at the International Conference on MEMS and Sensors at IIT Madras in 2014.
+- Best Innovative Paper award at the 2nd International Congress on Advances in Mechanical Engineering at NIT Jalandhar in 2021.
+- Best Paper Award at the Recent Developments in Mechanical Engineering conference at the College of Engineering, Pune.
+
+**Teaching Philosophy:**
+Dr. Timung prioritizes creating an inclusive, student-centered learning environment that fosters critical thinking, creativity, and lifelong learning. He employs active learning strategies, encourages diverse perspectives, and emphasizes the importance of building positive relationships with his students. His goal is to empower students to take an active role in their education, nurturing their curiosity and promoting independent thinking.
+
+**Courses Taught:**
+Dr. Timung teaches a range of subjects in chemical engineering, including mechanical operations, chemical technology, numerical methods, heat transfer, Python programming, and petroleum refining technology.
+
+**Contact Information:**
+- Email: stimung@ddn.upes.ac.in
+- Google Scholar Profile: [Dr. Seim Timung's Publications](https://scholar.google.co.in/citations?user=GmPPGMsAAAAJ&hl=en)
+
+Dr. Seim Timung is currently an Assistant Professor (SS) at the School of Advanced Engineering, where he continues to contribute to the academic and research community through his expertise and dedication.

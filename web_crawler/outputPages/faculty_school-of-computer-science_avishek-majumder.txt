@@ -1,0 +1,33 @@
+GATE in Electronics and Communication
+Blockchain Technology
+Blockchain Components and Architectures
+Research Interests
+Dr. Avishek Majumdar holds a Ph.D. in Computer Science from the Indian Statistical Institute, Kolkata. With an academic foundation spanning Nano Science and Technology (M.Tech., Jadavpur University) and Electronics and Communication Engineering (B.Tech., West Bengal University of Technology Kolkata), his expertise bridges interdisciplinary domains of computing and engineering.
+(2016)
+Home
+Work Experience
+Cryptology and Network Security
+Awards and Grants
+Cryptology, Design, Implementations and Analysis of Cryptographic Protocols.
+Close
+School of Computer Science
+Faculty
+avishek.majumder@ddn.upes.ac.in
+Dr. Majumdar has worked as a Research Associate at IIIT Delhi in the Department of Computer Science during the time period of January – July 2023, contributing to research initiatives in the field. Prior to this, he was a Computer Trainee at ISI Kolkata (January – June 2014), gaining hands-on experience in computational methodologies and technical applications.
+My teaching philosophy focuses on fostering curiosity by encouraging engaging and thought-provoking discussions. I believe in creating an environment where students are challenged to question assumptions, explore new perspectives, and cultivate an inquisitive mindset. By fostering this approach, I aim to inspire a passion for lifelong learning. My ultimate goal is to empower students to think independently, critically analyze information, and apply their knowledge in real-world scenarios.
+Broadcast Encryption
+Industry Use Cases Using Blockchain
+Courses Taught
+Eligibility Criteria
+Searchable Encryption (Protecting data stored at cloud)
+Computer Organization and Architecture
+Profile Summary
+Assistant Professor
+Awarded for exceptional performance in research, enabling further academic pursuits at one of India's leading research institutions.
+(2013, 2014)
+Contact
+JRF Fellowship at ISI Kolkata
+Recognized for outstanding performance in the Graduate Aptitude Test in Engineering, securing top ranks in two consecutive years.
+Problem Solving
+Teaching Philosophy
+Dr. Avishek Majumder

@@ -1,0 +1,11 @@
+Kshitij Kumre is an Assistant Professor at the University of Petroleum and Energy Studies (UPES) in Dehradun, where he has been teaching since June 2024. His teaching portfolio includes courses such as "Design and Analysis of Algorithms" and "Linux Lab," focusing on both fundamental and advanced topics in computer science. Kshitij emphasizes a student-centric approach to education, prioritizing understanding and practical application over rote memorization. He aims to create an engaging and interactive learning environment that fosters critical thinking and creative problem-solving.
+
+His academic background includes an M.Tech from NITK Surathkal and a B.Tech from NIT Agartala, with a strong foundation in Information Technology. Kshitij has developed a range of technical skills, including expertise in Data Structures & Algorithms, Machine Learning, Deep Learning, and AWS.
+
+In terms of research, Kshitij has made significant contributions, including the development of a Sentiment Analysis model for financial statements using advanced techniques like BERT and FinBERT, which achieved a 25% improvement in accuracy through data augmentation. He is also working on a DeepFake Detection project utilizing ResNext CNN and LSTM, with the goal of real-time detection of AI-generated deepfake videos, and plans to deploy this project via a Django application on a cloud platform. His research interests lie in Machine Learning, Deep Learning, and Natural Language Processing, particularly their applications in real-world scenarios.
+
+Kshitij has a proven track record of mentoring students and assisting them with academic projects, demonstrating a commitment to fostering curiosity and innovation. He actively participates in research activities and contributes to academic publications, while also engaging in continuous learning and skill development, holding certifications in AWS Cloud Practitioner and Mastering Data Structures & Algorithms.
+
+Kshitij has also achieved notable accolades, securing an All India Rank of 2988 in the CodeKaze Competition by Coding Ninjas among over 100,000 participants, and contributing to a Guinness World Record in Origami on January 24, 2017.
+
+For further inquiries, Kshitij can be contacted via email at kshitijdeepak.kumre@ddn.upes.ac.in.

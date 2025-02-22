@@ -1,0 +1,29 @@
+The B.Sc. (Hons.) in Geology with a specialization in Geoinformatics offered by the UPES School of Advanced Engineering is a comprehensive undergraduate program designed to blend theoretical knowledge with practical applications in geology and geoinformatics. The program is structured over eight semesters, incorporating core subjects such as mineralogy, petrology, structural geology, and various specialized courses in geoinformatics, including Geographic Information Systems (GIS), Remote Sensing, and Global Positioning Systems (GPS).
+
+### Program Structure and Curriculum
+- **Core Subjects**: The curriculum includes foundational courses in geology, such as Engineering Geology, Metamorphic Petrology, and Elements of Geochemistry, alongside practical labs and fieldwork.
+- **Specialization in Geoinformatics**: Students gain hands-on experience with industry-standard software tools like ArcGIS, ERDAS, Quantum GIS, and SAGA, preparing them for the demands of the geoinformatics field.
+- **Real-World Applications**: The program emphasizes practical training through fieldwork, laboratory exercises, and collaborations with industry, aligning with national initiatives like Digital India and Smart Cities.
+
+### Career Opportunities
+Graduates of the program have diverse career prospects, particularly after pursuing a postgraduate degree. Potential employers include:
+- Geological Survey of India (GSI)
+- Oil and Natural Gas Corporation (ONGC)
+- National Geophysical Research Institute (NGRI)
+- Reliance Industries Limited (RIL)
+- Various environmental consulting firms and IT companies specializing in geo modeling and GIS product development.
+
+Career roles may include:
+- Geotechnical analysts
+- GIS programmers/developers
+- Remote sensing specialists
+- Environmental consultants
+
+### Admission and Eligibility
+To be eligible for the B.Sc. (Hons.) in Geology (Geoinformatics), candidates must have a minimum of 50% marks in Class X and XII (with a focus on Physics, Chemistry, and Mathematics or Biology). Selection is based on performance in a personal interview.
+
+### Contact Information
+For further inquiries regarding the program, interested individuals may need to provide their contact details, including email addresses and mobile numbers, as part of the application process.
+
+### Conclusion
+The B.Sc. (Hons.) in Geology (Geoinformatics) program at UPES equips students with a solid foundation in geological sciences and advanced geospatial technology, enabling them to contribute effectively to addressing environmental challenges and participating in India's developmental initiatives. The curriculum's alignment with contemporary industry trends ensures that graduates are well-prepared for the evolving demands of the geosciences and geospatial technology sectors.

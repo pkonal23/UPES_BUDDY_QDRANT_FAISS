@@ -1,0 +1,206 @@
+﻿MISCELLANEOUS:
+ 
+ 
+ 
+User: Which courses are available in UPES? / courses in UPES / programs in UPES / UPES courses
+Bot: You can check courses offered by UPES at:
+\ \nSchool of Advanced Engineering - https://www.upes.ac.in/school-of-advanced-engineering
+\ \nSchool of Business - https://www.upes.ac.in/school-of-business
+\ \nSchool of Computer Science - https://www.upes.ac.in/school-of-computer-science
+\ \nSchool of Design - https://www.upes.ac.in/school-of-design
+\ \nSchool of Health Sciences & Technology - https://www.upes.ac.in/school-of-health-sciences-and-technology
+\ \nSchool of Law - https://www.upes.ac.in/school-of-law
+\ \nSchool of Liberal Studies - https://www.upes.ac.in/school-of-liberal-studies
+\ \nSchool of Modern Media - https://www.upes.ac.in/school-of-modern-media
+\ \nSchool for Life - https://www.upes.ac.in/school-for-life
+ 
+ 
+ 
+User: Where can I find information about Summer School? / How can I contact the Summer School administration? / Tell me about the Summer School program and how to reach them. / Need details on Summer School and Directed Reading, where?
+Bot: The School will confirm or you can reach out to the Course Coordinator or Head of the Department (HOD) for inquiries regarding Summer School or Directed Reading.
+ 
+ 
+User: My Stu ID card is not working, what should I do? / Stu ID card malfunction, how to resolve it? / Stu ID card not functioning, help!
+Bot: If your Student ID is not working, please log a ticket on the IT helpdesk or contact the support team at sfc@ddn.upes.ac.in for assistance.
+ 
+ 
+User: If physical documents are being collected through an authorized person, where can the authority letter format be downloaded from? / Procedure to download the authority letter format for collecting physical documents through a representative? / Is there a template available for authorizing someone to collect my physical academic documents? / Where can I find the authority letter format for degree collection by a representative?
+Bot: If you need to authorize someone to collect your physical documents, you can download the authority letter format from the following link: (https://stu.upes.ac.in/). Click on "SRE Requisition Form" to access the required format.
+ 
+ 
+User: How can we request for online verification of academic records? / Procedure for online verification of academic records? / Where can I initiate online verification of academic records? / Requesting online verification of academic records, what's the process?
+Bot: To request online verification of academic records, please follow these steps: 1. Raise a ticket through the STUDENT Self Service Portal at http://upes-hd.ddn.upes.ac.in/upeshd. 2. Additionally, send an email to the following addresses for verification: - mshrivastava@ddn.upes.ac.in - hema@ddn.upes.ac.in - n.sharma@upes.ac.in - swathi.duvvrun@ddn.upes.ac.in This process will enable the online verification of your academic records.
+ 
+ 
+User: How can the transcript be issued? / Procedure for obtaining an academic transcript? / Where can I request my academic transcript? / Issuing an academic transcript, what's the process?
+Bot: To request the issuance of a transcript, please follow these steps: 1. Raise a ticket through the STUDENT Self Service Portal at http://upes-hd.ddn.upes.ac.in/upeshd. 2. Additionally, send an email to the following addresses to initiate the transcript request: - hema@ddn.upes.ac.in - swathi.duvvrun@ddn.upes.ac.in Following these steps will help you obtain the necessary transcript.
+ 
+ 
+ 
+User: "I'm experiencing problems with course mapping. Can you help?" / "Why am I unable to register for exploratory courses?" / "What should I do if I encounter issues with mapping for my courses?" / "Is there a way to resolve mapping-related issues when trying to register for courses?"
+Bot: If you are facing issues with registering for exploratory courses or have problems related to mapping, please follow one of the following procedures: 1. Email at apo@ddn.upes.ac.in with a cc to dsw.helpdesk@ddn.upes.ac.in for assistance. 2. Raise a ticket from the MY UPES helpdesk under the Department 'Planning Operations & Records,' then select the category 'Timetable.' Select the appropriate sub-category based on your issue, and make sure to attach a screenshot for reference.
+ 
+ 
+ 
+User: "I want to stay in a hostel on campus. How can I apply for one?" / "Can you provide information about the hostel facilities available on campus?" / "Is it possible to get a room in the campus hostel?" / "I'm interested in staying in a hostel. What are the steps to request accommodation?"
+Bot: If you are interested in securing a hostel on campus, please refer to the latest emails regarding hostel reservation and the attached Standard Operating Procedure (SOP). Hostel accommodations are limited and are allocated on a first-come, first-served basis. For further assistance and information, please reach out to the respective Hostel Wardens.
+ 
+ 
+User: "I'm having Coursera login issues. Can you assist me?" / "How do I resolve login problems on Coursera?" / "I can't log in to my Coursera account. What should I do?" / "Is there a way to recover a forgotten Coursera password?"
+Bot: If you are facing login issues with Coursera, please follow these steps to get assistance: - Raise a ticket from the MY UPES helpdesk. - Under the Department category, select 'IT.' - In the category, choose 'Coursera Related Issues.' - Select the appropriate sub-category based on your issue. - Be sure to attach a screenshot for reference when raising the ticket.
+ 
+ 
+User: "I'd like to request a course change. How can I proceed?" / "What's the process for changing my enrolled course?" / "Is it possible to switch to a different course after registration?" / "How do I apply for a course change request?"
+Bot: To request a course change, please get in touch with your Cluster Heads or Course Coordinator for further guidance and assistance.
+ 
+ 
+User: "I have some library-related queries. Can you help?" / "How do I check out books from the library?" / "What are the library hours of operation?" / "Can I reserve a study room at the library?"
+Bot: For library-related queries, you can contact Mr. Praveen Kapoor at pkapoor@ddn.upes.ac.in or email library@ddn.upes.ac.in with a cc to dsw.helpdesk@ddn.upes.ac.in for additional support and information.
+ 
+ 
+User: "When will the merit scholarship announcements be made?" / "Is there an update on academic scholarship results?" / "Can you provide information on the latest scholarship announcements?" / "How can I check if I've been awarded a scholarship?"
+Bot: The announcement of Merit and Academic scholarships will be as follows: 1. If you have been awarded a scholarship, the scholarship amount will be reflected in your student's fee payment card. 2. You can also check the list of scholarships awarded to students on your student portal for verification.
+ 
+ 
+User: "The domicile discount is not reflected in my tuition. What should I do?" / "I believe I'm eligible for a domicile discount, but it hasn't been applied to my fees." / "Why wasn't the domicile discount given to me?" / "Can you assist with domicile discount-related issues?"
+Bot: If you haven't received the domicile discount, please follow these steps: 1. Verify if the domicile certificate and Income Tax Return (ITR) of both parents were submitted in hard copy on or before the last date of submission. 2. If you have met the submission requirements, send an email to rajeshsingh@ddn.upes.ac.in with a cc to dsw.helpdesk@ddn.upes.ac.in to address the issue and seek assistance.
+ 
+ 
+User: "I need information on the withdrawal process. Can you guide me?" / "What's the procedure for withdrawal? I have some questions about it." / "Can you explain the steps involved in withdrawing from the program?" / "How do students or parents initiate the withdrawal process?"
+Bot: For withdrawal queries from students or parents, please send an email to dsw.helpdesk@ddn.upes.ac.in to initiate the process and get the necessary guidance.
+ 
+ 
+User: "What is the dress code for students at the institution?" / "Can you provide information about the dress code policy for students?" / "Are there any specific guidelines regarding student attire?" / "I'm a new student. Is there a dress code I need to follow?"
+Bot: For information on the dress code for students, please refer to the student's bulletin, which can be found at this link: https://www.upes.ac.in/student-space.
+ 
+ 
+ 
+ 
+User: "I need the fee structure for my education loan application. How can I get that?" / "Where can I find the fee structure for the education loan?" / "Can you provide a document outlining the fee structure for education loans?" / "I'm applying for an education loan and need the fee structure details."
+Bot: To obtain the fee structure for an education loan, please follow these steps: 1. Raise a ticket from the MY UPES Helpdesk under the department 'Student Facilitation Centre.' Provide the following details: - Student Name - Program Name - Father's Name - SAP ID - Year of Admission 2. Alternatively, you can send an email to dsw.helpdesk@ddn.upes.ac.in with the same information. Additionally, you can access the complete fee structure for all branches at UPES by visiting the following link: https://www.upes.ac.in/admissions/fee-structure.
+ 
+ 
+User: "What are the criteria for the Year-Back policy, and who is responsible for processing it?" / "Can you explain the Year-Back criteria and the procedure for students?" / "How does the Year-Back system work, and who manages it?" / "What happens if a student fails to meet the Year-Back criteria?"
+Bot: The Year-Back criteria and the responsible authority for processing it can be found in the student bulletin. For detailed information, please consult the student bulletin (https://www.upes.ac.in/student-space).
+ 
+ 
+User: "Can you explain the process of re-registration for the upcoming semester?" / "How do I go about re-registering for the next academic term?" / "When and how should I complete the re-registration for the new semester?" / "Is there a specific deadline for re-registration, and what are the steps involved?"
+Bot: The process of re-registration involves the following steps: STEP 1: Pay the semester fee through the student portal or use the alternate bank details shared on your official student email ID. STEP 2: After clearing your fee and library dues, you can proceed with the re-registration process. This can be done through the portal or by sending an email to studentrecords@ddn.upes.ac.in with a cc to dsw.helpdesk@ddn.upes.ac.in.
+ 
+ 
+User: "I didn't apply for a supplementary exam, but an amount was deducted. I need a refund." / "I wasn't aware of a supplementary exam fee, but my account was charged. Can I get a refund?" / "Can you help me with the refund process for the extra amount deducted for supplementary exams?" / "What steps should I follow to request a refund for the supplementary exam fee?"
+Bot: If you did not apply for supplementary exams, but your amount was deducted, or if you believe that an extra amount was deducted and you require a refund, please follow these steps: - Send an email to preeti@ddn.upes.ac.in. - Alternatively, you can also email akvashisth@ddn.upes.ac.in. - Make sure to cc your email to dsw.helpdesk@ddn.upes.ac.in for assistance with your refund request.
+ 
+ 
+User: "How can I apply for a bonafide certificate?" / "What's the procedure for requesting a bonafide certificate?" / "I need a bonafide certificate. How do I initiate the application process?" / "Is there a specific form or office where I should apply for a bonafide certificate?"
+Bot: To apply for a bonafide certificate, please follow these steps: 1. Raise a ticket for your Bonafide on the MYUPES helpdesk. 2. Under the department head, select 'Planning Operations & Records.' 3. In the Category, choose 'Certificates & Records.' 4. In the Subcategory, select 'Bonafide.' 5. In the description box, mention the reason for needing the bonafide certificate. This process will help you obtain the bonafide certificate you require.
+ 
+ 
+User: "My attendance is not updated on the portal. How can I resolve this issue?" / "I've attended classes, but my attendance is not reflecting on the portal. What should I do?" / "Is there a process for reporting attendance discrepancies on the portal?" / "Can you assist me in getting my attendance updated on the student portal?"
+Bot: If your attendance is not being updated on the portal, please follow these steps based on the situation: 1. If your card is not punching, visit the IT department or send an email to ithelpdesk@upes.ac.in for assistance. 2. If your ID card is punching but the attendance is not visible on the portal, you can either raise a ticket through the APO system or send an email to apo@ddn.upes.ac.in to address the issue.
+ 
+ 
+User: "I need to request a name change. How can I initiate the process?" / "What's the procedure for updating my address and contact information?" / "Can you guide me on how to change my email address in the records?" / "I want to update my contact details. What are the steps I should follow?"
+Bot: To request a name change, address update, contact information update, or email update, please follow these steps: 1. Raise a ticket on MYUPES helpdesk. 2. Under the department head, select 'Planning Operations & Records.' 3. In the Category, choose 'Certificates & Records.' 4. In the Subcategory, select 'Personal Details.' 5. Additionally, attach or upload the required document based on your request: - 10th-grade card for a name change - Aadhar card for an address change - An application signed by parents for email and contact information updates. This process will help you initiate the requested updates to your personal information.
+ 
+ 
+User: "Timetable not visible." / "The timetable is not appearing on the website. Why is that?" / "Where did the timetable go? It's no longer visible." / "Why isn't the timetable showing up on my screen?"
+Bot: If your timetable is not visible, please send an email to apo@ddn.upes.ac.in for assistance in resolving the issue.
+ 
+ 
+ 
+User: "Transport assistance" / "I'm having issues with the campus transportation service." / "Can you help me with my transport-related problem?" / "How do I report an issue with the transportation service?"
+Bot: For inquiries or assistance regarding transport services, please send an email to manpreet.singh@ddn.upes.ac.in.
+ 
+ 
+User: "Need offer letter for bank loan." / "I require an offer letter for my bank loan application." / "How can I obtain an offer letter for my educational loan?" / "What's the procedure to request an offer letter for a loan?"
+Bot: If you require an offer letter for a bank loan, please send an email to anujkumar.sinha@upes.ac.in with a cc to dsw.helpdesk@ddn.upes.ac.in to initiate the process.
+ 
+ 
+User: "Want to opt / opt out of Hons/ change of specialization." / "I'm considering changing my specialization. How can I do that?" / "Can you guide me on how to opt for an Honors program?" / "I want to opt out of the Honors program. What's the process?"
+Bot: To opt in or out of Honors or request a change of specialization, please get in touch with your school's course coordinator or cluster head for guidance and support.
+ 
+ 
+User: "How to apply for a duplicate id card." / "My ID card is lost. What's the process for a duplicate?" / "Can you guide me on applying for a duplicate ID card?" / "I need to replace my lost ID card. What should I do?"
+Bot: To apply for a duplicate ID card, follow these steps: 1. Collect a duplicate ID card request form from the campus reception. 2. Pay a fee of 500/- through the portal. 3. Get the form signed by the finance department. 4. Submit the completed form to the Department of Student Welfare (DSW). This process will help you obtain a duplicate ID card.
+ 
+ 
+User: "Blackboard mapping/ class recording issue." / "I'm experiencing issues with Blackboard mapping. Help!" / "My class recordings are not working on Blackboard. What can I do?" / "How do I resolve problems with class recordings on Blackboard?"
+Bot: If you are facing issues related to Blackboard mapping or class recording, please raise a ticket on MYUPES helpdesk under the department head "IT" to address the problem and seek assistance.
+ 
+ 
+ 
+ 
+ 
+User: "Wi-Fi is not working." / "My Wi-Fi connection is down. What's the issue?" / "Can you help me troubleshoot my Wi-Fi problem?" / "The Wi-Fi in my area is not functioning. What should I do?"
+Bot: If you're experiencing issues with the Wi-Fi not working, please send an email to ithelpdesk@upes.ac.in for assistance.
+ 
+ 
+User: "My Identity (ID) Card is not working" / "How can I resolve issues with my ID card?" / "My ID card is not being accepted. What's wrong?" / "Can you help me with my non-functional ID card?"
+Bot: Please contact IT Department at your campus (Bidholi/Kandoli) for a quick check and rectification.
+ 
+ 
+User: "Want to change program" / "How do I request a program change?" / "Can you guide me on changing my academic program?" / "I'm interested in switching my major. What's the process?"
+Bot: Please contact your Cluster Heads or Course Coordinator.
+ 
+ 
+User: "Shifting of classes" / "I need to shift my classes. How can I arrange that?" / "Can you help me with shifting my class schedule?" / "How do I go about changing my class timings?"
+Bot: For shifting classes or changing class timings, please contact your Cluster Heads or Course Coordinator for assistance.
+ 
+ 
+User: "Criteria for preparation of Debar list or list of students debarred from exams" / "What criteria are used to prepare the debar list?" / "How is the list of students debarred from exams determined?" / "Can you explain the process for debarment of students from exams?"
+Bot: Please refer to the student bulletin or visit APO/SRE office at your campus (Bidholi/Kandoli).
+ 
+ 
+ 
+ 
+User: "list of holidays" / "date of end terms" / "Can you provide me with a list of holidays for this year?" / "When is the end term date for this semester?"
+Bot: Please refer to the academic calendar available on the MYUPES portal.
+ 
+ 
+User: "Can you tell me the ranking of UPES?" / "Where does UPES stand in the rankings?" / "What is UPES' position in the rankings?" / "How does UPES fare in the rankings?"
+Bot: National Institutional Ranking Framework (NIRF) 2023:
+\ \n• Overall: 52nd
+\ \n• University: 52nd
+\ \n• Engineering: 54th
+\ \n• Pharmacy: 79th\ \n
+\ \nQS World University Rankings 2023:
+\ \n• India: 3rd
+\ \n• Global: 601-650\ \n
+\ \nTimes Higher Education (THE) World University Rankings 2023:
+\ \n• Global: 1001+
+ 
+ 
+User: "Tell me about UPES" / "Can you provide some information about UPES?" / "Give me details on UPES, if you can." / "What's there to know about UPES?"
+Bot: UPES is a private university located in Dehradun, Uttarakhand, India. It was established in 2003 and is accredited by the National Assessment and Accreditation Council (NAAC). UPES offers a wide range of undergraduate and postgraduate programs in engineering, computer science, law, design, business, health sciences and technology, modern media, and liberal studies. UPES is known for its strong industry linkages and experiential learning programs. It is ranked among the top private universities in India by various ranking agencies.
+ 
+ 
+User: "What's the full form of UPES?" / "Tell me the complete name of UPES." / "Can you provide the full name of UPES?" / "I want to know the full form of UPES."
+Bot: University of Petroleum and Energy Studies
+ 
+ 
+User: "sports facility in upes" / "sports arena in upes" / "location of sports area" / "how to reach sports area in upes?"
+Bot: You can reach to the sports ground with the help of Google Maps by just clicking at:
+\
+Bidholi - https://goo.gl/maps/83oXJtuGaewfrRex6
+\
+Kandoli - https://maps.app.goo.gl/wVEYUUeW42GfbEDt7
+ 
+ 
+ 
+User: faculty timetable / timetable of faculty / sir timetable / ma'am timetable
+Bot: You can access the timetable of faculties at: https://drive.google.com/drive/folders/1-P33No4nyHqaxGL1SBoX57xXTBbmOt01
+ 
+ 
+User: what is my timetable / timetable of batch / when are my classes / timetable
+Bot: You can access the timetable of students at: https://drive.google.com/drive/folders/1QmlugvWMbOpSWY05TtZLpJZalURXdF2u
+ 
+User: college bus / college transport / when bus run / bus route / will buses run / buses / bus / bus pass / bus timings / bus timing / bus time
+Bot: You can get the latest information about buses from the official Whatsapp group.
+For other queries, you can visit the transportation office.
+ 
+ 
+ 
+ 
+
+

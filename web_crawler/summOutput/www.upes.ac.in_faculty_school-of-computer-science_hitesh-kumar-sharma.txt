@@ -1,0 +1,11 @@
+Dr. Hitesh Kumar Sharma is a distinguished academic in the field of Computer Science & Engineering, having earned his Ph.D. in the subject. His research interests encompass a wide array of advanced topics including Artificial Intelligence, Image Processing, Deep Learning, Machine Learning, and Blockchain technology. Throughout his career, he has made significant contributions to academia, evidenced by the publication of 5 authored books, 35 patents, and over 100 research papers in reputable journals indexed by SCI, ESCI, Scopus, and WoS.
+
+Dr. Hitesh has been recognized for his outstanding contributions to education and research, receiving accolades such as the Young Scientist Award from the Chief Minister of Uttarakhand in 2021 and the Best Teacher Award in 2017. Additionally, he has been honored with best paper awards at various national and international conferences.
+
+His professional journey includes a notable tenure at ITM University, Gurugram, where he served as an Assistant Professor in the School of Computer Science before joining UPES in 2012. In his previous role, he was involved in the Dean’s Office as Assistant Dean in Academic Affairs and held the position of IBM Course in-charge.
+
+Dr. Hitesh teaches a diverse range of courses within the computer science and engineering curriculum, which aims to provide students with a robust understanding of both theoretical and practical aspects of computing. Key courses he has taught include Application Containerization, Build and Release Management, Advanced Java Programming, Advanced Data Structures, and Advanced Database Management Systems (DBMS). His teaching philosophy emphasizes an interactive and tutorial-style approach, blending lectures with problem-solving sessions to enhance student engagement and understanding.
+
+In addition to his teaching and research, Dr. Hitesh is a certified digital content creator and has developed digital courses for online platforms. He serves on the editorial boards of several academic journals and is actively involved in GitHub as a Campus Ambassador and Lead Administrator for UPES-GitHub Collaboration. 
+
+For further inquiries, Dr. Hitesh Kumar Sharma can be contacted via email at hksharma@ddn.upes.ac.in.

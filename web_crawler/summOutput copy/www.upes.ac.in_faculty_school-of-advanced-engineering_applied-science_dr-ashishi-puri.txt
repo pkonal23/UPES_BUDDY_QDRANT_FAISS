@@ -1,0 +1,26 @@
+Dr. Ashishi Puri is an Assistant Professor in the Department of Mathematics within the Applied Science Cluster of the School of Engineering at the University of Petroleum and Energy Studies (UPES), having commenced her role in September 2023. She holds a Ph.D. from the Indian Institute of Technology (IIT) Roorkee, where she completed her thesis in July 2023 and successfully defended it on October 13, 2023. Dr. Puri has a strong academic background, having also completed her Bachelor’s and Master’s degrees at HNBGU, a Central University in Uttarakhand.
+
+Her research interests are diverse and include:
+- Mathematical Analysis of MRI data
+- Biomedical signal processing
+- Machine Learning
+- Deep Neural Networks
+
+Dr. Puri has an impressive publication record in respected national and international journals, with her work indexed in SCI, SCIE, and Scopus. She has actively participated in scholarly activities, serving as a reviewer for various international journals and mentoring both undergraduate and postgraduate students on their dissertations. Moreover, she has contributed to departmental activities at UPES, including serving on several committees and organizing international conferences, demonstrating her commitment to academic and professional development.
+
+In terms of teaching experience, Dr. Puri has been involved in teaching courses such as:
+1. Advanced Engineering Mathematics-I
+2. Advanced Engineering Mathematics-II
+3. Linear Algebra-II
+
+She also served as a teaching assistant for the NPTEL course "Essential Mathematics for Machine Learning" across three semesters, showcasing her dedication to education and student engagement.
+
+Dr. Puri's teaching philosophy emphasizes a student-centered learning environment that fosters curiosity and critical thinking. She advocates for an interactive educational process that values the unique perspectives of each student. By utilizing varied teaching methods, including collaborative projects and technology integration, she aims to accommodate different learning styles and promote active student participation. Her overarching goal is to inspire a lifelong passion for learning and equip students with essential problem-solving skills for the future.
+
+In terms of accolades, Dr. Puri has received several grants and awards:
+- A travel grant of Rs 1,50,000 from the Science and Engineering Research Board (SERB) for attending an international conference in Barcelona, Spain.
+- A travel grant of Rs 75,000 from DORA, IIT Roorkee.
+- She has been CSIR UGC NET qualified in 2018 and 2021 and has qualified for GATE four times between 2018 and 2023.
+- She was awarded the Best Research Poster Presentation Award at the Institute Research Day 2023 at IIT Roorkee.
+
+For further inquiries, Dr. Puri can be contacted via email at ashishi.puri@ddn.upes.ac.in.

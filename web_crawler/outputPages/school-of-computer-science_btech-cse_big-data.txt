@@ -1,0 +1,182 @@
+Living Conversation
+Operating Systems
+Computational Linguistic & Natural Language Processing
+Future Scope / Industry Trends
+program extensively covers essential Big Data tools like Hadoop Ecosystem, Spark, Kafka, and more, alongside programming languages such as Python, Java, Scala, and C++.
+Semester 4
+Statistics and Data
++91
+L
+B.Tech.
+First Name
+PE-2 Lab
+5
+MC Simulation
+Critical Thinking and Writing
+Course Details
+In conclusion, the
+Semester 1
+program: Minimum 50% Marks in Class X and XII. Along with 50 % in PCM (Physics/Chemistry and Mathematics) in Class XII.
+Data Structures and algorithms Lab
+Python programming Lab
+Object Oriented Programming
+Credit
+Program details
+Eligibility
+Course Type
+Data communication and Networks Lab
+I accept
+PE-1 Lab
+Please Select Condition
+Please enter email address
+Contact Us
+25
+2
+Machine Learning and Deep Learning
+Semester 5
+Dedicated Big Data labs offer immersive hands-on experience with high-end systems, enabling students to explore distributed computing frameworks like Hadoop and Spark.
+The future scope of the
+Programming in C Lab
+Data Visualization and Interpretation Lab
+*
+PE-1
+8
+for detailed Fee Structure.
+B.Tech. Computer Science & Engineering (Big Data)
+PE-3
+Summer Internship
+Call Me
+Problem Solving
+23
+Semester 3
+School Tour
+Physics for Computer Engineers
+21
+Fee Structure
+Data Structures and algorithms
+Close
+B.Tech Computer Science and Engineering- Big Data
+24
+program offered by UPES School of Computer Science offers a comprehensive educational experience. It equips students with the necessary skills to excel in the world of big data by providing a strong foundation in key technologies, hands-on training, industry exposure, and guidance from mentors. This program empowers students to become adept in harnessing the potential of big data for solving complex real-world challenges and driving innovation across various industries.
+terms & conditions
+Placements
+Formal Languages and
+Database Management Systems
+Please enter first name
+Linux Lab
+PE-4 Lab
+Generative Artificial Intelligence
+Mobile Number
+4
+Artificial Intelligence and Machine
+Discrete Mathematical Structures
+Semester 6
+Data Visualization and Interpretation
+Climate Change - I
+Analysis
+Select Course
+P
+Lab
+Linear Algebra
+Program Elective 24 Credits
+Semester 2
+at UPES School of Computer Science relies on the individual's performance in UPESEAT / JEE Mains / Board Merit / SAT/ CUET.
+Design and Analysis of Algorithms
+Suggested videos
+Mathematics – I
+22
+program at UPES School of Computer Science is designed to equip students with a comprehensive understanding of big data concepts, technologies, and applications. The specialization focuses on building a strong foundation in big data infrastructure and management. Through this course, students will develop the skills needed to set up, administer, and utilize scalable data storage and processing systems effectively. The curriculum covers a range of essential topics, including distributed computing frameworks such as Hadoop and Spark, data storage systems like HDFS and NoSQL databases, and data processing tools like Hive and Pig. Moreover, students will gain insights into cloud-based platforms and services tailored for big data solutions. The program takes an immersive approach by providing hands-on training on the Cloudera platform during summer sessions, allowing students to gain practical experience with industry-standard tools.
+18
+Strong ties with industry leaders like IBM, Xebia, and AWS Academy provide opportunities for real-world projects, internships, hackathons, and coding competitions.
+Please Select Course Type
+Exploratory-2
+Computational Linguistic & Natural Language Processing Lab
+PE-3 Lab
+program at UPES School of Computer Science consistently demonstrates an exceptional record in placements, showcasing the institution's commitment to producing highly skilled professionals. The program's curriculum, thoughtfully designed to align with industry demands, equips students with a deep understanding of Big Data technologies and their applications. This proficiency is evident in the remarkable placements achieved by graduates, who find themselves in enviable positions across diverse sectors. Renowned companies actively recruit UPES students, recognizing their adeptness in areas like data analytics, machine learning, and data engineering. This program's success in securing placements can be attributed to the blend of theoretical knowledge and hands-on experience it imparts, fostering well-rounded graduates who are poised to make significant contributions in the dynamic realm of Big Data.
+Research Methodology in CS
+T
+Selection Criteria
+Software Engineering
+3
+with a specialization in Big Data from UPES School of Computer Science opens up a plethora of promising career opportunities in the dynamic world of technology. With an average annual package of 8.70 LPA and a remarkable highest package of 26.41 LPA, graduates can embark on fulfilling journeys in various sectors. They can choose to become data engineers, leveraging their skills to design, construct, install, and maintain large-scale data processing systems. Alternatively, they can opt for roles as data analysts, extracting valuable insights from complex datasets to drive informed business decisions. The field of machine learning engineering also beckons, allowing graduates to craft intelligent algorithms and models that power AI-driven solutions. Moreover, opportunities in cloud computing, cybersecurity, and software development are equally abundant. Whether driving innovation as data scientists, shaping user experiences as UX/UI designers, or steering tech ventures as entrepreneurs, UPES graduates are well-equipped to excel, armed with both theoretical knowledge and practical skills. The program's impressive placement statistics reflect the abundant prospects awaiting those who embark on this educational journey.
+Automata Theory
+To enrich their learning journey, students will have the unique opportunity to interact with industry experts and professionals from Xebia through webinars and interactive sessions. These interactions will provide real-world insights and current trends in the big data landscape, fostering a holistic understanding of the field. Additionally, mentors will be readily available to guide students throughout their capstone projects, encouraging them to delve into research papers, industry publications, and even attend conferences and workshops to stay updated on the latest advancements in big data technologies and applications.
+Exploratory-5
+Academics
+Programming in C
+Digital Electronics
+How To Apply
+Design and Analysis of Algorithms Lab
+The UPES School of Computer Science boasts advanced computer labs with high-end systems and high-speed internet, complemented by a well-equipped library for research and study.
+1
+Object Oriented Analysis and Design
+Enquiry Form
+Exploratory-1
+Start your Startup
+Please enter mobile number
+Probability, Entropy, and
+Fundamentals of Data Science
+-- None --
+--None--
+,
+Environmental Sustainability and
+PE-5
+B.Tech. in Computer Science & Engineering
+Climate Change - II
+Compiler Design
+Exploratory-3
+PE-4
+Through partnerships with international universities, students can engage in exchange programs, study tours, and conferences to broaden their horizons.
+B.Tech. CSE
+Please enter last name
+Program Highlights
+Minor Project
+Semester 8
+Computer Science And Engineering
+Python programming
+Data communication and Networks
+Career Opportunities
+Curriculum
+The selection criteria for individuals who wish to pursue
+The
+Home
+School of Computer Science
+PE-5 Lab
+Last Date to Apply: February 25, 2025
+Email Address
+Generative Artificial Intelligence Lab
+TOTAL
+Admission Process
+Learning Lab
+Apply now
+Exploratory-4
+Advanced Engineering
+Semester 7
+Leadership and Teamwork
+Please select Course
+Eligibility Criteria
+program by UPES School of Computer Science is promising and aligned with emerging trends. As technology advances, automation powered by AI algorithms will enhance data processing, analysis, and decision-making, facilitating quicker and more precise insights from big data. Real-time processing of streaming data will be a priority, enabling instant insights for proactive decision-making. The rise of IoT devices will necessitate edge computing, ensuring real-time analysis at the network edge, reducing latency and bandwidth needs. Hybrid and multi-cloud strategies will optimize big data storage and processing, while privacy-preserving techniques will address data security concerns. DataOps methodologies will streamline integration and collaboration among stakeholders. Graph databases and knowledge graphs will gain traction for interconnected data storage and context enhancement. Ethical considerations and data governance will be emphasized, and AI-driven tools will automate data preparation. Federated learning will enable privacy-preserving model training. The program equips students to excel in this dynamic landscape by imparting knowledge and skills aligned with these trends.
+Capstone Project - Phase-1
+Further Information
+Cryptography and Network
+Meritorious students can benefit from scholarships based on academic performance and other achievements, while financial assistance and loan schemes are available for deserving candidates.
+Design Thinking
+Computer organization and Architecture
+PE-2
+Click here
+Object Oriented Programming Lab
+Interested students must meet the following minimum eligibility criteria for the
+IT Ethical Practices
+B.Tech. in Computer Science & Engineering (Big Data)
+Advanced Engineering Mathematics – II
+Database Management Systems Lab
+Machine Learning and Deep Learning Lab
+Learning
+Completing a
+Course
+Big Data
+Fundamentals of Data Science Lab
+Security
+0
+Last Name
+Capstone Project - Phase-2

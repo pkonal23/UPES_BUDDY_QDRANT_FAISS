@@ -1,0 +1,11 @@
+Dr. Sumitra is an Assistant Professor at the School of Computer Science, specializing in both Electronics and Computer Science Engineering (ECE and CSE) subjects. Her teaching expertise encompasses a range of topics including Fundamentals of Python Programming, Digital Electronics, Microprocessors, Computer Organization and Architecture, Operating Systems, and Control Systems. 
+
+Dr. Sumitra holds a Ph.D. in the Internet of Things (IoT) from the prestigious Birla Institute of Technology and Science (BITS) Pilani. She has successfully qualified for both the UGC-NET in 2018 and GATE in the years 2015, 2017, and 2018. Her research contributions include four published papers in SCI-indexed journals and two presentations at international conferences, with a current focus on IoT and applications of Artificial Intelligence and Machine Learning (AI/ML).
+
+Her research interests are diverse, covering areas such as machine learning, Internet of Things (IoT), Routing Protocol (RPL), Federated Learning, Edge Computing, TinyML, Location Privacy, and Cyber Security. 
+
+In her teaching philosophy, Dr. Sumitra emphasizes practical learning by incorporating real-world problems and examples into her curriculum. This approach not only helps bridge the gap between theoretical knowledge and practical application but also equips her students with essential skills to address real-life challenges effectively.
+
+Dr. Sumitra has four years of experience as a Teaching Assistant at BITS Pilani and has also served for one year as a District Program Coordinator under the Ministry of Youth Affairs and Sports. 
+
+For any inquiries, she can be contacted via email at sumitra@ddn.upes.ac.in.

@@ -1,0 +1,11 @@
+Kushmandini Gupta and Tulika Baranwal, students pursuing a B.Tech in Computer Science Engineering with a specialization in Cloud Computing and Virtualization Technology, successfully completed a project focused on developing an Inventory Management System utilizing microservices architecture. A significant aspect of this project was its scalability and flexibility, achieved through the use of Docker containers, which allowed for seamless deployment and adaptability as the company grows. The system's design enables the effortless incorporation or removal of new containers to meet changing demands, ensuring optimal performance.
+
+The project aimed to address the shortcomings of traditional monolithic software systems, which, while simpler to develop and deploy, often suffer from issues related to dependency and scalability. In contrast, the microservices architecture adopted in this project comprises a collection of small, independent services that enhance flexibility and resilience while minimizing the risk of system-wide failure due to individual component issues.
+
+Key benefits of the Inventory Management System include improved visibility into inventory operations, such as stock levels, order statuses, and supplier delivery times, which facilitates informed decision-making. The system also streamlines operations by automating manual processes, thereby enhancing efficiency and reducing the need for human intervention. 
+
+The project was developed using the Spring Boot framework and deployed within Docker containers, focusing on real-time tracking of inventory levels, management of inbound and outbound stock, and order management to prevent overstocking and shortages. By maintaining separate databases for different services, the system promotes data consistency and significantly reduces manual errors, thereby improving overall accuracy.
+
+For more information or to access the project, you can visit the GitHub repository at: [https://github.com/kushmandinigupta/Minor-2](https://github.com/kushmandinigupta/Minor-2).
+
+This project was executed under the auspices of the School of Computer Science, showcasing the students' commitment to creating an effective and modern solution for inventory management, particularly tailored for small businesses.

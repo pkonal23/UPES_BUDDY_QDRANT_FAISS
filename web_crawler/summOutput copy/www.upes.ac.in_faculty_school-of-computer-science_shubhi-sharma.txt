@@ -1,0 +1,44 @@
+**Profile Summary of Shubhi Sharma**
+
+Shubhi Sharma is a highly accomplished academic and researcher in the field of Computer Science and Engineering. She holds an M.Tech degree from IIIT Jabalpur and a B.Tech in Information Technology from Uttarakhand Technical University, Dehradun. Currently, she is pursuing her PhD at UPES, Dehradun. With over 9 years of teaching and industry experience, she has served as an Assistant Professor at various institutions, including Graphic Era Hill University, National Institute of Technology, Delhi, Galgotias University, and currently at UPES Dehradun since August 2017.
+
+**Research Interests:**
+Shubhi's research primarily revolves around:
+- Medical Imaging Analysis
+- Machine Learning in Healthcare
+- Deep Learning for Biomedical Applications
+- Pattern Recognition
+- Data Mining in Medical Images
+
+Her notable work includes the development of advanced machine learning and deep learning techniques aimed at improving breast cancer detection, enhancing accuracy, efficiency, and accessibility for early diagnosis and personalized treatment.
+
+**Achievements:**
+- Recipient of the Best Thesis Award for her M.Tech from IIIT Jabalpur.
+- Innovator of the self-powered robot 'Sanirobo', recognized nationally during the COVID-19 pandemic.
+- Holder of several design patents and copyrights filed under UPES Dehradun.
+- Published multiple research articles in SCI/Scopus-indexed journals.
+
+**Teaching Philosophy:**
+Shubhi believes in creating a dynamic and engaging learning environment that promotes critical thinking, curiosity, and collaboration. Her teaching approach is student-centered, utilizing active learning strategies and real-world applications, with a focus on continuous assessment to ensure student success. She adapts her teaching methods to accommodate diverse learning styles and provides personalized support.
+
+**Professional Activities:**
+- Active member of the School of Computer Science faculty.
+- Organized significant events such as the inaugural session with Sandeep Jain, creator of "Geeks for Geeks," and the first Uttarakhand Police "Dev Bhoomi Cyber Hackathon."
+- Moderated numerous seminars and participated in various conferences and events.
+- Completed the Abhigyat program at Splash BI in Hyderabad to bridge the gap between industry and academia.
+
+**Courses Taught:**
+- Advanced Database Management Systems
+- Healthcare Analytics
+- Theory of Computation
+- Deep Learning
+- Discrete Mathematics
+- Big Data Analytics
+- Applications of Machine Learning in Industries
+
+**Contact Information:**
+- Email: [shubhi.sharma@ddn.upes.ac.in](mailto:shubhi.sharma@ddn.upes.ac.in)
+- Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=ObFCPokAAAAJ&hl=en&oi=ao)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shubhi-sharma-6443a322/)
+
+Shubhi Sharma's contributions to academia and her innovative research initiatives position her as a prominent figure in the field of Computer Science and Engineering, particularly in healthcare applications.

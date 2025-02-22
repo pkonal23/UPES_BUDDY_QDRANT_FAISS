@@ -1,0 +1,11 @@
+The project titled "RoboBin – A Smart Dustbin" was developed by Alok Singh, a student enrolled in the M.Tech. program in Automation and Robotics Engineering, from the 2021-2023 batch. This innovative project integrates advanced features for waste disposal, combining a navigation system akin to that of a line-following robot with a user detection sensor located on top of the dustbin.
+
+Key functionalities of the RoboBin include:
+
+- **Automatic Lid Operation**: The lid of the dustbin opens automatically when a user approaches to dispose of garbage, thanks to a sensor that detects user presence. After usage, the lid closes automatically, controlled by a servo motor, ensuring that the surrounding environment remains clean and safe when not in use.
+
+- **Navigation and Disposal**: When the dustbin reaches its capacity, it can autonomously move along a predefined path using its wheels. This feature allows it to transport and dispose of litter in larger bins located at a designated area.
+
+The project exemplifies the application of robotics in enhancing waste management systems, contributing to cleaner and more efficient urban environments. 
+
+For more information or inquiries related to the project, please refer to the School of Advanced Engineering, where the project was conducted.

@@ -1,0 +1,9 @@
+Dr. Swati Rastogi is an Assistant Professor at the School of Computer Science, with a focus on various advanced topics in image processing and machine learning. Her research interests encompass contactless image processing, vascular pattern detection, extraction, and recognition, as well as un/self-supervised learning algorithms. She is proficient in programming languages such as MATLAB and Python.
+
+Before her current role at UPES, Dr. Rastogi served as a visiting faculty member at NMIMS Deemed-to-be-University, where she taught courses related to Image and Video Processing, IT Workshop/MATLAB, Image Processing and Pattern Recognition, and Machine Learning. Her responsibilities included conducting review lectures prior to examinations, preparing and grading assignments, and assessing midterm and final exams. She also provided academic assistance to students and staff, engaged in research, published papers, and addressed student inquiries through various communication channels.
+
+Dr. Rastogi has previously held positions at the School of Technology Management and Engineering and the School of Applied Mathematics, Applied Statistics and Analytics at Narsee Monjee Institute of Management Studies in Navi Mumbai. She is recognized for her effective teaching approach, characterized by her passion for the subject, encouragement of student engagement, and interactive lectures. She maintains an objective grading system and is committed to providing personalized support to her students.
+
+Dr. Rastogi holds a doctorate in NIR touchless vascular image processing and pattern recognition from the Centre for Research in Nanotechnology & Science (CRNTS) at the Indian Institute of Technology, Bombay. She is known for her successful track record in education, research, and academic disciplines.
+
+For further inquiries, Dr. Swati Rastogi can be contacted via email at swati.rastogi@ddn.upes.ac.in.

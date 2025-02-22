@@ -1,0 +1,15 @@
+The UPES Robotics team is currently engaged in the design and development of an innovative electric scooter at the UPES Robotics lab. This scooter is a plug-in chargeable two-wheeled transport vehicle that operates without an engine, significantly contributing to the reduction of air pollution. 
+
+The project is being spearheaded by a group of students: Alok Singh, Aman Bijalwan, Siddharth Dubey, and Krishna, who are pursuing their B.Tech in Electronics & Computer Engineering from the 2022-26 batch, alongside their peers in the M. Tech. program in Automation and Robotics Engineering from the 2021-23 batch. 
+
+Key features of the electric scooter include:
+- Safety and environmental friendliness.
+- Ease of battery repair and replacement.
+- A design that emphasizes stability and durability, utilizing a scooter frame tailored for long-term use.
+- The vehicle is powered by a 1000W hub motor, which is crucial for its acceleration capabilities. 
+
+Testing is currently being conducted to evaluate the performance of different battery types for the scooter.
+
+The project is supervised by Professor Dr. Piyush Kuchhal, who serves as the mentor for the team. 
+
+For further details or inquiries regarding the project, contact information is not explicitly provided in the text.

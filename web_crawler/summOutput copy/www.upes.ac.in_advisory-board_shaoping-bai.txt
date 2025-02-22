@@ -1,0 +1,7 @@
+Dr. Shaoping Bai is a prominent researcher in the field of assistive robotics and exoskeleton technology, currently serving as a full professor at the Department of Materials and Production at Aalborg University (AAU) in Denmark. He holds a PhD degree in Robotics from Nanyang Technological University (NTU) in Singapore, which he obtained in 2001. 
+
+Dr. Bai is the project leader of the Danish Grand Solutions project EXO-AIDER, focusing on assistive exoskeletons. Additionally, he coordinates the EU project AXO-SUIT, which aims to advance the capabilities and applications of exoskeleton technology. His expertise encompasses various research areas, including mechanism theory, novel mechanisms, rehabilitation and assistive robots, and parallel manipulators. He has a particular interest in kinematics, dynamics, linkage and manipulator analysis and synthesis, as well as human-robot interaction modeling and control.
+
+In addition to his research roles, Dr. Bai has contributed significantly to the academic community by serving as an editor for multiple books and conference proceedings, and as a member of the editorial boards for several scholarly journals, including the ASME Journal of Mechanisms and Robotics and IEEE Robotics and Automation Letters.
+
+For more information about Dr. Shaoping Bai and his work, you can visit his profiles at [EXO-AIDER](https://www.exo-aider.dk/) and [AXO-SUIT](https://www.axo-suit.eu/).

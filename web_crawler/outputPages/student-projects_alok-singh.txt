@@ -1,0 +1,14 @@
+The robot senses and opens the lid for application duration and closes automatically.
+The robot acts as a line follower for a predefined path when activated.
+Alok Singh
+When the bin is full, it can move with its wheels following a predefined path and dispose of the litter in bigger bins at a separate location.
+The lid remains closed automatically with servo motor control if there is no use to keep the surroundings clean and safe.
+Home
+School of Advanced Engineering
+This project features a smart dustbin with navigation feature like a line-following robot and a sensor on top of it to detect the user accessing it to dispose of garbage. Also,
+RoboBin – A Smart Dustbin
+Student Project
+Close
+RoboBin - Smart Dustbin
+Eligibility Criteria
+Alok Singh, a student pursuing the degree of M.Tech. in Automation and Robotics Engineering from the batch of 2021-23 conducted the project on the development of RoboBin – A Smart Dustbin.

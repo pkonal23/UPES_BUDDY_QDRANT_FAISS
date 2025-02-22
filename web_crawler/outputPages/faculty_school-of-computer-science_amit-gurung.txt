@@ -1,0 +1,21 @@
+Research Interests
+Assistant Professor - Selection Grade
+Home
+Work Experience
+Close
+School of Computer Science
+Faculty
+amit.gurung@ddn.upes.ac.in
+Scholarly Activities
+Amit Gurung obtained his Ph.D. in Computer Science and Engineering from the National Institute of Technology Meghalaya, India, in 2018. With over 15 years of experience in teaching and research, he has authored numerous research papers in SCI/Scopus-indexed journals and conferences. His achievements include a filed patent in Kyoto, Japan. He finds fulfilment in developing sophisticated software programs and robust tools and applications.
+Courses Taught
+Eligibility Criteria
+Amit Gurung
+He has taught numerous courses at both undergraduate and postgraduate levels, including Computer Networks, Network Security, Data Structures and Algorithms, Software Engineering, and Object-Oriented Programming Languages.
+His expertise encompasses formal methods, including reachability analysis and safety verification of Hybrid Systems, along with High-Performance Computing. He also explores research opportunities in digital image processing and machine learning.
+Profile Summary
+He actively contributes to research, focusing on learning models of Cyber-Physical Systems from simulation data and their application for property verification. He is currently exploring surveillance systems using drones.
+Contact
+Before joining UPES, he served as a Program-specific Researcher (Postdoctoral) for the JST CREST research project, "CyPhAI: Formal Analysis and Design of AI-intensive Cyber-Physical Systems," funded by the Japan Science and Technology Agency at Kyoto University, Japan. Prior to this, he held positions at the National Institute of Informatics, Tokyo, Japan, and the Formal Methods Laboratory, Department of Computer Science & Engineering, Indian Institute of Technology Kharagpur, India. He has also taught at various academic institutions.
+He is passionate about teaching and strives to make learning engaging by linking theoretical concepts to practical real-world examples. He integrates state-of-the-art software tools into his teaching methodology.
+Teaching Philosophy

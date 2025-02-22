@@ -1,0 +1,75 @@
+**Program Overview**
+
+The B.Tech. Electrical Engineering (Wearable Devices) program offered by UPES School of Advanced Engineering aims to equip students with a comprehensive knowledge base in designing, developing, and integrating cutting-edge wearable technologies. Throughout the program, students will delve into various disciplines such as sensor technology, wireless communication protocols, embedded systems, and human-computer interaction to gain specialized expertise in this rapidly growing field. The program's core focus is on fostering the creation of wearable devices that seamlessly integrate with the human body, paving the way for diverse applications in healthcare, fitness, fashion, and beyond. By combining theoretical knowledge with hands-on practical training, students will develop a deep understanding of the components that constitute wearable devices and the intricate functionalities associated with them. Additionally, the program is tailored to provide students with industry-relevant skills, ensuring they remain competitive in this cutting-edge domain. Graduates of the B.Tech. Electrical Engineering (Wearable Devices) program will be well-prepared to embark on exciting careers as wearable technology experts, making significant contributions to the future of wearable devices and their applications across multiple sectors. UPES School of Advanced Engineering's emphasis on innovation and cutting-edge research fosters a dynamic learning environment that encourages creativity and exploration in the field of wearable technology.
+
+**Program Highlights**
+
+The B.Tech. Electrical Engineering (Wearable Devices) program at UPES School of Advanced Engineering offers a cutting-edge specialization that focuses on revolutionizing wearable technology and contributing to advancements in the Internet of Things (IoT). Students gain expertise in advanced microcontrollers, sensors, and interfacing, enabling them to design and develop innovative wearable devices. The curriculum includes courses on ubiquitous computing, empowering students to create seamless and interconnected wearable solutions for diverse applications. Students also learn to work with real-time operating systems, enabling them to design wearable devices with efficient and responsive functionalities. The B.Tech. Electrical Engineering (Wearable Devices) program emphasizes the importance of contributing to the IoT ecosystem, preparing students to create impactful solutions in the rapidly evolving field of wearable technology. Through hands-on projects and practical training, students gain valuable experience in designing, prototyping, and implementing wearable devices, fostering their creativity and problem-solving abilities.
+
+**Future Scope and Industry Trends**
+
+The future scope of the B.Tech. Electrical Engineering (Wearable Devices) program looks promising, with wearable technology set to become increasingly essential in the healthcare industry. Graduates in this field will find ample opportunities to contribute to healthcare advancements. Pursuing a master's or PhD in biomedical engineering can also open up rewarding prospects. Key recruiters such as GE Healthcare, GeBBS Healthcare Solutions, and Apple offer exciting career options for students specializing in this domain. The field promises a bright future, with the potential to revolutionize healthcare and improve quality of life through the development of innovative wearable devices.
+
+**Career Opportunities**
+
+Completing the B.Tech. Electrical Engineering (Wearable Devices) program at UPES School of Advanced Engineering opens up an array of promising career opportunities in the rapidly growing field of wearable technology. Graduates can explore exciting roles as Wearable Device Engineers, contributing to the design, development, and optimization of innovative wearable gadgets. They may also pursue careers as Embedded Systems Engineers, working on integrating cutting-edge technologies into wearable devices. Additionally, opportunities abound in Research and Development positions, enabling them to delve into futuristic wearable advancements. With the program's comprehensive curriculum and practical experience, graduates are well-equipped to join tech companies, healthcare organizations, consumer electronics firms, and other industries at the forefront of wearable technology innovation.
+
+**Placements**
+
+The B.Tech. Electrical Engineering (Wearable Devices) program offered by UPES School of Advanced Engineering has proven to be highly rewarding in terms of placements. Graduates from this program have secured promising positions in leading industries related to wearable technology. The school's emphasis on practical skills and cutting-edge research has equipped students with the expertise to design and develop innovative wearable devices. This has garnered the attention of top recruiters, who actively seek out UPES graduates for their proficiency and industry-relevant knowledge. With an impressive placement record, the program continues to provide excellent career opportunities for aspiring electrical engineers specializing in wearable devices.
+
+**Curriculum**
+
+The B.Tech. Electrical Engineering (Wearable Devices) program curriculum is designed to provide students with a thorough understanding of the field, encompassing both theoretical knowledge and practical application. The program is structured into eight semesters, each with a carefully curated set of courses that build upon one another, ensuring a comprehensive learning experience. Students will delve into a wide range of subjects, including:
+
+* Critical Thinking
+* Environment and Climate Change
+* Engineering Mathematics
+* Physics
+* Object Oriented Programming
+* Basic Electrical and Electronics Engineering
+* Living Conversations
+* Analog Electronics
+* Measurement and Instrumentation
+* Signals and Systems
+* Network Theory
+* Digital System Design
+* Control System Engineering
+* Electrical Machines
+* Technologies of Future/Meta
+* Leadership & Teamwork
+* Communication System
+* Microprocessors and Microcontrollers
+* Industrial Power Electronics
+* Advanced Electrical Machines
+* Power System
+* Embedded Systems and IoT
+* Switchgear and Protection
+* E-Vehicle
+* Specialization Courses
+* Major Project
+
+**Eligibility Criteria**
+
+To be eligible for the B.Tech. Electrical Engineering (Wearable Devices) program at UPES School of Advanced Engineering, prospective students must meet the following minimum eligibility criteria:
+
+* Minimum 50% marks in Classes X and XII.
+* 50% in PCM (Physics/Chemistry and Mathematics) in Class XII.
+
+**Selection Criteria**
+
+Admission to the B.Tech. Electrical Engineering (Wearable Devices) program at UPES is based on the individual's performance in any of the following exams:
+
+* UPESEAT
+* JEE
+* Board Merit
+* SAT
+* CUET
+
+**Contact Information**
+
+For further inquiries or to apply to the B.Tech. Electrical Engineering (Wearable Devices) program at UPES School of Advanced Engineering, please contact the admissions office:
+
+* Email: admissions@upes.ac.in
+* Phone: +91 9999 8888 88
+* Website: www.upes.ac.in

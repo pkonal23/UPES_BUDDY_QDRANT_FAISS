@@ -1,0 +1,14 @@
+This project features a smart drone that farmers can use to observe the farmlands and give back information recorded through cameras.
+Eligibility Criteria
+The drone pilot operates the drone, relaying information in real-time. This provides the ability to analyse lands from high above with more details.
+The drone has cameras to observe the ground and take pictures.
+Home
+School of Advanced Engineering
+Mentor
+Professor
+Agricultural Support Drone (ADRONA)
+Close
+Student Project
+Siddharth Dubey, a student pursuing the degree of M.Tech. in Automation and Robotics Engineering from the batch of 2021-23 completed their project of the development of Agricultural Support Drone (ADRONA).
+Dr. Piyush Kuchhal
+Siddharth Dubey

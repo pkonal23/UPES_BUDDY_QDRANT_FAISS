@@ -1,0 +1,11 @@
+The application "Manage Your Money Easily" (MYME) is designed to assist users in effectively managing their daily financial expenditures, whether individually or within groups. This user-friendly personal finance application allows users to record their daily spending and provides personalized breakdowns of total expenditures, making it easier to track financial habits.
+
+One of the standout features of MYME is its ability to facilitate seamless money distribution among groups, enabling users to split expenses accurately with minimal cash flow issues. The app includes user-specific login and logout functionalities, creating a tailored management interface for each user. The design focus is on providing a visual overview of financial data, which empowers users to take control of their finances effortlessly.
+
+The development team behind MYME consists of students Ashhar Ali, Akshita Kapoor, Ishita Nanda, and Samyukta Sahoo, all pursuing a B.Tech degree in Computer Science Engineering with a specialization in Cloud Computing and Virtualization Technology, graduating in the batch of 2020-2024. 
+
+The overarching goal of MYME is to enhance financial literacy and management skills, as effective money management is crucial for leading a fulfilling life. By tracking inflows and outflows of finances, users can minimize unnecessary cash flow, avoid frivolous spending, and maintain a budget. Additionally, the app aids in tax planning and tracking debts, ultimately helping users to manage their finances better and avoid the pitfalls of excessive debt.
+
+For those interested in downloading the application, it is available at the following link: [Download MYME](https://github.com/nerdynerd09/Minor). 
+
+In summary, MYME is a comprehensive tool aimed at simplifying personal finance management, making it accessible and efficient for all users.

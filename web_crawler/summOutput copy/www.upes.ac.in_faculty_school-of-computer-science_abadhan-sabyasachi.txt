@@ -1,0 +1,57 @@
+**Profile Summary of Prof. Abadhan Sabyasachi**
+
+**Current Position:**
+- Assistant Professor in the School of Computer Science at UPES Dehradun, India.
+- Pursuing Ph.D. in Computer Science and Engineering from Hong Kong.
+
+**Education:**
+- Master’s degree (M. Tech) from Indian Institute of Technology (IIT), Guwahati, India.
+- Bachelor’s degree (B. Tech) from Biju Patnaik University of Technology (BPUT), Rourkela, India.
+
+**Professional Experience:**
+- Previous roles include Project Fellow at IIT Guwahati, Assistant Professor at NIT Nagaland, NIT Silchar, Manipal University, Jaipur, and SRM University, AP.
+- Worked as a Junior Project Fellow on a government-sponsored R&D project focusing on Network Intrusion Detection Systems.
+
+**Research Interests:**
+- Broad interests encompass Cloud Computing, Mobile Edge Computing, Internet of Things (IoT), Performance Evaluation, and Machine Learning.
+- Contributions to top-tier conferences such as IEEE SMC, IEEE SRDS, IEEE ICIT, and IEEE HPCC.
+
+**Teaching Philosophy:**
+- Emphasizes Outcome-Oriented Learning, conducting topic-wise assessments throughout the semester.
+- Provides comprehensive lesson plans, hands-on materials, case studies, and benchmarks.
+- Encourages student engagement through questions, group discussions, seminars, and project demonstrations.
+- Utilizes Learning Management Systems (LMS) like Google Classroom, Moodle, Canvas, and Blackboard for real-time class delivery.
+- Promotes participation in online courses from platforms like NPTEL, MIT OCW, Coursera, and edX to keep students updated with emerging technologies.
+
+**Scholarly Activities:**
+- Focus on promoting cutting-edge research and developing research proposals for external funding.
+- Aims to establish advanced laboratories in areas such as Cloud Computing, Data Analytics, Embedded Systems, and IoT.
+- Proactive in fostering research collaborations with national and international institutions, including IEEE, ACM, and SIAM.
+- Founding faculty sponsor of the ACM Student Chapter at NIT Silchar and Faculty-in-Charge of the Undergraduate Research Opportunity Program at SRM University, AP.
+
+**Awards and Grants:**
+- Research Travel Grant from the RGC, Govt. of Hong Kong (2017).
+- Research Travel Grant from the Govt. of India for a conference in China (2013).
+- Junior Project Fellowship for a government-sponsored project at IIT Guwahati (2009-10).
+- Teaching Assistantship at IIT Guwahati (2007 and 2008).
+
+**Courses Taught:**
+- Cloud Deployment Models
+- Web Technologies and Web Services
+- Cloud Computing and Infrastructure Services
+- Cloud Security and Privacy
+- Algorithm Analysis and Design
+- Computer Networks with Internet Protocols
+- Introduction to Computing with JAVA
+- Mobile App Development with Android
+- Introduction to Computing with C
+- Data Structures
+- Switching Theory
+- Graph Theory
+- Principles of Programming Languages
+- Formal Languages and Automata Theory
+
+**Contact Information:**
+- Email: abadhan.sabyasachi@ddn.upes.ac.in
+
+Prof. Abadhan Sabyasachi's commitment to enhancing academic excellence through innovative teaching methods and his active research contributions position him as a valuable asset in the field of Computer Science.

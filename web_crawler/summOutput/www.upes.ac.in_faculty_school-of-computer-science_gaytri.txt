@@ -1,0 +1,37 @@
+Gaytri is an accomplished academic with over six years of experience in teaching, research, and student mentorship. Her passion for learning and dedication to student success is evident in her efforts to foster a vibrant and inclusive learning environment. She is committed to academic excellence, continuous personal growth, and societal contributions, aiming to inspire the next generation of learners.
+
+**Research Interests and Expertise:**
+Gaytri possesses a strong academic background in computer science, particularly in areas such as machine learning, image processing, and the Internet of Things (IoT). Her ability to thrive in dynamic settings has enabled her to produce significant research outcomes, showcasing her problem-solving skills and innovative thinking. She has a robust publication record, reflecting her expertise and commitment to advancing knowledge in her field. Additionally, she actively participates in prestigious academic conferences, where she shares her research findings and engages with other scholars and industry professionals.
+
+**Work Experience:**
+Gaytri has a diverse skill set in various technical domains, including:
+- Image Processing
+- Machine Learning
+- Computer Vision
+- IoT
+
+**Courses Taught:**
+At the School of Computer Science, she teaches a variety of subjects, including:
+- Programming Languages (C, C++, Python)
+- Computer Organization
+- Data Communication and Computer Networks
+- IoT
+- Physical Security
+- Computer Graphics
+- Database Management Systems
+- Software Quality Management
+- OSS Development Methodology
+- Sensor Technology and Instrumentation
+- Web 2.0 Technologies
+- IT Applications and Open Standards
+- XML
+
+**Teaching Philosophy:**
+Gaytri's teaching methodology is centered on creating an interactive and practical learning environment that encourages students to become analytical thinkers and lifelong learners. She emphasizes the importance of connecting theoretical concepts to real-world applications in engineering. By employing active learning techniques such as group projects, case studies, and simulations, she motivates her students to engage actively in the learning process. This approach helps them develop critical analysis skills, effective teamwork, and the ability to tackle complex problems.
+
+**Contact Information:**
+- Name: Gaytri
+- Position: Assistant Professor
+- Email: gaytri@ddn.upes.ac.in
+
+In summary, Gaytri is a dedicated educator and researcher who strives to inspire her students while contributing significantly to the field of computer science through her teaching and research activities.

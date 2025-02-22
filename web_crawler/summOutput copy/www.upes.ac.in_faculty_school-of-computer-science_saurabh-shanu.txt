@@ -1,0 +1,34 @@
+**Profile Summary of Saurabh Shanu**
+
+**Educational Background:**
+- **Bachelor of Technology**: ICFAI University, Dehradun, Uttarakhand (2012)
+- **Master's in Computer Science**: Specialization in AI & ANN from UPES, Dehradun
+- **PhD Candidate**: Pursuing a PhD in Computer Science at UPES, focusing on 'Complex Network Analysis and Implementation to Wildlife Corridors using Machine Intelligence'.
+
+**Professional Experience:**
+- **Total Experience**: 9 years (1 year industry, 1 year field, 7 years academic)
+- **Current Position**: Assistant Professor (Selection Grade) at UPES, where he has been employed for 7 years since completing his Master's.
+- **Courses Taught**: Includes Formal Language and Automata Theory, Compiler Design, Computer Graphics, Image Processing, Cloud Computing, among others.
+
+**Research Interests:**
+- **Computational Sustainability**: Investigation of how course backgrounds influence problem-solving evolution.
+- **Wildlife Conservation**: Developed tools and techniques for species abundance and distribution predictions, particularly focusing on tigers and ungulates.
+- **Innovative Projects**: 
+  - Led an international project on Random Encounter Modelling for animal abundance estimation using camera trap images.
+  - Developed 'Animeter', a widely used tool for camera trap image analysis.
+  - Worked on an Intelligent Patrolling system integrated with the Government of India’s wildlife reserve monitoring initiative.
+  - Engaged in entrepreneurial mindset development and gamification of educational modules.
+
+**Awards and Recognition:**
+- Multiple best paper awards at conferences.
+- Invited by the Zoological Society of London for contributions to wildlife research.
+- Collaborative author for the Government of India’s Tiger and Leopard Reports (2018).
+- Received various awards for contributions to computational sustainability.
+
+**Teaching Philosophy:**
+Saurabh emphasizes the importance of creating a supportive learning environment that encourages student engagement. He incorporates hands-on experiences in his teaching, ensuring that quiz materials serve as a basis for real data assignments, fostering authentic interdisciplinary problem-solving skills among students.
+
+**Contact Information:**
+- **Email**: sshanu@ddn.upes.ac.in
+
+Saurabh Shanu's multifaceted experience and dedication to wildlife conservation and education underline his commitment to both academic and practical advancements in the field of computer science and sustainability.

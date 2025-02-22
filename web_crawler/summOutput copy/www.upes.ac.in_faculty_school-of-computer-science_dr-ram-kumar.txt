@@ -1,0 +1,13 @@
+Dr. Ram Kumar is an Assistant Professor in the School of Computer Science at the University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India, since August 2022. He holds a Ph.D. from IIT Roorkee, one of India's premier technical institutions, and has extensive teaching experience, having taught for seven years at various public and private technical institutions.
+
+Dr. Kumar emphasizes the role of a teacher as a facilitator and guide rather than merely an instructor. He is dedicated to being available for his students, encouraging them to engage in learning and discussions about new topics. His teaching philosophy centers on empowering students through knowledge sharing.
+
+In terms of academic qualifications, Dr. Kumar has successfully cleared the Graduate Aptitude Test in Engineering (GATE) and the University Grants Commission National Eligibility Test (UGC NET) in the Computer Science and Engineering discipline. During his studies at IIT Roorkee, he received an institute assistantship/scholarship.
+
+Dr. Kumar's research interests include Artificial Intelligence, Information Retrieval, Search Engines, Text Mining, and Natural Language Processing. He has taught a variety of undergraduate courses, including but not limited to Artificial Intelligence, Compiler Design, Search Engine Optimization, Data Communication and Computer Networks, Data Mining and Data Warehousing, and Fundamentals of Programming using C.
+
+He has also mentored multidisciplinary student teams on various projects. Notably, under his supervision, a team developed focused Web Crawler Projects and achieved second place in the Smart India Hackathon 2020. Additionally, he has completed Innovation Ambassador Training from the Ministry of Education's Innovation Cell.
+
+Prior to his current role at UPES, Dr. Kumar served as an Assistant Professor at the Institute of Engineering and Technology, Dr. Bhimrao Ambedkar University Agra, from 2018 to 2021, as part of the Technical Education Quality Improvement Programme (TEQIP) Phase-III initiated by the Government of India. He also held a position in the Computer Science and Engineering Department at IIMT Meerut, Uttar Pradesh.
+
+For further inquiries, Dr. Ram Kumar can be contacted via email at ram.kumar@ddn.upes.ac.in.

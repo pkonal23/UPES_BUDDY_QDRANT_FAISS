@@ -1,0 +1,51 @@
+﻿GRADE-CARD:
+ 
+ 
+ User: What is the process for handling unfair means cases? / Explain the procedure for dealing with unfair means cases, both online and offline. / How are unfair means cases investigated, online or offline? / Tell me about the protocol for reporting unfair means cases. / Reporting unfair means cases, what are the steps?
+Bot: The process for unfair means cases, whether online or offline, is detailed in the Examination Regulations. You can find the specific procedure by reviewing the Examination Regulations document.
+ 
+ 
+User: What should I do if I don't have my UPES ID card during the examination? / Can I take the exam if I forget or lose my UPES ID card? / Exam without UPES ID card, what to do? / I misplaced my UPES ID card, can I still write the exam?
+Bot: If you don't have your UPES ID card during an examination, ensure you have either a hard or soft copy of your Hall Ticket, Aadhar Card, PAN Card, Passport, or any government-issued photo ID card with you. This will be used for identity verification.
+ 
+ 
+User: If I test positive for Covid, when can I appear in the examination? / What is the procedure for taking exams after testing positive for Covid? / Covid positive and exams, what are the guidelines? / Can I write the exam if I have Covid?
+Bot: If you are COVID positive and need to know when you can appear for an examination, a SRE member will contact you. You can also reach out by sending an email to d.bhawal@ddn.upes.ac.in for further guidance.
+ 
+User: How can I download my grade cards? / Steps to access and download grade cards? / Downloading grade cards, where and how? / Is there a portal to download grade cards? / Procedure for obtaining grade cards online?
+Bot: To download your grade card, you can simply click the "GRADE CARD" link on the student portal.
+ 
+ 
+User: How can I download my GPA percentage letter or formula? / Downloading GPA percentage letter, where to find it? / Procedure to access and download GPA letter/formula? / GPA percentage letter download steps, please.
+Bot: To download the GPA percentage letter or access the formula, click on the "Percentage Letter" link provided on the student portal.
+ 
+ 
+User: How can we download hall tickets for examinations? / Procedure for obtaining and downloading hall tickets? / Is there an online portal for hall ticket download? / Where can I find my exam hall ticket for download? / Accessing hall tickets for download, explain the process.
+Bot: To download your hall ticket for examinations, visit the student portal and click on the "Hall Ticket - End Semester Examinations" or "Hall Ticket - Supplementary Examinations" link, depending on the type of examination you're preparing fo
+ 
+ 
+User: How can physical degree and grade cards be collected? / Procedure for collecting physical degree certificates? / Where do I go to collect my physical degree and grade cards? / Collecting physical academic documents, what's the process?
+Bot: To collect your physical degree and grade cards, you can visit the campus in person with a government-issued photo ID card. This can be done on any working day. Alternatively, you can authorize another person to collect these documents on your behalf.
+ 
+User: How can we request Backlog and Medium of Instruction certificates? / Procedure for applying for Backlog and Medium of Instruction certificates? / Where can I find the request form for Backlog and Medium of Instruction certificates? / Requesting Backlog and Medium of Instruction certificates, what's the process?
+Bot: To request Backlog and Medium of Instruction certificates, follow these steps: 1. Raise a ticket through the STUDENT Self Service Portal at http://upes-hd.ddn.upes.ac.in/upeshd. 2. Additionally, send an email to the following addresses: - mshrivastava@ddn.upes.ac.in - hema@ddn.upes.ac.in - n.sharma@upes.ac.in - swathi.duvvrun@ddn.upes.ac.in This will initiate the process for obtaining the required certificates.
+ 
+ 
+User: "Subject for supple not visible on the link shared." / "I can't see the subject for the supplementary exam on the provided link." / "How do I access the subject for the supplementary exam?" / "The supplementary subject is not visible on the link. What's wrong?"
+Bot: If you are unable to see the subjects for supplementary exams on the provided link, please send an email to dsw.helpdesk@ddn.upes.ac.in to seek assistance and resolve the issue.
+ 
+ 
+User: "Have cleared subject exam but showing back on grade card." / "I passed the subject exam, but it's showing as 'back' on my grade card. Why is that?" / "My grade card indicates that I've cleared the exam, but there's still a 'back' status. What does this mean?" / "What should I do if my grade card shows 'back' for an exam I've passed?"
+Bot: If you have cleared a subject exam but it is still showing as a back on your grade card, please reach out to the concerned subject faculty and request that they update it to the SRE to rectify the issue.
+ 
+ 
+User: Want to know the result as the portal is blocked/ Grade card not visible. / How can I access my results if the portal is blocked or grade card is not visible? / Procedure for checking results when the portal is inaccessible? / Result inquiry when the portal is blocked, what's the process?
+Bot: If you're unable to view your result or the grade card due to a blocked portal, please consider the following steps: - Reason 1: If results are currently being uploaded, the link may be temporarily disabled. You should be able to access your grade cards once the results are uploaded on the portal. - Reason 2: Ensure that you have cleared all your financial dues and any pending documents. - Reason 3: If neither of the above reasons applies, there may be a technical issue. In this case, please raise a ticket from the MY UPES helpdesk under the IT department to address the problem.
+ 
+User: Can original degree and grade cards be dispatched? / How can I get my original degree and grade cards delivered to me? / Procedure for the dispatch of original academic documents? / Where can I request the dispatch of my original degree and grade cards? / Dispatching original academic documents, what's the process?
+Bot: To request the dispatch of original degree and grade cards, please follow these steps: 1. Raise a ticket through the STUDENT Self Service Portal at http://upes-hd.ddn.upes.ac.in/upeshd. 2. Additionally, send an email to the following addresses to initiate the dispatch request: - hema@ddn.upes.ac.in - swathi.duvvrun@ddn.upes.ac.in This process will help you get your original degree and grade cards dispatched to your address.
+ 
+User: What is the process for applying for a duplicate degree and grade cards in case of loss or damage? / Procedure to apply for a duplicate degree and grade cards in a lost or damage case? / How can I request duplicate academic documents in case of loss or damage? / Applying for duplicate degree and grade cards due to loss or damage, what's the process?
+Bot: To apply for a duplicate degree and grade cards in case of loss or damage, please follow these steps: 1. Raise a ticket through the STUDENT Self Service Portal at http://upes-hd.ddn.upes.ac.in/upeshd. 2. Additionally, send an email to the following addresses to initiate the request: - hema@ddn.upes.ac.in - swathi.duvvrun@ddn.upes.ac.in This process will help you obtain duplicate degree and grade cards in case of loss or damage.
+
+

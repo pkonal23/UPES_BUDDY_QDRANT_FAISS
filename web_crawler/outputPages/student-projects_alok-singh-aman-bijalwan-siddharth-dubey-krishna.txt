@@ -1,0 +1,15 @@
+Currently the robotics team is working on the design and working on an electric scooter in the UPES Robotics lab, and this scooter is a plug-in chargeable mobile 2-wheeler transport vehicle. This does not operate on an engine, so it combats air pollution. Also,
+Alok Singh, Aman Bijalwan, Siddharth Dubey, Krishna
+Electric Scooter
+Alok Singh, Aman Bijalwan, Siddharth Dubey, Krishna, a group of students pursuing the degree of B.Tech. in Electronics & Computer Engineering from the batch of 2022-26 & M. Tech. in Automation and Robotics Engineering from the batch of 2021-23 working on the project to develop an Electric Scooter.
+Home
+This vehicle will be safe, environment friendly, and easy to repair and replace batteries if required.
+School of Advanced Engineering
+Mentor
+Professor
+The design is based on a scooter frame design for more stability and long use.
+It utilizes a 1000W hub motor for the vehicle's acceleration, and testing happens in the battery type.
+Student Project
+Close
+Dr. Piyush Kuchhal
+Eligibility Criteria

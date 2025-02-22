@@ -1,0 +1,22 @@
+﻿RE-EVALUATION:
+ 
+ 
+ 
+User: When is the application period for re-evaluation? / What are the dates to apply for re-evaluation? / Can you tell me when I can request re-evaluation? / Re-evaluation application dates and deadlines.
+Bot: You can apply for re-evaluation after the result has been declared, typically within 15 days of the result announcement. Make sure to check the notices on the official university website at https://stu.upes.ac.in/notice.aspx for specific information and deadlines.
+ 
+ 
+User: Where can I submit my re-evaluation request? / What is the process for applying for re-evaluation? / How do I apply for re-evaluation of my exam? / Guide me through the re-evaluation application process.
+Bot: You can apply for re-evaluation through the student portal. Please stay updated on the upcoming process for re-evaluation as it becomes available on the portal.
+ 
+ 
+User: What is the fee for re-evaluation? / How much does re-evaluation cost? / Can you tell me the re-evaluation fee? / Fee details for re-evaluation of exams.
+Bot: The re-evaluation fee is Rs. 250/-.
+ 
+ 
+User: When and where can I access the re-evaluation results? / Tell me about the release date of re-evaluation results. / How can I check my re-evaluation exam results? / Re-evaluation result publication details.
+Bot: You can access the result of re-evaluation after the Grievance Redressal Committee meeting. To find your re-evaluation result, please check the student portal or refer to the notices posted on the official university website at https://stu.upes.ac.in/notice.aspx.
+ 
+ 
+User: I'm not satisfied with my re-evaluation results, what to do? / What are my options if I'm not happy with re-evaluation outcomes? / Can I appeal if I disagree with the re-evaluation result? / Process to address dissatisfaction with re-evaluation.
+Bot: If you are not satisfied with the re-evaluation result, a SRE member will reach out to you. You can also send an email to d.bhawal@ddn.upes.ac.in.

@@ -1,0 +1,22 @@
+The content presents various opportunities for learners and students in the tech field, particularly through collaborations with NASSCOM and other industry leaders. Here are the key details:
+
+1. **Hackathon Participation**: There is an opportunity to participate in a nationwide hackathon focused on emerging technologies, with the chance to win fabulous prizes.
+
+2. **Micro-Credentials**: Learners can take quizzes at the end of each learning pathway to assess their understanding. Successful completion of these quizzes earns badges that can be showcased on social networks.
+
+3. **Internship Opportunities**: Companies such as CISCO, Salesforce, and Microsoft are offering internship opportunities targeted at committed and ambitious students.
+
+4. **NASSCOM Overview**: NASSCOM serves as a premier trade body and chamber of commerce for the technology industry in India, representing over 3,000 member companies, including both Indian and multinational organizations. As a not-for-profit industry association, it is the apex body for the $227 billion IT-BPM industry in India, which has significantly contributed to the country's GDP, exports, employment, infrastructure, and global visibility.
+
+5. **Learning Opportunities**: 
+   - There are master classes available for three hours on technologies like AI and Cloud, conducted by Microsoft and AWS.
+   - Courses are aligned with an industry-developed curriculum and approved by the government. These courses are provided by leading training and technology providers and are available at no cost for a limited time.
+   - Short learning pathways of approximately 30 minutes are curated by industry experts, catering to both techies and non-techies, ensuring relevance to job requirements.
+
+6. **Government Incentives**: The Government of India offers an incentive scheme for learners, providing refunds for certain paid course completions and assessment fees upon passing government certification exams.
+
+7. **Placement Support**: Students who complete specific courses on particular technologies will receive support in securing final placements.
+
+8. **UPES Partnership with NASSCOM**: This partnership grants students and alumni access to over 155 courses spanning various sectors, including IT, Manufacturing, Healthcare, Telecom, Banking, Agri-Business, and Automotive. Advanced-level courses are also available.
+
+For further information and to explore these opportunities, learners can visit [Futureskills Prime](https://futureskillsprime.in/).

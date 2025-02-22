@@ -1,0 +1,129 @@
+Choosing between a B.Sc. Honours degree and a B.Sc. degree is a critical decision for students passionate about science and technology.
+Data engineers create and maintain database architectures and frameworks. It’s the responsibility of data engineers to understand what the particular business wants to achieve from the company datasets and then develop algorithms to provide easier access to the raw data for data scientists. They also have the task of optimising the data retrieval process along with creating dashboards, reports and other data visualisations for the various company stakeholders.
+19/02/2025
+20/09/2024
+Top 10 data science careers that are shaping the future
+Transforming Data into Knowledge: The Role of Machine Learning in Computer Science
+Students and faculty from UPES were among the finalists at Toycathon 2021. UPES was one of the 7 teams selected by AICTE to present their unique gaming idea to Prime Minister Narendra Modi.
++91
+With the exponential rise in generation of data, almost every organisation today needs skilled data scientists who can analyse and interpret the data in a way that helps the organisations prediction future scenarios. Data scientists are also responsible for building the various processes and algorithms used to collect, process, store and optimize the data. A recent Mint article showed, “The demand for data science professionals is at an all-time high”. As of 2019, the Indian analytics market stood at $3.03 billion in size and is expected to double by 2025. So this is an exciting time to be a data scientist and to choose from a range of options to chart a successful career.
+It is a more technical position than a data analyst. A data scientist’s role is to design the methods to gather, store and analyse large sets of structured and unstructured data to help companies make strategic decisions. Data scientists combine computer science, statistics and mathematics to analyse, process and model data. They also use data analysis software to uncover patterns and trends in the data and predict market patterns.
+12/09/2024
+09/09/2024
+First Name
+Data Architect:
+A company may hire a statistician or statistics analyst for gathering and analysing data and presenting it in a non-technical way to the stakeholders. The findings and insights are used to make critical business decisions. They also predict and identify potential opportunities based on the data analysis.
+If you are tech savy and want to have a deeper understanding of tech world the BCA is just the degree for you.
+Enhancing decision-making: Machine Learning applications in engineering
+Parminder Singh Sethi stands out as a software engineer of exceptional calibre. With over 78 patents granted by the US Patent and Trademark Office (USPTO).
+Infrastructure Architects:
+Infrastructure architects check the various databases, applications and software for efficiency and ensure they are functioning properly. They also make sure that a firm has the necessary tools for analysing big data. They are the people who detect any failure or inefficiency in the system.
+Data Analyst:
+Unlock Your Coding Potential with B. Tech. CSE
+21/11/2024
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” ― Martin Fowler.
+Course Type
+Statistics Analyst:
+From UPES Alumnus to Innovation Leader: Parminder Singh Sethi’s Inspiring Journey with 78+ Granted Patents from the USPTO
+Artificial intelligence (AI) and machine learning (ML) are two of the most exciting and innovative fields of computer science.
+The writer is Dr. Kingshuk Srivastava, UPES School of Computer Science
+Data Engineers:
+Cybersecurity in the Digital Age
+Please enter email address
+They are the ones who build various applications for companies. Almost every organisation needs applications and user interfaces to run its business efficiently. Hence, firms need application architects who can choose the right applications or build them specific to company needs. They also track the functioning of various applications and user interactions within the firm.
+8 trends that will shape the future of human resource management
+In the rapidly evolving landscape of Computer Science and Engineering (CSE), the integration of machine learning has emerged as a game-changer.
+Choosing the Right Path Post B.Tech: Deciding Between M.Tech. and MBA
+12/08/2024
+01/10/2024
+*
+25/07/2024
+From being students at UPES School of Computer Science to becoming successful tech entrepreneurs, Divyani Singh and Anshul Saxena have achieved an incredible milestone.
+Top Benefits of Studying BCA
+20/12/2024
+UPES alumni secure ₹4 crore seed funding for revolutionary tech start-up
+Trending Post
+One of the biggest by-products of today’s connected world is data. Every time someone is logging into social media platforms, buying something from e-commerce websites, or rating a café, they are creating data. “Data is the new oil”, this saying captures the importance of this new commodity that is powering the digital world. But all this data would be futile if it’s not interpreted and analysed for more information. That’s where data science and data scientists come in. Data science uses various tools, algorithms and machine learning principles to anatomize the raw data and make decisions and predictions based on the analysis.
+Please enter first name
+Mobile Number
+With an investment of ₹ 50 crore, the university aims to foster cutting-edge research, revolutionise industries, and empower the next generation of AI pioneers.
+Tags
+Machine learning engineers create algorithms needed for data analysis. They use big data tools and programming frameworks to refine the raw data that is being captured through data pipelines. They are responsible for creating data funnels and data science models that can ingest vast amounts of data in real-time and generate accurate results. Machine learning engineers need to have skills in both software engineering and data science. Additionally, they also need to know technologies such as deep learning, artificial intelligence, etc.
+Submit
+Select Course
+of UPES.
+Confused between B.Sc. & B.Sc. Honours? Discover differences in scope, curriculum, career opportunities, & which degree to choose!
+Subscribe
+14/09/2024
+Boost Your Career with an M.Tech. in Computer Science
+Leveraging Machine Learning for Intelligent Decision-Making in Computer Science and Engineering
+By
+the
+One technology that has evolved continuously and found widespread application and acceptance in every conceivable part of life is Machine Learning (ML).
+Please Select Course Type
+Artificial Intelligence and Machine Learning as Premier Career Paths in the 21st Century!
+Unlocking the Potential: Machine Learning’s Impact on Computer Science and Engineering
+Difference Between B.Sc. Computer Science vs. BCA Course
+A subscriber email already exists.
+B.Sc. Honours Degree vs. B.Sc. Degree: What's the Difference?
+UPES fuels groundbreaking research; earmarks ₹50 crore for AI Center of Excellence
+Data Scientist:
+10 CSE Final Year Projects to Elevate Your Engineering Profile!
+13/08/2024
+The world of technology is rapidly evolving, and the demand for skilled computer science engineers is higher than ever.
+The image processing industry has been growing at a steady pace, with rising demand from industries such as healthcare, military, agriculture, and the environment, among others. As an image processing engineer, your options are limitless
+As a Computer Science Engineering (CSE) student, your final year project is not just a mandatory academic requirement—it's a golden opportunity to showcase your skills, creativity, and readiness for the tech industry.
+26/07/2024
+As the name suggests, data architects are the masterminds behind building the database framework for any company. They design, create and launch a company’s overall database architecture depending on business requirements. Data architects are also responsible for maintaining the company’s data ecosystem. It’s one of the most popular and highly paid jobs worldwide as well as in India.
+Dr. Kingshuk Srivastava
+In today's rapidly evolving job market, having a strong educational foundation is more important than ever.
+Unravel the world of BCA Specialisations
+Please enter mobile number
+B.Tech vs. B.Sc in Computer Science: Which Is Better for Your Tech Career?
+06/08/2024
+Data science can create a smarter future decision making and also address critical issues such as improving healthcare through wearable devices or enhance the accuracy of diagnostics in the medical field. With a wide range of applications, data science is playing a critical role in every industry. UPES is one of the premier institutions offering a degree course on data science. Along with learning about the data science tools and machine learning algorithms, students at UPES will also be part of an innovative and future-oriented learning environment.
+-- None --
+According to recent studies, cybercrime is expected to cost the world $10.5 trillion annually by 2025.
+Organisations need specialists who can identify the right IT technology for data analysis that suits the company’s business strategy. That’s where enterprise architects come into play. They are the technological backbone of any company responsible for setting up the proper IT architecture models to achieve company goals. They also maintain the IT frameworks and stitch together a company’s data science, goals, and IT systems.
+Employee preferences, shifts in the role and importance of unions in the business world, work-life balance of the employees, the tools they use, and organisational processes, will change and thus affect human resource management
+--None--
+PM Modi congratulates Team UPES for board game Aarogya, calls it a ‘union of ancient knowledge and modern innovation’
+Top 7 Programming Languages to Learn in 2024 for Computer Science Students
+UPES Editorial Team
+06/09/2024
+UPES was an associate sponsor of the Pune Design Festival, 2022. One of the workshops at the festival ‘Into the Metaverse – AR/VR’ was presented by UPES faculty Dr. Anmol Srivastava and Pankaj Badoni, who gave engaging insights about the early stages of Metaverse.
+To preserve natural resources for future generations and to minimise their negative effects on the environment, conservation refers to the ethical management and sustainable use of these resources.
+In recent years, the field of AI has shown impressive progress and innovation, affecting our everyday lives in unprecedented ways.
+Decision-making is a ubiquitous and indispensable aspect of responsible human life.  Decisions must be made at individual and at institutional levels.
+UPES professors give insights on Metaverse at Pune Design Festival
+Please enter last name
+datascience careers
+Applications Architect:
+Few of the lucrative options available today as a carrier options are:
+Machine Learning Engineers:
+Choosing the right degree is one of the most critical decisions you'll make when planning your tech career. In the field of computer science, two of the most popular undergraduate courses are the Bachelor of Technology (B.Tech) and the Bachelor of Science (B.Sc) in Computer Science.
+Thank you for subscribing to UPES blogs.
+Join our community for exclusive stories, insights, and updates
+Business Intelligence Analyst:
+Email Address
+How can conservation be improved by computation?
+11/09/2024
+With the exponential rise in generation of data, almost every organisation today needs skilled data scientists who can analyse and interpret the data in a way that helps the organisations prediction future scenarios
+Congratulations, B.Tech. trailblazers! As you stand at the crossroads post-B.Tech., the decision between M.Tech. and MBA looms large.
+4 industries that are actively hiring image processing specialists
+An exploration of the geometric study of computational disease tagging of ECGs has been presented to highlight the steps involved in transforming data into knowledge.
+Please select Course
+23/08/2024
+Enterprise Architect:
+UPES Admission Enquiry
+Choosing a career path is a significant decision that shapes your future. One of the popular choices among students today is pursuing a Bachelor of Computer Applications (BCA).
+Related Articles
+Subscribe to UPES Blogs
+upes school of engineering
+By clicking the "Subscribe" button, I agree and accept
+Generative AI Versus Machine Learning
+privacy policy
+Be it healthcare, sales, Logistics, Power or technology — almost every industry today relies on data analysts to convert large data sets into a suitable format and analyse the data. Data analysts play a crucial role in an organisation as the analysed data help in the decision-making process. Data analysts also ensure all the programs and systems are running efficiently and at an optimised level.
+Published 04/05/2021
+Last Name
+Business Intelligence (BI) analysts are the creators of efficient business models and strategic plans for businesses. They define KPIs (Key Performance Indicators) and implement DW (Data Warehouse) strategies. They also mine big data by using advanced software, use tools to identify business intelligence and thereby aid in better business decisions.

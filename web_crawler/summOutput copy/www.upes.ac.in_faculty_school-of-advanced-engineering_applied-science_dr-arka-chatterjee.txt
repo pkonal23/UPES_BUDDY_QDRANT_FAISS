@@ -1,0 +1,14 @@
+Dr. Arka Chatterjee is an accomplished Astrophysicist with a PhD in Theoretical Physics from the University of Calcutta. His research is primarily centered on the dynamics of black holes, focusing on the signatures of general relativity (GR) and the connections between disks and jets in active galactic nuclei (AGNs) and galactic black holes (GBHs). Notably, he investigates how matter accreting onto black holes converts gravitational potential energy into kinetic energy, which is then radiated across various wavelengths, predominantly in X-rays for GBHs and AGNs. His work aims to unravel the complex processes involved in black hole accretion physics, particularly through the analysis of X-ray light curves that often exhibit Quasi-Periodic Oscillations (QPOs).
+
+Dr. Chatterjee's educational and professional journey includes a Postdoctoral Fellowship from UNIST (2020) in Ulsan, South Korea, and a subsequent position as a Postdoctoral Fellow at the University of Manitoba in Winnipeg, Canada, funded by the Canadian Space Agency (2021-2024). He has also held positions at the S N Bose National Centre for Basic Sciences in Kolkata, India, and has been involved in various research projects, including observational proposals with Astrosat.
+
+In terms of teaching, Dr. Chatterjee emphasizes the importance of clear communication in expressing complex concepts to learners, viewing teaching as a dynamic, two-way process that fosters mutual learning. He believes that research and teaching are inherently linked, with each enhancing the other.
+
+Dr. Chatterjee has received several grants and awards, including an equipment grant from UNIST and travel grants for workshops and conferences. His memberships include the International Astronomical Union (IAU), the Canadian Astronomical Society (CASCA), and the Astronomical Society of India (ASI).
+
+His notable scholarly contributions include 33 publications across various journals, with a total impact factor of 79.8, and he has presented at numerous conferences and seminars. He has also taught a range of courses, such as "Physics for Computer Engineers" and "Laboratory Experiments for Computer Engineers," covering topics like lasers, electromagnetic theory, and stellar evolution.
+
+Contact Information:
+- Email: arka.chatterjee@ddn.upes.ac.in
+
+In summary, Dr. Arka Chatterjee is a dedicated researcher and educator in astrophysics, with a strong focus on black hole dynamics and a commitment to effective teaching and research integration.

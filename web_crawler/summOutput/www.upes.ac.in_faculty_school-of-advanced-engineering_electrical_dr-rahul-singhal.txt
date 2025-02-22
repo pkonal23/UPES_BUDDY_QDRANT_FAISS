@@ -1,0 +1,11 @@
+Dr. Rahul Singhal is an Assistant Professor in the School of Advanced Engineering at UPES, specializing in Electrical Engineering. He has a robust academic background, having earned his B.Tech in Electrical Engineering from GB Pant University, his M.Tech in Electronics and Communication Engineering from IIIT Delhi, and his Ph.D. in Electrical Engineering from MNIT Jaipur. His doctoral studies were supported by a full-time Ph.D. fellowship under the Visvesvaraya PhD Scheme for Electronics and IT.
+
+Dr. Singhal has a strong publication record, with over 15 articles published in prestigious journals and conferences. He actively participates in the academic community as a reviewer for various international journals and conferences, having reviewed more than 20 articles, thereby contributing to scholarly excellence.
+
+His teaching philosophy emphasizes creating a dynamic learning environment where students are encouraged to engage actively, challenge existing ideas, and develop their own informed viewpoints. He aims to foster critical thinking, promote open dialogue, and build a collaborative learning community.
+
+In terms of professional development, Dr. Singhal has participated in five faculty development programs focusing on artificial intelligence, optimization techniques, robotics, and control theory. He has also received notable recognition, including the Visvesvaraya PhD Scheme award and travel grants from the IEEE Indian Control Conference and IIT Delhi to attend conferences within India.
+
+Before his tenure at UPES, Dr. Singhal served as an Assistant Professor at LNMIIT, Jaipur. His areas of teaching and research include Control Systems, Network Analysis, Digital Control Systems, Robot Motion Planning and Control, and MATLAB applications.
+
+For further inquiries, Dr. Singhal can be contacted via email at rahul.singhal@ddn.upes.ac.in.

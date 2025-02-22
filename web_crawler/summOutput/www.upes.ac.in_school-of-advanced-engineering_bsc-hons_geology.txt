@@ -1,0 +1,32 @@
+The B.Sc. in Geology program at the University of Petroleum and Energy Studies (UPES) is a comprehensive undergraduate course that provides students with a robust foundation in geology, integrating modern advancements in Geoinformatics. This program spans three years and six semesters, accumulating a total of 147 credits, and follows the UGC-choice-based credit system (CBCS). 
+
+**Program Highlights:**
+- **Specialization in Geoinformatics:** The curriculum focuses on integrating space technology, unmanned aerial systems, and information science to address geoscience and engineering challenges. It prepares students for roles in national projects such as Digital India, Smart Cities, and Clean Ganga.
+- **Hands-on Learning:** Students gain practical experience with industry-relevant software including ArcGIS, ERDAS, Quantum GIS, and SAGA, ensuring they are equipped for real-world applications in geospatial technology.
+- **Industry Collaboration:** The program is designed in collaboration with industry experts, academia, alumni, and parents, ensuring graduates are industry-ready with both theoretical knowledge and practical skills.
+
+**Curriculum Overview:**
+- Core subjects include Structural Geology, Stratigraphy, Plate Tectonics, Petrology, Mineralogy, Hydrogeology, Remote Sensing, Engineering Geology, and more.
+- Electives and minors allow for personalized learning paths, with options such as Advanced GIS Technologies, Remote Sensing Applications, and Environmental Geology.
+- The program emphasizes critical thinking, research methodology, and ethical practices in geology.
+
+**Career Opportunities:**
+Graduates can pursue various career paths, including:
+- Positions in the upstream hydrocarbon sector, mineral exploration, groundwater exploration, and environmental consultancy.
+- Roles as geologists, GIS analysts, remote sensing specialists, and in IT companies focusing on geo-modelling and GIS development.
+- Employment prospects in organizations such as the Geological Survey of India (GSI), Oil and Natural Gas Corporation (ONGC), and the National Geophysical Research Institute (NGRI).
+
+**Future Scope:**
+The program prepares students for further studies and advanced degrees, enhancing their employability in both public and private sectors. Graduates are equipped to tackle Earth and environmental challenges, engage in mining, hydrocarbon exploration, and contribute to urban planning and disaster management initiatives. The government's initiatives further broaden job prospects, promoting the use of geospatial technologies for sustainable development and resource conservation.
+
+**Admission Process:**
+To apply, candidates must meet the eligibility criteria, which includes a minimum of 50% marks in Class X and XII (PCM/B). The admission process may involve a personal interview or CUET (Common University Entrance Test).
+
+For more information regarding the program, fee structure, and application details, prospective students are encouraged to contact the UPES School of Advanced Engineering directly. 
+
+**Contact Information:**
+- **University:** UPES (University of Petroleum and Energy Studies)
+- **Program:** B.Sc. in Geology
+- **School:** School of Advanced Engineering
+
+This program not only promises immediate job opportunities but also lays the groundwork for lifelong learning and specialization in the dynamic field of geology.

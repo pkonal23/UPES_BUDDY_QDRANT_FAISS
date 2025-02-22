@@ -1,0 +1,51 @@
+**Profile Summary of Dr. Rakesh Ranjan**
+
+Dr. Rakesh Ranjan is an accomplished academic and researcher currently serving as an Assistant Professor in the School of Computer Science at the University of Petroleum and Energy Studies (UPES), Dehradun. He is pursuing his Ph.D. at the National Institute of Technology Patna, with an expected completion date of June 2024. His research primarily focuses on brain signal analysis, signal denoising for artifact removal, and detection of mental disorders, along with healthcare applications.
+
+**Education and Qualifications:**
+- **Ph.D. Research Scholar** at National Institute of Technology Patna (July 2019 – June 2024).
+- Qualified in GATE 2014 with a 94.85 percentile.
+- Recipient of a **Ph.D. Scholarship** from the Ministry of Education, India (July 2019 - June 2024).
+- Awarded a **Post Graduate Scholarship** from AICTE, India (2014 – 2016).
+
+**Work Experience:**
+- **Assistant Professor** at CMR Engineering College, Hyderabad (November 2016 – April 2018).
+- **Junior Research Fellow (JRF)** at VNIT, Nagpur (April 2018 - June 2019).
+
+**Research and Scholarly Activities:**
+Dr. Ranjan has been actively involved in various research domains including:
+- Biomedical Signal Processing
+- Digital Image Processing
+- Healthcare Analytics
+- Deep Learning
+- Machine Learning
+- Computer-aided Medical Diagnosis
+
+He has received multiple best paper awards at international conferences and has organized several technical events under the IEEE Signal Processing Society (SPS) Student Branch Chapter at NIT Patna. He has also participated in the Technical Program Committee for several international conferences.
+
+**Awards and Recognition:**
+- **International Travel Support (ITS) Scheme** financial assistance from SERB DST-India to attend the MeMeA-2022 Conference in Italy (June 2022).
+- Four best paper awards at various international conferences.
+
+**Professional Affiliations:**
+Dr. Ranjan is an active member of several IEEE societies:
+- IEEE Signal Processing Society
+- IEEE Engineering Medicine and Biology Society
+- IEEE Young Professionals Community
+
+He is the **Founding Chairperson** of the IEEE Signal Processing Society (SPS) Student Branch Chapter at NIT Patna (March 2023 - May 2024).
+
+**Teaching Philosophy:**
+Dr. Ranjan emphasizes a student-centered learning environment that integrates real-world applications with collaborative learning. His teaching approach includes hands-on projects, case studies, and industry-relevant examples, aiming to bridge theory with practice. He encourages students to engage in advanced technologies and independent research to foster academic excellence.
+
+**Courses Taught:**
+- Digital Electronics
+- Signal and System
+- Applied Machine Learning
+- Python Programming
+- Biomedical Signal and Image Processing
+
+**Contact Information:**
+For inquiries, Dr. Rakesh Ranjan can be reached via email at **rakesh.ranjan@ddn.upes.ac.in**. 
+
+Dr. Ranjan's ongoing research aims to innovate in mental health diagnostics and healthcare applications, utilizing AI-driven methodologies to enhance the field of biomedical engineering.

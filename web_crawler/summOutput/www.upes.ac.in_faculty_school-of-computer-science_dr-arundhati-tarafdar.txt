@@ -1,0 +1,18 @@
+Dr. Arundhati Tarafdar is a multifaceted professional specializing in machine learning, project management, and problem-solving, currently serving as an Assistant Professor at the School of Computer Science. With 11 years of extensive experience across academia, industry, and entrepreneurship, she is recognized for her commitment to innovation and impactful solutions in diverse environments. Dr. Tarafdar integrates progressive teaching methods, such as the "flipped classroom" approach, where students engage in pre-reading assignments and apply their knowledge through problem-solving during class sessions. This method aims to enhance their transition from novice to expert thinking by using authentic problems.
+
+**Research Interests and Expertise:**
+Dr. Tarafdar's research focuses on computer vision, machine learning, deep learning, and entrepreneurship, with a notable emphasis on 3D image generation and complex numpy operations. Her academic background includes a Ph.D. in Computer Science from Université de Tours, France, where her research centered on multilingual word spotting. She has also been involved in historical manuscript analysis and has gained international recognition for her contributions in this area.
+
+**Professional Experience:**
+Before her tenure at UPES, Dr. Tarafdar held various critical roles, including Technical Lead at Wipro, where she led transformative projects in computer vision for the automotive sector. Her professional journey encompasses positions such as Machine Learning Engineer, Postdoctoral Researcher, and Senior Software Engineer, showcasing her versatility and leadership capabilities. As a founder of her own venture, she has demonstrated entrepreneurial spirit in applied computer vision and e-commerce.
+
+**Courses Taught:**
+Dr. Tarafdar teaches courses on Social, Web, and Mobile Analytics, focusing on how these platforms contribute to customer acquisition in the consumer market. She also instructs on Pattern Recognition and Anomaly Detection, examining the methodologies that underpin these areas and their applications to real-world problems.
+
+**Awards and Recognition:**
+Throughout her career, Dr. Tarafdar has received numerous accolades, including the Career Excellence Award and Best Team Handling Award in her industry role. She has also been commended by her doctoral mentors for her contributions. Beyond her professional achievements, she is actively involved in women's empowerment initiatives and has been recognized as an active leader and rider within these programs.
+
+**Contact Information:**
+For inquiries, Dr. Arundhati Tarafdar can be reached at her email: arundhati.tarafdar@ddn.upes.ac.in.
+
+In summary, Dr. Tarafdar exemplifies a blend of academic rigor and practical application, driven by a dedication to empowering others and advancing the field of computer science through her teaching and research endeavors.

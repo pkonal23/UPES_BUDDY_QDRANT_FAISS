@@ -1,0 +1,35 @@
+**MCA Scholarships and Admissions Overview**
+
+The Master of Computer Applications (MCA) program, offered by UPES under the School of Computer Science, spans two years and provides various specializations, including Cyber Security, Digital Forensics, Data Science, and Artificial Intelligence & Machine Learning. Graduates can pursue diverse roles such as cyber security analysts, digital forensics investigators, machine learning engineers, data scientists, and information security managers, reflecting the program's emphasis on practical applications and industry readiness.
+
+**Eligibility Criteria:**
+To qualify for the MCA program, candidates must have:
+- A minimum of 50% in 10th, 12th, and graduation in a relevant subject.
+- For those holding a BCA degree, a minimum aggregate of 50% is required to apply for specializations like Artificial Intelligence and Machine Learning.
+
+**Application Process:**
+Candidates can apply online or offline by submitting a self-attested copy of required documents, including:
+- Permanent Account Number (PAN) of the student and parent.
+- Aadhaar Card number during registration.
+- Academic records for verification.
+
+The application form fee is Rs. 1750/-. The last date to apply for the MCA program is February 28, 2025.
+
+**Course Specializations:**
+1. **Cyber Security and Digital Forensics:** Focuses on network security, cryptography, ethical hacking, and advanced digital forensics techniques.
+2. **Data Science:** Covers data structures, algorithms, statistical analysis, and machine learning, preparing students for roles such as data analyst and business intelligence developer.
+3. **Artificial Intelligence and Machine Learning:** Provides knowledge on AI concepts, applications in real-world scenarios, and prepares students for roles like AI data analyst.
+
+**Placement Facilities:**
+UPES boasts a strong placement record, with 94% of students placed in 2022-23. The university collaborates with over 560 companies, including Hyundai, Vedanta, and Deloitte, to facilitate student placements. While UPES provides placement assistance, it does not guarantee job placement.
+
+**Campus Facilities:**
+UPES has transitioned to online technical interviews and learning models, ensuring quality education. The campus is certified for safety and hygiene by Bureau Veritas. It features three world-class auditoriums, advanced labs, a library with 200,000 publications, and 24x7 medical facilities. Additionally, the university offers hostel accommodations on a first-come, first-serve basis with triple sharing options for both boys and girls.
+
+**Scholarships:**
+UPES offers various scholarships for eligible students, although specific details are not provided in the text.
+
+**Contact Information:**
+For further information or inquiries, students can contact UPES directly through their website or the admission office. The contact number provided is +91.
+
+In summary, UPES's MCA program is designed to equip students with the necessary skills and knowledge to thrive in the tech industry, supported by robust placement services and a commitment to quality education.

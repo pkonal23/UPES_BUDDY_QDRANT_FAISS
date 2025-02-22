@@ -1,0 +1,50 @@
+The B.Sc. Computer Science in Data Science program at UPES School of Computer Science is meticulously designed to equip graduates with the necessary skills to analyze real-life problems scientifically, work collaboratively in multidisciplinary teams, and approach challenges with an ethical mindset. The program emphasizes a strong foundation in data science principles, including statistical analysis, predictive modeling, and forecasting, alongside practical applications using industry-standard tools.
+
+**Program Structure and Curriculum:**
+The curriculum is divided into eight semesters, covering a range of subjects such as:
+- Programming in C and C++
+- Data Structures and Algorithms
+- Operating Systems
+- Machine Learning and Deep Learning
+- Data Visualization
+- Cyber Security
+- Environmental Sustainability
+- Elements of Artificial Intelligence and Machine Learning
+
+Hands-on experience is emphasized through labs and projects, including:
+- Programming Labs (C, C++, Python)
+- Data Visualization Labs
+- Research Seminars
+- Summer Internships
+- Capstone Projects
+
+Each semester includes major electives and practical labs, ensuring students gain interdisciplinary exposure and practical skills relevant to the data-driven job market.
+
+**Eligibility Criteria:**
+To enroll in the program, candidates must meet the following criteria:
+- A minimum of 50% marks in Class X and XII
+- Mathematics, Computer Science, or Information Technology must be one of the major subjects in Class XII
+- Admission is based on performance in a Personal Interview or CUET.
+
+**Career Opportunities:**
+Graduates of this program are well-prepared for a variety of roles in the tech industry, including:
+- Data Analyst
+- Machine Learning Engineer
+- Data Consultant
+- Software Programmer
+- Business Analyst
+- Data Architect
+- Statistician
+- Automation Engineer
+- Data Engineer
+- Simulation Architect
+
+The program’s focus on practical learning and real-world projects ensures that graduates are not only academically proficient but also industry-ready. UPES boasts strong industry connections, enhancing placement opportunities for students in leading tech companies.
+
+**Future Scope:**
+The demand for skilled data scientists is rapidly increasing across various sectors such as healthcare, finance, and e-commerce. Graduates will be positioned to tackle complex data challenges and develop innovative solutions, particularly in emerging fields like IoT, AI, and the Meta Verse.
+
+**Contact Information:**
+For further details regarding the program, fee structure, and admission process, students can reach out via the UPES School of Computer Science contact details provided on their official website.
+
+This comprehensive program is dedicated to producing job-ready professionals who can excel in diverse careers, adapting to the evolving landscape of technology and data-driven industries.

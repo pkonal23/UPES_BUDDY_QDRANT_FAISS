@@ -1,0 +1,27 @@
+: This course covers fundamental and advanced algorithms, teaching students how to design, analyze, and implement efficient algorithms. Key topics include sorting and searching algorithms, dynamic programming, and graph algorithms.
+Research Interests
+Kshitij has taught a variety of courses, focusing on core and advanced topics in computer science:
+Home
+Work Experience
+Awards and Grants
+kshitijdeepak.kumre@ddn.upes.ac.in
+Close
+School of Computer Science
+Faculty
+Linux Lab
+Kshitij believes in a student-centric approach to teaching, where the focus is on understanding and application rather than rote learning. His goal is to create an engaging and interactive learning environment that encourages students to think critically and solve problems creatively. He strives to bridge the gap between theoretical concepts and practical applications, preparing students for real-world challenges.
+Kshitij Kumre is an Assistant Professor at UPES with a robust background in Information Technology, having completed his M.Tech from NITK Surathkal and B.Tech from NIT Agartala. He is dedicated to fostering an environment of curiosity and innovation, with a proven track record of mentoring students and assisting them with academic projects. His technical skills span across Data Structures & Algorithms, Machine Learning, Deep Learning, AWS, and more. Passionate about helping students excel in their placements, Kshitij brings dedication and a student-centric approach to teaching.
+Scholarly Activities
+: This practical course involves hands-on learning of Linux operating systems. It includes shell scripting, file system management, process control, and network programming. Students gain practical experience in using Linux for various applications and learn essential command-line tools and techniques.
+Courses Taught
+Kshitij developed a Sentiment Analysis model for financial statements using advanced techniques like BERT and FinBERT, achieving a 25% increase in accuracy through data augmentation. He is currently working on a DeepFake Detection project utilizing ResNext CNN and LSTM, aiming for real-time detection of AI-generated deepfake videos. The project involves developing a Django application for deployment on a cloud platform. Kshitij actively participates in research activities and contributes to academic publications. He is engaged in continuous learning and skill development, holding certifications in AWS Cloud Practitioner and Mastering Data Structures & Algorithms.
+Eligibility Criteria
+Design and Analysis of Algorithms
+Kshitij Kumre currently serves as an Assistant Professor at UPES, Dehradun since June 2024. He teaches "Design and Analysis of Algorithms" and "Linux Lab" to B.Tech students. His role includes developing course materials, engaging in research activities, and mentoring students on academic projects. Kshitij aims to provide quality education and support to students, preparing them for successful careers.
+Profile Summary
+Assistant Professor
+Kshitij Kumre
+Kshitij’s research interests include Machine Learning, Deep Learning, and Natural Language Processing. He is particularly focused on applications of these technologies in real-world scenarios such as sentiment analysis and deepfake detection. He is committed to exploring innovative solutions and contributing to the academic community through his research.
+Kshitij secured AIR 2988 in the CodeKaze Competition by Coding Ninjas among 1 lakh+ participants and contributed to a Guinness World Record in Origami on January 24, 2017.
+Contact
+Teaching Philosophy

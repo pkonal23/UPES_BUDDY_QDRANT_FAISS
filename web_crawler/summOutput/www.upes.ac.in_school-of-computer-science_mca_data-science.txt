@@ -1,0 +1,18 @@
+The UPES School of Computer Science offers a Master of Computer Application (MCA) program with a specialization in Data Science, designed to prepare students for a variety of career opportunities in the rapidly growing field of data science. The program focuses on equipping graduates for roles such as Data Scientist, Data Analyst, Machine Learning Engineer, Big Data Engineer, Business Intelligence Analyst, Data Science Consultant, and Research Scientist. These positions are applicable across multiple sectors including healthcare, finance, e-commerce, marketing, and government, highlighting the versatility of data science professionals.
+
+The curriculum is structured to provide both theoretical knowledge and practical experience, with students engaging in diverse projects and internships that solve real-world problems. A significant component of the program is a mandatory three-month industry internship, which allows students to gain hands-on experience in addressing authentic industry challenges. Additionally, the program has a strong emphasis on collaborative work, where students often work alongside faculty and industry experts on significant national and international projects.
+
+The program boasts impressive placement statistics, with an average annual CTC of 4.92 LPA and the highest CTC reaching 11.2 LPA. Renowned companies such as Accenture, IBM, Tata Consultancy Services, and Cognizant actively recruit graduates, reflecting the program's commitment to preparing students for successful careers in data science.
+
+Students in the program benefit from active faculty engagement, which includes opportunities for involvement in ongoing research and support for independent and faculty-assisted patent filings. This encourages an entrepreneurial spirit among students, leading to the establishment of several student-driven startups.
+
+The eligibility criteria for admission to the MCA program require a minimum of 50% in 10th and 12th grades, along with 50% aggregate marks in a BCA, B.Sc. in Computer Science, or any graduation with Computer Science/IT as a subject for three years, or equivalent qualifications. The selection process includes a personal interview.
+
+For those interested in applying, the last date to submit applications is February 28, 2025. To learn more about the program or for inquiries, prospective students can contact the UPES School of Computer Science.
+
+Contact Information:
+- Phone: +91
+- Email: [To be provided by the user]
+- Last Date to Apply: February 28, 2025
+
+In summary, the MCA in Data Science at UPES is a comprehensive program that combines academic rigor with practical application, preparing graduates to meet the increasing demands of the data-centric job market while fostering innovation and ethical practices in data usage.

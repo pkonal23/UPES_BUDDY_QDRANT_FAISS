@@ -1,0 +1,7 @@
+The content discusses the achievements of Dr. Kaushik Ghosh, particularly focusing on his work related to traffic control systems in urban areas of India. It highlights the inefficiencies of current traffic signal systems, which operate on fixed time intervals, leading to wastefulness during rush hour due to unpredictable traffic patterns. Dr. Ghosh's research addresses the significant problem of traffic congestion by proposing a density-based traffic control system that adjusts signal timings based on real-time traffic conditions at intersections.
+
+To implement this solution, Dr. Ghosh's team developed a simulation framework using Proteus, a software tool for circuit simulation. This system allows for the modification of green and red light durations in response to the volume of traffic at various approaches to an intersection. By dynamically adjusting signal timings, the proposed system aims to optimize traffic flow and improve the efficiency of urban traffic management.
+
+The project is registered under Copyright Registration Number: SW-15781/2022, indicating formal recognition of the intellectual property involved in this innovative traffic control solution.
+
+For further details or inquiries, the content does not provide specific contact information. However, it mentions Dr. Ghosh's affiliation with the School of Computer Science, which may be a point of contact for additional information regarding this research and its implications.

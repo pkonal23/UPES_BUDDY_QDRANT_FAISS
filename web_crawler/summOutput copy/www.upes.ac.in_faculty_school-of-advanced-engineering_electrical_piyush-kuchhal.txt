@@ -1,0 +1,19 @@
+Prof. Piyush Kuchhal is a highly esteemed academic in the fields of engineering physics and electrical engineering, currently serving as the Cluster-Head for Electrical Engineering at the University of Petroleum and Energy Studies (UPES). His responsibilities encompass comprehensive operational management, curriculum design, and the maintenance of academic excellence. His previous roles at UPES include Associate Dean of Applied Sciences from July 2014 to June 2018 and Head of the Department of Physics from July 2009 to June 2014. Prof. Kuchhal's teaching career spans over 25 years across notable institutions, including UPES, Dehradun, LIET, Alwar, and FET, MITS, Lakshmangarh.
+
+### Research Interests and Contributions
+Prof. Kuchhal is an active participant in the academic community, frequently delivering invited lectures and organizing conferences. He has supervised numerous PhD and B.Tech/M.Tech dissertations, contributing to the development of future scholars. His technical proficiency includes MATLAB, COMSOL Multiphysics, HFSS, and PV Sys, which he utilizes to enhance research and development in his field. He has an impressive publication record with over 110 papers in SCI/Scopus-indexed journals and has participated in more than 20 national and international conferences. His innovative approach is reflected in his contributions to patents and copyrights. Currently, he is involved in developing a battery testing and management facility under the DST-FIST fund.
+
+### Awards and Grants
+Prof. Kuchhal has received various accolades, including the Best Teacher Award, Best Employer Award, and R&D C3 Award. He has also secured funding from organizations such as UCOST and GIZ for his research in renewable energy. He is currently engaged in a GIZ-funded project focused on developing a Multi-Sectoral Energy Action Plan and Renewable Energy Pathway for Uttarakhand and reviews submissions for the INSPIRE Awards-MANAK program.
+
+### Teaching Experience
+Prof. Kuchhal has taught a diverse range of electrical engineering courses, including Electromagnetic Theory, Process Control, Analog Electronics, Optical Fiber Communication, Microwave Engineering, and Solar Photovoltaics. He is dedicated to effective learning, developing course materials, and employing innovative teaching methodologies. His expertise includes microstrip antennas, bioelectromagnetics, and renewable energy systems, with a focus on solar radiation and biofuel properties. He also integrates Artificial Intelligence and Machine Learning techniques into renewable energy applications.
+
+### Teaching Philosophy
+Prof. Kuchhal advocates for a customized and adaptable instructional approach tailored to the unique dynamics of each classroom. He emphasizes the importance of recognizing students' diverse backgrounds and personalities to enhance their learning experience. He supports the flipped classroom model, combining traditional and online education to maximize learning outcomes.
+
+### Contact Information
+For further inquiries, Prof. Piyush Kuchhal can be reached at:
+- Email: pkuchhal@ddn.upes.ac.in
+
+Prof. Kuchhal's profile encapsulates his dedication to education, research, and leadership, affirming his stature as a respected figure in engineering physics and electrical engineering.

@@ -1,0 +1,21 @@
+Dr. Vipin Gaur is an Associate Professor at the School of Advanced Engineering, known for his commitment to fostering logical thinking, objective questioning, and rational problem-solving in students to cultivate a robust scientific temperament. His teaching philosophy emphasizes the holistic development of students through these essential qualities.
+
+### Research Interests and Experience
+Dr. Gaur has an extensive post-doctoral career of over eight years, having worked at prestigious institutions such as Virginia Tech (USA), KEK (High Energy Accelerator Research Organization, Japan), and Tata Institute of Fundamental Research (TIFR, Mumbai). He has served as a Research Scientist at both Virginia Tech and KEK, supported by the US Department of Energy. His early contributions to the Indian scientific community began as a Junior Research Fellow at TIFR, where he earned his PhD in Physics and later continued as a post-doctoral fellow.
+
+He has been actively involved in significant mega science and technology projects, particularly in high-energy physics, such as the "Belle" and "Belle II" experiments, which have garnered international collaboration from over 100 institutions globally. His research interests include high-energy physics facilities at CERN, high-energy detector fabrication and operation, and software development for distributed computing and physics analysis using Belle II data.
+
+### Awards and Grants
+Dr. Gaur has received numerous accolades, including a certificate of excellence for being the Best Debut at the annual UPES event, Manthan 2023. He sanctioned an 18 lakh grant for the UPES SEED initiative for Belle II and obtained funding from the European Union project (CSC-LCG). In addition, he participated in the CERN School of Computing in Croatia and attended the Flavianet School in Switzerland, supported by grants from respective institutions.
+
+### Scholarly Contributions
+Dr. Gaur is one of the highest cited authors at UPES, with over 18,000 citations, an h-index exceeding 65, and an i10-index surpassing 215. His expertise lies in Particle Physics Analysis, "Belle II" detector operations, and the development of the Belle II Analysis Software Framework (BASF2) and Belle II Distributed Computing GRID software. Under his mentorship, UPES BTech final-year interns have secured funded positions for MS and PhD studies in top U.S. universities.
+
+### Teaching Role
+At UPES, Dr. Gaur teaches courses in Thermal Physics, Computational Physics, and Engineering Physics, and provides lectures to M.Sc. (Physics) students preparing for the National Eligibility Test (NET). He also supervises Engineering Physics laboratory classes. His teaching experience extends to TIFR, where he assisted in high-energy physics and computer programming courses.
+
+### Contact Information
+For inquiries, Dr. Gaur can be reached at:
+- Email: vipin.gaur@ddn.upes.ac.in
+
+In summary, Dr. Gaur's multifaceted career in high-energy physics, combined with his dedication to student development and impactful research, positions him as a prominent figure in both academic and scientific communities.

@@ -1,0 +1,38 @@
+**Profile Summary of Prof. Prasanthi Kumari**
+
+Prof. Prasanthi Kumari serves as an Associate Professor at the School of Computer Science, University of Petroleum and Energy Studies (UPES). With over 19 years of teaching and research experience, she specializes in the fields of Antenna Design, Metamaterials, Implantable Antennas, Low Power VLSI Circuits, and Battery Management in Electric Vehicles (EVs). She has authored three books, guided one research scholar, and has published approximately 25 research papers, including three reference textbooks. Prof. Prasanthi has actively mentored multidisciplinary student projects, leading them to participate in national-level competitions. Notably, she presented a paper on project-based learning at the AHFE conference in Washington, D.C., in 2019.
+
+**Teaching and Research Interests**
+
+Prof. Prasanthi teaches a variety of subjects, including:
+- Microprocessors & Controllers
+- Electromagnetics
+- Antennas
+- Microwave Theory & Techniques
+- Optical Communications
+- Electronic Devices and Circuits
+- Analog Electronics (Linear Integrated Circuits, Pulse and Digital Circuits)
+- Digital Logic Design
+- Industrial Electronics
+- VLSI Circuits & Optimization Methods
+
+Her research focuses on the design of antennas for implantable and wearable devices, the application of metamaterials, and RF design. She is currently guiding one research student, with three additional students' projects ongoing.
+
+**Teaching Philosophy and Methods**
+
+Prof. Prasanthi emphasizes the importance of self-responsibility in learning and creates an environment conducive to active student engagement. She incorporates design-based assignments and case studies into her curriculum, encouraging pre-reading assignments to prepare students for class discussions. Additionally, she conducts intuitive group vivas to enhance evaluation and foster collaborative project work that aligns with the syllabus, thereby improving students' problem-solving skills.
+
+**Work Experience**
+
+Before her tenure at UPES, Prof. Prasanthi worked at the College of Engineering in JNTU, Kakinada, where she held various roles, including faculty advisor and class coordinator. She has also served as the Head of the Electronics and Communication Engineering (ECE) department in two other colleges, representing her department in key evaluations at JNTU, Kakinada. She joined UPES in July 2009 as an Assistant Professor (SS), was promoted to Assistant Professor (SG) in 2014, and further advanced to Associate Professor in October 2016.
+
+**Awards and Recognition**
+
+In 2014, Prof. Prasanthi received the Long Service Award from UPES, recognizing her dedicated contribution to the institution.
+
+**Contact Information**
+
+For further inquiries, Prof. Prasanthi can be reached at:
+Email: prasanti@ddn.upes.ac.in
+
+This comprehensive overview encapsulates Prof. Prasanthi Kumari's academic and professional journey, highlighting her contributions to education, research, and student mentorship within the field of computer science and engineering.

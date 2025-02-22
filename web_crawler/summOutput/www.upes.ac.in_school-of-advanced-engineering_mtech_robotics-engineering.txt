@@ -1,0 +1,25 @@
+The M. Tech. in Robotics Engineering program offered by the UPES School of Advanced Engineering is an extensive and interdisciplinary curriculum aimed at equipping students with the essential skills and knowledge required to thrive in the robotics field. The program encompasses various engineering disciplines, including electronics, mechanical, electrical, computer, aerospace, and mechatronics engineering, providing a comprehensive understanding of robotics.
+
+### Program Overview
+- **Core Focus Areas**: The curriculum includes critical subjects such as Sensors-Actuator loops, Motion Planning and Autonomous Robotics, Industrial, Service, and Medical Robots, Formal Methods in Software Engineering, Advanced Embedded Systems, Control of Mobile Robots, Cognitive Robotics, Computer Vision and Image Processing, and Design of Cyber Physical Systems.
+- **Hands-on Experience**: The program emphasizes practical learning through internships and projects, enabling students to apply theoretical knowledge to real-world challenges. Students will have access to well-equipped labs, including those sponsored by DST FIST for battery testing, Texas Instruments for embedded systems, Bosch Roxert for automation, and a Robot Operating System lab.
+
+### Industry Relevance
+As the demand for robotics professionals increases, the program prepares graduates to meet the needs of various sectors, including renewable energy, electrical machinery, electronics systems, railways, automobiles, and heavy engineering. Graduates will be well-positioned to drive innovation and efficiency in industries such as manufacturing, healthcare, aerospace, and defense.
+
+### Career Opportunities
+Upon completion, graduates can pursue diverse career paths in research and development, automation, AI integration, and consulting. The program's industry-relevant curriculum ensures that M. Tech. Robotics Engineering graduates are highly sought after in the job market.
+
+### Admission and Eligibility
+To be eligible for the program, candidates must have:
+- A B.Tech/B.E. in relevant fields (Robotics, Mechatronics, Electronics, Mechanical, Electrical, etc.) or an equivalent degree with a minimum of 60% marks.
+- Preference will be given to GATE/NET qualified candidates.
+- Minimum 60% marks at Higher and Senior Secondary levels (10th and 12th).
+
+### Application Process
+Interested students can apply through the UPES website, filling out an enquiry form with personal details such as name, email address, and mobile number. The selection process includes a personal interview.
+
+### Contact Information
+For more information or inquiries, students can reach out through the provided contact details on the UPES website. 
+
+This program not only fosters a culture of innovative research but also prepares students to significantly contribute to the ongoing advancements in robotics technology, shaping the future of the industry.

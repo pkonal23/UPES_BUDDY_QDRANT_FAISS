@@ -1,0 +1,15 @@
+Dhirendra Kumar Sharma is an Associate Professor at the School of Computer Science, specializing in various domains such as Computer Networks, FANET (Flying Ad-hoc Networks), and Cyber-Physical Systems. He can be reached via email at dk.sharma@ddn.upes.ac.in.
+
+**Research Interests and Expertise:**  
+Dr. Sharma's research focuses on the development of protocols for ad hoc networks, wireless sensor networks, UAV (Unmanned Aerial Vehicle) communication, Cyber-Physical Systems, and Cyber Security. He has a robust academic background, having completed his Ph.D. in Computer Science and Engineering (CSE) from the Indian Institute of Technology (ISM) in 2016. He has authored and co-authored several peer-reviewed papers in areas including mobile ad hoc networks, communication networks, computer communications, and wireless network management. 
+
+**Teaching Philosophy and Methodology:**  
+Dr. Sharma employs an activity and project-based learning approach to enhance students' educational experiences, particularly in programming subjects like C, C++, and Python. He emphasizes the importance of hands-on projects for senior students to prepare them for internships and industry opportunities. His teaching interests also encompass Computer Networks, Design Analysis of Algorithms, and Mobile Communication.
+
+**Professional Experience:**  
+With over 10 years of teaching experience, Dr. Sharma has held academic positions at several prestigious institutions, including Avantika University in Ujjain, VPKBIET in Baramati, MITS in Madanapalle, and the National Institute of Technology in Raipur. He is an active member of the ACM since 2020 and serves as a reviewer for various journals, including those published by IEEE and Elsevier.
+
+**Awards and Patents:**  
+Dr. Sharma has been granted three internal patents—two in Australia and one in Germany. He has also participated in multiple T3 (Train the Trainer) programs by IBM and Xebia, enhancing his professional development and teaching methodologies.
+
+In summary, Dr. Dhirendra Kumar Sharma is a highly experienced academic with a strong focus on computer networks and cybersecurity, dedicated to fostering a practical learning environment for his students.

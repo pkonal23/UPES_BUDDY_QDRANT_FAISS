@@ -1,0 +1,40 @@
+**Kamal Raj Singh** is an Assistant Professor (Senior Scale) at the **School of Computer Science** of the **University of Petroleum and Energy Studies (UPES)** in Dehradun, Uttarakhand, India.
+
+**Educational Background**
+
+**Kamal Raj Singh** is currently pursuing a Ph.D. in **Medical Image Analysis** with a specialization in **Cardiac MRI** from the **Indian Institute of Technology Roorkee (IIT Roorkee)** in Roorkee, Uttarakhand, India. **Kamal Raj Singh** completed the Master of Engineering (M.E.) degree in **Computer Science** from the **Birla Institute of Technology and Science Pilani (BITS Pilani)** in Pilani, Rajasthan, India.
+
+**Professional Experience**
+
+**Kamal Raj Singh** has over five-and-a-half years of academic experience and nearly six months of industry experience. **Kamal Raj Singh** previously worked as an Assistant Professor at **Inderprastha Engineering College (IPEC)** in Ghaziabad, Uttar Pradesh, India, from December 2012 to June 2018. Prior to that, **Kamal Raj Singh** was a Student Intern at **Cambridge Silicon Radio India Private Ltd.** in Bangalore, Karnataka, India, from July 2011 to December 2011.
+
+**Research Interests**
+
+**Kamal Raj Singh's** research interests include **Medical Image Analysis**, **Cardiac Magnetic Resonance Imaging (MRI)** segmentation, **Deep Learning**, **Artificial Intelligence**, and **Computer Vision**. **Kamal Raj Singh** has published several research articles in high-impact factor **SCI** journals, including the **IEEE Transactions on Instrumentation and Measurement** and **IEEE** conferences.
+
+**Teaching Philosophy**
+
+**Kamal Raj Singh** believes that learning is most effective when it is **experiential** and focuses on solving **real-life problems**. **Kamal Raj Singh** employs a variety of teaching methods, such as discussions, class discussions, group work, projects, and hands-on activities, to encourage student participation and promote deeper understanding. **Kamal Raj Singh** also encourages **interdisciplinary collaboration** among students to enhance their learning experience.
+
+**Courses Taught**
+
+Over the past 11 years in academia and research, **Kamal Raj Singh** has taught various courses, including **Digital Logic Design**, **Digital Signal Processing**, **Information Theory and Coding**, **Embedded System Design**, **Python Programming**, **Data Communication and Computer Networks**, and **Wireless Communication**.
+
+**Scholarly Activities**
+
+**Kamal Raj Singh** has made significant research contributions to the fields of **Medical Image Analysis** and **Deep Learning**. **Kamal Raj Singh's** notable works include:
+
+* **MADRU-Net:** Multi-Scale Attention-based Cardiac MRI Segmentation using Deep Residual U-Net, published in the IEEE Transactions on Instrumentation and Measurement.
+* **Attention-guided residual W-Net:** for supervised cardiac magnetic resonance imaging segmentation, published in Biomedical Signal Processing and Control.
+* **W-Net:** Novel Deep Supervision for Deep Learning-based Cardiac Magnetic Resonance Imaging Segmentation, published in the IETE Journal of Research.
+* **Cardiac Magnetic Resonance Imaging Segmentation:** using Ensemble of 2D and 3D Deep Residual U-Net, presented at the 2022 IEEE Global Conference on Computing, Power, and Communication Technologies.
+
+**Awards and Grants**
+
+* Received a **MHRD fellowship** during M.E. by qualifying GATE 2009 (All India Rank-1934) National level examination.
+* Received Institute Assistantship during Ph.D. tenure.
+* Participated in the Multi-Disease, Multi-View & Multi-Centre Right Ventricular Segmentation in Cardiac MRI (M&Ms-2) Challenge 2021 and ranked 7th among all participants (worldwide) in the validation phase.
+
+**Contact Information**
+
+**Kamal Raj Singh** can be contacted via email at kamalraj.singh@ddn.upes.ac.in.

@@ -1,0 +1,39 @@
+**Profile Summary of Ritesh Kumar**
+
+**Current Position:**
+- Assistant Professor at UPES (University of Petroleum and Energy Studies).
+
+**Education:**
+- Pursuing a dual degree program (M. Tech and PhD) in Information Technology with a specialization in Robotics at the Indian Institute of Information Technology (IIIT) Allahabad.
+- Holds a B. Tech in Electronics and Communication Engineering.
+- PhD research scholar under the Institute Fellowship from the Ministry of Education, Government of India (2019-2023).
+- Previously received MHRD GATE Fellowship during his Master’s studies at IIIT Allahabad (2017-2019).
+
+**Research Interests:**
+- Indoor Localization
+- Internet of Things (IoT)
+- Aerial Robotics (Micro-UAV)
+- Machine Learning and Deep Learning
+
+**Work Experience:**
+- Served as a Senior Research Fellow (SRF) at IIIT Allahabad.
+- Coordinated several short-term courses:
+  - A five-day self-financed course on Wireless Networks and IoT, where he delivered hands-on sessions in IoT.
+  - A four-day self-financed course on IoT, Machine Learning, and Blockchain.
+
+**Projects:**
+- Worked on the "Ultraviolet Disinfection Systems against COVID-19 (UVDS)" project in collaboration with the Indian Telephone Industry in Mankapur. He was responsible for designing the system motherboard using ESP32 (System on Chip), sensors, relays, and developing the user interface (UI) utilizing Embedded C, HTML, CSS, and JavaScript.
+
+**Teaching Philosophy:**
+Ritesh Kumar emphasizes creating an inclusive and engaging learning environment that motivates students. His philosophy revolves around:
+- Inspiring curiosity and critical thinking.
+- Fostering lifelong learning.
+- Prioritizing active learning and collaboration.
+- Real-world application of concepts.
+- Integrating innovative pedagogical strategies and technology.
+His goal is to equip students with essential skills and mindsets for success in a rapidly changing world, while promoting diversity, equity, and compassion. He views teaching as a collaborative and evolving process, encouraging continuous learning and adaptation based on feedback and reflection.
+
+**Contact Information:**
+- Email: ritesh.kumar@ddn.upes.ac.in
+
+This summary encapsulates Ritesh Kumar's academic background, research interests, professional experience, and teaching philosophy, providing a comprehensive overview of his qualifications and contributions.

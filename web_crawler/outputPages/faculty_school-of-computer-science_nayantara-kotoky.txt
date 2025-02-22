@@ -1,0 +1,23 @@
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Close
+School of Computer Science
+nayantara.kotoky@ddn.upes.ac.in
+Faculty
+Nayantara believes in fostering skills and talents that lead to cooperative adventures. Building a nation is not a one-man task. Thus, teaching technical skills to the future generation and polishing them to be used efficiently in the real world with the cooperation of skills from different domains is what she wants to inspire the students with. She likes engaging students in class participation, identifying problems in the world around them, and quizzing them on whether there is any technical solution, and if yes, how they would bring about the solution.
+Scholarly Activities
+Dr. Nayantara Kotoky joined UPES in May 2023. She works in the domain of Machine Learning and has gained research experience in applications of Machine Learning in Public Policy Making and the domain of Cognitive Neuroscience.
+Courses Taught
+Eligibility Criteria
+Before joining UPES, Nayantara worked as an ERCIM postdoctoral fellow at Fraunhofer Institute for Industrial Engineering in Stuttgart, Germany. There she was the machine learning researcher in the team “Applied Neurocognitive Systems”. Prior to her work in Germany, Nayantara had worked in the Department of Computer Science and Engineering in Pandit Deendayal Energy University, Gujarat, as an assistant professor.
+Profile Summary
+Nayantara Kotoky
+Assistant Professor (Senior Scale)
+Nayantara has been involved with sharing her work in multiple venues. She has presented a talk titled “We Can Help Create Better Policies: Text Analytics in Policy-Making” in GUJCOST Sponsored Workshop on Natural Language Processing, 2020. She has also been in an invited talk and gave a presentation titled “Machine Learning Strategies for Policy Implications” in the One Week Faculty Development Program on Artificial Intelligence and Machine Learning, ICFAI University, Tripura, 2021. She has been a reviewer and session chair in the 1st IEEE International Conference on Artificial Intelligence and Machine Vision (AIMV), PDEU, India, 2021. Additionally, she was invited as a resource person to an event organised by the Department of Education in collaboration with the Internal Quality Assurance Cell (IQAC), Tyagbir Hem Baruah College, Assam, and presented a talk on “Role of Technology in Education and its Impact on Society” in the year 2022.
+Nayantara primarily works in the area of Machine Learning. Her research interests include applications of Machine learning in Public Policymaking. Her focus is to use the applications of machine learning in a way that can be used to mine relevant information that can be translated into effective public policies. With this, her Ph.D. thesis focused on applying machine learning to identify amendment scopes in the Indian Right to Information Act, 2005. Along with this, she has also gained experience in her postdoctoral research where she applies machine learning to solve problems in the domain of neuroscience and psychology.
+During her previous work experience, Nayantara has taught subjects like Introduction to Python Programming, Foundations of Data Science, Data Warehousing and Data Mining, and Cyber Forensics.
+Contact
+Nayantara has been the recipient of ERCIM-European Research Consortium for Informatics and Mathematics postdoctoral fellowship, and she has been hosted by Fraunhofer Institute for Industrial Engineering, Stuttgart, Germany, during her fellowship. During her Ph.D. research, she received the ACM-W scholarship for her work which has been accepted at the IEEE International Conference on Machine Learning and Applications (ICMLA), Florida, 2019. She has also received the Grace Hopper Celebration, India (GHCI), student scholarship to attend the GHCI event in 2019.
+Teaching Philosophy

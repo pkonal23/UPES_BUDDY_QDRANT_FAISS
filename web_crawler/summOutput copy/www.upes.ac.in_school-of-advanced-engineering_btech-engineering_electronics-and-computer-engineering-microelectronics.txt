@@ -1,0 +1,28 @@
+The B.Tech in Electronics and Computer Engineering with a specialization in Microelectronics at UPES School of Advanced Engineering is designed to prepare students for a dynamic career in the microelectronics industry. The program covers various essential topics, including microprocessors, microcontrollers, digital system design, data structures, communication skills, and basic electrical and electronics principles. 
+
+### Course Structure:
+- **Semesters Overview:**
+  - **Semester 1:** Introduction to Chemistry, Physics, Workshop Practice, and an Industrial visit.
+  - **Semester 2:** Focus on Engineering Mathematics, Digital Logic, and Communication Skills.
+  - **Semesters 3-8:** Advanced subjects including VLSI Design, Nanoelectronics Devices, FPGA and System on Chip, Data Communication, and specialized courses such as Mobile and Web Application, IC Fabrication, and Packaging.
+
+### Program Highlights:
+- The curriculum emphasizes practical experience, with extensive lab work and projects aimed at developing hands-on skills in chip design, simulation, and synthesis.
+- Students will engage with cutting-edge manufacturing methodologies like ASIC and CMOS, leading to the development of 'ready-to-manufacture' chips.
+- Graduates will be equipped to tackle challenges in the semiconductor industry and contribute to advancements in integrated circuit technology.
+
+### Future Scope and Industry Trends:
+- The microelectronics field is expected to grow significantly in India, with major industry players such as Samsung, Intel, AMD, and Qualcomm actively recruiting graduates.
+- Career opportunities include roles as electronics engineers, microchip designers, research scientists, and technical consultants across various sectors, including telecommunications, healthcare, artificial intelligence, and more.
+- The program emphasizes low-power chip design to meet the increasing demands for high-performance computing and energy-efficient devices.
+
+### Eligibility Criteria:
+- Candidates must have a minimum of 50% marks in Classes X and XII, with 50% in Physics, Chemistry, and Mathematics in Class XII.
+
+### Admission Process:
+- Interested students can apply through the UPESEAT, JEE, Board Merit, SAT, or CUET, depending on individual performance.
+
+### Contact Information:
+- For inquiries and further details, students can reach out via the provided contact forms or call the admission office.
+
+The program offers a robust foundation for aspiring engineers to innovate and excel in the rapidly evolving field of microelectronics, preparing them for successful careers in a variety of high-tech industries.

@@ -1,0 +1,22 @@
+Samiksha Puri, Nitika Bhambri, and Vatsal Singh, students of BSc. in Microbiology from the 2020-23 batch, undertook a project focused on the application of microbial transglutaminase (MTGase) to enhance the texture and quality of Indian sweets and other food products. Their research aimed to achieve several key objectives:
+
+1. **Improvement of Food Quality**: The project sought to produce better-quality, cost-effective food products by utilizing MTGase in conjunction with non-conventional food processing technologies. This combination was intended to enhance the gelation process and improve the physicochemical and textural qualities of protein-based food products, ultimately increasing consumer demand.
+
+2. **Research Techniques**: The review highlighted various techniques employed to enhance the recombinant expression system of MTGase, including:
+   - Promoter engineering
+   - Gene codon optimization
+   - Signal peptide fusion
+   - Constitutive expression
+   - Random and rotational mutagenesis
+
+3. **Functional Characteristics of MTGase**: MTGase is a transferase enzyme that modifies protein functional characteristics in food systems. Its mechanisms of action primarily involve polymerizations that alter the hydrophobicity of molecules. The enzyme affects several properties, including gelation, emulsification, foaming, viscosity, and water-holding capacity, all of which depend on protein solubility.
+
+4. **Genetic Engineering Advances**: Recent studies have shifted focus towards genetic engineering to develop efficient MTGase expression systems. Researchers have worked on optimizing strains such as E. coli, Bacillus subtilis, and Pichia pastoris to enhance properties like thermostability, activity, and yield.
+
+5. **Application to Dairy Products**: The project also explored the application of MTGase in dairy products to improve their nutritional and technological aspects through intramolecular cross-linking.
+
+6. **Cost-Effectiveness**: A significant goal of this research was to make food products more cost-effective by reducing fat content and stabilizing ingredients.
+
+The project was mentored by Dr. Smriti Arora from the School of Health Sciences and Technology, emphasizing the importance of precise control over the chemical composition and molecular weight in food production. 
+
+For further inquiries or collaboration, contact details for Dr. Smriti Arora were not provided in the text.

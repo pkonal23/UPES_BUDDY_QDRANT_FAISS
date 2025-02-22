@@ -1,0 +1,79 @@
+Blog
+Faculty
+Rheometer (Model C-LTD80/QC, Anton Paar GMBH,Austria, 2013)
+Prof. D.K. Avasthi
+• Material performance
+Contact Us
+Optical microscope with digital camera (Magnus MSZ-TR)
+Rankings
+Research and Innovation Units
+Vice-Chancellor
+At UPES, we recognize the paramount importance of converting scientific research into tangible products with significant socioeconomic impacts. It is crucial that our research efforts lead to practical applications that benefit society and enhance the visibility of our achievements. In the past year alone, our dedicated researchers have contributed to over 150 published papers in highimpact journals and have secured over ₹10 crores in research funding from both national and international agencies. Let us persist in our journey of exploration and curiosity, fostering growth and creating a brighter tomorrow for future generations .
+About Us
+Capacity Building
+Programs
+In recent months, our dedicated team of researchers, faculty members, and students has been advancing the frontiers of knowledge, exploring new and uncharted territories of discovery. I am immensely proud of the groundbreaking work being conducted across a wide range of disciplines, firmly establishing UPES as a leader in cutting-edge research and development. What sets UPES's research initiatives apart is our commitment to addressing real-world challenges. Our interdisciplinary approach allows us to tackle complex problems and devise solutions with a significant societal and environmental impact. From sustainable energy and climate change mitigation to artificial intelligence and healthcare, our researchers are making substantial contributions to global progress. Our continuous growth and investment in state-of-the-art facilities ensure that we remain at the forefront of academic and research excellence. As we look ahead, I am confident that UPES will continue to be a beacon of innovation, driving positive change in the world
+• Particle characterization analyzers have found uses in quality control, process material evaluation, and research and development for applications.
+• Sunscreen efficacy.
+Consist of chamber, electrode assembly, substrate heater with temperature controller, gate valve, gas flow assembly, thickness monitor, filament power supply.
+Message from Leaders
+• Determination of metal and organic non-metal analytes in water
+• Determination of texture of poly grained material.
+Support
+It is in-house financial support, available for consumables, mini equipment, travel grant, fees for characterization, software purchase and other operational expenses.  The intent of this initiative is to support the growth of the researchers by providing them flexible working capital and to leverage these limited funds into substantial external funding, industrial support or creative scholarship projects.
+Close
+Applicant Login
+• Accurate Co-efficient of Thermal Expansion
+Dr. Ram Sharma
+Grants
+• Soil contamination from organic materials.
+• Fiber stress/strain measurement
+• To generate quick and easy methods for common food analyses without the need for extensive training ensuring that the correct results are reported without compromising food quality.
+I am delighted to report that the momentum in research activities at UPES has continued to accelerate through the first half of 2024, building upon our achievements from the previous year. The unwavering commitment of our faculty and students continues to drive our progress. Our investment in research infrastructure remains steadfast. The Central Instrumentation Centre has seen further enhancements, fostering even more robust interdisciplinary collaborations across our schools. These improvements have already yielded tangible results, with several breakthrough projects currently underway. The international impact of our research publications continues to grow. Our faculty members and research scholars have presented their work at prestigious international conferences, further elevating UPES's global research profile. I'm particularly proud to announce that three of our students have received the INSPIRE award this year, while five have secured CSIR NET fellowships. Additionally, we've seen a record number of qualifications in UGC NET and GATE, underscoring the quality of our academic programs and the caliber of our students. I extend my heartfelt appreciation to our esteemed faculty, dedicated researchers, and passionate students for their invaluable contributions. Your efforts continue to shape UPES into a beacon of knowledge, innovation, and transformative ideas.
+• To determine structural properties: strain, grain size, epitaxy, phase composition, ordered disordered transformation, thermal expansion etc.
+Spectro Photo meter UV-Vis (LAMDA 35, Perkin Elmer)
+• Characterization of petrochemical Products
+Infrastructure
+• To determine crystalline and amorphous arrangements.
+Sputtering System (Excel Instruments)
+• A wide range of applications covered by only one rotational rheometer
+• Shrinkage force testing
+• Water and wastewater analysis.
+XRD (D8 ADVANCE ECO - Bruker)
+• Multilayer film analysis
+Light source: LED, camera casing: metal alloy, camera dimension: 60x60x40 mm, spectral range: 380-650 nm with IR filter
+• Viscosity measurement – From single point up to complex rheological tests
+Projects
+• Non - destructive techniques to identify crystalline phases and orientation.
+• Thermal stress analysis fibers.
+Analysis can track the changes in the mass of your sample as the temperature is changed in a controlled manner. Analysis typically consists of monitoring the mass of your sample while heating at a constant rate, or held at a constant temperature over time. Differential Scanning Calorimetry can track the changes in the heat flow to and from a sample as the temperature is changed in a controlled manner. The sample may be subjected to some heating and cooling cycle(s) in an inert or oxidizing environment. Each of these cycles may provide different information.
+Load More
+• Film tensile
+Thermal Evaporation System (Excel Instruments)
+• A broad variety of measuring systems and accessories for a multitude of applications.
+Dean R&D
+• For solids, the surface area of the particle is critical in determining the rate of chemical reaction.
+Thermo mechanical Analyzer (TA Instruments TMAQ400EM) Intrinsic and product property measurements
+Photoluminescence Spectrophotometer (LAMBDA 45, Perkin Elmer, 2013)
+Start-Ups
+Particle size analyzer (ZEN1690, Malvern Instruments Ltd, 2013)
+Research is the central pillar of UPES, that is not only conducted but also driven by eminent faculty. To widen the roots of research in the institution, a new scheme titled "SHODH" is launched especially for undergraduate students. The scheme aims to enable the students to innovate through investigations and validations under the guidance of expert faculty members. The scheme introduces the students to the research eco-system at UPES to promote product development and entrepreneurship. The scheme encourages the student to embark into multidisciplinary research by choosing their own teams and mentors. From the year of its inception, the scheme has delivered outcomes in the form of patents, products and original research articles that are published with high impact journals and also start-up.
+Alumni
+Parents
+• Quick and accurate temperature control
+• High optical quality for environmental analysis.
+XRD (Malvern Pananalytic)
+President
+Home
+Students
+Thin anti-reflection coatings on glass for optical applications are also deposited by sputtering. Because of the low substrate temperatures used, sputtering is an ideal method to deposit contact metals for thin film transistors. Another familiar application of sputtering is low-emissivity coatings on glass, used in double-pane window assemblies. The coating is a multilayer containing silver and metal oxides such as zinc oxide, tin oxide, or titanium dioxide. A large industry has developed around tool bit coating using sputtered nitrides, such as titanium nitride, creating the familiar gold colored hard coat. Sputtering is also used as the process to deposit the metal (e.g. aluminium) layer during the fabrication of CDs and DVDs.
+• Quantification of heavy metals (nanomaterials) in freshwater, seawater, air, and soil.
+Eligibility Criteria
+• Ease of operation for single-point viscosity determinations as well as more sophisticated rheological tests
+Dr. Sunil Rai
+TGA DSC (Inkarp) Thermogravimetri
+• Measurement of thickness of layers
+In GIXRD, the incident angle of the X-ray beam hitting the sample is adjusted relative to the critical angle of the reflected X-rays in the same way as in X-ray reflectivity, with which the structural properties of thin films can be determined. The critical angle of the reflected X-ray beam is unique for every material and is generally very small. The higher the incident angle relative to the critical angle of the material, the deeper the X-rays go down into the material. Therefore, if the incident angle of the X-rays rises above the critical angle, the depth of the penetrating X-rays increases rapidly. When the incident angle is smaller than the critical angle, the X-rays go through the sample only a few nanometers.
+Shodh
+Seed
+Integrity

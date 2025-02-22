@@ -1,0 +1,17 @@
+Dr. Bhuwan Chandra Joshi is an Assistant Professor (Senior Scale) at the School of Advanced Engineering, specializing in Optimization theory. He earned his Ph.D. from the Institute of Science at Banaras Hindu University in Varanasi, India, and has qualified for the CSIR-NET and U-SET examinations in Mathematical Sciences.
+
+His research interests include:
+
+- Variational Inequalities
+- Mathematical Programs with Equilibrium Constraints (MPEC)
+- Mathematical Programs with Vanishing Constraints (MPVC)
+- Interval Valued Optimization Problems
+
+In his teaching role, Dr. Bhuwan emphasizes the importance of accommodating diverse learning styles through various methods. These include technology-integrated tasks, case studies, interactive sessions for questions, and discussion-based exercises. His goal is to foster a classroom environment that is supportive and intellectually stimulating, encouraging curiosity and critical thinking among students.
+
+Dr. Bhuwan has previously served as an Assistant Professor of Mathematics at Graphic Era (Deemed to be) University in Dehradun and as a lecturer at Amrapali University in Haldwani, Uttarakhand. He has taught Fundamental Engineering courses, as well as Complex Analysis and Differential Equations to undergraduate students.
+
+He is committed to encouraging self-directed learning and creating an enjoyable, engaging, and respectful classroom atmosphere.
+
+For further inquiries, he can be contacted at:
+Email: bhuwanc.joshi@ddn.upes.ac.in

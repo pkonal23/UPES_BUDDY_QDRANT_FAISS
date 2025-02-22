@@ -1,0 +1,58 @@
+**Bachelor of Technology in Cyber Security and Forensics**
+
+**Program Overview**
+
+The Bachelor of Technology in Cyber Security and Forensics program offered by the University of Petroleum and Energy Studies (UPES) is designed to equip students with the requisite knowledge and skills to excel in the burgeoning field of cybersecurity and digital forensics. The program's curriculum incorporates cutting-edge industry trends and practices, ensuring that graduates are well-prepared for a successful career in the field.
+
+**Curriculum**
+
+The program encompasses various theoretical and hands-on components, including:
+
+* **Core Courses:** Linux Lab, Programming in C, Data Structures and Algorithms, Database Management Systems, Operating Systems, Compiler Design, Cryptography and Network Security, Formal Languages and Automata Theory, Ethical Hacking & Penetration Testing
+* **Lab Courses:** Programming in C Lab, Data Structures and Algorithms Lab, Database Management Systems Lab, Ethical Hacking & Penetration Testing Lab, Network Security Lab
+* **Interdisciplinary Courses:** Artificial Intelligence and Machine Learning, Object-Oriented Analysis and Design, Statistics and Data Analysis, Human Computer Interface Design, Digital Signal Processing
+* **Capstone Project:** Students undertake a Capstone Project in their final year, providing them with the opportunity to apply their knowledge and skills in a real-world setting.
+
+**Faculty and Infrastructure**
+
+The program is taught by a distinguished faculty comprising seasoned professionals and academicians from the cybersecurity industry and computer science academia, ensuring students receive a blend of theoretical and practical perspectives.
+
+UPES boasts state-of-the-art infrastructure, including dedicated labs for cyber security, forensics, network security, cloud computing, and virtual labs, providing students with the resources and facilities necessary for immersive learning.
+
+**Career Opportunities**
+
+The demand for qualified cybersecurity and forensics professionals continues to surge as organizations face an escalating threat landscape. Graduates of the Bachelor of Technology in Cyber Security and Forensics program can pursue a wide range of high-paying, in-demand careers, including:
+
+* Security Analyst
+* Incident Response Analyst
+* Network Security Administrator
+* Security Engineer
+* Cybersecurity Consultant
+* Digital Forensic Investigator
+* Ethical Hacker
+* Penetration Tester
+
+**Placements**
+
+The program has a strong track record of placement, with graduates securing lucrative employment opportunities in leading organizations such as Accenture, CISCO, Adobe, Boeing India Pvt Ltd, Capgemini Technology Services India Ltd, Cognizant Technology Solutions, EY India, Infosys, Nykaa, TCS, Samsung R&D, and Rakuten India.
+
+**Admissions**
+
+Interested candidates must satisfy the following eligibility criteria:
+
+* Completion of Class X and XII with a minimum of 50% marks
+* 50% in Physics, Chemistry, and Mathematics (PCM) in Class XII
+
+Selection is based on the candidate's performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET.
+
+**Contact Information**
+
+For inquiries, please visit: https://www.upes.ac.in/enquiry-form
+
+Alternatively, you may reach out to the following contact:
+
+**Enquiry Form:** https://www.upes.ac.in/enquiry-form
+
+**Email:** admissions@ddn.upes.ac.in
+
+**Phone:** +91-135-326-4444

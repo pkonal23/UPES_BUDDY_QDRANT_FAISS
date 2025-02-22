@@ -1,0 +1,22 @@
+Research Interests
+Dr. Surbhi Saraswat
+Her areas of specialisation include Big Data Processing and Analytics, Data Visualisation, Artificial Intelligence, Fog/Cloud Computing, the Internet of Things, and Ubiquitous Computing.
+Dr. Surbhi believes in encouraging students to actively participate in discussions, collaborate with their peers, and solve real-world problems. She employs a variety of formative and summative assessment methods to evaluate students' progress and provide timely feedback. Assessments are designed to be authentic, meaningful, and aligned with learning objectives, allowing students to demonstrate their understanding and skills in diverse ways. As an educator, she is committed to her own professional growth and continuously strives to improve her teaching strategies and methods.
+Home
+Work Experience
+Dr. Surbhi has a granted patent and has published various research papers in reputed journals and conferences. She has 4 journals published in IEEE Transactions and 12 Scopus conference papers.
+Close
+School of Computer Science
+Faculty
+Dr. Surbhi Saraswat has more than 5 Years of experience working with Big Data, delivering seminars and conducting workshops. She worked as a Post-Doctoral Researcher within the MISL group in the School of Computer Science and Information Technology, University College Cork, Ireland from June 2020 to November 2021. She completed her PhD in 2020 from the Department of Computer Science & Engineering, IIT (BHU) Varanasi, India. She received M.Tech. degree in Information Technology from IIIT Allahabad, India; and a B.Tech degree in Electronics and Communication Engineering from Jaipur National University, Jaipur. Throughout her career, she has published various research papers in reputable journals and has had the privilege of presenting her findings at international conferences and workshops.
+Scholarly Activities
+Courses Taught
+Eligibility Criteria
+Profile Summary
+Other than big data courses, she also teaches Introduction to IoT, Microprocessor, computer architectures, digital logic and computer organization.
+She teaches courses on Big Data, such as big data ingestion, search, analytics, stream data processing, etc.  Since big data is a highly practical and dynamic field. She focuses on hands-on learning experiences in labs and project-based activities to provide students with opportunities to apply their knowledge and skills in real-world contexts.
+Assistant Professor
+She joined UPES in January 2022, as her first teaching job. Before joining UPES, She worked as a Post-Doctoral Researcher within the MISL group in the School of Computer Science and Information Technology, University College Cork, Ireland from June 2020 to November 2021. During PostDoc She worked on a European Union project, The BRAINE Project (Big-Data pRocessing and Artificial Intelligence) that aimed to boost the development of the Edge framework and, specifically, energy-efficient hardware and AI-empowered software systems, capable of processing Big Data at the Edge. She worked with Dell for developing a Scalable Big data Storage solution as part of the project.
+Contact
+surbhi.saraswat@ddn.upes.ac.in
+Teaching Philosophy

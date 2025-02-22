@@ -1,0 +1,15 @@
+Harsiman Jit Singh, an Associate Professor at the School of Computer Science, has made significant contributions to the field of computational technologies, as evidenced by his attainment of two patents and the publication of influential international research papers.
+
+One of his notable achievements includes the development of a novel multivariate Recurrent Neural Network (RNN)-based analytical model for forecasting stock price movements. This model outperformed traditional univariate models, achieving an impressive accuracy of 88.91% in just 1.76 seconds, with Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) models following closely at 85.43% and 81.24%, respectively. This research paper titled "A Novel Multivariate Recurrent Neural Network-based Analysis Model for Predicting Stock Prices" was presented at the 2nd International Conference on Innovative Sustainable Computational Technologies (CISCT). The paper explores the complexities of stock price prediction, highlighting the efficacy of various RNN architectures in managing intricate time series data.
+
+Additionally, Singh has contributed to the domain of healthcare data security through a framework aimed at safeguarding Electronic Health Records (EHR) from cyber threats. This research addresses the vulnerabilities associated with outdated digital platforms where medical records are stored, which often lead to malicious activities compromising patient health and financial security. The framework employs machine learning techniques for detection and verification, ensuring the confidentiality, integrity, and availability (CIA) of EHRs. This work was presented at the Fourth International Conference on Computing, Communication and Cyber-Security (IC4S-2022).
+
+Another significant publication, "Visual Question Answering Developments, Applications, Datasets, and Opportunities: A State-of-the-Art Survey," delves into the emerging field of Visual Question Answering (VQA) within Artificial Intelligence (AI). This paper discusses the challenges and advancements in VQA systems, which combine Natural Language Processing and machine learning to enable machines to understand and respond to questions about visual content.
+
+Overall, Harsiman Jit Singh's research not only showcases his expertise in developing advanced computational models but also addresses pressing issues in data security and AI, paving the way for future advancements in these fields. 
+
+For further information, please refer to the publication links provided:
+- Stock Price Prediction Model: [IEEE Xplore](https://ieeexplore.ieee.org/document/10046540)
+- Healthcare Data Security Framework: [Springer](https://link.springer.com) (specific link not provided in the original text). 
+
+For inquiries, contact Harsiman Jit Singh at the School of Computer Science.

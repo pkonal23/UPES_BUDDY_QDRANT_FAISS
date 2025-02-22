@@ -1,0 +1,30 @@
+Research Interests
+Structural Biology, Recombinant DNA technology and Genetic engineering
+Assistant Professor - Selection Grade
+Home
+Work Experience
+Awards and Grants
+S. K. Chaudhary, S. Singh, W. Tian, Z. Severance, ……., A. Choudhary (2023). Proximity-inducing modalities: the past, present, and future. Chem. Soc. Rev 52, 5485-5515.
+Close
+Faculty
+Scholarly Activities
+V. M. Shoba, D. N. P. M. Godage, S. K. Chaudhary, …..,A. Choudhary (2022). Synthetic Reprogramming of Kinases Expands Cellular Activities of Proteins. Angewandte Chemie International Edition 31: e202202770
+In his perspective, teaching is a collaborative endeavor that empowers learners to delve into their interests and foster critical thinking abilities to comprehend the intricate workings of the natural world. He emphasizes mentoring through a systematic approach that cultivates learners' interest by instilling unique perspectives, resulting in the acquisition of knowledge, and ultimately fostering discipline through organized and structured understanding.
+T. M. Nguyen, V. Sreekanth, A. Deb, ….., S. K. Chaudhary, ……, E. S. Fischer, D. R. Liu, B. L. Ebert, A. Choudhary (2023). Proteolysis targeting chimeras with reduced off-targets. Nature Chemistry 16(2):218-228.
+S. K. Chaudhary*, J. Jeyakanthan, & K. Sekar*. (2020). Structural and functional characterization of oligomeric states of proteins in RecFOR pathway. Int J Biol Macromol. 163:943-953. (*Corresponding Author)
+Selected Publications -
+Martin-Rufino J.D., Castano N., Pang M., Grody E.I., Joubran S., …, S. K. Chaudhary, ….., Lander E.S., Klein D.E., Sankaran V.G. (2023). Massively parallel base editing to map variant effects in human hematopoiesis. Cell S0092-8674(23)00332-X.
+Courses Taught
+He has qualified competitive examinations like GATE and CSIR-NET. Received Ph.D. fellowship from Indian Institute of Science. He has also received DBT fellowship to support M. Tech (Biotechnology) programme.
+Eligibility Criteria
+He is a structural and chemical biologist with extensive experience in protein structure determination, structure-based drug design, and proximity-induced therapeutics. After completing a B.E. and M.Tech in biotechnology, he pursued Ph.D. in structural and computational biology from the Indian Institute of Science, Bangalore. During his Ph.D., he explored amino acid networks for enzyme activity, identified dynamically correlated residues in proteins, and confirmed their roles in enzyme function and structure using biochemical and biophysical techniques. He also validated the role of dynamic protein complexes in bacterial DNA-repair pathways. He continued his research journey as a Postdoctoral Associate at the Broad Institute of MIT and Harvard, Cambridge, USA. There, he further explored innovative approaches at the intersection of biology and chemistry. He designed bifunctional small molecules for proximity-directed targeted protein phosphorylation and degradation. Additionally, he applied protein engineering techniques to develop atom-economical chemogenetic protein tags and hybrid nanobodies for T-cell recruitment on cancer cells.
+S. K. Chaudhary, J. Jeyakanthan, & K. Sekar (2018). Structural and functional roles of dynamically correlated residues in Thymidylate kinase. Acta Crystallographica Section D 74(4), pp. 341-354.
+Profile Summary
+School of Health Sciences and Technology
+santosh.chaudhary@ddn.upes.ac.in
+S. K. Chaudhary, R. Pergu, V. M. Shoba, ……, A. Choudhary (2023). Development and applications of chimera platforms for tyrosine phosphorylation. ACS Central Science 9(8):1558-1566.
+Inside cells, proteins are often subject to post-translational modifications (PTMs) that impart covalent alterations to the protein backbone and sidechains thereby enhancing the diversity of moieties for functional selection. Since PTM impart transient function without the need of DNA encoding, dynamic selection pressure operates on them on smaller timescales rather than being multigenerational. The objective is to utilize this characteristic of PTMs to dynamically reprogram cellular functions through protein engineering and chemical biology.
+Contact
+Dr. Santosh Kumar Chaudhary
+Dr. Santosh has extensive research experience in structural and computational biology from the Indian Institute of Science, Bangalore. He joined the Department of Chemical Biology and Therapeutic Sciences at the Broad Institute of MIT and Harvard as a postdoctoral associate, where he gained significant experience in protein engineering and chemical biology.
+Teaching Philosophy

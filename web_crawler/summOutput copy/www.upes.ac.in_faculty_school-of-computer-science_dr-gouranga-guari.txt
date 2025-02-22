@@ -1,0 +1,9 @@
+Dr. Gouranga Duari is an Assistant Professor at the School of Computer Science, UPES, with a strong focus on advanced interdisciplinary research in pattern recognition. His research aims to bridge theoretical frameworks and practical applications to enhance the quality of life. Dr. Duari emphasizes the importance of teaching, utilizing relatable examples and real-life experiments to simplify complex concepts for his students. He encourages critical thinking by presenting thought-provoking scenarios that broaden students' perspectives.
+
+His specific research interests include analyzing unnatural behavior data, employing Topological Data Analysis (TDA) to improve stock market data pattern recognition, and applying machine learning techniques for outlier detection. He has a solid theoretical foundation in statistical and machine learning concepts, evidenced by his numerous publications in prestigious international journals and conferences.
+
+Dr. Duari has taught various courses, including Problem Solving, Descriptive Analytics and Visualization, Machine Learning, and Data Science. He completed his Ph.D. at Jawaharlal Nehru University, New Delhi, and has a Master's degree from the University of Delhi, where he focused on Optimization Modeling. His work primarily revolves around expanding the application of machine learning techniques in unnatural pattern recognition.
+
+Additionally, Dr. Duari has received several accolades, such as the Swami Vivekananda MCM Scholarships and the GOI Higher Education Scholarship. Before joining UPES, he served as a Teaching Assistant at the School of Computer and System Sciences at Jawaharlal Nehru University.
+
+For further inquiries, Dr. Gouranga Duari can be contacted via email at gouranga.duari@ddn.upes.ac.in.

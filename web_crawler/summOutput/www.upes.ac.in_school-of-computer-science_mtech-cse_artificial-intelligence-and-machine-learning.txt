@@ -1,0 +1,23 @@
+The M.Tech. program in Computer Science & Engineering, specializing in Artificial Intelligence and Machine Learning (AIML) at UPES School of Computer Science, is designed to equip students with essential skills required in the rapidly evolving job market. The program is structured to span two years, encompassing a comprehensive curriculum that merges academic knowledge with industry insights. Students are prepared for diverse career opportunities, including roles such as Data Scientist, Machine Learning Engineer, Research Scientist, and AI Engineer, among others.
+
+### Key Features of the Program:
+
+- **Eligibility Criteria**: Candidates must have a B.Tech/BE in IT or Computer Science, MCA, or an M.Sc. in Physics, Mathematics, or Statistics with a minimum of 60% marks. Additionally, students must secure at least 60% in their Higher Secondary (XII) examinations.
+
+- **Curriculum Highlights**: The curriculum includes core topics like Deep Learning, Natural Language Processing, Computer Vision, and Advanced Algorithms. Students also engage in practical learning through specialized AIML labs equipped with high-speed internet and advanced software.
+
+- **Hands-On Experience**: The program emphasizes real-world applications through internships and projects. Students undertake two significant projects and a summer internship, which enhances their application-oriented skills and provides exposure to industry practices.
+
+- **Industry Connections**: UPES maintains strong partnerships with leading IT companies like IBM, Xebia, and AWS Academy, facilitating internships and collaborative projects. This connection not only enhances learning but also increases employability.
+
+- **Career Prospects**: The demand for AI and ML professionals is on the rise, with projections indicating a significant increase in job opportunities. The program aligns with industry needs, preparing graduates for high-demand roles in various sectors, including healthcare, finance, and technology.
+
+- **Scholarships and Financial Assistance**: UPES offers scholarships to meritorious students and provides financial assistance and loan schemes to ensure accessibility to quality education for students from diverse socio-economic backgrounds.
+
+- **Placement Support**: The dedicated placement cell at UPES organizes recruitment drives, mock interviews, and skill enhancement workshops, ensuring that students transition smoothly from academia to industry.
+
+### Contact Information:
+For further inquiries, interested candidates can reach out by providing their contact details through the program's enquiry form, which includes fields for first name, last name, email address, and mobile number.
+
+### Conclusion:
+The M.Tech. program at UPES School of Computer Science not only focuses on theoretical knowledge but also emphasizes practical applications and industry relevance. With a forward-thinking curriculum and strong industry ties, graduates are well-prepared to tackle the challenges of the AI and ML fields, contributing to innovations that can significantly enhance societal well-being.

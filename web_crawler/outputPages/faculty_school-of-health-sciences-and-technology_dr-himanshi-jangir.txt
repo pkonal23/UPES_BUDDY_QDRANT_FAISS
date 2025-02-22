@@ -1,0 +1,78 @@
+Cell Culture Technologies
+Research Interests
+https://doi.org/10.1201/9780429352003
+Awards and Grants
+Protein biobattery and bioelectrodes for medical applications
+https://doi.org/10.1007/s40243-018-0127-7
+Faculty
+She is a bioengineer cum nature-inspired bio-designer with extensive hands-on experience in the design and manufacturing of multi-organ human-on-a-chip platforms for animal-free drug discovery, micro-physiological systems, 3-D organ printing, bio-hybrid devices, green electrode development for bioenergy devices, and nano agriculture. She did her undergraduate training in biological sciences and bioengineering at Indian Institute of Technology Kanpur (2013-2017). Her undergraduate research was on carbon and cerium-based bio-electrodes. Then, she completed her master’s research (2017-2018) in the same department while working on an ISRO-funded project on novel bioinspired lithium-sulfide cathode material for next-generation lithium-ion batteries. She finished her BTech and MTech degrees with the Academic Excellence Award (2017). She joined the Department of Design at IIT Kanpur for her Doctoral research (2018-2020) and worked on nano agriculture and green electrode materials. She received the Outstanding Doctoral Thesis Award in the 53rd Convocation of IIT Kanpur. She moved to the University of Central Florida in 2020 to work on ‘Human on a Chip’ systems with 'Preeminent Postdoctoral Program (P3) Fellowship’ (2020-2024). She worked on tendon mimetic extracellular matrix, sarcopenia modelling, neuromuscular modelling of familial and sporadic ALS mutations, and development of multi-organ model to study disease comorbidities in ageing population during her tenure. In April 2024, she joined UPES as an assistant professor.
+Scholarly Activities
+Courses Taught
+3. Biocharring of natural fibers of insect and plant origin: A green route for production of 'carbon based charge storage nanomaterials’
+CONFERENCE PAPERS
+Animal Physiology
+3. A multi-organ human-on-a-chip system modeling chronic opioid overdose rescue efficacy and off-target toxicity
+'Outstanding Ph.D. Thesis Award’, IIT Kanpur, India
+https://doi.org/10.1007/s13204-019-01238-4
+https://doi.org/10.1007/s41204-018-0043-1
+'Preeminent Postdoctoral Program (P3) Fellowship' of University of Central Florida, Orlando, USA
+https://virtual.oxfordabstracts.com/#/event/5059/submission/289
+Close
+9. Fertilizer-free cultivation of wheat in nutrient-deficient soil by treating the seeds with nano pyrite
+‘Travel Award’ for 1st Micro-Physiological Systems World Summit; May 30- June 3, 2022, in New Orleans, USA
+Bio-energetics of Life Processes
+PEER REVIEWED JOURNAL PUBLICATIONS
+:  'Academic Excellence Award' for 2013 batch dual degree student, IIT Kanpur, India
+https://pubs.acs.org/doi/10.1021/acsbiomaterials.3c00235
+2. Sequential entrapping of Li, S in a conductivity cage of N-doped reduced graphene oxide supercapacitor derived from silk cocoon: A hybrid Li-S-silk supercapacitor
+https://doi.org/10.1002/moda.23
+7. ’Induced electron transfer’ in silk cocoon derived N-doped reduced graphene oxide-Mo-Li-S electrode
+10. Designing water vapour fuelled brine-silk cocoon protein bio-battery for a self-lighting kettle and water-vapor panels
+Dr. Himanshi Jangir
+14. Inhibition of metalloproteinases extends longevity and function of in vitro human iPSC-skeletal muscle
+School of Health Sciences and Technology
+13. Nano-pyrite as a plant hormone regulator: Emulating seed hormopriming
+Contact
+https://doi.org/10.1088/2057-1976/aaa282
+2. Nano cerium oxide in medicine, agriculture, and the industry
+Teaching assistant (2018-2024) at the National Program on Technology Enhanced Learning (NPTEL), India, she worked on the following courses:
+https://doi.org/10.1007/s13204-018-00943-w
+As an educator in sustainable bio-design, her lifelong pursuit is learning by doing experiments. She will offer courses that aim to lay the foundation for appreciating the biological designs that already exist in nature. The core idea will be to understand the age-old natural machines and to embark on emulating these biological machines through various manufacturing approaches. The key to such manufacturing will be sustainability.
+https://doi.org/10.1007/s13204-018-0641-z
+1. An eco-friendly, low power charge storage device from bio-tolerable nano cerium oxide electrodes for bioelectrical and biomedical applications
+Nanotechnology in Agriculture
+https://doi.org/10.1007/s41204-020-00072-2
+BOOK CHAPTERS
+5. Nano pyrite (FeS2) root priming enhances chilli and marigold production in nutrients-deficient soil: A nano strategy for fertiliser tuning
+2. Development of a functional sarcopenia model on a micro-cantilever platform for drug development efficacy evaluation
+2022:
+Frugal technologies for cell-based biochips to screen drugs, pesticides, and cosmetics
+11. Mimicking tendon microenvironment to enhance skeletal muscle adhesion and longevity in a functional microcantilever platform
+Sustainable food production for better health
+https://doi.org/10.3389/fmats.2019.00217
+himanshi.jangir@ddn.upes.ac.in
+Teaching Philosophy
+https://www.nature.com/articles/s41598-022-18211-x
+12. Sustainable nano-interventions to enhance crop yield, anthocyanin content, and marketability of onion (Allium cepa)
+Assistant Professor - Selection Grade
+Home
+Work Experience
+2020:
+https://doi.org/10.3389/fnano.2023.1256439
+Eligibility Criteria
+Post-Doctoral Fellow in Academia-Industry (September 2020- March 2024): Worked on human-on-a-chip systems at the Nanoscience Technology Center, University of Central Florida, and Hesperos Inc. Orlando, USA.
+https://mpsworldsummit.com/wp-content/uploads/2022/05/altex_MPS1.pdf
+https://doi.org/10.1088/2043-6254/ab38b4
+4. Nano pyrite seed dressing: A sustainable design for NPK-equivalent rice production
+https://doi.org/10.3390/biomedicines12040856
+1. Journey of nano iron pyrite from chemosynthetic world of hydrothermal vents to the photosynthetic world of agricultural field: A new class of seed and root bio-stimulant
+Bioelectrochemistry
+Profile Summary
+6. Nano pyrite driven root foraging increases production of the heavy feeders, viz., cauliflower, cabbage and tomato in nutrient deficient soil with no fertiliser application
+1. Maximizing skeletal muscle adhesion to enhance human neuromuscular junction integrity and function
+https://doi.org/10.1007/978-3-031-20581-1_1
+COVID Project (April 2020- June 2020): Worked on a positive pressure respirator system at the Department of Design, IIT Kanpur, India.
+Senior Research Engineer (July 2020- January 2021): Worked on protein bio-battery at the Department of Biological Sciences and Bioengineering, IIT Kanpur, India.
+Bioenergy
+2018
+8. Larger root nodules, increased Fe, Mo, Mg, P, Ca, Mn, K in the roots and higher yield in chickpea grown from nano FeS2 pre-treated seeds: Emulating nitrogenase

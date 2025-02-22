@@ -1,0 +1,50 @@
+**Profile Summary of Dr. Sushabhan Choudhary**
+
+**Contact Information:**
+- Email: schoudhury@ddn.upes.ac.in
+
+**Current Position:**
+- Professor at the School of Computer Science, UPES (University of Petroleum and Energy Studies).
+
+**Research Interests:**
+- Wireless Sensor Networks (WSN)
+- Embedded Systems
+- Robotics
+- Automation and Control
+- Internet of Things (IoT)
+- Nanotechnology
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+
+**Professional Experience:**
+Dr. Sushabhan Choudhary has an extensive academic career spanning 31 years, during which he has held various roles including Professor, Associate Professor, Assistant Professor, and has served as Head of the Department at both SMIT (Sikkim Manipal Institute of Technology) and UPES. He also acted as the Dean of the School of Technology at NEHU (North Eastern Hill University). His administrative roles have included Academic Coordinator and overseeing essential academic operations such as examinations and timetables.
+
+**Teaching and Scholarly Activities:**
+Dr. Choudhary has taught a diverse array of courses, including:
+- Embedded Systems
+- IoT
+- Wireless Sensor Networks
+- Electronics Devices and Circuits
+- Digital System Design
+- Digital and Analog Communication
+- VLSI Design
+- Data Communication and Networking
+
+He integrates innovative pedagogical tools into his teaching, emphasizing interactive learning and simulation-based projects, especially for introductory courses. His postgraduate courses often involve projects that address societal needs, allowing students to develop practical prototypes and troubleshooting skills.
+
+Dr. Choudhary has been instrumental in coordinating the implementation of minors in AI, IoT, Robotics, Blockchain, and Data Analytics at UPES. He has supervised numerous undergraduate and postgraduate projects, as well as PhD students in relevant fields.
+
+**Awards and Grants:**
+- Award of Excellence in Research from UPES (2016).
+- Recognition for outstanding achievements in establishing a state-of-the-art nanotechnology lab at SMIT.
+- Co-Principal Investigator for a project funded at Rs. 12 Lakhs by Ornate Agencies Pvt. Ltd.
+- Principal Investigator for a DST project under the FIST program, receiving Rs. 1.14 Crore for improving S&T infrastructure in higher education.
+- Principal Investigator for an AICTE project on "High performance Polymer-single wall carbon nanotube composites," funded at Rs. 20 Lakhs.
+
+**Publications and Patents:**
+Dr. Choudhary is an inventor of eleven granted patents and has authored numerous research papers in Scopus and SCI indexed journals. He has also written six books focused on Embedded Systems and Smart Agriculture.
+
+**Teaching Philosophy:**
+Dr. Choudhary emphasizes the importance of developing problem-solving strategies through practical, simulation-based projects, fostering an engaging and interactive classroom environment that prepares students for real-world challenges.
+
+In summary, Dr. Sushabhan Choudhary is a seasoned academic with a robust background in research, teaching, and administration, contributing significantly to the fields of technology and engineering education.

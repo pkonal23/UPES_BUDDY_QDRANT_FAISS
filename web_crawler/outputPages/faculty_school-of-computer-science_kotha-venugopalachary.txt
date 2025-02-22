@@ -1,0 +1,28 @@
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Journal papers
+Venugopal teaches Wireless Communications, Digital Communications, Signal Processing, Graph Signal Processing, Machine Learning and Deep Learning subjects. He investigates how these subjects could be combined to formulate an interdisciplinary environment. Before joining Ph.D., he taught Linear Integrated Circuit Analysis, Digital Integrated Circuit Analysis, and Java and Data Structures.
+Close
+Physical Layer Security in Wireless Communications, Signal Processing, Graph Signal Processing, Machine Learning, Deep Learning, Graph Learning, 5G and Beyond Wireless Technologies, NOMA, IRS and Resource Allocation and Optimization.
+School of Computer Science
+Kotha Venugopalachary
+and V. K. Chakka, ”A Small-Scale Wireless Distributed Cooperative Secure Communication Network Design Using Graph FIR Filters,” in IEEE Sensors Letters, vol. 5, no. 4, pp. 1-4, April 2021, Art no. 7001504, doi: 10.1109/LSENS.2021.3068047
+Faculty
+Scholarly Activities
+Courses Taught
+Eligibility Criteria
+, Deepak Mishra, and Ravikant Saini, ”Analysis for Non-regenerative Secure Cooperation Against Double-tap Eavesdropping”, Infocommunications Journal, Vol. XIV, No 4, December 2022, pp. 42-48., https://doi.org/10.36244/ICJ.2022.4.6.
+.
+K. Venugopalachary
+kotha.venugopalachary@ddn.upes.ac.in
+Profile Summary
+Assistant Professor
+Mr. Venugopal received the Prathibha Award for excellence in computational engineering during his Master of Technology. He is also interested in extracurricular activities like chess, badminton and Yoga.
+Contact
+Before joining UPES, Venugopal was at the Shiv Nadar Institution of Eminence (SNIoE), Delhi NCR, India, and held a temporary position in the Department of Electrical Engineering as a Senior Research Fellow. He also worked as Teaching Assistant under various professors – Prof. M. Gopal, Prof. Vijay Kumar Chakka, Prof. Ranendra Biswas and Prof. Vinod Sharma, among others, during his PhD.
+Mr. Venugopal has led multidisciplinary teams on an international collaborative project to better understand signal processing and graph signal processing for physical layer security in wireless communications. His work has a strong approach to innovation where application is a key factor. He is also furthering Machine Learning, Deep Learning applications for Wireless Communications and Physical Layer Security in wireless communications. His work has been published in many international journals and conferences.
+Kotha Venugopalachary earned his M.Tech degree from Rajiv Gandhi University of Knowledge and Technologies, AP, India, in 2016, and his B.Tech Degree from JNTUH, Hyderabad, India, in 2013. Recently, he submitted his Doctor of Philosophy Thesis at Shiv Nadar Institution of Eminence, UP, India. With expertise in wireless communication systems, particularly 3GPP 5G NR channel modelling, NOMA, and physical layer security, he brings practical experience in simulating and evaluating 5G specifications. Passionate about research and development, he employs signal processing (MATLAB) and machine learning (Python and TensorFlow) to innovate for enhanced connectivity. His proven record includes successful mentoring of B.Tech students in graph signal processing, Machine Learning, and ORAN projects. He strives to empower students in a collaborative environment and seeks to explore advanced learning algorithms while developing novel techniques for optimizing wireless communication systems.
+Venugopal’s teaching philosophy is founded on the belief that he bears the responsibility of establishing an environment that nurtures and motivates students’ learning endeavours. He holds true to the adage ‘Learning by Doing and Doing by Learning’, which he imbibed from Prof. Ranendra Biswas during his stint as a Teaching Assistant under his guidance. Employing methods such as impromptu quizzes, regular assessments, and assignments, Venugopal evaluates students not only to gauge their progress, but also to enhance his own teaching acumen. This approach is driven by his aspiration to steer students in the right direction, facilitating their educational journey.
+Teaching Philosophy

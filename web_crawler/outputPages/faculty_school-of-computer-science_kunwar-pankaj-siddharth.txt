@@ -1,0 +1,19 @@
+Research Interests
+Home
+Work Experience
+Close
+School of Computer Science
+Before joining UPES Kunwar Siddharth had mu Kunwar Siddharth has extensive experience in academia, IT industry and Research labs. His main area of research include computer vision and Deep Learning, with a strong focus on developing and optimizing Convolutional Neural Network (CNN) models. As a Data Scientist at Sortit AI, he led the development of CNN models for floor plan analysis and cost estimation. His role as a Computer Researcher at Delarue involved working on holography projects, utilizing optics and image processing techniques to enhance digital image quality. At SketchBytes, Kunwar spearheaded the development of CNN models for medical image analysis, including disease detection, bone fracture identification, and body region segmentation, while also leading the face detection and biometric authentication division. His work has significantly advanced both healthcare diagnostics and security systems through innovative applications of deep learning and image processing.
+Faculty
+Kunwar Siddharth is a dedicated researcher and educator specializing in Computer Vision, Artificial Intelligence, and Machine Learning. With extensive professional experience as a researcher, data scientist, software engineer, and assistant professor, he has developed and implemented Convolutional Neural Network (CNN) models for applications in medical imaging, floor plan analysis, and biometric authentication. His work effectively bridges academia and industry, contributing to significant advancements in these fields.
+Courses Taught
+Eligibility Criteria
+Design and Analysis of Algorithms, Artificial Intelligence and Machine Learning for healthcare, business analytics for industries and functional areas, Social, web and mobile analytics.
+Kunwar Siddharth follows a teaching philosophy that fosters curiosity, critical thinking, and lifelong learning, emphasizing an inclusive and student-centric approach. He inspires students to connect theoretical knowledge with practical applications through hands-on projects and real-world problem-solving. As both a teacher and mentor, he provides personalized guidance to support academic and career growth. This approach enables him to nurture innovative thinkers and future leaders in the fields of Computer Science, AI, and interdisciplinary domains.
+Profile Summary
+Assistant Professor
+Contact
+kunwarpankaj.siddharth@ddn.upes.ac.in
+Kunwar Pankaj Siddharth
+Image Processing, Deep Learning, Machine Learning, Data Science, and AI.
+Teaching Philosophy

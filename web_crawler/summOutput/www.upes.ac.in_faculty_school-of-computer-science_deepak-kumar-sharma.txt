@@ -1,0 +1,25 @@
+**Summary of Deepak Kumar Sharma's Academic and Professional Profile**
+
+**Research Interests and Expertise:**
+Deepak Kumar Sharma is an accomplished academic with a decade of experience in teaching various computer science engineering subjects. His expertise spans core areas such as Data Structures, Big Data Analytics, Blockchain for Business, Operating Systems, Database Management Systems, Data Mining and Warehousing, Cryptography, and Business Process Management. He also specializes in programming languages, having taught Object Oriented Programming using Java, Python Programming, and Principles of Programming Languages using C. His research interests focus on Blockchain technology, data mining, data analytics, and information and web security.
+
+**Academic Qualifications:**
+Deepak holds a Master’s degree (M.Tech.) in Computer Science and Engineering from Jaypee University of Information Technology in Solan, Himachal Pradesh. He is currently pursuing a Ph.D. in Computer Science & Engineering at UPES in Dehradun, Uttarakhand, India.
+
+**Professional Experience:**
+Deepak serves as an Assistant Professor-SS in the School of Computer Science at UPES. His prior role was as an Assistant Professor at Ganpat University in Gujarat from 2013 to 2015. Throughout his career, he has taken on various administrative roles, including Course Coordinator and Internship Coordinator, and has been involved in Examination Teams and Project Committees. He has organized academic events such as the UHackathon series and international conferences such as ICIIP, ICPDGC, NGCT, and ICMLDE.
+
+**Achievements:**
+Deepak has made significant contributions to the field, evidenced by four granted patents and one published patent. His dedication to education is reflected in his recognition as a Gold Partner Faculty in the 2018 Infosys Ltd Campus Connect Program. He has successfully trained over 500 students in Python Programming through the Infosys Foundation Program and has qualified for the GATE CS examination in both 2011 and 2015. He is also a certified Python professional, certified by Infosys Ltd.
+
+**Teaching Philosophy:**
+Deepak emphasizes a student-centered teaching approach that fosters active learning and intellectual curiosity. He aims to empower students with the necessary tools for success, promoting critical thinking and a supportive learning environment. His teaching methods are innovative and practical, encouraging collaboration and open dialogue to instill a lifelong love for learning.
+
+**Workshops and Training:**
+Deepak has conducted numerous workshops and training sessions, including a 2-day workshop on Python Programming for teachers from the Kendriya Vidyalaya Dehradun region in 2018 and a 5-day workshop on various Python topics for teachers at Kendriya Vidyalaya IIP Dehradun in June 2019. He has also actively participated in the Teacher Excellence program by the Ahmedabad Management Association.
+
+**Contact Information:**
+For inquiries, Deepak can be reached at his email: **dksharma@ddn.upes.ac.in**. 
+
+**Additional Contributions:**
+Deepak has been invited multiple times as a panel member for computer science teacher recruitments in various Kendriya Vidyalaya schools in Dehradun, further showcasing his involvement in the academic community and commitment to education. His contributions extend beyond the classroom, impacting both students and fellow educators alike.

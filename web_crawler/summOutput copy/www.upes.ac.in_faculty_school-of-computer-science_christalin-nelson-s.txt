@@ -1,0 +1,47 @@
+**Prof. Nelson's Profile Summary**
+
+**Research Interests:**
+Prof. Nelson's areas of expertise encompass a broad range of topics in computer science and IT, including:
+- Programming Languages: C, C++, Java, C#.NET
+- Object-Oriented Programming
+- Data Structures and Database Management Systems
+- Operating Systems and Computer Organization
+- Object-Oriented Analysis and Design
+- Software Engineering and Project Management
+- Data Communication and Computer Networks
+- IT Infrastructure and Services Management
+- Storage Area Networks
+- Design and Analysis of Networks
+- Mobile Communication
+
+**Professional Background:**
+Prof. Nelson is an accomplished academician and researcher with extensive administrative experience. He has held several key roles, including:
+- Head of the Department
+- Head of the IT Support Team
+- Coordinator for School-level Curriculum Development and Reformation
+- Member of the School-level Annual Budgeting Team
+
+He has played a pivotal role in establishing Memorandums of Understanding with leading multinational corporations and universities, both domestically and internationally. His leadership in industry certification programs and as the International Exchange Coordinator with IAESTE has significantly benefited students by enhancing their skills and placement opportunities.
+
+Prof. Nelson has coordinated numerous technical conferences at national and international levels and actively engages in delivering lectures during Faculty Development Programs (FDPs), workshops, and seminars. His commitment to learning and teaching is evident in his passion for adopting new technologies and improving educational practices.
+
+Outside of his professional commitments, he dedicates time to philanthropic activities, organizing programs to support orphanages, schools for disabled children, and old age homes.
+
+**Teaching Philosophy:**
+Prof. Nelson believes that everyone is inherently both a teacher and a learner. He values the learning process, which can come from various sources, including peers and even mistakes. He views teaching as a noble responsibility, emphasizing the importance of ethics and principles alongside technical knowledge. His commitment to education is reflected in his work ethic and dedication to nurturing young minds.
+
+**Awards and Recognition:**
+- Nominated for the Teaching Excellence Award and Academic Excellence Award.
+- Co-Project Manager for the CPPGG projects at UCIE-UPES, aimed at assisting farmers with product visibility.
+- Recipient of Best Paper Awards at conferences such as ICETDT-2021 and ASTMLS-2020.
+
+**Scholarly Contributions:**
+Prof. Nelson has authored and co-authored multiple conference papers and articles in Scopus and SCI journals. He actively encourages his students to engage in high-quality research and contribute to prestigious conferences and publications. His participation in refresher courses and faculty development programs underscores his belief in the continuous flow of knowledge for societal benefit.
+
+**Experience:**
+Prof. Nelson has been associated with the School of Computer Science at UPES since 2014, bringing over two decades of teaching experience. Prior to UPES, he worked at the Department of Computer Science and Engineering at CARE, Tamil Nadu, for three years, and at the School of Computer Science and Technology at Karunya University, Tamil Nadu, for nearly nine years.
+
+**Contact Information:**
+- Email: cnelson@ddn.upes.ac.in
+
+Prof. Nelson's dedication to education, research, and community service exemplifies his commitment to fostering a learning environment that benefits both students and society.

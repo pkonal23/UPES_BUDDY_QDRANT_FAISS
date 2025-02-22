@@ -1,0 +1,20 @@
+The School of Computer Science (SoCS) at UPES is inviting applications for its Ph.D. program, with key dates set for July 18, 19, and 22, 2024. This program encompasses a wide array of research areas, including but not limited to Artificial Intelligence and Machine Learning, Data Science and Big Data, Cybersecurity, Quantum Technologies, Computer Vision, Internet of Things, Blockchain Technology, Natural Language Processing, Robotics and Autonomous Systems, Edge Computing, Computer Graphics and Virtual Reality, Biomedical Computing, Sustainable and Green Computing, Human-Computer Interaction, and Cloud Computing and Distributed Systems.
+
+Prospective candidates have the option to apply for International Ph.D. and Joint Ph.D. programs in collaboration with partner universities globally, enhancing their research experience through international exposure. The program emphasizes rigorous academic support, with monitoring from the Departmental Research Committee and the School Research Committee (SRC), which includes external experts from both industry and academia. This structure ensures that research quality and progress meet the highest standards.
+
+Ph.D. graduates from this program can pursue various career paths, including positions as Research Scientists, University Professors, Data Scientists, Engineers in AI and machine learning, Technology Consultants, or even entrepreneurs launching their startups. The diverse skill set acquired during the program allows them to contribute significantly across sectors, including academia, technology, and government.
+
+The program provides access to state-of-the-art libraries, laboratories, and high-performance computing clusters, fostering an environment conducive to innovative research. Additionally, scholars can engage in projects funded by prominent organizations such as SERB and ISRO, applying their knowledge to real-world challenges.
+
+Key timelines for the application process include:
+- **Last Date to Apply**: August 9, 2024
+- **Interview Result Declaration**: August 8, 2024
+- **Last Date to Pay Fee**: August 4, 2024
+- **RET Result Declaration**: July 30, 2024
+- **Orientation Date**: August 12, 2024
+
+The program is structured to accommodate both full-time and part-time scholars, with a duration of three to six years. It emphasizes independent research aligned with the scholar's interests and includes a structured coursework component to develop essential research skills.
+
+For further details or inquiries, interested candidates can contact the admissions office via email at **phd@upes.ac.in**. 
+
+Overall, the Ph.D. program at UPES SoCS is designed to cultivate thought leaders in computer science, equipping them with the skills necessary to tackle complex technological challenges and contribute to advancements in the field.

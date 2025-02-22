@@ -1,0 +1,17 @@
+Dr. Tarandeep Kaur Bhatia is an accomplished academic in the field of Computer Science Engineering, having completed her PhD at Deakin University in Burwood, VIC, Australia, through the Deakin India Research Initiative (DIRI) Program with a full scholarship. She is recognized as a Gold Medalist from her M.Tech program in Computer Science & Engineering (2015-2017).
+
+**Research and Scholarly Contributions:**
+Dr. Bhatia has made significant contributions to her field, with over 28 research papers published in reputable SCI and Scopus-indexed journals. She holds 22 patents and has actively participated in numerous national and international conferences, presenting her findings and writing book chapters. Her research interests encompass areas such as Vehicular Ad-hoc NETworks (VANETs), Data Congestion, Networking, Software Engineering, and Artificial Intelligence. She has experience using various simulators and tools, including NS-2, MATLAB, Omnet++, SUMO, and VEINS.
+
+**Professional Engagement:**
+In addition to her research, Dr. Bhatia is a member of several editorial and review boards, including the IEEE Communications Standards Magazine Journal, IEEE Access, and the Journal of Supercomputing. She serves on the Technical Program Committee of the COMS2-2021 conference and is an active reviewer for more than 21 SCI journals and various international conferences.
+
+**Teaching and Development:**
+Dr. Bhatia has over six years of teaching experience across three universities: Maharishi Markandeshwar University, Chitkara University, and currently at UPES in Dehradun. She is dedicated to enhancing her teaching methodologies through modern technologies and is in the process of writing subject books designed for better student comprehension. 
+
+She has completed certified training programs from esteemed institutions, including Queensland University of Technology, University of Leeds, and Murdoch University.
+
+**Contact Information:**
+For inquiries, Dr. Tarandeep Kaur Bhatia can be reached via email at **tarandeep.bhatia@ddn.upes.ac.in**.
+
+This detailed profile highlights Dr. Bhatia's academic achievements, research interests, and commitment to teaching, reflecting her significant contributions to the field of Computer Science Engineering.

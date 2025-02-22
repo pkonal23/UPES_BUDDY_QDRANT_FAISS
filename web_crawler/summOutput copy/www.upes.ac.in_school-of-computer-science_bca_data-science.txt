@@ -1,0 +1,48 @@
+The Bachelor of Computer Application (BCA) program at UPES School of Computer Science is meticulously designed to prepare students for the fast-evolving Internet of Things (IoT) industry. The curriculum emphasizes hands-on experience and real-world applications, ensuring graduates are equipped to handle IoT-related roles with confidence.
+
+### Program Structure and Curriculum
+The program spans multiple semesters, covering essential topics such as:
+- **Introduction to IoT**
+- **Sensor Programming**
+- **Protocol Comprehension**
+- **Wireless Sensor Networking**
+- **IoT Security**
+
+In addition to these specialized subjects, the program includes a series of industry-focused projects, both minor and major, where students receive mentorship from experienced professionals. This mentorship aids in addressing real-world problems and developing innovative solutions. 
+
+A unique feature of the program is the **"Industry Connect"** initiative, which facilitates direct interactions between students and industry experts, providing insights into emerging technologies and industry dynamics.
+
+### Practical Experience
+Students engage in practical integration, working with hardware components like Arduino and Raspberry Pi, which deepens their understanding of both hardware and software. The program also involves a **Research Intern** component, where students participate in ongoing faculty research, potentially leading to patent submissions.
+
+### Career Prospects
+Graduates of the program have excellent placement opportunities, with an average annual salary of **4.36 Lakhs Per Annum (LPA)** and a highest offered package of **7.5 LPA**. Companies involved in the recruitment process include:
+- Advanced Network Management
+- Expand my Business
+- Hike Education
+- Instant Procurement Services Private Limited (ProcMart)
+- LTIMindtree
+- Posist Technologies
+- Academor
+- Leadsquared
+- Learning Routes Pvt Ltd
+- Lifeworks
+- Phronesis Partners
+- Sunfox Technologies
+
+The program equips students to excel in various IoT roles across sectors like healthcare, finance, smart cities, and intelligent power grids.
+
+### Admission and Eligibility
+To enroll in the BCA program, candidates must have:
+- 50% marks in Class X and XII
+- Mathematics, Computer Science, or Information Technology as a major subject in Class XII
+
+The selection process includes performance evaluation through a **Personal Interview** or **CUET**.
+
+### Contact Information
+For further inquiries, interested students can reach out through the following contact details:
+- **Phone Number**: +91 [number not provided]
+- **Email Address**: [not provided in the text]
+
+### Conclusion
+The BCA program at UPES School of Computer Science is a comprehensive course that blends theoretical concepts with practical applications, ensuring that graduates are well-prepared to thrive in the dynamic landscape of IoT and related fields. The focus on industry relevance, research engagement, and entrepreneurial support positions students for success in their future careers.

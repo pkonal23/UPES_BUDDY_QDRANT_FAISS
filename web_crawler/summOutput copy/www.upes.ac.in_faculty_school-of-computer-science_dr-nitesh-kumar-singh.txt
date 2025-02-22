@@ -1,0 +1,17 @@
+Dr. Nitesh Kumar Singh is an accomplished academic specializing in Systems Engineering, holding a Ph.D. from the National University of Science and Technology POLITEHNICA Bucharest, Romania. His primary research area is optimization algorithms, where he develops advanced techniques and conducts convergence analysis to tackle complex functional constraints. His work spans multiple domains, including health systems, control systems, and machine learning, with a focus on enhancing large-scale data optimization and improving time-series analysis.
+
+Dr. Singh has actively engaged in teaching and mentoring, offering a diverse range of courses that include:
+
+1. **Machine Learning**: Covering both supervised and unsupervised learning, neural networks, and hands-on projects utilizing Python libraries such as scikit-learn and TensorFlow.
+2. **Data Analysis and Visualization**: Techniques for data analysis and visualization using Python and Tableau to derive actionable insights.
+3. **Optimization Algorithms**: Fundamental principles of optimization, including both linear and nonlinear methods, with practical applications in engineering and data science through Python and MATLAB.
+4. **Programming and Computational Tools**: Technical courses on programming languages like Python and MATLAB, emphasizing their applications in real-world problem-solving.
+5. **Linear Algebra**: Covering essential concepts such as matrix operations, vector spaces, and eigenvalues, with applications in machine learning and computational modeling.
+
+Dr. Singh's teaching philosophy emphasizes the importance of inspiring students to think critically and creatively, bridging theoretical knowledge with practical applications. He integrates real-world datasets and interdisciplinary projects into his curriculum, ensuring that students acquire both conceptual understanding and practical skills relevant to industry and research.
+
+In addition to his teaching responsibilities, Dr. Singh has contributed to open-source platforms by developing classification and segmentation tools available on GitHub. He has also collaborated on interdisciplinary projects involving large-scale data analysis and optimization. His scholarly contributions include presenting at international conferences, such as the European Control Conference, and publishing research in prestigious journals like IEEE Transactions on Automatic Control.
+
+Before joining the faculty at UPES, Dr. Singh was a research assistant on significant projects, including the Efficient Learning and Optimization Tools for Hyperspectral Imaging Systems (ELO-Hyp) funded by Norway Grants, and the European project ONCODIR with BEIA Consult International in Romania. He has also served as a peer reviewer for scientific journals, ensuring quality in research publications.
+
+Dr. Nitesh Kumar Singh can be contacted via email at **niteshkumar.singh@ddn.upes.ac.in**. His ongoing research interests include exploring intelligent optimization for autonomous systems, sustainable computing, and adaptive learning systems, aimed at fostering innovation and bridging theoretical advancements with practical applications.

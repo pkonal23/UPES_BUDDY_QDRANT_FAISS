@@ -1,0 +1,23 @@
+His teaching philosophy is a testament to his dedication to fostering a dynamic and inclusive learning environment. With a deep commitment to nurturing critical thinking and empathy, he prioritizes student engagement and active participation in his classroom. He believes in the transformative power of education to not only impart knowledge but also to obtain essential skills such as communication, problem-solving, and ethical reasoning.
+Research Interests
+Assistant Professor-Senior Scale
+He has completed his Ph.D. from Visvesvaraya National Institute of Technology, Nagpur, India. He created several statistical and machine learning-based models for no-reference video quality assessment. During his PostDoc at IIT Madras, he worked towards advanced analytics for combat sports using deep learning at the Centre of Excellence for Sports Analytics. His research is aimed at expanding the use of ML-based techniques for other image and video applications. The use of data science, machine learning, and deep learning in computer vision and other interdisciplinary fields is particularly appealing to him.
+He received the best paper award at the International Conference on the Paradigm Shifts in Communication, Embedded Systems, Machine Learning, and Signal Processing (PCEMS 2022). He also received the best paper award at the International Conference on Parallel, Distributed, and Grid Computing (PDGC 2020).
+Home
+Work Experience
+Dr. Anish Kumar Vishwakarma
+Awards and Grants
+anishk.vishwakarma@ddn.upes.ac.in
+Close
+School of Computer Science
+Faculty
+He teaches digital electronics, microprocessor and microcontroller, Embedded systems. He  also teaches specialized subjects such as machine learning, deep learning, etc.
+Scholarly Activities
+Courses Taught
+Eligibility Criteria
+Profile Summary
+His objective is to do advanced interdisciplinary research in the field of computer vision and to use his skills acquired along the way to bridge the theoretical and practical worlds and enhance the quality of life.
+Computer Vision, Machine Learning, Deep Learning, Image and Video Quality Assessment, Object Recognition
+Contact
+Teaching Philosophy
+Before joining UPES, he was at the Indian Institute of Technology, Madras, held a postdoctoral researcher position at the department of applied mechanics and biomedical engineering. He has extensive experience in applying machine learning to video processing, a solid theoretical foundation in relevant statistical and machine learning concepts. He published several scientific papers in prestigious international journals.

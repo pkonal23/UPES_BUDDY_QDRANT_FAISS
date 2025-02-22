@@ -1,0 +1,16 @@
+Breast Cancer Classification using Deep Learning
+Breast cancer is a rapidly advancing disease that, when identified in its early stages, becomes treatable. Instances have shown that timely detection leads to prompt treatment, resulting in reduced mortality rates. Research endeavors in the domain of breast cancer focus on early detection and effective treatment strategies.
+Among these advancements, deep learning stands out as a transformative technique. Deep learning mitigates limitations inherent to machine learning approaches. Techniques such as Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Deep Belief Networks (DBN) are cornerstones of deep learning within data science.
+Download the Application:
+Eligibility Criteria
+A Breast Cancer Classification using Deep Learning
+Machine learning, a prominent tool, drives much of this research. Numerous studies have employed machine learning to explore various facets of breast cancer detection and diagnosis. Notably, algorithms such as Support Vector Machines (SVM) and decision trees enhance performance outcomes. Emerging technologies are also revolutionizing breast cancer classification.
+Home
+Akshat Singhal, Prerna Choudhary, Urvashi Rathore & Anmol Yadav, a group of students pursuing the degree of B.Tech. CSE with the specialization in Devops from the batch of 2020-24 completed the project of developing a Breast Cancer Classification using Deep Learning.
+https://github.com/AnmolYadav1/Breast-Cancer-identification-using-deep-learning/tree/main
+Close
+School of Computer Science
+Leveraging deep learning algorithms has yielded substantial improvements over traditional machine learning methods. Deep learning excels at extracting the most precise features from images, making it especially valuable for image-based tasks. In this project, we have harnessed the power of Convolutional Neural Networks (CNN) to effectively classify breast cancer images. This approach underscores the ongoing technological advancements aimed at early detection and treatment in the fight against breast cancer.
+Student Projects
+Akshat Singhal, Prerna Choudhary, Urvashi Rathore & Anmol Yadav
+Project aims to combat breast cancer through early detection using cutting-edge technology. Leveraging machine learning and deep learning algorithms, specifically Convolutional Neural Networks (CNN), It has achieved remarkable accuracy in classifying breast cancer images. By detecting breast cancer in its early stages, we can significantly reduce mortality rates and improve patient outcomes.

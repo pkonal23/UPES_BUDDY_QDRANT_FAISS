@@ -1,0 +1,33 @@
+Dr. Kaushik Ghosh is an Associate Professor in the School of Computer Science with a robust academic and research background spanning over 21 years. His primary research interests focus on Wireless Sensor Networks, the Internet of Things (IoT), and Machine Learning. 
+
+**Education and Academic Background:**
+- Dr. Ghosh completed his Bachelor of Engineering (B.E.) from Sikkim Manipal Institute of Technology, Majitar. 
+- He earned both his Master of Technology (M.Tech) and Ph.D. from Jadavpur University, Kolkata, with his doctoral research centered on Wireless Sensor Networks.
+
+**Professional Experience:**
+- Prior to his tenure at the University of Petroleum and Energy Studies (UPES), Dr. Ghosh held positions at St. Thomas’ College of Engineering and Technology, Mody University of Science and Technology, and DIT University. 
+- He has served as a program coordinator, designed courses for new programs, and contributed to internal accreditation committees for NAAC and NBA. Notably, he played a pivotal role as co-chairperson in securing ABET accreditation for his department at Mody University for six years.
+
+**Awards and Recognition:**
+- Dr. Ghosh has received multiple accolades, including recognition from the MSME, Government of India, for his course design in Industrial IoT. 
+- He has been awarded the Best Paper at various conferences and received the Lifeway Tech India's Best Senior Researcher Award and Fox Story India's Aspiring Authors and Researchers Award in 2022.
+
+**Research Contributions:**
+- He has authored over 40 research papers published in reputable international journals and conferences, some of which have received awards for excellence. 
+- Dr. Ghosh has also secured six designs and four copyrights, along with three published utility patents.
+
+**Teaching and Mentoring:**
+- He teaches courses including Operating Systems, Distributed Computing, Database Management Systems, and Computer Networks. 
+- Dr. Ghosh is actively involved in mentoring students to engage in research activities, including writing research papers, book chapters, and pursuing patents.
+
+**Scholarly Activities:**
+- He has delivered keynote lectures at various prestigious national and international conferences and has been part of review committees for different international journals.
+- Dr. Ghosh has conducted faculty development sessions organized by the UGC for engineering colleges.
+
+**Teaching Philosophy:**
+Dr. Ghosh believes in the importance of continuously honing pedagogical skills through iterative learning. He emphasizes the need for educators to be adaptable and receptive to the evolving needs of modern learners, particularly in the context of changes brought about by the post-pandemic educational landscape. He values constructive feedback from students and peers as essential for improving teaching effectiveness.
+
+**Contact Information:**
+- Email: kghosh@ddn.upes.ac.in
+
+In summary, Dr. Kaushik Ghosh is a dedicated academic and researcher with significant contributions in the fields of Wireless Sensor Networks, IoT, and Machine Learning, complemented by a strong commitment to teaching and mentoring the next generation of engineers and researchers.

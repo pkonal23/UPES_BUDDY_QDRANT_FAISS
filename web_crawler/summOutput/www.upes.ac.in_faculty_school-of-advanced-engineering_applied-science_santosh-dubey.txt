@@ -1,0 +1,32 @@
+Professor Santosh Dubey is a faculty member at the School of Advanced Engineering, known for his student-centric teaching philosophy that emphasizes innovative thinking, leadership skills, self-reflection, and constructive feedback. He promotes student engagement by encouraging discussions on open-ended problems across various domains, fostering an environment conducive to learning from mistakes.
+
+**Work Experience and Scholarly Activities:**
+Professor Dubey has been actively involved in organizing and participating in scholarly events, including conferences, workshops, and seminars. He was the convener of the National Conference on Advances in Materials Science for Energy Applications (AMSEA 2014) and organized a workshop on "Basic Numerical Computations Using Linux Operating System," where he trained participants in developing computer programs for solving integrals, ordinary and partial differential equations, and data visualization using Gnuplot.
+
+**Academic Background:**
+Professor Dubey holds an MS and PhD in Computational Science (Materials Science) from Florida State University, USA. His research focuses on radiation-materials interactions, utilizing mathematical modeling and experimentation to understand material property degradation in nuclear reactor components. He has employed experimental techniques such as ion beam irradiation and thermal annealing to synthesize material phases applicable in solar cells and microelectronics. Additionally, he has developed a theoretical framework for shale gas production from reservoirs.
+
+**Courses Taught:**
+He teaches a variety of physics-related courses, including:
+- Mathematical Physics
+- Computational Physics
+- Introduction to Computational Physics
+- Electricity & Magnetism
+- Modelling & Simulation of Metallurgical Processes
+- Advanced Computing Techniques
+- Computer Programming & Simulations
+- Nuclear Engineering Materials
+
+**Recognition and Achievements:**
+Professor Dubey received the Adelaide-Wilson Doctoral Fellowship in 2008-2009 from Florida State University. His student team was a semi-finalist in the IICDC 2017 competition, earning a cash prize of INR 20,000. He has also secured consultancy projects from ABB Bangalore and research grants from institutions such as IUAC, New Delhi, and UGC-DAE-CSR, Indore, focusing on phase transformation in Ni/Si thin films through ion-beam irradiation and thermal annealing.
+
+**Research Interests:**
+His current research interests include:
+- Understanding phase transformation in materials under thermal and irradiation conditions.
+- Synthesizing Nickel Silicides through annealing and ion beam irradiation, with applications in microelectronics and solar photovoltaics.
+
+**Previous Experience:**
+Before joining UPES, Professor Dubey worked as a post-doctoral research associate at Purdue University's School of Nuclear Engineering, where he developed mathematical models for structural materials in irradiated environments. He also served as a Scientist at the Institute for Plasma Research (IPR), where he contributed to a project aimed at achieving nuclear fusion for green energy production by developing a data acquisition system for monitoring plasma particles.
+
+**Contact Information:**
+For inquiries, Professor Dubey can be reached via email at: **santosh.dubey@ddn.upes.ac.in**.

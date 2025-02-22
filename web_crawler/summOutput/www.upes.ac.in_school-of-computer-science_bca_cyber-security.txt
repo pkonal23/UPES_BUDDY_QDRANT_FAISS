@@ -1,0 +1,44 @@
+The Bachelor of Computer Application (BCA) program with a specialization in Cyber Security and Digital Forensics at the UPES School of Computer Science is meticulously designed to provide students with a comprehensive understanding of computer applications while focusing on the critical area of cybersecurity. The curriculum has been developed in collaboration with industry partners, ensuring that students acquire the most relevant and current knowledge and skills necessary for the field.
+
+### Program Structure
+The program spans eight semesters, incorporating both theoretical coursework and practical applications. Key components include:
+
+- **Core Subjects**: Foundational topics such as Operating Systems, Data Structures, and Programming in C, combined with specialized subjects like Digital Forensics, Cloud Security, and Network Security.
+- **Practical Labs**: Students engage in various labs, including Python Programming, Mobile Application Development, and Cyber Security Labs, which provide hands-on experience.
+- **Projects**: The curriculum includes four project modules—two minor and two major projects—allowing students to apply their theoretical knowledge to real-world challenges under the guidance of experienced mentors.
+- **Internships**: A mandatory three-month summer internship is integrated into the program, offering students invaluable industry exposure and experience in tackling genuine cybersecurity issues.
+
+### Career Opportunities
+Graduates of this program are well-prepared for a wide range of career paths in the cybersecurity domain, including:
+
+- Cyber Security Analysts
+- Network Security Specialists
+- Ethical Hackers/Penetration Testers
+- Security Consultants
+- Incident Responders
+- Digital Forensics Experts
+- Security Operations Center (SOC) Analysts
+- Security Auditors
+- Cyber Security Engineers
+- Security Operations Managers
+
+The demand for professionals in these roles is increasing due to the rising number of cyber threats and the need for organizations to safeguard their digital assets.
+
+### Future Scope
+The program emphasizes staying abreast of industry trends such as AI, ML, cloud computing, IoT, and blockchain, preparing graduates to meet the evolving challenges of cybersecurity. The increasing concern over data breaches and compliance with data protection regulations further underscores the importance of this specialization.
+
+### Eligibility and Admission
+To apply for the BCA program, candidates must have:
+- A minimum of 50% marks in Class X and XII, with Mathematics or Computer Science as a major subject in Class XII.
+- Admission is based on performance in a Personal Interview or the Common University Entrance Test (CUET).
+
+### Contact Information
+For more details regarding the program, fee structure, and application process, interested candidates can reach out through the following contact methods:
+
+- **Email**: [Contact Email Not Provided]
+- **Phone**: +91 [Contact Number Not Provided]
+
+### Application Deadline
+The last date to apply for the program is February 28, 2025.
+
+In summary, the BCA program at UPES School of Computer Science offers a robust educational experience, blending theoretical knowledge with practical skills, preparing graduates to excel in the dynamic and vital field of cybersecurity.

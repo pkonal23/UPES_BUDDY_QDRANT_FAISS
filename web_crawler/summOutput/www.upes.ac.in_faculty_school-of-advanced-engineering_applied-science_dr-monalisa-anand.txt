@@ -1,0 +1,7 @@
+Dr. Monalisa Anand is an Assistant Professor in the Department of Mathematics at the School of Advanced Engineering, UPES Dehradun, where she focuses on making mathematics accessible and engaging for students. She completed her PhD at BITS Pilani Goa in April 2024, specializing in Mathematical Modelling, particularly in the context of infectious diseases. Her expertise includes the use of delay differential equations and nonstandard finite difference schemes for modeling, and she is currently expanding her knowledge in neural networks and stochastic models.
+
+Dr. Anand has a strong academic background, having qualified for the National Eligibility Test (NET) in 2019 and the Graduate Aptitude Test in Engineering (GATE) with an All India Rank (AIR) of 117 in the same year. She has also been active in scholarly activities, receiving an International Travel Grant from the SERB to present her work at the ICIAM 2023 conference in Tokyo and a travel grant from the Society of Mathematical Biology for the KSMB-SMB 2024 conference in Seoul.
+
+Her teaching portfolio includes courses such as Ordinary and Partial Differential Equations, Complex Analysis, Linear Algebra, and Advanced Differential Equations. Dr. Anand aims to inspire students by fostering a deep understanding of mathematical concepts and promoting a lifelong passion for mathematics. She emphasizes visualization through real-world applications of mathematical theories.
+
+Dr. Anand can be contacted via email at monalisa.anand@ddn.upes.ac.in.

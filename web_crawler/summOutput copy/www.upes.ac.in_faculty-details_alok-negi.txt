@@ -1,0 +1,36 @@
+**Professor Alok Negi: Profile Overview**
+
+**Teaching Philosophy**: Professor Alok Negi emphasizes a student-centered learning environment that promotes critical thinking, creativity, and a lifelong passion for learning. He views education as a transformative journey, aiming to empower students to become independent thinkers and active societal contributors.
+
+**Academic and Professional Background**: 
+- Professor Negi specializes in Artificial Intelligence, Machine Learning, Data Analytics, and IBM Mainframe Technology. 
+- His educational credentials include a B. Tech in Information Technology, an M.Tech in Computer Science & Engineering, and a Ph.D. in Computer Science and Engineering from NIT Uttarakhand. 
+- He has extensive teaching and research experience, having served at various institutions including IMS Unison University, Quantum University, and DBS as an Assistant Professor.
+
+**Work Experience**: 
+- Prior to his current role, he worked as a Program Training Consultant for IBM at Edunet Foundation, where he trained students in AI/ML and delivered master classes.
+- He has industry experience as a Software Engineer at NIIT Technologies Ltd, where he coordinated software development projects and received recognition for his performance.
+
+**Research Interests**: 
+- His research focuses on deep neural networks, image and video processing, and object detection through deep learning techniques. 
+- He has published numerous papers in renowned journals and conferences and serves as a reviewer for the IETE Journal of Research and the IETE Journal of Education. 
+- He was a Guest Editor for the International Conference on Deep Learning, Artificial Intelligence, and Robotics (ICDLAIR) 2022 at the University of Salerno, Italy.
+
+**Awards and Recognition**: 
+- He received the Best Paper Award at the International Conference on Emerging Trends in Science and Technology (TECHMEET) in 2020.
+- At NIIT Technologies, he was awarded the Monthly Star award for his exceptional handling of complex service requests.
+
+**Courses Taught**: 
+- Professor Negi teaches a range of courses including Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Evolutionary Algorithms, Biomedical Applications, Image and Video Processing, Cloud Computing, and Data Analytics.
+
+**Technical Skills**: 
+- He possesses strong skills in Python, data analytics, MYSQL, ORACLE, IBM Mainframe Technology, and object-oriented programming. 
+- He is experienced with platforms like Anaconda, Google Colab, MongoDB, and IBM Cloud.
+
+**Scholarly Contributions**: 
+- He actively engages in knowledge sharing through expert lectures and workshops, including a recent session on "Python and its Applications in Computer Vision" at a TEQIP-III-sponsored workshop at NIT Uttarakhand.
+
+**Contact Information**: 
+While the text does not provide specific contact details for Professor Alok Negi, interested individuals may typically find such information through the institution's official website or academic directory. 
+
+In summary, Professor Alok Negi is a dedicated educator and researcher with a strong commitment to advancing knowledge in the fields of artificial intelligence and machine learning, while fostering an engaging and practical learning environment for his students.

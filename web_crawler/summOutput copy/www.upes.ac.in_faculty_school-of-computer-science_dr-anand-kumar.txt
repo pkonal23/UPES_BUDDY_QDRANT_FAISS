@@ -1,0 +1,30 @@
+Dr. Anand Kumar is a faculty member at the School of Computer Science, with a strong focus on research and education in the fields of underwater acoustic communication and networking, channel estimation, underwater target detection and localization, machine learning, and analog signal processing. His work aims to enhance data transmission and signal reliability in underwater environments, contributing to advancements in technology and exploration.
+
+**Contact Information:**
+- Email: anand.kumar@ddn.upes.ac.in
+
+**Work Experience:**
+Dr. Kumar has held significant positions, including:
+- **Project Associate**: Worked on underwater sensor networks from October 2021 to January 2023, supported by the Science and Engineering Research Board (SERB) under the Department of Science & Technology (DST), Government of India. His contributions during this period were notable in advancing research in this specialized field.
+- **Assistant Professor**: Served at the School of Information and Communication Technology, Gautam Buddha University, Greater Noida, from October 2023 to May 2024. He was actively involved in curriculum development and student mentorship, demonstrating a commitment to academic excellence.
+
+**Academic Background:**
+- **B.E. in Electronics and Communications Engineering**: Reva Institute of Technology and Management, Bangalore (2015).
+- **M.E. in Electronics and Communication Engineering**: Birla Institute of Technology, Mesra (2019).
+- **Ph.D.**: National Institute of Technology, Jamshedpur (2024).
+
+Dr. Kumar has published numerous peer-reviewed papers in reputable journals and conference proceedings, focusing on underwater acoustic communication, channel estimation, analog signal processing, and machine learning. His scholarly activities also include presenting research findings at prestigious conferences, and he holds patents that highlight his innovative contributions to technology.
+
+**Courses Taught:**
+Dr. Kumar has taught various courses, including:
+- Discrete Structures
+- Logic Design
+- Soft Computing
+- Robotics
+
+These courses cover essential concepts in discrete mathematics, digital circuitry, fuzzy logic, and neural networks, preparing students for careers in computer science and robotics with an emphasis on innovative problem-solving.
+
+**Teaching Philosophy:**
+Dr. Kumar is dedicated to fostering an inclusive and interactive learning environment where students feel valued and empowered. He integrates real-world applications with diverse teaching methods to enhance critical thinking and problem-solving skills. His approach encourages curiosity and resilience, equipping students with the confidence and ethical values needed to navigate the evolving academic and professional landscapes, thereby instilling a lifelong passion for learning and growth. 
+
+Overall, Dr. Anand Kumar's commitment to research, teaching, and student development positions him as a significant contributor to the fields of computer science and technology.

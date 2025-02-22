@@ -1,0 +1,384 @@
+Petrol Injector Cleaning and Testing Machine
+What opportunities does the Mechanical Cluster provide for practical experience?
+Magneto ignition System-model
+Mechatronic assembly system
+Learn More
+Salt spray chamber
+Digimatic Micrometer
+Hydraulic and electro-hydraulic Apparatus
+The Mechanical Cluster offers a wide range of specializations including aerodynamics, propulsion, structures, avionics, space science, materials, thermal-fluid sciences, automotive design, manufacturing, mechatronics, renewable energy, and more.
+The NSC is an international event organised annually, where leading minds in space exploration and technology gather to exchange ideas, discuss breakthroughs, and pave the way for futuristic advancements.
+Faculty
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues, and the consequent responsibilities relevant to the professional engineering practice.
+UTM Testing 1000 KN
+Dr. Ashish Karn
+centre of pressure
+Coriolis component of acceleration
+Cuts Section Model of Single Cylinder 2-Stroke Petrol Engine
+Inductive Proximity Sensors, Capacitive Proximity Sensors, Magnetic Proximity Sensors
+burn rate estimation setup
+Universal Governor apparatus
+Value Added Courses
+3. Aerospace Structure Lab
+MIL-STD 1553B cards
+Specialisations
+Reynold number apparatus
+Hot wire cutter
+Programs
+Multiplexer and Demultiplexer kits; Encoder and Decoder kits
+Forging furnace
+Linear drive
+Deflection of beam setup
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Sewage Block
+chamber heating (Ambient to 400 elg.)
+Pelton turbine
+Emission control system with DOC and DPF
+To generate competent, ethical professionals in transportation, aerospace, advanced manufacturing, and energy sectors.
+Single Cylinder 4- Stroke Diesel Engine 5 HP Test Rig with Rope Brake Dynamometer
+CNC lathe
+Communication:
+Hydraulic press/furnaces/mixers
+School of Advanced Engineering
+Contact angle goniometer
+How does the department promote research?
+Viscometer
+Combustion laboratory setup
+Position Control Loop
+Impact Testing machine
+The engineer and society:
+Magnetic stirrer
+Design/development of solutions:
+Air Compressor
+16. Workshop and manufacturing lab
+Minors - AI&ML, IoT, Blockchain, Data science, Bio-mimetics, Sustainability engineering, Climate change, Disaster management, Reclaim engineering, Astronomy & Astrophysics, Space Engineering, Statistics & probability, Economics.
+Spark plug Cleaner and Tester
+Battery charger to charge up to 6 batteries at 72 V
+Gyroscope
+Hydrogen induced cracking
+Oil Dispenser
+MTX CNC Simulator
+Cylindrical Grinder
+Interdisciplinary collaboration and professional ethics
+Electrical System of an Automobile (Demonstration Model)
+Inclined multi-tube manometer
+Pressure control valve (PCV)
+Photo bioreactor
+Pin-on-disk Tribometer
+13. Automotive Electrical & Electronics Lab
+Space Technology
+Automotive
+Radiator pressure tester
+Cut sectioned Model of Solex Carburettor
+Aerospace Engineering
+Clutch alignment set
+E-Mobility
+Life-long learning:
+Pressure measurement trainer kit
+Gear pump test rig
+Home
+Engine De-Carbonizing Machine
+Refrigeration Test Rig with Data Logger
+Advanced Manufacturing
+Propellent technology setups
+Pneumatic Drill M/C
+Cut section Model of starter motor
+Automatic storage & Retrieval system
+The Department of Mechanical and Aerospace Engineering at UPES which started off with its flagship program in Automotive Design Engineering in 2005, has today, grown to offer a world-class blend of specialisations and expertise from a host of cutting-edge and concurrent technologies ranging from thermal-fluid sciences, aerospace, automotive design, manufacturing, materials, e-mobility mechatronics and robotics, etc. Setting it apart is the department’s approach to fostering an ecosystem of innovation, entrepreneurship, scientific research, interdisciplinarity and academic excellence.
+Surface Grinder
+Water To Air Heat Pump
+Automated Guided vehicle
+Read More
+Environment and sustainability:
+Vision
+27. Metrology lab
+Can you elaborate on the department's industry collaborations?
+Bench Jigsaw
+Metal cutter
+Impact of jet Apparatus
+Profile Projector
+NI data acquisition system Integrated with LabVIEW Software
+Cam Analysis apparatus
+Notch apparatus
+MIGWelding M/C
+Radar test setup
+Vickers hardness tester
+Department of
+Emission Optical Spectrometer
+Epicyclic gear train apparatus
+28. Design and Analysis Lab (Advance CAD Lab)
+Research Laboratories and centres
+Micro hardness tester
+Biodiesel reactor of 2L and 100 L capacity
+26. Fluid Mechanics Lab
+Multi-ports electronic pressure sensor
+Biogas plant of 6 cubic m (Anaerobic digester)
+5-gas Analyser
+Cut section model of gearbox
+2. Aerospace Propulsion Lab
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Solar thermal concentrator, paralyser
+Digital manometer
+What can I expect from my engineering studies at the department?
+Project management and finance:
+Computerized Tensile Testing Machine (50 KN)
+Vibrator testing apparatus
+Close
+Weiber Vacuum oven
+Our strong industrial ties ensure practical exposure and collaboration with industry experts, enriching the learning experience with real-world insights.
+The CFD lab is equipped with high-performance computers and industry standard software such as Ansys, COMSOL Multiphysics and CATIA.
+Pipe Pressure Testing machine
+Two-hinge arc apparatus
+MSC NASTRAN
+M.Tech.
+Double disc variable speed polisher
+R-29 Turbojet Engine
+Potentiostat
+Student Chapters (such as Infinity space club, ASME, ASHRAE, SAE etc.)
+Program Outcome
+25. CAM (Mechatronics) Lab
+Satellite communication system
+Undergraduate
+Problem analysis:
+3D Printers
+Cut section Model of Thermostat
+We regularly participate in prestigious national and international events like SAE Aero Design, CanSat, AIAA Build & Fly, BAJA, SUPRA, and GoKart, providing students with an exciting platform to showcase their skills and innovation.
+ALPHIE Dimensional mixer
+Academics
+Strain measurement trainer kit
+Multi Car Scanner
+Digital Vernier Calliper
+Space Debris Capturing setup for LEO (Low Earth Orbits)
+Expect a mix of theoretical coursework, hands-on projects, lab work, and possibly internships. You'll likely work with complex mathematics, simulations, and cutting-edge technologies.
+Students begin their industry collaborations even before they graduate. Industry experts and collaborators design and deliver their courses on the campus itself. By providing access to international and national student chapters, students get a chance to present their skills, globally too. And by providing an environment wherein they have ample opportunities to conduct innovations and secure patents, students enter into the real world with skills that are far sharper and superior to their peers.
+Drag coefficient measurement
+MEMS accelerometers and gyroscopes along with microcontroller boards (Teensy 4.0 Dev. boards).
+TIG Welding M/C
+Modern tool usage:
+ADAMS.
+Power Hacksaw M/C
+Sheet cutting shear machine
+Ultrasonic Cleaner HUC
+Temperature Measurement and Calibration unit
+Proportional control valve
+23. Theory of Machine (TOM) Lab
+Strain Tester
+Single Cylinder 2-Stroke Air Cooled Petrol Engine Test Rig with Rope Brake Dynamometer
+CNC Wire Cut EDM
+19. Thermal Lab
+Bottom pouring stir casting furnace
+Hydraulic Landing gear and flap deflector setup
+Kaplan turbine
+Department Details
+Hydraulic Jacks
+Cut sectioned Model of battery
+Ambassador Petrol Engine 4 cylinder for Demo Purpose
+LVDT trainer kit
+Battery ignition System-model
+Have more questions? Feel free to reach out to our faculty or explore our website for further information
+Cut section Model of Water pump
+Auto electrical test bench
+Dr. Ashish Mishra
+Defence Technology
+Low-speed wind tunnel (test section size: 600mm x 600mm x 2000mm, maximum wind speed: 60 m/s)
+1. Aerodynamics Lab
+Overview
+Eligibility Criteria
+What is Aerospace Engineering?
+Double Wheeled Grinder
+Engineering knowledge:
+Lathe Machine
+Double Stage Air Compressor Test Rig
+Milling Machine
+Turbine stator blade for demonstration
+Pedestal Grinder
+Electrolux Refrigerator test Rig
+Friction losses apparatus
+Darcy law apparatus
+4. Aeromodelling Lab
+The cluster actively encourages research through advanced labs, state-of-the-art equipment, and expert faculty, nurturing a culture of curiosity and exploration.
+Test Lane
+Dial test indicator
+Spark Plug Cleaner and Tester
+Apply Now
+Arc Welding M/C
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations.
+Open ponds
+Apart from this, the cluster provides:
+Axial flow fan
+Mahindra & Mahindra 2350 D Diesel Engine 4 cylinders for Demo Purpose
+10. Centre of Excellence for Training and Research in Automation Technology (BOSCH REXROTH)
+Dial Test Indicator
+CNC Vertical milling Centre
+Mounting press hydraulic
+Computerized Centrifugal pump test rig
+21. Composite Lab
+A660 Air Conditioning Unit
+Pressure Measurement Calibration unit.
+Electric Hand Grinder
+Cut sectioned Model of ignition-coil
+Mission
+Mechanical Engineering
+Gauges: Ring, Plug, Snap, Feeler, Height.
+Students engage in hands-on learning through cutting-edge facilities such as the Centre for Space Technology, Centre for high-performance computing, Composite Materials research centre, state-of-the-art 3D printing facility, Alternate Energy Research Centre and the Centre of Excellence for Training and Research in Automation Technology (BOSCH REXROTH).
+Assistant Professor (Selection Grade)
+Engine (5 HP) with dynamometer
+Speed measurement trainer kit
+What kind of global opportunities does the department offer?
+Department of Mechanical Engineering
+Slip Gauge, Angle Gauge, Sine Bar
+Performance testing of propellants
+Hydraulic Tilting Flume
+Postgraduate
+8. Space Technology Lab
+4 strokes internal combustion demonstration engine
+Professor
+H- frame type 100-ton capacity hydraulic press complete
+Tubler vacuum furnace as per design
+11. Material Science & Nano Technology Lab
+Fire and flashpoint
+Gas Welding set
+Innovative pedagogy and learning environment
+Multi-cylinder CI engine test bench with electrical dynamometer
+Wheel balancing setup
+Pin-joint test setup
+Cut sectioned Model of SU Carburettor
+18. Material Testing Lab
+Hardness Testing machine
+Orifice and mouthpiece apparatus
+Furnace
+Universal Tensile Machine
+24. Refrigeration and air conditioning lab
+Various toolkits and hand tools
+Conduct investigations of complex problems:
+Ethics:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Stir casting bottom pouring furnace
+Flow visualization setup
+CATIA V6
+To develop state-of-the-art infrastructural and research facilities.
+Load More
+Various models for force and pressure measurements
+Cut Section Model of Single Cylinder 4-Stroke Diesel Engine
+Torsion Testing machine
+Aerospace engineering is the branch of engineering that focuses on the design, development, testing, and production of aircraft, spacecraft, and related systems. It encompasses both aeronautical engineering (aircraft) and astronautical engineering (spacecraft).
+Dr. Anil Kumar
+Spring Testing machine
+To be a key center for developing globally competent professionals in Aerospace, Mechanical and Allied Engineering who can contributing to nation building.
+Heavy-duty Creeper
+Cut section Model of Radiator
+Stress Corrosion cracking setup
+Pour and cloud point apparatus
+22. Corrosion Lab
+Communicate effectively on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Choice Based Credit System and Program Electives
+Pneumatic Oil Extractor Machine
+Pin on disk (up to 200N) TR-20LE, CHM-400
+Six-component strain gauge balance
+This approach ensures students have a strong foundation for professional engineering and scientific careers in the private/public industry, as well as R&D institutions across the world. The well-rounded programs in Aerospace and Mechanical Engineering at undergraduate and postgraduate levels allow students to opt for specialisations in Space Technology, Avionics and Defence Technology. The Department also offers M.Tech. program in Computational Mechanics and E-Mobility and Doctoral Program in Aerospace & Mechanical Engineering.
+Mounting press manual
+Understand the impact of professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+The exhibition showcases the culmination of major and minor projects, giving students a chance to display innovative creations and witness the impact of one’s hard work.
+To promote ethical behavior and culture among faculty and students to pledge their commitment towards the environment and society.
+Computerized Reciprocating pump test rig
+Sr. Associate Professor
+Automatic polishing machine
+Minor head losses apparatus
+Statie & Dynamic balancing
+What specialisations are offered within the Mechanical Cluster?
+12. Automotive Chassis lab
+Ultrasonic cleaner
+Temperature measurement trainer kit
+What is the significance of the capstone project exhibition?
+D space
+Individual and teamwork:
+Project Based Learning
+Marcet Boiler
+How does the department prepare students for industry events?
+Maruti Petrol Engine cut Model motorized
+MSC APEX
+Air Nozzle Test Rig
+Wheel Alignment setup
+MLD & Servo Drive
+Vibration test setup
+Associate Professor
+Microscope digital
+View All
+6. Aircraft Systems and Instruments Lab
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+17. Advanced Manufacturing Lab
+FAQs about Department of Mechanical and Aerospace Engineering
+Bevel protector
+Identify, formulate, review research literature, and analyse complex engineering problems reaching substantiated conclusions using the first principles of mathematics, natural sciences, and engineering sciences.
+Directional control valve (DCV)
+Buckling of column apparatus
+Assistant Professor (SG)
+Placement Assistance
+Four Cylinder 4-Stroke Petrol Engine Test Rig with Hydraulic Dynamometer & Exhaust Gas Calorimeter
+Vibration measurement trainer kit
+Universal simulator
+The Department of Mechanical and Aerospace Engineering has state-of-the-art research laboratories equipped with modern equipment and professional software.
+Cut sectioned Model of Ignition distributor
+Computational Mechanics
+Scissor on Scissor Lift
+About the Department
+Flow control valve (FCV)
+Fatigue Testing
+Motorised gyroscope apparatus
+Downdraft gasifier
+Ultrasonic Sensor and Encoder
+Function of Injector with pump working condition motorized model
+Combination set
+9. Alternate Energy Research Centre (AERC)
+5. Avionics Lab
+TATA 1210 SE Diesel Engine Six Cylinder (Demo Purpose)
+15. Engine Testing & Emission Measurement
+Washer dye machine
+State of the Art Laboratories
+Static test-bed for miniature rocket Testing
+14. Engine Troubleshooting Lab
+Drill machine
+High-rate Battery Discharge Tester (digital)
+Electrically heated crucible furnace included transformer
+7. CFD Lab
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and the cultural, societal, and environmental considerations.
+Density meter
+Shaper Machine
+Cut section model car for demonstration
+Fly machine
+The cluster ensures holistic development by offering courses in emerging technologies like Data Analytics, AI/ML, and Automation, ensuring students are future-ready for industry demands.
+Mechatronics
+Diffuser test rig setup
+Avionics
+CNG Turning machine
+Torque measurement trainer kit
+Electronic balance
+Compressor stator blade for demonstration
+How does the Mechanical Cluster enhance student learning?
+Our interdisciplinary focus and international collaborations open doors to global opportunities in industries ranging from automotive and manufacturing to aerospace and energy.
+Deepak Bharadwaj
+Power Steering system motorized
+Weiber chiller
+20. Advanced Material Science Lab
+Belt grinder
+To foster linkage with all stakeholders for continuous improvement in learning outcomes.
+Microscope inverted
+Cascade wind tunnel
+Belt & Disc sander
+Cut section Model of gear lubricant pump
+Altimeter & Speed indicator
+Hotwire measurement system
+Programmable logic controller
+Venturimeter and Orificemeter apparatus
+Pneumatic and electro Pneumatic Apparatus
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Lab Facilities
+Participation in National and International Events
+Recognize the need for and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+CAD Lab has computers installed with the following software:
+MSC PATRAN
+Tell me more about the UPES-National Space Convention (NSC)
+Ajay Kumar
+Titrator
+B.Tech
+Ultrasonic disruption

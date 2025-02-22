@@ -1,0 +1,46 @@
+The B. Tech. Mechanical Engineering (Mechatronics) program at the UPES School of Advanced Engineering offers a comprehensive and interdisciplinary curriculum that integrates mechanical engineering, electronics, computer engineering, and control systems. This program is designed to equip students with a solid foundation in various engineering disciplines, ensuring they are prepared to tackle diverse challenges in the field.
+
+### Curriculum Overview
+The program spans multiple semesters, with a focus on both theoretical and practical applications. Key subjects include:
+
+- **Semester 1:** Introduction to Mechanical Engineering, Critical Thinking and Writing, Object Oriented Programming, Chemistry, and Engineering Mathematics I.
+- **Semester 2:** Fluid Mechanics, Basic Electrical and Electronics Engineering, and various labs.
+- **Semester 3:** Theory of Machines, Mechanics of Materials, and Manufacturing Processes.
+- **Semester 4:** Living Conversation, EVS 1 (Living Lab), and specialized courses in Mechatronics.
+- **Semester 5-8:** Advanced topics such as Engineering Thermodynamics, Industrial Engineering and Management, and Capstone projects, alongside specialized labs and internships.
+
+The curriculum emphasizes automation technology, the Internet of Things (IoT), and hands-on experience in robotics systems, intelligent machines, and industrial automation.
+
+### Industry Relevance
+The program is tailored to meet the demands of modern industries, particularly in automation and robotics, which are pivotal in sectors like manufacturing, logistics, and healthcare. Graduates will be well-positioned to contribute to the development of advanced technologies, including autonomous vehicles and intelligent systems that leverage AI and machine learning.
+
+### Career Opportunities
+Graduates of the program can pursue a wide range of careers, including:
+
+- Robotics Engineer
+- Automation Engineer
+- Control Systems Engineer
+- Embedded Systems Engineer
+- IoT Engineer
+- Biomedical Engineer
+- Automotive Engineer
+- Aerospace Engineer
+- R&D Engineer
+- Academic positions
+
+### Placements
+The program boasts strong placement opportunities, with graduates securing positions in prestigious companies such as Rexroth, Honeywell, Siemens, Flipkart, and Maruti. This reflects the program's commitment to providing real-world exposure and preparing students for successful careers in the dynamic field of mechatronics.
+
+### Admission Criteria
+To be eligible for the B. Tech. Mechanical Engineering (Mechatronics) program, candidates must have:
+
+- A minimum of 50% marks in Classes X and XII.
+- At least 50% marks in Physics, Chemistry, and Mathematics (PCM) in Class XII.
+
+### Contact Information
+For further inquiries or to apply, interested students can reach out via the following contact methods:
+
+- **Phone:** +91 (contact number not specified)
+- **Email:** (email address not specified)
+
+This program not only prepares students for immediate career opportunities but also equips them with the skills necessary for further studies and advancements in engineering specializations. Overall, the B. Tech. Mechanical Engineering (Mechatronics) program at UPES is designed to produce adept engineers ready to excel in the evolving landscape of technology and automation.

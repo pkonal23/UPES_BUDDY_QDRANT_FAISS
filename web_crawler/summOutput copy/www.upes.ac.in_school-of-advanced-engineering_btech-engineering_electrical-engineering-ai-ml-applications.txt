@@ -1,0 +1,22 @@
+The B.Tech. program in Electrical Engineering with a specialization in AI & ML Applications at the School of Advanced Engineering is designed to equip graduates with a robust foundation in electrical engineering while integrating advanced knowledge in artificial intelligence (AI) and machine learning (ML). This innovative curriculum prepares students for dynamic career opportunities at the convergence of technology and innovation.
+
+### Future Scope and Industry Trends
+Graduates are well-positioned to pursue careers in various sectors, including electronics, healthcare, finance, and more. The program emphasizes hands-on projects and real-world problem-solving, which enhances the learning experience and prepares students for roles such as AI engineers, machine learning specialists, and positions in robotics and automation. Key industry players like Microsoft, Intel, IBM, Apple, and Cognizant are actively seeking professionals with expertise in AI and ML, highlighting the program's relevance in today's job market. Furthermore, graduates have the option to pursue advanced studies in data science and machine learning.
+
+### Program Details
+The curriculum spans eight semesters, covering a range of subjects such as:
+- **Core Engineering Subjects**: Physics, Chemistry, Electrical Machines, Signals and Systems, Control System Engineering, and Network Theory.
+- **Specialization Courses**: Soft Computing Techniques, Deep Learning, Natural Language Processing, and Industrial Power Electronics.
+- **Practical Experience**: The program includes workshops, industrial internships, and capstone projects, providing students with insights into industry practices and enhancing employability.
+
+### Eligibility Criteria
+To enroll in the program, candidates must have:
+- Minimum of 50% marks in Classes X and XII.
+- At least 50% in Physics, Chemistry, and Mathematics (PCM) in Class XII.
+- Admission is based on performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET.
+
+### Contact Information
+For further inquiries or to apply, prospective students can visit the UPES School of Advanced Engineering's official website or contact the admissions office. Specific contact details (such as phone numbers or email addresses) were not provided in the text.
+
+### Conclusion
+The B.Tech. Electrical Engineering program with a focus on AI & ML Applications at UPES is a forward-thinking educational pathway that prepares students to meet the demands of the evolving technological landscape, ensuring they are well-equipped to contribute to the advancements in Industry 4.0.

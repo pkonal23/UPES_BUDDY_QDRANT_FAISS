@@ -1,0 +1,58 @@
+The B. Tech in Cloud Computing and Virtualization Technology program offered by UPES is a comprehensive four-year undergraduate course designed to equip students with essential knowledge and skills in cloud computing and virtualization. The curriculum includes a blend of theoretical and practical learning, with a focus on hands-on exercises, assignments, and projects that prepare students for real-world applications.
+
+### Program Structure:
+- **Semesters and Courses**: The program spans eight semesters, covering various subjects such as:
+  - Cloud Computing Fundamentals
+  - Data Structures and Algorithms
+  - Object-Oriented Programming
+  - Cloud Security and Architecture
+  - Virtualization Technology
+  - Containerization and DevOps
+  - Statistics and Data
+  - Critical Thinking and Writing
+  - Software Engineering
+  - Database Management Systems
+  - Advanced Engineering Mathematics
+  - Additional electives and labs designed for practical experience.
+
+- **Labs**: Students will engage in specialized labs such as:
+  - Cloud Computing Fundamentals Lab
+  - Cloud Application Development Lab
+  - Containerization and DevOps Lab
+  - Data Structures and Algorithms Lab
+  - Programming in C Lab
+
+### Eligibility Criteria:
+To apply for the program, students must meet the following criteria:
+- A minimum of 50% marks in Class X and XII
+- At least 50% in Physics, Chemistry, and Mathematics in Class XII.
+
+### Career Opportunities:
+Graduates of this program can explore various career paths, including:
+- Cloud Support Engineer
+- Cloud Solutions Architect
+- Cloud Security Specialist
+- Cloud System Administrator
+- Cloud Service Developer
+- Project Engineer
+
+The program prepares students for roles in leading tech companies such as IBM, Oracle, Microsoft, and Amazon, with an average starting salary of Rs. 10.25 lakhs per annum, and potential earnings up to Rs. 25 lakhs per annum for top performers.
+
+### Industry Trends:
+The cloud computing market is projected to reach USD 832.1 billion by 2025, indicating a growing demand for skilled professionals in this field. Key trends include multi-cloud and hybrid cloud strategies, edge computing, enhanced data storage, AI integration, and disaster recovery solutions.
+
+### Additional Program Features:
+- Opportunities for internships and industrial visits to gain practical experience.
+- Access to cutting-edge technology and tools, including AWS, Azure, GCP, and Docker.
+- Academic alliances with IBM for syllabus enhancement and training.
+- Opportunities for student exchange programs, study tours, and participation in international conferences.
+
+### Contact Information:
+For more details, students can reach out via:
+- **Email**: [Contact email not provided]
+- **Phone**: +91 [Contact number not provided]
+
+### Application Deadline:
+The last date to apply for the program is February 25, 2025.
+
+This program not only aims to provide students with a strong foundation in computer science and engineering but also emphasizes practical skills that are crucial for success in the rapidly evolving tech landscape of cloud computing and virtualization technology.

@@ -1,0 +1,5 @@
+The "Intelligent Border Surveillance" Software has received recognition and copyright protection from the Government of India. This software aims to enhance the efficiency of border patrol operations through an advanced algorithm that integrates the Analytic Hierarchy Process (AHP) and Multi-Agent Modelling techniques. The system utilizes grid-based mapping to partition areas and applies route layout algorithms to optimize patrolling strategies, thereby significantly improving border security and surveillance measures.
+
+The software's copyright was secured by Ishika Punhani and Vinay K, who are students pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering with a specialization in Cyber Security & Forensics, from the 2020-2024 batch. Their achievement is noteworthy and reflects the innovative contributions of students in the field of technology for national security.
+
+For further information, the software development was guided by faculty from the School of Computer Science, and the achievement is attributed to the mentorship of Assistant Professor Saurabh Shanu.

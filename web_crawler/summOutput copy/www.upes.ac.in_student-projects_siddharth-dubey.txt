@@ -1,0 +1,13 @@
+The project centers around the development of an Agricultural Support Drone (ADRONA), designed specifically for farmers to monitor their farmlands effectively. This smart drone is equipped with cameras that allow for real-time observation and data collection from above, providing detailed insights into land conditions.
+
+**Key Features of ADRONA:**
+- Operated by a drone pilot who can relay information instantly.
+- Equipped with high-resolution cameras for ground observation and photography.
+
+**Project Details:**
+- **Student:** Siddharth Dubey
+- **Degree:** M.Tech. in Automation and Robotics Engineering
+- **Batch:** 2021-23
+- **Mentor:** Dr. Piyush Kuchhal
+
+The project is part of the curriculum at the School of Advanced Engineering, showcasing innovative technology aimed at enhancing agricultural practices through aerial monitoring.

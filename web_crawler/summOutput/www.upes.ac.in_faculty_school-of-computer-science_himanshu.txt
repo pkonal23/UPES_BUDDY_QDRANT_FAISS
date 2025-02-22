@@ -1,0 +1,31 @@
+Himanshu is an Assistant Professor at the School of Computer Science with a robust academic background in Information Technology and Wireless Communication. His pedagogical approach prioritizes experiential learning, which integrates theoretical knowledge with practical, hands-on projects. He focuses on enhancing students' analytical thinking and problem-solving abilities through collaborative and project-driven coursework, thereby increasing engagement and comprehension.
+
+### Work Experience
+Himanshu has accumulated significant professional experience, notably as an Assistant System Engineer at Tata Consultancy Services from August 2021 to October 2022, where he spearheaded data analysis initiatives and created efficient dashboards. He further honed his skills as a Software Validation Intern at NXP Semiconductors from January 2024 to June 2024, where he automated test cases for Open Thread and Zigbee protocols using programming languages such as Python and C/C++.
+
+### Academic and Technical Expertise
+He holds an MTech degree in Wireless Communication and Computing from the Indian Institute of Information Technology (IIIT), Allahabad. His technical proficiency encompasses programming languages including C, C++, and Python, which he has applied in various impactful projects. Notable contributions include:
+
+- Designing systems for real-time environmental monitoring through efficient gateways and virtualized services.
+- Developing robust pipelines for large-scale genomic data processing for Thousand Genomes.
+- Creating a scalable e-commerce website utilizing the MERN stack, featuring secure payment systems and responsive design.
+
+### Research Interests
+Himanshu's research focuses on wireless communication protocols such as ZigBee and Open Thread, as well as automation frameworks and large-scale data processing systems. He is particularly interested in the Internet of Things (IoT) networks and their essential role in facilitating real-time data analysis and informed decision-making.
+
+### Courses Taught
+He has taught a variety of subjects, including:
+- Database Management
+- Data Structures and Algorithms
+- Operating Systems
+- Computer Networks
+- Competitive Programming
+- Advanced Data Structures
+
+Himanshu's teaching philosophy emphasizes the connection between theoretical concepts and practical applications, aiming to prepare students for real-world challenges.
+
+### Contact Information
+For inquiries or further information, Himanshu can be reached at:  
+**Email:** himanshu@ddn.upes.ac.in
+
+This comprehensive overview encapsulates Himanshu's academic credentials, professional experiences, research interests, and teaching philosophy, showcasing his commitment to fostering an engaging and effective learning environment.

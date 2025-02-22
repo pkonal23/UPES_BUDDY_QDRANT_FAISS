@@ -1,0 +1,43 @@
+**Profile Summary of Ms. Anshika Tanwar**
+
+**Current Position**: Assistant Professor at the School of Advanced Engineering, UPES (from September 2024).
+
+### Academic Background:
+- **B.Sc. (Hons) Mathematics**: Kirori Mal College, University of Delhi (First Division with Distinction).
+- **M.Sc. Mathematics with Computer Science**: Department of Mathematics, Jamia Millia Islamia (2017).
+- **Ph.D.**: Department of Mathematical Sciences, Indian Institute of Technology (BHU), Varanasi.
+- **Bachelor's in Education**: Completed with Distinction in 2019.
+
+### Research Interests:
+Ms. Anshika is focused on Applied Mathematics, particularly in the field of Fracture Mechanics. Her research involves:
+- Thermo-elasticity and solid mechanics.
+- Analysis of crack mechanics under thermal and mechanical loadings in orthotropic composite materials.
+- Semi-analytical analysis of physical parameters, including stress intensity factors, heat flux intensity, crack opening displacements, and crack energy, using mathematical concepts such as integral equations, partial differential equations, and integral transforms (Fourier and Laplace transforms).
+
+### Publications and Presentations:
+- Authored five research articles in international SCI/SCIE journals, including the *Journal of Thermal Stresses*, *Acta Mechanica*, and *ZAMM*.
+- Presented her research at various national and international conferences:
+  - **"Interaction among offset cracks in an orthotropic plane"** at the Indian Women and Mathematics 2023 conference, IISER Bhopal (July 13-15, 2023).
+  - **"Interaction among offset cracks in an orthotropic plane under thermo-mechanical loadings"** at the International Conference on Algebra, Mathematical Analysis & Simulation, Calcutta Mathematical Society (December 8-10, 2022).
+  - Upcoming presentation titled **"Partially insulated cracks under thermo-mechanical loadings"** at MSADE-2024, IIT Ropar (February 26 - March 2, 2024).
+
+### Teaching Experience:
+- Served as a teaching assistant and tutor for various B. Tech courses at IIT (BHU), including Real Analysis, Probability and Statistics, and Mathematical Methods.
+- Currently teaching courses such as Advanced Engineering Mathematics-I and Discrete Mathematical Structures for B.Tech Computer Science students, with Advanced Engineering Mathematics-II ongoing.
+
+### Teaching Philosophy:
+Ms. Anshika is dedicated to fostering mathematical thinking among students. She emphasizes student engagement and interaction in her teaching, believing that every student possesses unique potential and that teachers serve as guides to help them realize it.
+
+### Involvement in Academic Activities:
+- Actively participated as a session coordinator for the 5th-ICMEMS conference at UPES, Dehradun (December 13-14, 2024).
+- Volunteered at the international conference RAAM-2 at IIT (BHU).
+
+### Awards and Grants:
+- Received travel support for the Indian Women and Mathematics Annual Conference 2023.
+- Awarded International Travel Support from SERB to attend an international conference in 2024.
+- Qualified CSIR-JRF (AIR-88) and GATE in Mathematics (2018, 2019).
+
+### Contact Information:
+- **Email**: anshika.tanwar@ddn.upes.ac.in
+
+Ms. Anshika Tanwar is a committed educator and researcher, actively contributing to the field of Applied Mathematics while inspiring her students to achieve their academic goals.

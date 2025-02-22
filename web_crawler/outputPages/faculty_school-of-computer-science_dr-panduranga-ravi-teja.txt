@@ -1,0 +1,21 @@
+Research Interests
+Home
+Work Experience
+Professor
+Close
+School of Computer Science
+He actively engages in multidisciplinary and collaborative research projects that aim to advance telecommunications technology. His work involves numerous international collaborations and industry consultations, which enrich his academic and practical approaches.
+Faculty
+From 2018 to 2022, he served as a Research Fellow in the Department of Information Technology at NIT Raipur. Prior to that, from 2017 to 2018, he was an Assistant Professor in the Department of ECE at KL University, Vijayawada. Earlier in his career, from 2012 to 2017, he held the position of Assistant Professor in the Department of ECE at Kamala Institute of Technology and Sciences, Huzurabad.
+panduranga.raviteja@ddn.upes.ac.in
+Scholarly Activities
+Courses Taught
+Eligibility Criteria
+He specializes in teaching advanced networking and telecommunications, with a particular focus on the architectures and practical applications of 5G networks. His courses span a wide range of technical subjects that provide foundational and advanced knowledge essential for understanding modern communication systems. These include Probability and Random Process, Statistics, and Engineering Mathematics, which are crucial for developing analytical skills in network design and performance analysis. He also teaches Data Science and Artificial Intelligence/Machine Learning (AI/ML), integrating these disciplines to enhance network intelligence and automation. Additionally, his expertise extends to Digital Electronics, Wireless Sensors and Networks, and the Internet of Things (IoT), where he emphasizes the integration of hardware and software in creating interconnected and smart environments. Through these courses, he aims to equip students with a comprehensive skill set that prepares them for future challenges in engineering and technology.
+Dr. Panduranga Ravi Teja
+Profile Summary
+Contact
+Dr. Panduranga Ravi Teja is currently an Assistant Professor at the School of Computer Science. His research primarily focuses on advancing 5G network technologies, employing innovative device-to-device communication and sophisticated resource allocation strategies. A central theme of his work involves the application of game theory, which serves as a pivotal tool in developing strategies that enhance the efficiency, reliability, and sustainability of 5G networks. By leveraging game-theoretical models, he aims to optimize interactions within network components, ensuring optimal resource distribution and conflict resolution. This approach is vital for the development of smart city infrastructures and the next generation of telecommunications services, where multiple agents and devices must coexist harmoniously and efficiently.
+His teaching philosophy emphasizes a practical, hands-on approach that engages students through real-world applications of theoretical concepts. He designs his courses to challenge students with complex problems, fostering a deep understanding of the subject matter that prepares them for their future careers.
+Teaching Philosophy
+He has published numerous papers in both SCI and SCOPUS indexed journals, focusing on topics such as efficient resource allocation for 5G networks and the application of machine learning techniques in telecommunications.

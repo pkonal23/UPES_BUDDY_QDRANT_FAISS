@@ -1,0 +1,19 @@
+Dr. Monika Yadav is an accomplished academic and active member of the IEEE community, having attained the status of IEEE Senior Member in 2022. She is also a certified Distribution Engineer's Trainer, a credential she earned from the Power Sector Skill Council of India (PSSCI) under the Ministry of Power in 2019. Her research primarily revolves around technology development aimed at social benefits, exemplified by her role in conducting technical training programs for TATA Power Solar, focusing on "Grid code compliance for renewable energy (RE) integration."
+
+Dr. Yadav completed her Ph.D. with a dissertation on "Optimal allocation of DG for resilient electrical distribution grid" and holds an M.Tech. in Electrical Engineering, specializing in Power System Engineering from IIT(ISM) Dhanbad, Jharkhand, which she completed in 2015. Her academic achievements include a strong record of publications in SCI/Scopus-indexed journals and conferences, highlighting her expertise in Distribution Grid Expansion Planning, optimization and control problems, and energy alternatives.
+
+Her research interests are diverse and include:
+- Distribution Grid Expansion Planning
+- Enhancing the resiliency of distribution grids against disturbances
+- Sustainable planning of distribution systems
+- Grid code compliance for renewable energy (RE) integration
+- Microgrid Reliability
+
+Dr. Yadav has taught a variety of core electrical engineering subjects such as Power Systems, Switchgear and Protection, Electrical Machines, Microprocessors and Microcontrollers, Embedded Systems, and Electromagnetic Field Theory. She also mentors B.Tech and M.Tech students and conducts GATE preparation classes.
+
+In her teaching philosophy, Dr. Yadav emphasizes the importance of societal impact over purely technical and economic considerations. She aims to design and deliver technical curricula that meet current social needs, thus empowering her students to become responsible engineers and technologists. She actively engages students in research, encouraging collaboration and knowledge sharing, which has led to the development of innovative solutions, including a Universal portable charging kit. Her efforts in mentoring have resulted in numerous research papers published in prestigious journals and conference proceedings.
+
+Dr. Yadav's contact information is as follows:
+Email: m.yadav@ddn.upes.ac.in
+
+She is affiliated with the School of Advanced Engineering, where she also organizes industrial visits, such as trips to the Dhanu thermal power plant, to enhance students' practical skills.

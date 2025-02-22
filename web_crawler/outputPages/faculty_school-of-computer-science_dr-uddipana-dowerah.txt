@@ -1,0 +1,21 @@
+Research Interests
+Home
+Work Experience
+Awards and Grants
+Close
+School of Computer Science
+Dr. Dowerah received the Hasler Foundation grant for her project titled “Enhancing Data Privacy using Functional Encryption” during her postdoc at the University of St. Gallen, Switzerland. She also received the Erasmus+ research fellowship to visit the University of Pardubice, Czech Republic during her Ph.D. at IIT Guwahati.
+uddipana.dowerah@ddn.upes.ac.in
+Dr. Dowerah has authored many publications and served as a reviewer for various conferences and journals in Cryptography. She is a life member of the Cryptology Research Society of India (CRSI) and also a member of  ACM and IEEE.
+Dr. Uddipana Dowerah joined UPES in November 2024. She works in the area of Cryptography, specifically in computing on encrypted data and privacy-preserving cryptographic solutions.
+Faculty
+Before joining UPES, Dr. Dowerah was a postdoctoral researcher at the Cybersecurity and Applied Cryptography lab at the University of St. Gallen, Switzerland and prior to that, she was a visiting researcher at the Chalmers University of Technology, Sweden. Dr. Dowerah completed her Ph.D. from IIT Guwahati.
+Scholarly Activities
+Eligibility Criteria
+Assistant Professor - Senior Scale
+Profile Summary
+Dr. Dowerah’s teaching philosophy is centered around the belief that education should empower students to think critically, engage with complex problems, and develop both technical and soft skills that will serve them in their professional and personal lives. In the context of Computer Science, her approach is to emphasize on conceptual understanding, active learning and real-world applications. A key component of her approach is to foster an environment where students feel encouraged to ask questions and explore beyond the curriculum.
+Contact
+Dr. Uddipana Dowerah
+Cryptography, Post-Quantum Cryptography, Fully Homomorphic Encryption, Functional Encryption, Private Stream Aggregation
+Teaching Philosophy

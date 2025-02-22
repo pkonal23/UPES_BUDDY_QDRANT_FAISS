@@ -1,0 +1,7 @@
+Dr. Saroj Snehal Shivagunde is an Assistant Professor at the University of Petroleum and Energy Studies (UPES) in the School of Computer Science, having joined the institution in July 2022. She holds a PhD from the Indian Institute of Technology (IIT) Guwahati, where her research concentrated on theoretical machine learning, specifically focusing on incremental learning and unlearning through multiple views. Dr. Saroj also completed her MTech at IIT Guwahati, where she developed her passion for teaching.
+
+Her teaching philosophy is characterized by a flexible approach that caters to the collective needs of her class while also addressing the individual requirements of each student. She promotes active participation in her courses and values real-time feedback. Dr. Saroj encourages students to reach out to her during office hours for any course-related inquiries.
+
+In terms of her academic focus, she specializes in various areas including theoretical machine learning, multi-view learning, incremental learning, machine learning, database management systems, artificial intelligence, and game programming.
+
+For any inquiries, Dr. Saroj can be contacted via email at saroj.shivagunde@ddn.upes.ac.in.

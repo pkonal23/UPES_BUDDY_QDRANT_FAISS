@@ -1,0 +1,36 @@
+**Profile Summary of Silky Goel**
+
+Silky Goel is an Assistant Professor at the School of Computer Science, UPES, with over 7 years of experience in both teaching and the industry. She joined UPES in 2019 after working at Graphic Era Hill University from 2016 to 2019. Her academic background includes a B.Tech in Computer Science Engineering from Uttarakhand Technical University, Dehradun, and an M.Tech in Computer Engineering from IIIT Bhubaneswar. Currently, she is pursuing a PhD at UPES, Dehradun.
+
+**Research Interests**
+Silky Goel's research focuses on Medical Imaging Analysis, Machine Learning, and Deep Learning within the healthcare sector. She has a strong publication record, contributing to various journals, conferences, and book chapters, particularly in the fields of computer vision and image processing.
+
+**Teaching Philosophy**
+Silky believes in fostering a supportive and encouraging learning environment that integrates group activities, real-world applications, and continuous assessment. Her approach empowers students to engage deeply with the material.
+
+**Courses Taught**
+- Database Management System
+- Computer Organization
+- Data Structures and Algorithms
+- Distributed Computing
+- Operating Systems
+- Design and Analysis of Algorithms
+- System Provisioning and Configuration Management
+- Computer Vision
+- Image Processing
+- Medical Image Processing
+- Data Analysis
+- Machine Learning
+- Artificial Intelligence
+- Deep Learning
+- Crowd Analysis
+
+**Professional Achievements**
+- Cleared GATE in 2014.
+- Actively mentors projects at various academic levels, with several submissions to conferences under her guidance.
+
+**Contact Information**
+- Email: sgoel@ddn.upes.ac.in
+- Google Scholar Profile: [Silky Goel's Google Scholar](https://scholar.google.com/citations?user=vfEIbdsAAAAJ&hl=en)
+
+Silky Goel is dedicated to advancing her students' understanding of complex concepts in computer science while contributing to significant research in her field.

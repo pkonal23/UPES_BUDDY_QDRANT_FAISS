@@ -1,0 +1,27 @@
+Research Interests
+-Project title “Development of an Integrated Intelligent Disaster Management System for Mountain Communities in India” entitled as a project of “National Importance” by DST, Govt. of India funded by DST.
+anil.kumar@ddn.upes.ac.in
+Prof. Anil received the prestigious Governor Research Award from the Governor of Uttarakhand, Raj Bhavan Uttarakhand, India. Selected as Lead Speaker of NISAR (NASA ISRO Synthetic Aperture Radar) Science Workshop – 2015 conducted in SAC, ISRO Ahmedabad, India. Member of “WInSAR (Western North America Interferometric Synthetic Aperture Radar Consortium) Executive Committee as Adjunct II part of UNAVCO”.
+Home
+Work Experience
+Awards and Grants
+Close
+School of Computer Science
+-one of the modules of “Research Announcement L&S Band Airborne SAR” under NISAR (NASA-ISRO Synthetic Aperture Radar) mission funded by ISRO.
+Associate Professor
+Faculty
+Scholarly Activities
+Prof. Anil prioritizes adaptability and relevance in his teaching philosophy. He constantly updates the syllabus and adopts suitable pedagogies to meet societal and industry demands. In the digital realm, he utilizes online platforms for better understanding and synchronous problem-solving. Prof. Anil fosters a competitive spirit among students to ignite their eagerness for learning. By using authentic problems, he guides them from novice to expert thinking, nurturing critical skills. His teaching philosophy emphasizes optimized solutions, exploration, and responsiveness to create an engaging and dynamic learning environment.
+-Representative member of National Collaborative Scheme on Forest Fire Management, ICFRE, Ministry of Environment, Forest & Climate Change, Govt. of India. Principal Investigator for-
+Dr. Anil Kumar
+-Editor of many peer-reviewed reputed journals like Advances in Space Research (Elsevier), Earth and Space Science (Willy), Remote Sensing (MDPI), etc.
+Before joining UPES, Prof. Anil was associated with DIT University and Cognizant Technology Solutions. He is also the guest faculty of Indian Institute of Remote Sensing, ISRO, Dehradun, India. He completed his master’s thesis from IIT Kharagpur.
+Courses Taught
+Eligibility Criteria
+Prof. Anil has led multidisciplinary teams on an international collaborative project to get optimized solutions and related work of title “Semantic segmentation of PolSAR image data using advanced deep learning model” is published in Scientific Reports, NPG. This work is part of L&S Band Airborne SAR” under NISAR (NASA-ISRO Synthetic Aperture Radar) mission. Another national importance project led by him is of title “Development of an Integrated Intelligent Disaster Management System for Mountain Communities in India” under TDP, DST, Govt. of India. The goal of this project is to develop an intelligent responsive system based on a comprehensive knowledge database built on disasters, traditional knowledge of mountain communities, real-time monitoring sensors, spatial information systems, and auxiliary sources of data focusing on multi-hazard early warning and management in hilly regions of India. Another interesting work titled “Automatic Identification of Craters and Ejecta using Advanced Deep Learning Models supported by its Features and Shape Parameters to Analyse Lunar Morphology”. Another interesting work is in healthcare where machine learning algorithms are used to identify and count the immunopostive nuclei on whole slide images to calculate the proliferation rate of breast cancer in females.
+Digital Pathology | Remote Sensing | Digital Image Processing | Computer Vision | Machine Learning
+Profile Summary
+Dr. Anil Kumar is recognised as one of the leading experts on application of machine learning specially to remote sensing and healthcare domain. His influential and prize-winning research focuses on SAR data, computer vision, intelligent systems, and digital pathology. It addresses issues related to LULC (Land Use and Land Cover Classification) using SAR data, object detection and localization, classification, automated cancer diagnostic system, analysis of multi-hazard and intelligent alarming system: landslides, forest fire, and avalanche.
+Prof. Anil teaches the fundamental subjects of computer science and engineering like Digital Image Processing, Database Management Systems, Computer Graphics, Design and Analysis of Algorithms. In specialization, Prof. Anil teaches Machine Learning, Data Mining, Algorithms for Intelligent Systems and Robotics.
+Contact
+Teaching Philosophy

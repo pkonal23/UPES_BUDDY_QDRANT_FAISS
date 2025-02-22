@@ -1,0 +1,45 @@
+**Profile Summary of Prof. Alok Negi**
+
+Prof. Alok Negi is an accomplished technologist and educator with a specialization in Artificial Intelligence (AI), Machine Learning (ML), Data Analytics, and IBM Mainframe Technology. He holds a B. Tech in Information Technology, an M.Tech in Computer Science & Engineering, and a Ph.D. in Computer Science and Engineering from NIT Uttarakhand. His extensive academic and industry background allows him to integrate advanced knowledge into his teaching.
+
+**Teaching Philosophy**
+Prof. Negi emphasizes a student-centered learning environment that encourages critical thinking, creativity, and lifelong learning. He views education as a transformative journey aimed at empowering students to become independent thinkers and active contributors to society.
+
+**Work Experience**
+Prof. Negi has held various positions, including:
+- **IBM Program Training Consultant** at Edunet Foundation, Gurgaon, where he trained students in AI/ML and collaborated with the Ministry of Skill Development and Entrepreneurship.
+- **Assistant Professor** at IMS Unison University, Quantum University, and DBS.
+- **Software Engineer** at NIIT Technologies Ltd, where he was recognized with the Monthly Star award for his performance in managing complex service requests and ensuring a smooth production process.
+
+**Research Interests and Scholarly Activities**
+Prof. Negi has published numerous research papers in esteemed journals and conferences, focusing on deep neural networks, image and video processing, and object detection. He actively participates in the academic community as a reviewer for the IETE Journal of Research (SCI) and IETE Journal of Education (UGC). He also served as a Guest Editor for the International Conference on Deep Learning, Artificial Intelligence, and Robotics (ICDLAIR) 2022 held at the University of Salerno, Italy.
+
+**Courses Taught**
+Prof. Negi teaches a variety of courses, including:
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Evolutionary Algorithms
+- Biomedical Applications
+- Image and Video Processing
+- Cloud Computing
+- Data Analytics
+
+**Awards and Recognition**
+- Best Paper Award at the International Conference on Emerging Trends in Science and Technology (TECHMEET) in 2020.
+- Monthly Star award at NIIT Technologies Ltd for excellent service request management.
+
+**Technical Skills**
+Prof. Negi possesses strong technical skills in:
+- Programming Languages: Python
+- Data Management: MYSQL, ORACLE
+- IBM Mainframe Technology
+- Object-Oriented Programming
+- Tools: Anaconda, Google Colab, MongoDB, IBM Cloud
+
+**Contact Information**
+For inquiries, Prof. Alok can be reached at:
+- **Email:** alok.negi@ddn.upes.ac.in
+
+Through his innovative teaching methodologies and real-world applications, Prof. Negi is dedicated to providing a comprehensive and industry-relevant education, equipping students with the skills necessary for their future careers.

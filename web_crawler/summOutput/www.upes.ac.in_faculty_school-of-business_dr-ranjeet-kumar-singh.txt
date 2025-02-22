@@ -1,0 +1,12 @@
+Dr. Ranjeet Kumar Singh is an accomplished Assistant Professor specializing in Statistics, currently affiliated with the School of Business at UPES. He holds a Ph.D. in Statistics from Banaras Hindu University, obtained in 2021, focusing on Statistical Process Control (SPC). Dr. Singh has a robust academic background, having previously served as an Assistant Professor at VIT-AP University and Adamas University, where he taught Data Science and Statistics.
+
+His research interests encompass Statistical Process Control, Statistical Inference, Time Series Analysis, and Data Analysis. Dr. Singh has published numerous papers in esteemed peer-reviewed journals, contributing significantly to the advancement of statistical theory and methodology. He is recognized for his exceptional research contributions, having received the UGC-SRF (Senior Research Fellowship) and UGC-JRF (Junior Research Fellowship) awards, which highlight his academic performance and research potential.
+
+In his teaching role at UPES, Dr. Singh is dedicated to inspiring both undergraduate and postgraduate students in Statistics and Operations Research. He employs practical skills in his courses, utilizing tools such as TORA and Excel to enable students to apply statistical techniques effectively. His teaching philosophy emphasizes fostering a supportive learning environment, employing a "flipped classroom" approach that encourages active student engagement through real data and problem-solving.
+
+Dr. Singh's professional experience includes developing comprehensive courses and instructional materials, delivering engaging lectures, and providing mentorship to students. He actively collaborates with industry partners to bridge the gap between academia and real-world applications, focusing on advanced techniques for real-time process monitoring and optimizing process control strategies. His scholarly activities include serving as a reviewer for prestigious statistical journals and presenting research findings at various national and international conferences.
+
+Dr. Singh's contact information is as follows:
+- Email: ranjeetk.singh@ddn.upes.ac.in
+
+Through his research and teaching, Dr. Singh aims to drive continuous improvement in quality management and process optimization, preparing students for successful careers in data-driven decision-making. His commitment to academic excellence and industry collaboration positions him as a significant contributor to the field of Statistics.

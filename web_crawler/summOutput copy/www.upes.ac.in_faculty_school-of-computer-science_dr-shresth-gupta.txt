@@ -1,0 +1,22 @@
+Dr. Shresth Gupta is an accomplished Assistant Professor with a strong focus on Biomedical Signal Processing, Machine Learning, and Deep Learning applications. He is a member of the IEEE Engineering in Medicine and Biology Society and the IEEE Signal Processing Society, reflecting his commitment to advancing these fields. Dr. Gupta's teaching philosophy emphasizes creating an engaging learning environment that encourages collaboration and community-based learning, utilizing analogies and demonstrations to clarify complex concepts.
+
+**Academic Background and Work Experience:**
+- Dr. Gupta completed his PhD in Biomedical Signal Processing and Machine Learning from IIIT Naya Raipur in November 2023, following a postdoctoral fellowship at the University of Surrey, UK, funded by UKRI Impact Acceleration Accounts (IAAs).
+- He holds an M.Tech and BE from Chhattisgarh Swami Vivekanand Technical University, awarded in 2015 and 2011, respectively.
+- Prior to his current role at UPES, he served as an assistant professor at the University Teaching Department (UTD) of Chhattisgarh Swami Vivekanand Technical University, Bhilai, and as a lecturer at Government Polytechnic Ambikapur, where he contributed to the Electronics and Communication Engineering (ECE) and Computer Science Engineering (CSE) departments.
+
+**Research and Scholarly Activities:**
+- Dr. Gupta has a robust research portfolio, with numerous publications in prestigious peer-reviewed journals such as IEEE Transactions and presentations at international conferences in Hong Kong and Scotland.
+- His research interests include Biomedical Signal Processing, Machine Learning for healthcare applications, deep learning, and feature engineering.
+- He has been awarded a patent in his field and has contributed chapters to various academic books.
+
+**Professional Contributions:**
+- He coordinated a training program on "Recent Trends in VLSI Design Using Microwind 3.8 EDA tool" at CSVTU in April 2019.
+- Dr. Gupta was a committee member for a three-day workshop on "Design and Simulation Approach for Next Generation VLSI" at Research Hub, CSVTU, Bhilai, India.
+- He received a Government of India scholarship during his PhD program from July 2019 to May 2023.
+- He was recognized for outstanding technical consulting services for a startup focused on wearable technology during his sparsh fellowship at HTIC, IIT Madras Research Park.
+
+**Contact Information:**
+- Email: shresth.gupta@ddn.upes.ac.in
+
+Dr. Gupta’s dedication to fostering critical thinking, problem-solving, and research engagement among his students positions him as a significant contributor to both academic and industrial advancements in healthcare technologies.

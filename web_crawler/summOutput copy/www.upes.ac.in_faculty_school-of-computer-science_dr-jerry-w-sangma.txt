@@ -1,0 +1,7 @@
+Dr. Jerry W. Sangma is an Assistant Professor at the University of Petroleum and Energy Studies (UPES), holding a Ph.D. in Computer Science and Engineering. His primary research interests encompass machine learning, deep learning, natural language processing, data streams, time series analysis, and data mining.
+
+In his role at UPES, Dr. Sangma actively engages with students as an activity coordinator, creating a supportive academic environment. He provides mentorship to students, guiding them through their projects and helping them succeed in their research and academic pursuits. His teaching philosophy emphasizes the importance of passing on knowledge to future generations, aiming to equip students with a comprehensive education that prepares them for success in the field of computer science.
+
+Dr. Sangma has taught various courses, including machine learning, natural language processing, data warehousing, and computer graphics. Before his tenure at UPES, he served as a Post Graduate Teacher for Computer Science at Kendriya Vidyalaya in Shillong.
+
+For further inquiries, Dr. Jerry W. Sangma can be contacted via email at jerryw.sangma@ddn.upes.ac.in.

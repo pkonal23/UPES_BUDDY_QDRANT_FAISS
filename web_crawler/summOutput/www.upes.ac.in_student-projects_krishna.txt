@@ -1,0 +1,7 @@
+The CNC Engraver Laser Cutter Machine is a precision device capable of creating 2 mm holes with high accuracy. It is designed to produce clean cuts, which reduces the need for further post-processing operations. This non-contact laser cutting technology is particularly beneficial for machining components in the medical industry, where precision is crucial.
+
+This project was conducted by Krishna, a B.Tech. student specializing in Electronics & Computer Engineering from the 2022-26 batch. The project focused on the development of the CNC Engraver Laser Cutter Machine, which utilizes a high-powered laser beam to mark, cut, or engrave materials, allowing for the creation of custom shapes.
+
+The machine minimizes the reliance on multiple cutting tools or custom tools, streamlining the process compared to traditional CNC routers and milling machines. 
+
+For more information or inquiries about this project, no specific contact details were provided in the text.

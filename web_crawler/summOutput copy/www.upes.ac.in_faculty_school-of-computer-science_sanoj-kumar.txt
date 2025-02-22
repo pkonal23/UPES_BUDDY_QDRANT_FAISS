@@ -1,0 +1,32 @@
+**Dr. Sanoj Kumar: Profile Summary**
+
+**Contact Information:**
+- Email: sanoj.kumar@ddn.upes.ac.in
+- Position: Assistant Professor-Selection Grade, School of Computer Science
+
+**Research Interests and Teaching Philosophy:**
+Dr. Sanoj Kumar is dedicated to creating an engaging and stimulating learning environment. He prioritizes student participation in discussions and assigns meaningful assignments to foster a classroom atmosphere that encourages free conversation and challenges conventional knowledge. Dr. Kumar aims to inspire a lifelong love of learning in his students, equipping them with the necessary tools for success in their academic and professional journeys. His teaching philosophy emphasizes a balanced approach that integrates both theoretical knowledge and practical application.
+
+**Academic Background and Work Experience:**
+Dr. Kumar holds a Ph.D. in Applied Mathematics from the Indian Institute of Technology Roorkee. He has a robust background in applied mathematics, computer science, and engineering, with significant contributions in numerical analysis, optimization techniques, mathematical statistics, image and video processing, and computer vision. Before his current role at the School of Computer Science, he served as an Assistant Professor in the Department of Mathematics at UPES from 2015 to 2023, where he held positions of Assistant Professor- Senior Scale and Assistant Professor- Selection Grade. Prior to his tenure at UPES, he was a postdoctoral scholar at the University of Udine, Italy, focusing on image processing.
+
+**Research Contributions:**
+Dr. Kumar has an impressive publication record with 23 research papers and an h-index of 6. His research covers various topics, including optical flow, disparity, object detection and tracking, orthogonal image moments, image encryption algorithms, image watermarking, and digital signal processing. He has actively participated in numerous academic events such as conferences, workshops, seminars, and short-term courses, enhancing his expertise and engagement with the academic community.
+
+**Awards and Recognition:**
+Dr. Kumar has received notable accolades, including the Best Paper Award and Young Scientist Award at the 2nd International Conference on Networks and Cryptology (NETCRYPT) in 2020, underscoring his contributions to the field.
+
+**Courses Taught:**
+Dr. Kumar has extensive experience teaching a variety of mathematics courses, including:
+- Mathematics I, II, III
+- Numerical Methods
+- Discrete Mathematics
+- Discrete Mathematical Structures
+- Graph Theory
+- Real Analysis
+- Optimization Techniques
+
+He emphasizes the application of real-world examples in his teaching, encourages student involvement, and assigns problem-solving tasks to enhance conceptual understanding and prepare students for future careers or advanced studies in mathematics and related fields.
+
+**Conclusion:**
+Dr. Sanoj Kumar is a committed educator and researcher whose work significantly impacts the fields of applied mathematics and computer science. His focus on student engagement, practical application of knowledge, and substantial research contributions position him as a valuable asset to the academic community.

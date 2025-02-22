@@ -1,0 +1,18 @@
+Professor Vijaysekhar Chellaboina is an accomplished academic and researcher in the field of control systems and applied mathematics, with a strong emphasis on stability theory and feedback control applications. He has received notable accolades, including state-level awards in mathematical Olympiads for three consecutive years, the US NSF CAREER award, and the TCS Distinguished Researcher award. Additionally, he is recognized as a senior member of IEEE.
+
+**Research Interests and Contributions:**
+Professor Vijay's research primarily revolves around stability analysis and controller synthesis for nonlinear dynamical systems, with applications in biomedical and financial systems. His work includes adaptive control for biomedical applications and stochastic optimization for financial portfolios. Recently, he has been exploring reinforcement learning for control systems and quantum computing. He has an impressive publication record, having authored over a hundred journal articles and a similar number of peer-reviewed conference papers, along with five books published by Springer and Princeton University Press. His book on nonlinear dynamical systems is particularly notable, being widely used as a reference in advanced courses at leading universities worldwide. His research has garnered over 7,000 citations, with a Google h-index of 36 and an i10-index of 87.
+
+**Educational Background:**
+Professor Vijay holds a B. Tech in Mechanical Engineering from IIT Madras, an M.S. in Mechanical Engineering from the Florida Institute of Technology, and a Ph.D. in Aerospace Engineering from the Georgia Institute of Technology. His diverse academic background supports his teaching interests across multiple disciplines, including mathematics, mechanical, aerospace, electrical engineering, and computer science.
+
+**Professional Experience:**
+His academic career includes positions as an assistant professor at the University of Missouri—Columbia (1999-2004) and as an associate professor at the University of Tennessee—Knoxville (2004-2008). He returned to India in 2008 to work with TCS Research in Hyderabad, leading the risk and finance group. He has held professorships at Mahindra University (2014-2018), SRM University—Amaravati (2018-2020), and GITAM University (2020-2024), where he has served in various administrative roles, including Dean of Academics and Dean of Engineering.
+
+**Teaching Philosophy:**
+Professor Vijay advocates for a student-centric approach to learning, emphasizing the importance of connecting theoretical concepts to real-world applications. He believes in balancing theory with practical skills and prefers project- or practice-based learning methodologies. His teaching experience spans various levels, having taught robust control for linear systems, nonlinear control systems, advanced dynamics, and mathematical biology at the master's and doctoral levels, along with foundational mathematics and engineering courses at the undergraduate level. He is currently developing an advanced course on nonlinear control for NPTEL.
+
+**Contact Information:**
+For inquiries, Professor Vijay can be reached at Dean.SOCS@ddn.upes.ac.in.
+
+In summary, Professor Vijaysekhar Chellaboina is a distinguished figure in the field of control systems and applied mathematics, with a commitment to innovative teaching and extensive contributions to research and academia.

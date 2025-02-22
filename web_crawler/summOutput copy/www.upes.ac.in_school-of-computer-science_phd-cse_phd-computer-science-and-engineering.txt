@@ -1,0 +1,41 @@
+The Ph.D. program in Computer Science and Engineering at UPES School of Computer Science is a comprehensive and research-oriented initiative designed to foster advanced knowledge in various specialized areas of computer science. The program is structured to accommodate both full-time and part-time scholars, with a duration ranging from three to six years, allowing flexibility based on individual research progress.
+
+### Key Details:
+- **Application Timeline**:
+  - **Last Date to Apply**: August 9, 2024
+  - **Interview Result Declaration**: August 8, 2024
+  - **Last Date to Pay Fee**: August 4, 2024
+  - **Commencement of Session**: July 18, 19 & 22, 2024
+  - **Registration for RET Exam**: June 26, 2024
+  - **Submission of Research Proposal**: July 30, 2024
+  - **Orientation Date**: Not specified
+  - **Course Work Completion**: Required for all Ph.D. scholars, including mandatory research skills training.
+
+### Program Highlights:
+- Scholars benefit from a fully equipped library and cutting-edge laboratory facilities, including high-performance computing clusters.
+- Research areas include:
+  - Artificial Intelligence and Machine Learning
+  - Data Science and Big Data
+  - Cybersecurity
+  - Quantum Technologies
+  - Internet of Things (IoT)
+  - Blockchain Technology
+  - Robotics and Autonomous Systems
+  - Biomedical Computing
+  - Sustainable Computing
+  - Cloud Computing
+- Dedicated Centers of Excellence (CoEs) in emerging areas like IoT in Health and Industry, Cybersecurity, and AI/ML research.
+- Mentorship from esteemed faculty with international research exposure from institutions like NUS Singapore, Cambridge, and Harvard.
+
+### Career Opportunities:
+Graduates can pursue various career paths in academia, research and development, technology companies, consulting firms, and governmental bodies. They can work on groundbreaking projects, become professors, or engage in entrepreneurship, particularly in areas like healthcare, finance, and data science.
+
+### Contact Information:
+For inquiries, interested candidates can reach out via email at **phd@upes.ac.in**.
+
+### Additional Notes:
+- The program emphasizes independent research on topics agreed upon by the scholar and the school, supported by a dedicated faculty supervisor.
+- Scholars are encouraged to participate in interdisciplinary programs, collaborating with other schools at UPES to tackle complex challenges across diverse domains.
+- The program aims to cultivate innovative and critical thinking skills, preparing graduates to address complex challenges in the evolving landscape of computer science and engineering.
+
+This Ph.D. program positions scholars to become leaders in both academia and industry, contributing significantly to technological advancements and societal needs.

@@ -1,0 +1,17 @@
+Dr. Priyanka Singh is an accomplished academician and Assistant Professor - Senior Scale at the School of Computer Science, UPES, India. Her teaching philosophy emphasizes the transformative role of education in enhancing students' cognitive abilities and fostering a mutual learning process akin to research. She believes that teaching and research are intrinsically linked; each enhances the effectiveness of the other.
+
+Dr. Singh holds a PhD in Data Science from IIT(ISM) and IIRS (ISRO), India, which she completed in 2019. Her research interests encompass a wide array of fields, including Data Science, Machine Learning, Citizen Science, Geospatial Technology, Health GIS, Web GIS, Mobile GIS, Spatial Database Modelling, Ecological Modelling, and Predictive Analytics and Modelling. She is particularly noted for her work in machine learning and spatial sciences, receiving numerous accolades for her contributions.
+
+Her notable achievements include:
+- **DST-SERB’s International Travel Grant** to attend the American Geophysical Union (AGU) Fall Meeting in Chicago, 2022.
+- **The ISPRS Foundation (TIF) Travel Grant** in 2020 for attending the XXIV ISPRS Congress in Nice, France.
+- **ISPRS Best Young Author Award 2020** for her paper titled “Maximum Entropy Modeling using Citizen Science: Use Case on Jacobin Cuckoo as an Indicator of Indian Monsoon.”
+- **ISRS Best Publication Award 2018** for her work on species mapping using citizen science through the IBIN portal.
+
+Dr. Singh has also been involved in significant national projects, such as the Indian Bioresource Information Network (IBIN), in collaboration with the Department of Biotechnology and ISRO. She contributed to the copyright of “Geospatial Solution for Forest-fire Reporting” for the Jammu & Kashmir forest department, which has had a positive impact on forest staff in both Uttarakhand and Jammu & Kashmir. Additionally, she participated in India's first Satellite Telemetry Tracking of the Pied Cuckoo and has been involved in other major research initiatives.
+
+Before joining UPES, Dr. Singh served at Symbiosis International Deemed University in Pune, where she held a faculty position and chaired the cultural committee. She also worked as a Postdoctoral Research Associate at the Indian Institute of Remote Sensing (IIRS), ISRO in Dehradun.
+
+Dr. Singh is actively engaged in scholarly activities and serves as the Secretary of the International Society for Photogrammetry and Remote Sensing for Working Group IV/10, focusing on Applied Spatial Science for Public Health. She has conducted various special sessions and tutorials at internationally recognized conferences.
+
+For further inquiries, Dr. Priyanka Singh can be contacted via email at **priyanka.singh@ddn.upes.ac.in**.

@@ -1,0 +1,29 @@
+The BBA (Analytics and Big Data) program at UPES, Dehradun, is a comprehensive three-year course designed to equip students with the skills necessary for data management and analytics. The curriculum emphasizes practical applications of programming and data analysis, covering essential topics such as programming concepts, data manipulation, statistical analysis, data visualization, and machine learning algorithms. Students engage in both theoretical learning and hands-on exercises, including projects and case studies that utilize real or simulated datasets.
+
+### Program Structure and Curriculum:
+- **Semesters and Core Subjects:**
+  - **Semester 1:** Introduction to Programming for Analytics, Business Mathematics, Business Economics 1.
+  - **Semester 2:** Financial Management, Business Accounting, Advanced Statistics.
+  - **Semester 3:** Data Preparation, Business Ethics and CSR, Organizational Behavior.
+  - **Semester 4:** Business Communication, Advanced Statistics, and start-up initiatives.
+  - **Semester 5:** Data Analyst roles, Business Intelligence Analyst, summer internships.
+  - **Semester 6:** Specialization in Big Data Analytics and Mining, Predictive Modeling, and dissertation projects.
+
+- **Specializations:** Students can choose from various specializations, including Programming, Data Analytics, and Business Intelligence.
+
+### Learning Environment:
+The program benefits from modern smart classrooms, an Analytics Lab, a well-stocked library, and access to advanced analytical tools, fostering an effective learning atmosphere. Experiential learning opportunities are abundant, including summer internships, live projects, industrial tours, and guest lectures from industry experts.
+
+### Career Opportunities:
+Graduates of the program are well-prepared for roles such as Data Analyst, Business Analyst, Business Intelligence Analyst, Data Scientist, Market Research Analyst, and more. The demand for professionals skilled in analytics is growing, with starting salaries ranging from INR 6-30 lakh per annum, depending on experience and skills. Notable employers in this field include Flipkart, Reliance Industries, Accenture, Deloitte, and various mid-sized start-ups.
+
+### Admission Process:
+To apply for the program, candidates must meet the eligibility criteria of a minimum of 50% marks in Classes X and XII. Admission is based on performance in the UPESMET-UG entrance exam, UGAT’23, or CUET.
+
+### Contact Information:
+For more information about the BBA (Analytics and Big Data) program, prospective students can reach out through the official UPES contact channels. Specific details regarding the fee structure and further inquiries can be accessed through their website.
+
+### Future Scope:
+The field of Analytics and Big Data is rapidly evolving, with increasing reliance on data-driven decision-making across industries. The integration of advanced analytics techniques and cloud technologies is becoming prevalent, and graduates with a strong foundation in programming and analytics will be well-positioned to leverage these trends for career advancement. Specialization in sectors like healthcare, finance, and retail is also encouraged, allowing for tailored analytics solutions.
+
+This program offers a robust foundation for students aiming to thrive in the data-driven business landscape, preparing them for diverse career paths in analytics and big data.

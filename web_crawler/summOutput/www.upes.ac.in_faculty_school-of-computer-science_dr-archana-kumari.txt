@@ -1,0 +1,9 @@
+Dr. Archana Kumari is an Assistant Professor at the School of Computer Science, recognized for her dedication to research and education in the field of Natural Language Processing (NLP). With a strong academic background, she has recently completed her doctoral degree in NLP from Jawaharlal Nehru University, New Delhi. Dr. Kumari has a notable publication record in reputable academic journals, showcasing her ability to conduct thorough research and effectively communicate her findings.
+
+Her teaching portfolio includes courses such as Database Management Systems (DBMS), C Programming, and Fundamentals of Artificial Intelligence. These courses are designed to equip students with a solid understanding of database principles, programming skills in C, and foundational AI concepts. Dr. Kumari employs a combination of hands-on projects and theoretical instruction to enhance her students' practical skills and knowledge, which are vital for their academic and professional growth in computer science.
+
+Prior to her current role at UPES, Dr. Kumari served as an Assistant Professor in the School of Computer Science and Engineering (SCSE) at Galgotias University starting in August 2021. Throughout her academic journey, she has been committed to fostering intellectual growth and promoting research, contributing to the holistic development of her students.
+
+Dr. Kumari's research interests include various aspects of NLP, specifically focusing on Word Sense Disambiguation, Deep Learning, and Generative AI. Her teaching philosophy emphasizes the importance of critical thinking and intellectual curiosity, encouraging students to strive for their full potential.
+
+For further inquiries, Dr. Archana Kumari can be contacted via email at archana.kumari@ddn.upes.ac.in.

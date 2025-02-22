@@ -1,0 +1,43 @@
+The M.Tech program in Computer Science & Engineering with a specialization in Cybersecurity & Digital Forensics at UPES School of Computer Science is designed to provide students with a comprehensive education in the rapidly evolving field of cybersecurity. This program emphasizes practical learning, industry exposure, and expert mentorship, preparing graduates for various roles in the cybersecurity landscape, including Security Analysts, Network Security Administrators, Cybersecurity Consultants, and Digital Forensics Investigators.
+
+### Program Structure and Curriculum
+- **Course Duration**: The program is structured over four semesters, encompassing a range of subjects including:
+  - Digital Forensics
+  - Cyber Threat Intelligence
+  - Penetration Testing & Ethical Hacking
+  - Network Security
+  - Application Security
+  - Advanced Digital Forensics
+  - Topics in Mathematical Sciences
+  - Research Methodology
+- **Practical Learning**: Students gain hands-on experience with industry-standard tools such as:
+  - **Volatility** for memory forensics
+  - **EnCase** for digital evidence analysis
+  - **FTK Imager** for creating forensic images
+  - **Wireshark** for network analysis
+  - **Nmap** for network exploration
+  - **Metasploit** for penetration testing
+  - **Autopsy** for digital forensics investigations
+- **Internships**: The program includes on-the-job training opportunities through collaborations with industry giants such as IBM, KPMG, and Wipro, facilitating valuable internships.
+
+### Admission and Eligibility
+- **Eligibility Criteria**:
+  - Minimum 60% marks in Higher Secondary (X and XII)
+  - Bachelor’s degree in B.Tech/BE (IT/Computer Science), MCA, or M.Sc. (Physics/Mathematics/Statistics) with a minimum of 60% marks.
+- **Selection Process**: Admission is based on performance in a Personal Interview.
+
+### Industry Trends and Career Prospects
+The cybersecurity industry is projected to grow significantly, reaching $270 billion by 2026. The program prepares students to meet the increasing demand for cybersecurity professionals, driven by:
+- The integration of AI and machine learning for threat detection.
+- The need for secure cloud infrastructure.
+- The rise of IoT devices and mobile security solutions.
+
+Graduates are expected to have lucrative career opportunities in a sector characterized by continuous growth and innovation.
+
+### Placement Opportunities
+The program boasts impressive placement statistics with an average annual package of 8.40 LPA and a highest package of 12 LPA. Graduates have been recruited by notable companies such as DataM Intelligence, Philips India Limited, Schneider Electric, and Synopsys.
+
+### Contact Information
+For further inquiries, interested students can fill out an enquiry form or contact the UPES School of Computer Science directly. Specific contact details such as email addresses or phone numbers were not provided in the content.
+
+In summary, the M.Tech in Computer Science & Engineering with a focus on Cybersecurity & Digital Forensics at UPES is a robust program that equips students with essential skills and knowledge, preparing them to thrive in the dynamic field of cybersecurity.

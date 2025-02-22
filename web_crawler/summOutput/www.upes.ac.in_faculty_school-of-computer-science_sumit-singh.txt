@@ -1,0 +1,40 @@
+**Profile Summary of Sumit Singh**
+
+**Contact Information:**  
+Email: sumit.singh@ddn.upes.ac.in
+
+**Current Position:**  
+Assistant Professor at the School of Computer Science, UPES.
+
+**Education:**  
+- Master of Computer Applications (MCA)  
+- Dual-degree program (M.Tech and Ph.D.) in Information Technology, specializing in Software Engineering, at the Indian Institute of Information Technology, Allahabad.  
+  - Thesis: "Natural Language Processing for Low-Resource Languages," focusing on enhancing NLP techniques for underrepresented languages.
+
+**Fellowships and Scholarships:**  
+- M.Tech MHRD GATE Fellowship (2017-2019) at Indian Institute of Information Technology, Allahabad.  
+- Institute Fellowship from the Ministry of Education, Government of India (2019-2023) as a PhD research scholar.
+
+**Research Interests:**  
+- Natural Language Processing (NLP)  
+- Deep Learning  
+- Machine Learning  
+- Large Language Models (LLMs)  
+- Information Retrieval  
+- Operating Systems  
+- Computer Graphics  
+- Problem Solving  
+
+**Teaching Philosophy:**  
+Sumit Singh emphasizes inclusivity, engagement, and the promotion of curiosity, critical thinking, and lifelong learning among students. His teaching approach focuses on active learning, collaboration, and practical applications, integrating innovative strategies and technology. He is committed to diversity and equity in education, aiming to equip students with the necessary skills and mindsets to succeed in a dynamic environment. He views teaching as a collaborative and evolving process, valuing feedback and reflection to support continuous learning.
+
+**Work Experience:**  
+Before joining UPES, he served as a Senior Research Fellow (SRF) at the Indian Institute of Information Technology, Allahabad.
+
+**Scholarly Activities:**  
+Sumit Singh has played an active role in organizing academic conferences and workshops, demonstrating his commitment to academic collaboration and knowledge dissemination. Notable contributions include:  
+- Committee member for the **1st Workshop on the Science of Happiness** (2024).  
+- International committee member for the **14th International Conference on Intelligent Human-Computer Interaction (IHCI)** (2022).  
+- Core committee member for the **11th IHCI** (2019) and committee member for the **10th IHCI** (2018).  
+
+His involvement in these events underscores his dedication to fostering innovation and dialogue within academic and research communities.

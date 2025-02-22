@@ -1,0 +1,37 @@
+**Gold Medal Winners**
+
+| S No. | School | Degree | Name | SAP ID | Roll No. | Student Name | CGPA | Academic Batch | Medal Type | Medal Category |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | School of Engineering | Master of Technology (Structural Engineering) (Offshore) | SAMAN DEEP | R139221004 | SAMAN DEEP | 9.74 | 2021-2023 | Gold | - |
+| 2 | School of Engineering | Bachelor of Technology (Applied Petroleum Engineering) | ANMOL CHHOKER | R820219023 | ANMOL CHHOKER | 9.71 | 2019-2023 | Gold | - |
+| 3 | School of Business | Master of Business Administration (Logistics and Supply Chain Management) | MOHAN PRABHU | R600221044 | MOHAN PRABHU | 9.12 | 2021-2023 | Gold | - |
+| 4 | School of Business | Bachelor of Business Administration (Oil and Gas Marketing)  | MUKUL KUMAR RANA | R170220037 | MUKUL KUMAR RANA | 9.37 | 2020-2023 | Gold | - |
+| 5 | School of Computer Science | Master of Technology (Computer Science and Engineering) | ANUSHTHA VISHWAKARMA | R165221003 | ANUSHTHA VISHWAKARMA | 9.43 | 2021-2023 | Gold | - |
+| 6 | School of Computer Science | Bachelor of Technology (Hons.)(Computer Science and Engineering)(Specialization: DevOps) | TANISHKA VASWANI | R171219037 | TANISHKA VASWANI | 9.54 | 2019-2023 | Gold | - |
+| 7 | School of Design | Master of Design (Graphics Design) | MATHEW THOMAS | R273221006 | MATHEW THOMAS | 9.20 | 2021-2023 | Gold | - |
+| 8 | School of Design | Bachelor of Design (Communication and Media Design) (Specialization: Interaction Design) | KOUSIK DUTTA | R183219007 | KOUSIK DUTTA | 9.54 | 2019-2023 | Gold | Best Corporate Student (for best all-round performance) Sidhu Mall & Sons |
+| 9 | School of Health Sciences | Master of Science (Clinical Research) | SHIVALI NAIN | R228221003 | SHIVALI NAIN | 9.08 | 2021-2023 | Gold | - |
+| 10 | School of Health Sciences | Bachelor of Pharmacy | RITWIK SAHAI | R202219008 | RITWIK SAHAI | 9.05 | 2019-2023 | Gold | - |
+| 11 | School of Law | Master of Law (Specialization: Corporate and Securities Law) | NITIKESH KUMAR | R115222035 | NITIKESH KUMAR | 9.56 | 2022-2023 | Gold | - |
+| 12 | School of Law | Bachelor of Commerce and Law | B.Com., LL.B. (Hons.) (Specialization: Taxation Law) | SAMIKSHA UNIYAL | R129218031 | SAMIKSHA UNIYAL | 9.36 | 2018-2023 | Gold | - |
+
+**Silver Medal Winners**
+
+| S No. | School | Degree | Name | SAP ID | Roll No. | Student Name | CGPA | Academic Batch | Medal Type / LoA | Medal Category |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | School of Business | Bachelor of Commerce (Hons.) | PRANJAL PARASHAR | R190220045 | PRANJAL PARASHAR | 9.22 | 2020-2023 | Silver | - |
+| 2 | School of Business | Bachelor of Commerce (Hons.) (Banking, Management and Insurance) | SOMYA AGARWAL | R192220029 | SOMYA AGARWAL | 8.72 | 2020-2023 | Silver | - |
+| 3 | School of Business | Bachelor of Arts (Hons.) (Economics) | PRIYA RAJPUT | R207220021 | PRIYA RAJPUT | 9.23 | 2020-2023 | Silver | - |
+| 4 | School of Business | Bachelor of Arts (Public Policy and Administration) | ARYAN YADAV | R146220013 | ARYAN YADAV | 8.45 | 2020-2023 | Silver | - |
+| 5 | School of Business | Bachelor of Business Administration (Analytics and Big Data) | SHAILLAI GUPTA | R193220024 | SHAILLAI GUPTA | 9.05 | 2020-2023 | Silver | - |
+| 6 | School of Business | Bachelor of Business Administration (Aviation Management)  | URVASHI AGARWAL | R460220046 | URVASHI AGARWAL | 9.11 | 2020-2023 | Silver | - |
+| 7 | School of Business | Bachelor of Business Administration (Digital Marketing)  | ANMOL SETHI | R140220008 | ANMOL SETHI | 9.20 | 2020-2023 | Silver | - |
+| 8 | School of Business | Bachelor of Business Administration (Family Business and Entrepreneurship) | SIKANDER SAXENA | R194220036 | SIKANDER SAXENA | 8.63 | 2020-2023 | Silver | - |
+| 9 | School of Business | Bachelor of Business Administration (Financial Analysis and Services) | ANAADI TANDON | R119220003 | ANAADI TANDON | 8.96 | 2020-2023 | Silver | - |
+| 10 | School of Business | Bachelor of Business Administration (Foreign Trade)  | NAMITA BHATIA | R122220025 | NAMITA BHATIA | 8.98 | 2020-2023 | Silver | - |
+| 11 | School of Business | Bachelor of Business Administration (Marketing Management)  | AADI TANDON | R152220001 | AADI TANDON | 9.03 | 2020-2023 | Silver | - |
+| 12 | School of Business | Bachelor of Business Administration (Logistics Management) | YASH SHARMA | R380220019 | YASH SHARMA | 8.63 | 2020-2023 | Silver | - |
+| 13 | School of Business | Master of Business Administration (Aviation Management) | MAYANK | R250221010 | MAYANK | 8.64 | 2021-2023 | Silver | - |
+| 14 | School of Business | Master of Business Administration (Business Analytics) | ROHAN SUNDRIYAL | R116221019 | ROHAN SUNDRIYAL | 8.71 | 2021-2023 | Silver | - |
+| 15 | School of Business | Master of Business Administration (International Business) | SAMRAH ASIF | R740221019 | SAMRAH ASIF | 8.06 | 2021-2023 | Silver | - |
+| 16 | School of Business | Master of Business Administration (Oil and Gas Management)  | SYED MOH

@@ -1,0 +1,9 @@
+Dr. Touseef Iqbal is an Assistant Professor at the School of Computer Science, specializing in various domains of computer science and engineering. His educational credentials include a B.Tech in Computer Science and Engineering from Islamic University of Science and Technology, an M.Tech in Computer Science and Engineering from Central University of Jammu, and a Ph.D. from NIT Srinagar, Jammu and Kashmir.
+
+Dr. Iqbal teaches a diverse range of subjects including Data Structures and Algorithms, Operating Systems, Python, Natural Language Processing (NLP), Image Processing, Linux, Computer Vision, and Machine Learning, all with a focus on real-world applications. His research interests are centered around Computer Vision, Visual Learning, Machine Learning, Artificial Intelligence, Image Processing, NLP, and Generative AI, emphasizing the computational analysis and interpretation of images and text data.
+
+His teaching philosophies are multifaceted, incorporating essentialism, progressivism, constructivism, perennialism, behaviorism, humanism, and social constructivism. These philosophies reflect his belief in understanding how students learn best and the most effective ways to facilitate their learning process.
+
+Dr. Iqbal has made significant contributions to the academic community through numerous publications in high-impact SCI and Scopus-indexed journals, showcasing his expertise and influence in his field. His work has also been presented at various conferences and included in book chapters, further enriching the collective knowledge in computer science.
+
+For contact, Dr. Touseef Iqbal can be reached via email at touseef.iqbal@ddn.upes.ac.in. Notably, prior to his tenure at UPES, he had no prior academic experience.

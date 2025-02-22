@@ -1,0 +1,63 @@
+Networks Security and Cybersecurity.
+All India Entrance Examination for UG admission.
+Book Editor:
+Research Interests
+Home
+Work Experience
+Associate Professor CSE, NIIT University, Neemrana,  Rajasthan, India.
+Professor
+Awards and Grants
+Associate Professor and  HoD in CSE, VPKBIET Baramati, Pune, India.
+Post-Doctoral Researcher  San Diego State University, San Diego, California, USA.
+Close
+School of Computer Science
+Prof. (Dr.) Sanjay Biswash is a university professor, cutting-edge researcher, academic mentor, and supervisor to students. He completed his Ph.D in Computer Science and Engineering in 2012  from IIT(ISM),  Dhanbad. Thereafter he actively enjoyed teaching, learning, research, and innovations.  He supervised/mentored 120+ of Ph.D./ M.Tech./ MS/ B.Tech./ B.S. students for their academic degree.  His thrust research areas are "Mobile, Networks, and Pervasive" network systems. He served as editor and editorial board of many reputed journals i.e. Mobile Networks and Applications, Wireless Personal Communication, etc. He also has experience conducting workshops in IEEE ANTS for four consecutive years. He published more than 75 research papers in premium publications in refereed journals and top tier Conferences, and reputed book publisher. He also holds a Patent for his research contribution, and reviewer of many top-class international Publishers such as IEEE, ACM, Elsevier, Springer, Wiley, IET, etc. He is an active member of the 6G Task Force USA.  He accomplished many international projects funded by, the European Union, NSF (USA), CNPq (Brazil), Russian Federation, etc.
+Cloud Computing (Certification Course):  introduced,  developed, and offered four times to working bank employees.
+Fog and Edge Computing:  introduced and developed; offered 5 times to UG students.
+Secure and trustworthy communication networks.
+Reviewers:
+Network management (Mobility management and Location management).
+Advance Networks Security Part I, Part II: developed; offered twice to M.Tech students
+IEEE VTC Spring 2023; IEEE WPMC 2022;  ICIIT-Dubai; ISHPMCWN-Amsterdam; ICICC-2018; ISPCC-2017; ICOVET-2020; CoCoNet 2020; SoMMA 2020; CSI 2022; ICBDE, 2023; ACN 2023; CIAP 2023; CoCoNet 2023; ICAIS 2023; ICHCSC 2023; SIRS 2023; SSCC 2023; VisionNet 2023; WPMC 2023.
+Design and Analysis of Algorithms: developed; offered 7 times to UG students.
+Faculty
+Mobile Communication and Security:  introduced and developed; offered 2 times to UG students.
+Junior and Senior Research Fellow: ``Mobility Management in Cellular Networks", to complete  Full-Time Ph.D in CSE, at Department of CSE, IIT(ISM) Dhanbad, Jharkhand, India.
+Cloud Network Management: An IoT-based Framework, by CRC Press ISBN-9780367256050.  Guest Editor ACM/Springer's, Mobile Networks and Applications, special issue, ``Device-to-Device Communication in 5G Networks. Editorial Board: Springer’s Wireless Personal Communication. Editor: Frontiers of Mechatronics Engineering. Editor: Journal of Autonomous Intelligence. Editor: International Journal of Mobile Network Communications and Telemetrics.  Editor: International Journal of Security, Privacy and Trust Management. Editor: ADBU Journal of Engineering Technology(AJET), special issue for NuclearCSE-2022. Workshops: Next-generation Fog Networks Architecture, Deployment, and Applications, in IEEE ANTS 2020, 2021, 2022, 2023.
+Communication Networks: developed, and offered 3 times to UG students.
+NSF USA funded Post-Doctoral Researcher project: ``Green and energy efficient base station cooperation in cellular networks", hosted by the Department of Electrical and Computer Engineering, San Diego State University, San Diego, California, USA.
+Scholarly Activities
+Research Scientist, National Research Tomsk Polytechnic University, Tomsk, Russia.
+Research Associate, National Laboratory of Scientific Computing (LNCC), Petropolis, Rio de Janeiro, Brazil.
+IEEE Wireless Communication; IEEE Transaction on Parallel and Distributed System; IEEE System Journal; Journal of Network and Computer Application; Computer Communication; Journal of Parallel and Distributed Computing; Journal of Computer Systems Networks and Communications; KSII Transactions on Internet and Information Systems; Wireless Personal Communications; Computer Networks; IET Networks; Computer and Electrical Engineering; Telecommunication system; Physical Communication; IEEE Transaction on Mobile Computing; Peer-to-Peer Networks; Sensors.
+Courses Taught
+Eligibility Criteria
+Computer Networks: developed, and offered 4 times to UG students.
+Fog and Edge Networks (seamless integration with 6G networks).
+6G Networks (5G and Beyond communication system).
+Before joining UPES, Prof. Biswash holds multiple national and international positions around the globe, i.e,
+Mari Sklodowska-Curi-IF EU 2016 project: ``Green Cellular Networks", hosted by the University of Tromso, Tromso, Norway.
+Assistant Professor in  CSE,  Motilal Nehru National Institute of Technology, Allahabad, UP, India.
+Computer Programming Methodology: developed, and offered 7 times to UG students.
+TCP/IP Protocol Suits: offered 2 times to PG students.
+Profile Summary
+Russian Research Federation project: `` Device-to-Device 5G networks", hosted by the Department of Software and Informatics Engineering, National Research Tomsk Polytechnic University, Tomsk Russia.
+H2020 FP7 EU Post-Doctoral Researcher, project: ``Resilient and reliability of networks”, hosted by Department of Informatics Engineering, University of Coimbra, Portugal.
+Wireless and Mobile Communication Networks: offered once to UG students.
+Research Scholar in Department of CSE, IIT(ISM) Dhanbad, Jharkhand, India.
+TPCs:
+CNPq Brazil project: ``Device-centric Communication", hosted by LNCC, Petropolis, RJ, Brazil.
+sanjay.biswash@ddn.upes.ac.in
+GATE 2008 Qualified} in Information Technology.
+Nature-inspired networks (Ant's pattern, Bee fly pattern, Artificial immune system).
+Mari Sklodowska-Curi-IF EU 2017: ``Energy-efficient Cellular Networks Cooperation in Next-Gen Communication System", hosted by University of Tromso, Tromso, Norway.
+Mari Sklodowska-Curi-EDGE EU 2016 project: ``Energy-efficient Networking", hosted by University College Dublin, Ireland.
+Contact
+Prof. Biswash teaching philosophy is focus  on teaching and learning has been changed with time. I started my teaching carrier as a faculty in 2011 at MNNIT Allahabad, with the belief of high-quality lectures delivery, and motivate the students towards revision, textbook study and self-learning. Thus, my focus was on teaching and craft the best possible lectures series. Slightly, I realize that being a good teacher is much more than being a good lecturer. In fact, the focus on lectures is true in some context; but i was missing the complete point of study and learning. Now, my focus on study, education, problem-solving skill, research and discovery, self study, analytical skills, and learning for a better mankind.
+Next-generation cellular networks (5GB network, 5G networks, Device-to-Device, Energy-efficient network, Green networks).
+Prof. (Dr.) Sanjay Biswash
+Advance Computer Networks:  introduced and developed; offered once to UG students.
+Artificial Intelligence: developed; offered 2 times to UG students.
+QoS and QoE in Wireless mobile networks.
+Teaching Philosophy
+Post-Doctoral Researcher, University of Coimbra, Portugal.

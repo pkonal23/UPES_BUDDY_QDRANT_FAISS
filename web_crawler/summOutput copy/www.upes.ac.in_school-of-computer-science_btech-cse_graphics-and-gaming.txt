@@ -1,0 +1,37 @@
+The UPES School of Computer Science offers a specialized B.Tech program in Computer Science & Engineering with a focus on Graphics and Gaming, developed in collaboration with IBM since 2015. This program is designed to equip students with essential skills for the rapidly evolving gaming industry, covering a broad spectrum of topics such as graphics, game development, augmented and virtual reality (AR/VR), user interface/user experience (UI/UX) design, and 3D modeling.
+
+### Program Highlights:
+- **Cutting-Edge Resources**: Access to the Immersive Technologies Center of Excellence, featuring high-end machines and AR/VR devices.
+- **Hands-On Experience**: Students gain practical skills using tools like Figma for UI/UX design, Blender/Maya for 3D modeling, and browser-based graphics development with WebGL/HTML5 and Three.JS.
+- **Industry-Relevant Curriculum**: The program integrates theoretical knowledge with practical application, preparing students for diverse roles in technology and entertainment sectors.
+
+### Academic Structure:
+The curriculum includes a comprehensive range of subjects across eight semesters, including:
+- Programming in C
+- Data Structures and Algorithms
+- Computer Graphics
+- Game Programming
+- Artificial Intelligence and Machine Learning
+- Capstone Projects
+
+### Eligibility Criteria:
+To be eligible for the program, students must have:
+- A minimum of 50% marks in Class X and XII.
+- At least 50% in Physics, Chemistry, and Mathematics (PCM) in Class XII.
+
+### Admission Process:
+Selection is based on candidates' performance in UPESEAT, JEE Mains, Board Merit, SAT, or CUET. The last date to apply for the program is **February 25, 2025**.
+
+### Career Opportunities:
+Graduates can explore various career paths including:
+- Game Development
+- AR/VR Development
+- UI/UX Design
+- 3D Modeling and Animation
+
+The program boasts impressive placement statistics, with an average CTC of **8.24 LPA** and the highest reaching **13.32 LPA**. Renowned companies like AB InBev, Barclays, CGI, and Cognizant actively recruit from this program, underscoring its effectiveness in preparing students for successful careers.
+
+### Contact Information:
+For further inquiries and detailed fee structure, interested candidates can reach out via the provided contact methods in the admission section of the UPES website.
+
+This program not only aims to provide a robust educational foundation but also encourages entrepreneurial initiatives, enabling students to transform their ideas into reality through dedicated resources and support.

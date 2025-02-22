@@ -1,0 +1,30 @@
+Harsiman Jit Singh - Achievement
+https://ieeexplore.ieee.org/document/10046540
+Demonstration of the proposed model's accuracy in predicting stock prices, with the RNN model achieving the highest accuracy of 88.91% in just 1.76 seconds. LSTM and GRU achieved accuracies of 85.43% and 81.24%, respectively, with times of 1.80 and 1.78 seconds.
+Student Achievements
+Home
+The patent has been filed for Proposed framework.
+Mentor
+Close
+School of Computer Science
+Harsiman Jit Singh
+Associate Professor
+Publisher: Springer
+The attainment of 2 patents and the publication of influential international research papers stands as a testament to the exceptional contributions of Harsiman Jit Singh in the field of computational technologies.
+The key highlights of the research paper are as follows:
+Overall, VQA stands as a complex task, necessitating a synergy of visual comprehension and natural language processing prowess. While the current landscape demonstrates impressive advancements, the paper points to ample room for improvement in terms of accuracy and generalization, paving the way for a promising future in the realm of visual question answering.
+Proposal of a novel multivariate RNN-based analytical model for forecasting stock price movements, which outperformed univariate models.
+These research findings showcase the substantial contributions to the field, demonstrating Harsiman's expertise in developing advanced computational models with substantial practical implications.
+The research paper, presented at the Fourth International Conference on Computing, Communication and Cyber-Security (IC4S-2022), delves into the crucial domain of data security, particularly in the healthcare sector.
+Eligibility Criteria
+Utilization of a soft computing technique based on RNN to capture temporal relationships and predict stock prices using historical data.
+In summary, the paper addresses the pressing concern of safeguarding healthcare data from cyber threats and unauthorized access. With many medical records stored on outdated digital platforms, the vulnerability of patient data has led to frequent malicious activities that compromise patient health and financial security. Hospitals and insurance companies are particularly at risk of financial losses due to such fraudulent activities. The paper introduces a comprehensive framework that employs a verification method to ensure the security of records, aiming to counteract malicious activities. In cases where malicious actions have occurred, machine learning (ML) technology is used for detection, upholding the confidentiality, integrity, and availability (CIA) of Electronic Health Records (EHR). The framework's primary objective is to create a secure environment for EHR, equipping investigators with leads that can aid in recovery, recuperation, or legal action.
+One of the notable research papers was presented at the 2nd International Conference on Innovative Sustainable Computational Technologies (CISCT) - #55310. The paper, titled "A Novel Multivariate Recurrent Neural Network-based Analysis Model for Predicting Stock Prices," addresses the intricate challenge of predicting stock prices due to their complex dynamics and multifactorial dependence. We explored the efficacy of recurrent neural networks (RNN) in handling such complex time series issues, employing various RNN architectures like GRU and LSTM for building multivariate models. By comparing the multivariate models with their univariate counterparts, and amongst each other, we aimed to understand how well a neural network can tackle this problem.
+3. Published Research Paper: Visual Question Answering Developments, Applications, Datasets, and Opportunities: A State-of-the-Art Survey
+Presentation of a multivariate neural network structure and a comprehensive comparison of estimation errors among various networks.
+The paper proceeds to explore the recent advancements in neural network-based models and pre-trained language models that have significantly contributed to the progress of VQA systems. Furthermore, it addresses the array of challenges encountered by such systems, encompassing the necessity for extensive training data, the handling of intricate and open-ended queries, and the requirement for robust evaluation metrics. The discussion encompasses various types of datasets and evaluation metrics prevalent in the literature, as well as the persisting challenges and unresolved research queries.
+Through this paper, the researchers present a practical approach to tackling the intricate challenge of healthcare data security, contributing to the broader field of cyber-security and ensuring the protection of sensitive patient information.
+Presented at the 2nd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2023), this paper delves into the fascinating realm of Visual Question Answering (VQA) within the realm of Artificial Intelligence (AI). In essence, VQA represents an emerging field in AI where the objective is to empower machines with the capability to comprehend and respond to questions related to visual content. The survey paper provides an in-depth analysis of the current state-of-the-art research in this domain, highlighting existing limitations while showcasing futuristic opportunities. VQA systems leverage Natural Language Processing and machine learning techniques to interpret and answer questions posed by users.
+Kaushik Ghosh
+2 Patents and International Research Papers with High Impact
+2. Published Research Paper: A Prevention Technique Based Framework for Securing Healthcare Data
