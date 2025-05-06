@@ -88,8 +88,7 @@
 ## 👨‍💻 Contributors
 
 - **Konal Puri** – Lead Developer  
-- [Add any teammates or collaborators here]
 
-> Proudly built to empower the UPES community using AI 🤍
+> Proudly built to empower the UPES community using LLMs 🤍
 
 ---
